@@ -1,0 +1,7 @@
+- **Title** : Axe / Not Axe
+- **Description** : A RPG where Dwarves use their Axe to fight and everything else is Not Axe.
+- **Author** : Bruno Bord
+- **Website** : https://github.com/brunobord
+- **License** : Public domain
+- **Source** : https://github.com/brunobord/axe-not-axe
+- **Last update** : Nov 13, 2016

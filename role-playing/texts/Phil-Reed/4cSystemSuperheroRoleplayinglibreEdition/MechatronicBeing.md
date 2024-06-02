@@ -1,0 +1,7 @@
+- **Title** : 4C System: Superhero Roleplaying (Libre Edition)
+- **Description** : A superhero pen-and-paper roleplaying game that is a retroclone of a popular 1980s RPG. 
+  - Originally released by Phil Reed, this is an unofficial edited version that includes the later supplement Weapons & Gear.
+- **Author** : Phil Reed, Chris Sakkas  
+- **License** : CC0
+- **Source** : https://archive.org/details/4cSystemSuperheroRoleplayinglibreEdition/4cSystem/
+- **Last update** :  2012-04-07  
