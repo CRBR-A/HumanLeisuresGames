@@ -1,0 +1,26 @@
+   UUU
+   UXU
+   XXX
+LLLLXZ
+LPPZZZ
+PPPZWW
+   WWI
+   WNI
+   NNI
+   NTI
+   NTI
+   TTT
+
+---
+current:
+  name: Y
+  type: solution
+    alternative: puzzle
+      file:  <../puzzles/y.txt>
+  file: <../solutions/y.txt>
+source: 
+  author: Dmitry Fomin
+  license: CC0-1.0
+  url: <https://commons.wikimedia.org/wiki/File:Triplication_of_pentaminoes.png>
+  last-verified: 2024-08-10
+...

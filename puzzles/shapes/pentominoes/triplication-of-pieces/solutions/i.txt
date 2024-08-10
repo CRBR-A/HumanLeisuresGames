@@ -1,0 +1,17 @@
+UUYYYYWTFNNNVVV
+UPPPYWWTFFFNNLV
+UUPPWWTTTFLLLLV
+
+---
+current:
+  name: I
+  type: solution
+    alternative: puzzle
+      file:  <../puzzles/i.txt>
+  file: <../solutions/i.txt>
+source: 
+  author: Dmitry Fomin
+  license: CC0-1.0
+  url: <https://commons.wikimedia.org/wiki/File:Triplication_of_pentaminoes.png>
+  last-verified: 2024-08-10
+...

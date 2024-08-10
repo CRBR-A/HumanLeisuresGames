@@ -1,0 +1,23 @@
+UUXWWZZPP
+UXXXWWZPP
+UUXFFWZZP
+   IFF
+   IFN
+   INN
+   INV
+   INV
+   VVV
+
+---
+current:
+  name: T
+  type: solution
+    alternative: puzzle
+      file:  <../puzzles/t.txt>
+  file: <../solutions/t.txt>
+source: 
+  author: Dmitry Fomin
+  license: CC0-1.0
+  url: <https://commons.wikimedia.org/wiki/File:Triplication_of_pentaminoes.png>
+  last-verified: 2024-08-10
+...

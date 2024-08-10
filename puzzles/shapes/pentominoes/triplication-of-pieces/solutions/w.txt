@@ -1,0 +1,23 @@
+UUU      
+UNU      
+NNZ      
+NFZZZL   
+NFFXZL   
+FFXXXL   
+   XYLLPP
+   YYYYPP
+   IIIIIP
+
+---
+current:
+  name: W
+  type: solution
+    alternative: puzzle
+      file:  <../puzzles/w.txt>
+  file: <../solutions/w.txt>
+source: 
+  author: Dmitry Fomin
+  license: CC0-1.0
+  url: <https://commons.wikimedia.org/wiki/File:Triplication_of_pentaminoes.png>
+  last-verified: 2024-08-10
+...

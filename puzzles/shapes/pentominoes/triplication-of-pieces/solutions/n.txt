@@ -1,0 +1,26 @@
+TTT   
+ITY   
+ITY   
+IYY   
+ILY   
+ILF   
+VLFFFW
+VLLFWW
+VVVWWZ
+   ZZZ
+   ZPP
+   PPP
+
+---
+current:
+  name: N
+  type: solution
+    alternative: puzzle
+      file:  <../puzzles/n.txt>
+  file: <../solutions/n.txt>
+source: 
+  author: Dmitry Fomin
+  license: CC0-1.0
+  url: <https://commons.wikimedia.org/wiki/File:Triplication_of_pentaminoes.png>
+  last-verified: 2024-08-10
+...

@@ -1,0 +1,20 @@
+IPP   VVV
+IPP   ZZV
+IPX   TZV
+IXXXFFTZZ
+IYXFFTTTL
+YYYYFLLLL
+
+---
+current:
+  name: U
+  type: solution
+    alternative: puzzle
+      file:  <../puzzles/u.txt>
+  file: <../solutions/u.txt>
+source: 
+  author: Dmitry Fomin
+  license: CC0-1.0
+  url: <https://commons.wikimedia.org/wiki/File:Triplication_of_pentaminoes.png>
+  last-verified: 2024-08-10
+...
