@@ -1,0 +1,8 @@
+type: guessing game 
+players: 2
+material: 
+  - paper
+  - pencil
+P1: choose a word
+P1: replace each letter by '_'
+P2: suggest a letter
