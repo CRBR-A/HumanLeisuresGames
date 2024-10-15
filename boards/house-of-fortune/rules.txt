@@ -1,0 +1,7 @@
+played:
+  - 2 dices
+
+if :
+2: all coins lost
+7: the coin stay
+12: grab all coins in the board
