@@ -1,4 +1,4 @@
-Can be used with :
+This version can be used with :
   - 1 dice (double throw)
   - or 2 dice of different colors
   - or 2 colorful sets of numbered cards (1 to 6)
