@@ -1,0 +1,20 @@
+  +---+---+---+
+  | . | . | . |--15
+  +---+---+---+
+  | . | . | . |--15
+  +---+---+---+
+  | . | . | . |--15
+  +---+---+---+
+ /  |   |   |  \
+15  15  15  15  15
+
+---
+  current: 
+  subject: Puzzle game
+  topic: Magic square 9
+  source: 
+    url: https://commons.wikimedia.org/wiki/File:Magicsquareexample.svg
+    license: public domain
+  file: 
+    url: <puzzle-9.txt>
+...
