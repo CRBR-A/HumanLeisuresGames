@@ -1,0 +1,1 @@
+Can be used on a chinese-checkers board.
