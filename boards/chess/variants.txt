@@ -1,0 +1,22 @@
+# New Pieces
+- empress : knight + rook
+- amazon : knight + queen
+
+# New rules
+- antichess: lose all your pieces or get stalemated to win
+- random chess: the starting position of the non-pawn pieces is random, and mirrored for both players (BUT: king must be between rooks, bishops on opposite colors)
+- crazyhouse: drop a previous captured piece (converted to current player's color), on any empty square, instead of making a normal move
+- duck chess: after each move, a duck is moved on a new empty square, and block it. No checks, players win by capturing the king.
+- fog of war: players can only see squares what they can immediately move to
+- horde chess: standard black pieces need to capture all 36 white pawns
+- racing kings: both players start on the same side, the goal is to get one's king to the other side first
+
+# New boards
+- minichess: smaller chessboard (4x4, 4x8, 5x5...) with some pieces removed (ex: no bishops...) 
+- 3 players: need special chessboard (with triangular, quadrilateral or hexagonal cells)
+- 4 players: need special chessboard 
+- 3D chess: playing with multiples "connected" chessboards (5x5x5, 8x8x8...)
+- different board shapes 
+
+# Other
+- puzzle: from a starting position, find the best sequence of moves

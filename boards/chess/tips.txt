@@ -1,0 +1,42 @@
+# General tips
+- learn some universal openings
+- try to control the center of the board (D4-D5-E4-E5)
+- use "forks" : attack multiples pieces simultaneously to ensure capture(s)
+- use "pins" : force one piece to move and expose another one for capture
+- try to block opponents pieces, instead of capturing it
+- try to get all your pieces out and not blocked
+- if multiple pieces can achieve something, use the weakest one
+- no "hope", always suppose your opponent will play the best move
+
+# Pawns
+- pawn structure is very important
+
+# Knights
+- goes out before bishops
+- best placed near the center
+- powerful, especially in pairs, guarding each other
+
+# Bishops
+- goes out after knights
+- useful on the longest diagonals, and beginner opponents
+- more valuable than knights, especially in pairs
+- can trade one bishop for one opponent's knight
+- can trade one bishop to break the opponent's pair of bishop
+
+# Rooks
+- useful with open columns
+- useful on the opponent's pawns row (2nd or 7th rank)
+- powerful, especially in pairs, guarding each other
+- extremely powerful with the queen on the same open column
+
+# Queen
+- don't move the queen too early
+- extremely powerful with the rooks, on the same open column
+
+# King
+- King safety is extremely important until endgame
+- always have an escape route for your king
+- castle very early (but not too early)
+- watch out for back rank checkmates
+- later in the game, when the queens out, king joins the battle
+

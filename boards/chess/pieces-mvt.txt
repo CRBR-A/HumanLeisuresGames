@@ -1,0 +1,8 @@
+| piece  | movement                                          | capture                   |
+| ------ | ------------------------------------------------- | ------------------------- |
+| pawn   | 1 square front, or 2 if starting position         | 1 square front-diagonally |
+| knight | L-shape, jumps over                               | same as movement          |
+| bishop | any square diagonally                             | same as movement          |
+| rook   | any square vertically or horizontally             | same as movement          |
+| queen  | any square vertically, horizontally or diagonally | same as movement          |
+| king   | any of 8 neighboring squares                      | same as movement          |

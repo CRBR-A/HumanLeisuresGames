@@ -1,0 +1,8 @@
+| piece  | black | white |
+| ------ | ----- | ----- |
+| pawn   | P     | p     |
+| knight | N     | n     |
+| bishop | B     | b     |
+| rook   | R     | r     |
+| queen  | Q     | q     |
+| king   | K     | k     |
