@@ -6,3 +6,7 @@
 | rook   | any square vertically or horizontally             | same as movement          |
 | queen  | any square vertically, horizontally or diagonally | same as movement          |
 | king   | any of 8 neighboring squares                      | same as movement          |
+
+---
+  license: CC0-1.0
+...

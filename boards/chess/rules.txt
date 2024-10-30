@@ -1,0 +1,54 @@
+players: 
+  number: 
+    classical: 2
+    variants:
+      puzzle: 1
+      boards: 3, 4
+      cooperative: 4
+  colors: white, black
+board: 
+  name: chess board
+  cases: 8x8
+pieces : 
+  - for each player:
+    - 1 king
+    - 1 queen
+    - 2 bishops
+    - 2 knights
+    - 2 rooks
+    - 8 pawns
+play: 
+  - players take turns
+  - white player always starts
+  - in each turn: the player move 1 piece according the move rules
+  - players can not skip their turn
+  - special moves
+    - castling: 
+      - if the king hasn't moved yet
+      - if the king is not in check, before/during/after the castling
+      - if the rook hasn't moved yet
+      - if there are no pieces between the king and rook
+      - the king an move two square to the right or left
+      - the rook jump over and stay 1 square after the king
+    - promotion: 
+       - if a pawn reaches the last row
+       - the pawn get replaced by another piece of the same color
+         - can be a queen, a rook, a bishop or a knight
+    - En passant: 
+      - if a pawn moves 2 squares forward
+      - if a opponent pawn is next to the pawn
+      - the enemy pawn can capture the pawn in the same way as if it only moved 1 square forward
+  - Check
+    - if a king can be captured
+    - the player is said to be in check
+    - the player in check has to make a move to don't be in check
+    - checkmate: 
+      - If a player is in check but cannot make any move to get out of it
+  - goal:
+    - "checkmate": the king can not escape an opponent attack
+    
+    
+    
+---
+  license: CC0-1.0
+...

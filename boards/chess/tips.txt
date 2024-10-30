@@ -1,15 +1,23 @@
 # General tips
 - learn some universal openings
-- try to control the center of the board (D4-D5-E4-E5)
+- slight advantage for the white, due to moving first
+  - White wins: 38% of games
+  - Black wins: 34% of games
+  - Draws: 28% of games
+- try to control the 4 squares (D4, D5, E4, E5) in center of the board 
 - use "forks" : attack multiples pieces simultaneously to ensure capture(s)
 - use "pins" : force one piece to move and expose another one for capture
-- try to block opponents pieces, instead of capturing it
+- try to block opponents pieces, instead of capturing them
 - try to get all your pieces out and not blocked
 - if multiple pieces can achieve something, use the weakest one
-- no "hope", always suppose your opponent will play the best move
+- always suppose your opponent will play the best move
 
 # Pawns
-- pawn structure is very important
+- move slow (1 square, 2 at start), always forward
+- weak alone, better in pairs, guarding each other
+- useful for defense and blocking pieces
+- extremely valuable if promoted
+- "en passant" : capture a pawn and moving
 
 # Knights
 - goes out before bishops
@@ -28,6 +36,7 @@
 - useful on the opponent's pawns row (2nd or 7th rank)
 - powerful, especially in pairs, guarding each other
 - extremely powerful with the queen on the same open column
+- castle very early (but not too early)
 
 # Queen
 - don't move the queen too early
@@ -38,5 +47,9 @@
 - always have an escape route for your king
 - castle very early (but not too early)
 - watch out for back rank checkmates
-- later in the game, when the queens out, king joins the battle
+- later in the game, king joins the battle, after the queen
 
+
+---
+  license: CC0-1.0
+...

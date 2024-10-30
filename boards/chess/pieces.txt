@@ -6,3 +6,7 @@
 | rook   | R     | r     |
 | queen  | Q     | q     |
 | king   | K     | k     |
+
+---
+  license: CC0-1.0
+...
