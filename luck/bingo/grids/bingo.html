@@ -32,7 +32,7 @@ source: https://gist.github.com/wernsey/faaed0e409efb236642aa621f9e4e623
     <script type="text/javascript">
     
       var words = [];
-      var typeAlpha = false;
+      var step;
       var cells = {};
         
       function wordsBingo(){
@@ -109,24 +109,26 @@ source: https://gist.github.com/wernsey/faaed0e409efb236642aa621f9e4e623
         
       function numberedBingo() {
         words=[];
-        for(var y = 1; y < 91; y++) {
+        for(var y = 1; y < 76; y++) {
           words.push(y);
         }
+
       }
       
       function generateW() {
         wordsBingo();
-        typeAlpha=true;
         generate();
       }
       
       function generateN() {
         numberedBingo();
-        typeAlpha=false;
         generate();
       }
 
       function generate() {
+      
+        step = Math.floor((words.length)/5);
+
         var usedWords = [];
         
         var node = document.getElementById("grid");
@@ -143,35 +145,30 @@ source: https://gist.github.com/wernsey/faaed0e409efb236642aa621f9e4e623
         html += '<th id="cell_g"><label>G</label></td>';
         html += '<th id="cell_o"><label>O</label></td>';
         html += "</tr>"
-        
+
+        var currentStep;
+
         for(var y = 0; y < 5; y++) {
           html += "<tr>"
-          var rowWords = [];
           for(var x = 0; x < 5; x++) {
-            if(!(y==2 && x==2)){
+
+            if(x==4){ 
+              //get ALL remaining words
+              currentStep = words.length-(4*step);
+            }else{
+              currentStep = step;
+            }
+          
+            if(y==2 && x==2){
+              word="*"
+            }else{
               do {
-                var i = Math.round(Math.random() * (words.length - 1));
+                var i = (x*step)+Math.round(Math.random() * (currentStep-1));
                 var word = words[i];
               } while(usedWords.indexOf(word) >= 0);
               usedWords.push(word);
-              rowWords.push(word);
             }
-          }
-          
-          if(typeAlpha){
-            //Sort alphabetically
-            rowWords.sort();
-          }else{
-            //sort by value (numbered)
-            rowWords.sort(function(a, b) {return a - b;});
-          }
-          
-          if(y==2){
-            rowWords.splice(2, 0, "*");
-          }
-          
-          for(var x = 0; x < 5; x++) {
-            html += '<td id="cell_' + x + '_' + y + '" onclick="cellClicked(\'cell_' + x + '_' + y + '\')" ><label><input id="chk-cell_' + x + '_' + y + '" type="checkbox" onclick="cellClicked(\'cell_' + x + '_' + y + "')\">" + rowWords[x] + "</label></td>";
+            html += '<td id="cell_' + x + '_' + y + '" onclick="cellClicked(\'cell_' + x + '_' + y + '\')" ><label><input id="chk-cell_' + x + '_' + y + '" type="checkbox" onclick="cellClicked(\'cell_' + x + '_' + y + "')\">" + word + "</label></td>";
           }
           html += "</tr>"
         }
