@@ -1,0 +1,6 @@
+source: https://github.com/xet7/darkesthour
+license: Unlicense
+author: Lauri Ojansivu "xet7"
+modification: 
+  removed: all files except darkest-hour.c
+  removed: lines from readme.md, except important one.
