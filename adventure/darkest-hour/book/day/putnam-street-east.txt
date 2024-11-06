@@ -1,0 +1,26 @@
+location: E PUTNAM ST.
+time: day
+look: 
+  On this road, you just see more houses. Some are decorated, some not. An old 
+  man sits on his front porch.
+exits: NORTH, SOUTH, EAST, WEST
+go:
+  north: NIKO'S TACOS
+  south: WELLINGTON AVE.
+  east: BIFF'S GYM
+  west: W PUTNAM ST.
+talk: 
+  "It's happening again," he says. "When I was young, I had a neighbor from a
+  foreign country. He told a fantastic story about a witch who tried to protect
+  herself from vampires, by making a brew of all the things they hate. It
+  worked, but not how she planned. She was bitten, but her spell didn't work
+  till after she became a vampire. Now things like garlic don't harm her. It
+  was only a story, but then people started disappearing - even the old man. I
+  think his story was true. Anyway, I just took apart my tent to get a wooden
+  stake. Not sure if it'll stop her, but you're welcome to have one too."
+grab: 
+  !ITEM_STAKE: 
+    You grab a wooden stake.
+    +ITEM_STAKE
+  ITEM_STAKE: Nothing else here.
+  

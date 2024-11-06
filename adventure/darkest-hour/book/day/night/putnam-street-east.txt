@@ -1,0 +1,15 @@
+location: E PUTNAM ST.
+time: night
+look: 
+  You walk around the block, listening to every sound. A black cat walks by, but
+  you're sure there's something else. Or maybe you're just getting spooked.
+exits: NORTH, SOUTH, EAST, WEST
+go:
+  north: NIKO'S TACOS
+  south: WELLINGTON AVE.
+  east: BIFF'S GYM
+  west: W PUTNAM ST.
+talk: No one else here
+grab: Nothing else here.
+
+

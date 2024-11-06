@@ -1,0 +1,11 @@
+location: CREDITS
+Written and programmed by: The Geek on Skates (geekonskates.com)
+Beta testing: Casey Matthews (webfriendlyhelp.com)
+Special thanks to: The Lunduke community (lunduke.locals.com)
+And to my mom, who showed me how to get through life's real "darkest hour"
+
+---
+  license: Unlicense
+  source: https://github.com/xet7/darkesthour
+  maintainer: Cerbere.ace
+...

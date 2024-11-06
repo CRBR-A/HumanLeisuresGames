@@ -1,0 +1,18 @@
+location: LOWLAND ELEMENTARY SCHOOL
+time: day
+look: You're in the parking lot. There are kids playing street hockey here.
+exits: SOUTH, EAST, WEST
+go: 
+  north: Can't go that way.
+  south: NIKO'S TACOS
+  east: FRESH-MART
+  west: HIKING TRAIL
+talk: 
+  "You're LOOKING for the vampire?" a kid asks, "No! She'll get you, like she
+  got my mom!"
+  "Your mom ditched you," says a bigger kid, "Vampires aren't real, moron! Now
+  come on, you playin' or not?"
+  "Kiss my skates, jerk!" says the first, slapping the puck hard. They play on,
+  and you wonder what really happened to this poor kid's mom. Kids can sure be
+  mean!"
+grab: Nothing to grab here.

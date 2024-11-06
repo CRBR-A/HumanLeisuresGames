@@ -1,0 +1,20 @@
+location: HIKING TRAIL
+time: night
+look:
+  You're in a dense forest, on a winding trail. It's hard to see where you're
+  going.
+  It's creepy here at night! The trees seem to reach out at you. You hear
+  footsteps coming toward you. You stop and listen. It's just a deer.
+  !ITEM_RING OR !ITEM_BIBLE:
+    You see something shiny on the ground. A diamond ring?! Whoever lost it must
+    be looking for it.
+exits: SOUTH, EAST
+go:
+  north: Can't go that way.
+  south: LOWLAND FIRE HALL 
+  east: LOWLAND ELEMENTARY SCHOOL
+  west: Can't go that way.
+talk: No one to talk to here (unless you speak Squirrel)
+grab:
+  !ITEM_RING: You grab the ring.
+  ITEM_RING: Nothing to grab here.

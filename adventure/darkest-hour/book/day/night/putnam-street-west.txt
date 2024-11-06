@@ -1,0 +1,19 @@
+location: W PUTNAM ST.
+time: night
+look:
+  !ITEM_PUMPKIN: 
+    There are no lights here. Did you hear something?
+  ITEM_PUMPKIN: 
+    In the orange light of your pumpkin, you look around. It's so quiet! Where
+    are all the trick-or-treaters?  All the houses are dark, too!
+exits: NORTH, SOUTH, EAST
+go:
+  north: LOWLAND FIRE HALL
+  south: MATTHEWS MANSION
+  east: E PUTNAM ST.
+  west: Can't go that way
+talk: Nobody here
+grab: 
+	!ITEM_PUMPKIN: You grab the jack-o-lantern.
+  ITEM_PUMPKIN: Nothing to grab here.
+

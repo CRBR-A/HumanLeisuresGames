@@ -1,0 +1,22 @@
+location: THE DRUNK SKUNK 
+time: night
+look: 
+	It doesn't look great, but smells delicious. A server brings a plate of wings
+  to some guys watching football. In the corner, a young woman drinks small
+  glasses so fast you'd think they were full of water.
+exits: NORTH, EAST, WEST
+go:
+  north: BIFF'S GYM
+  south: Can't go that way.
+  east: PAWN SHOP
+  west: WELLINGTON AVE.
+talk: 
+  "Oh, she's real," she says, downing another drink. "I've seen her. One
+  night, a bunch of bats flew out of our fireplace, and I swear... they turned
+  into the vampire! She snatched him away in a second, then came for me. I ran
+  to the kitchen and got garlic, but she kept coming, till she bumped into his
+  old Bible. Then she freaked and vanished. I don't get it, but now I'm walking
+  around with a Bible all the time. If I were you, I'd get one. I just wish..."
+grab: You grab a cold drink.
+
+

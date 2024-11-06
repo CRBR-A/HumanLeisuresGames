@@ -1,0 +1,14 @@
+location: PAWN SHOP
+time: night
+look: 
+  The door is locked. Something moves nearby. Is it her? Better keep moving.
+exits: NORTH, WEST
+go:
+  north: 16-MILE CREEK
+  south: Can't go that way.
+  east: Can't go that way.
+  west: THE DRUNK SKUNK
+talk: No one else here
+grab: Nothing to grab here.
+
+

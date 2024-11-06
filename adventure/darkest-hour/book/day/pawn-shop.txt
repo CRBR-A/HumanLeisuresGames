@@ -1,0 +1,28 @@
+location: PAWN SHOP
+time: day
+look: 
+  The place is a mess, but there's all kinds of cool stuff here; chess sets, a
+  baseball bat, old computers, and a shelf full of movies.
+exits: NORTH, WEST
+go:
+  north: 16-MILE CREEK
+  south: Can't go that way.
+  east: Can't go that way.
+  west: THE DRUNK SKUNK
+talk: 
+  !ITEM_MONEY:
+    "Well, I think we got vampire movies, but that's about it." says the shop
+    owner. "Try again later."
+  ITEM_MONEY:
+    "Oh, you got $100? You're in luck!" The shop owner grabs a handgun from under
+    the counter and reaches into a jar. "These are silver bullets," he says.
+    "I've been selling them... let's say, quietly... ever since the vampire attacks
+    started. You can have a gun and ammo for $100."
+grab:
+  !ITEM_MONEY:
+    "Hey, you gotta pay for that!"
+  ITEM_MONEY && !ITEM_BULLETS:
+    +ITEM_BULLETS
+    You pay him and grab the gun and silver bullets. It's not legal, but the only
+    one you want to shoot is already dead.
+    

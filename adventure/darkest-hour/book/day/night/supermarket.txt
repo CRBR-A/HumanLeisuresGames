@@ -1,0 +1,19 @@
+location: FRESH-MART
+time: night
+look: 
+  The supermarket parking lot is nuts! There must be a sale on candy. There are
+  lines out the the door. Oh, it's a sale on garlic. That's weird.
+  !ITEM_GARLIC: A guy runs to his car, drops some garlic, and drives off.
+exits: SOUTH, EAST, WEST
+go: 
+  north: You go behind the store. Nothing to see here.
+  south: LIBRARY
+  east: ST. MARY'S CATHEDRAL
+  west: LOWLAND ELEMENTARY SCHOOL
+talk: 
+  "If you're into that stuff", says a guy, "try the library. The lady there 
+  is very helpful."
+grab:
+  !ITEM_GARLIC: You grab the garlic.
+  ITEM_GARLIC: Nothing here.
+  

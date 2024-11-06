@@ -1,0 +1,14 @@
+location: LOWLAND ELEMENTARY SCHOOL
+time: night
+look:
+  You're in a parking lot. Street lights cast strange shadows on the only car
+  still here. It's dead silent, a bit weird, but at least you can see where
+  you're going.
+exits: SOUTH, EAST, WEST
+go: 
+  north: Can't go that way.
+  south: NIKO'S TACOS
+  east: FRESH-MART
+  west: HIKING TRAIL
+talk: Nobody here
+grab: Nothing to grab here.

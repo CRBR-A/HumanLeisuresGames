@@ -1,0 +1,13 @@
+location: inventory
+look:
+  NO_ITEM: You don't have anything yet.
+  ITEM_GARLIC: Four heads of garlic
+  ITEM_STAKE: A wood tent spike
+  ITEM_PUMPKIN: A plastic pumpkin with a light
+  ITEM_BULLETS: A gun with silver bullets
+  ITEM_CRUCIFIX: A crucifix
+  ITEM_MONEY: A $100 bill
+  ITEM_BIBLE: A pocket-size Bible
+  ITEM_RING: A diamond ring
+go:
+  back

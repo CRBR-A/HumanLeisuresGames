@@ -1,0 +1,13 @@
+location: CEMETERY
+time: day
+look: 
+  You quietly walk across the rows of tombstones. Some of them are ancient, or
+  at least so old you can't read them. There's no one else around.
+exits: NORTH, SOUTH, WEST
+go:
+  north: ST. MARY'S CATHEDRAL
+  south: 16-MILE CREEK
+  east: Can't go that way.
+  west: LIBRARY
+talk: Nobody here.
+grab: Nothing to grab here.

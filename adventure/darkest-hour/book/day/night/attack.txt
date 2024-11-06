@@ -1,0 +1,45 @@
+location: Vampire attack during traveling
+time: night
+NO_ITEM: 
+  Smoke swirls around you, blotting out the starry sky. You hear her laugh, and
+  see her bright yellow eyes stare at you. Instantly she's at your throat, and
+  everything goes black...
+  GAME OVER
+ITEM_STAKE:
+  The vampire grabs you by the throat! You use your wooden stake to try to fend
+  her off! It snaps like a twig against her chest, and she laughs.
+  "Should have listened to the old man," she says, finishing you off...
+  GAME OVER
+ITEM_BULLETS:
+  Someone knocks you to the ground! You jump to your feet and face her. A tall,
+  dark-haired woman in a black robe hovers off the ground in front of you. She
+  smiles, and you see this lady has razor-sharp fangs! You draw your gun and
+  fire! A direct hit!
+  "Seriously?" she laughs, "do I look like a werewolf?" You now realize your
+  mistake, but it's too late...
+  GAME OVER
+ITEM_GARLIC:
+  You turn the corner and find yourself standing face-to-face with the vampire!
+  She smiles, showing her long white fangs. You bite the garlic, chew, and spit
+  it in her face!
+  "That's disgusting," she says, wiping the junk off her cheek. "And I'm done
+  playing!" As she says this, her feet lift off the ground. You run as fast as
+  you can, but it's not fast enough! She grabs you, and everything goes black...
+  GAME OVER
+ITEM_CRUCIFIX:
+  You walk down the quiet road, turning around every few minutes. The sounds
+  here make you feel like someone's there watching you. You grab the crucifix,
+  just in case. Whoa! Oh, just a cat. It's not her. You laugh at how paranoid
+  this vampire hunt has made you. Is it even real?
+  Then you get your answer! Bats surround you! You swat them away, and someone
+  grabs you from behind! You try to break free, holding up the crucifix like in
+  the movies. "That's just a symbol," she smiles, her hot breath on your neck,
+  "And He isn't there anymore..."
+  GAME OVER
+ITEM_BIBLE:
+  Suddenly, the vampire strikes! You fall on your back! In a moment she's
+  standing over you, grabbing your neck! You pull the Bible out of your pocket,
+  and she jumps back!
+  "The Living Word!" she screams, vanishing in a puff of smoke. You get up and
+  look around. She's gone.
+

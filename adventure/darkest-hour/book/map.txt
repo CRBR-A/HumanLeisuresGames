@@ -1,0 +1,13 @@
++-------------+-------------+-------------+-------------+
+|    HIKING   |  ELEMENTARY | FRESH-MART  | ST. MARY'S  |
+|    TRAIL    |    SCHOOL   | SUPERMARKET |  CATHEDRAL  |
++-------------+-------------+-------------+-------------+
+|  FIRE HALL  | NIKO TACOS  |   LIBRARY   |  CEMETERY   |
+|             |   (start)   |             |             |
++-------------+-------------+-------------+-------------+
+|     WEST    |     EAST    | BIFF'S GYM  |   16-MILE   |
+|  PUTNAM ST. |  PUTNAM ST. |             |    CREEK    |
++-------------+-------------+-------------+-------------+
+|   MATTHEWS  |  WELLINGTON |  THE DRUNK  | PAWN SHOP   |
+|   MANSION   |    AVENUE   |    SKUNK    |             |
++-------------+-------------+-------------+-------------+

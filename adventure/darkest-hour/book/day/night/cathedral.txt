@@ -1,0 +1,16 @@
+location: ST. MARY'S CATHEDRAL
+time: night
+look: 
+  The towering spires and ornately carved gargoyles loom above you. At night, it
+  looks like the kind of place you would see in a scary movie.
+exits: SOUTH, WEST
+go: 
+  north: Can't go that way.
+  south: CEMETERY
+  east: Can't go that way.
+  west: FRESH-MART
+talk: 
+  "Is anyone there?" you whisper, looking around uneasily. A woman laughs in the
+  distance. It's her! Run!
+grab: Nothing here.
+

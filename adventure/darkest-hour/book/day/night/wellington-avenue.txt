@@ -1,0 +1,11 @@
+location: WELLINGTON AVE.
+time: night
+look: It's dark and quiet here. You can't see much.
+exits: NORTH, EAST, WEST
+go:
+  north: E PUTNAM ST.
+  south: Can't go that way.
+  east: THE DRUNK SKUNK
+  west: MATTHEWS MANSION
+talk: "I'm coming..." you hear a whisper.
+grab: Nothing to grab here.

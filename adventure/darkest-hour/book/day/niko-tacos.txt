@@ -1,0 +1,22 @@
+location: NIKO'S TACOS
+time: day
+look:
+  Two guys make tacos at a buffet. A man and his wife are enjoying a nice meal;
+  the woman has a guide dog, and the man has a humongous burrito and four tacos.
+exits: NORTH, SOUTH, EAST, WEST
+go: 
+  north: LOWLAND ELEMENTARY SCHOOL
+  south: E PUTNAM ST.
+  east:	LIBRARY
+  west: LOWLAND FIRE HALL
+talk: 
+  "I'm telling you," she says, "something weird is going on. That kid down
+  the street swears a vampire got his mom. Then there's my boss; she said it got
+  her husband. And there's a run on garlic at the Fresh-Mart."
+  "Rumors," he laughs, "the kid's probably messing with you, your boss is a drunk
+  and garlic makes great Italian food."
+  "Yeah, but our neighbor?" she insists, "he says there's a ghost in the cemetery
+  warning people!"
+  "Honey, the guy's crazy!" he laughs, "I mean come on, he took apart his camping
+  tent so he could get a wooden stake. Oh, steak, should have gotten that."
+grab: You grab a taco. Yum!

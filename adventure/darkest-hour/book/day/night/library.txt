@@ -1,0 +1,11 @@
+location: LIBRARY
+time: night
+look: You hear her voice again. "Come out, come out wherever you are..."
+exits: NORTH, SOUTH, EAST, WEST
+go:
+  north: FRESH-MART
+  south: BIFF'S GYM
+  east: CEMETERY
+  west: NIKO'S TACOS
+talk: You look around... no one is here!?
+grab: Nothing to grab here.

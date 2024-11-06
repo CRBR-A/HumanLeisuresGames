@@ -1,0 +1,19 @@
+location: CEMETERY
+time: night
+look: 
+    The full moon shines on the tombstones, making the place even spookier than
+    usual. A man with an old-fashioned lantern stands watch.
+exits: NORTH, SOUTH, WEST
+go:
+  north: ST. MARY'S CATHEDRAL
+  south: 16-MILE CREEK
+  east: Can't go that way.
+  west: LIBRARY
+talk:
+  "In darkest hour of evil's night, Your only hope is in the light.
+  If your life you wish to save, place the Book inside her grave..."
+  The man disappears! Was that a ghost? What was that?! What book? What was
+  that about light? You look around, and don't see a grave that looks like it
+  could be hers. All the women's graves had names like Amy Smith and Jane Brown.
+  The vampire's grave isn't here.
+grab: Nothing to grab here.

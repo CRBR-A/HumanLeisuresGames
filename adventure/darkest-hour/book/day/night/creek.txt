@@ -1,0 +1,14 @@
+location: 16-MILE CREEK
+time: night
+look:
+  You come to the bridge. Still blocked off. There are no lights, and you hear
+  weird sounds. Probably just wild animals.
+exits: NORTH, SOUTH, WEST
+go: 
+  north: CEMETERY
+  south: PAWN SHOP
+  east: Can't go that way.
+  west: BIFF'S GYM
+talk: No one is here
+grab:	Nothing to grab here.
+

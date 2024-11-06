@@ -1,0 +1,13 @@
+location: WELLINGTON AVE.
+time: day
+look: 
+  Two kids fly down the street on skates. "Come on," says one, "The guys are 
+  already at the school. I want to play goalie this time!"
+exits: NORTH, EAST, WEST
+go:
+  north: E PUTNAM ST.
+  south: Can't go that way.
+  east: THE DRUNK SKUNK
+  west: MATTHEWS MANSION
+talk: "Out of the way!" a kid shouts.
+grab: Nothing to grab here.

@@ -1,0 +1,45 @@
+location: MATTHEWS MANSION
+time: night
+look:
+  !ITEM_BIBLE:
+    You're standing in front of a huge mansion. The gates creak open as you walk
+    towards them. You carefully step through, trying not to make a sound. But as
+    soon as you're inside, the gates slam behind you! You run back to find them
+    locked! You turn around as the front door of the mansion swings open. A lady
+    steps out and the door closes behind her. With a flick of her wrist, you are
+    flung down to the foot of the staircase!
+    "Welcome to my new home," she says, "I hope you like it here, because it's the
+    last place you will ever see!"
+    GAME OVER
+  ITEM_BIBLE:
+    You duck behind a car as the vampire flies by. Did she see you? You wait a
+    few minutes, then step out. The gate is wide open, so you sneak in. She left
+    the front door open, so you step inside. The room is pitch dark, but you turn
+    on a light switch. What the...?! Is that a coffin?! Thinking about all you
+    have heard, you know what you have to do. You take a deep breath, look around
+    one last time, and lift the top of the coffin. It's empty, so you throw the
+    Bible inside it and close the lid.
+    "What are you doing?! Get away from there!" The vampire shouts, charging into
+    the room. She throws you against a wall, opens the coffin, and falls over
+    backwards! Gasping for air, she pulls herself off the ground. "You...! Take
+    it out! Take it out NOW!"
+    You try to run, but find you can't move. "Take it out or I'll... what... is...
+    happening...?!" Suddenly you find you can move again - she can't! Through the
+    window in the front door, you can see a single ray of light peeking out from
+    behind her front gate, touching her forehead. You run to the windows, ripping
+    off the curtains.
+    "No, stop!" she yells, "NOOOOOOOO!!!!!!"
+    As the sun rises, the room is flooded with brilliant orange light. The vampire
+    screams, then dissolves into a heap of ash. Catching your breath, you realize
+    your adventure has finally ended. This evil creature's days of hunting the
+    innocent are over. Not exactly a happy ending, but you survived...
+    "You did it!" You hear someone say, "you destroyed her! We're free!"
+    You watch as two people step out from another room. "She was keeping us here,
+    keeping us alive just so she could keep drinking..." said a man, holding back
+    tears. "Thank you! God bless you! I've got to get back to my wife!"
+    "And my son!" said a lady, "he probably thinks I left him! Oh thank you so
+    much! Come on, let's all go home!"
+    THE END
+exits: None
+talk: None
+grab: None

@@ -1,0 +1,29 @@
+location: LIBRARY
+time: day
+look:
+  A girl reads a story to kids around a small table, people use the computers,
+  and a librarian sits at the front desk.
+exits: NORTH, SOUTH, EAST, WEST
+go:
+  north: FRESH-MART
+  south: BIFF'S GYM
+  east: CEMETERY
+  west: NIKO'S TACOS
+talk: 
+  !ITEM_RING:
+    "Hello," the librarian smiles. "Oh yeah, we have lots of books about vampires.
+    There's Dracula, of course, and... oh, a real one? No, sorry, I don't believe
+    in vampires. Hey, you haven't seen a diamond ring around here, have you? I
+    lost it sometime this morning and can't find it anywhere! It's my wedding ring
+    and... no?  Okay. Thanks anyway."
+  ITEM_RING && !ITEM_BIBLE: 
+    "You found it!" the librarian shouts, making everyone stare. "Thank you! Oh,
+    by the way..." and here her voice softens, "please come with me." You follow
+    her into her office, and she closes the door. "The vampire is real! I saw
+    her!" she says. "Last night she attacked me when I was out looking for my
+    ring. But then, my Bible fell out of my pocket, and she just... flew away!
+    I think the Bible scares her like she scares us. Here, you can have my spare."
+    +ITEM_BIBLE
+  ITEM_BIBLE:
+    "Thank you so much for finding my ring! I'm sorry I can't do more to help you."
+grab: You grab a book, read some, and put it down

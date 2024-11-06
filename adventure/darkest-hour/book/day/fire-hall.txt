@@ -1,0 +1,19 @@
+location: LOWLAND FIRE HALL
+time: day
+look: 
+  The garage doors are open, and people are putting up decorations like paper
+  bats, rubber spiders, and glowing orange lights. Two guys lug a cauldron as
+  big as a bathtub, and a lady hangs long black ribbons over a door.
+exits: NORTH, SOUTH, EAST
+go:
+  north: HIKING TRAIL
+  south: W PUTNAM ST.
+  east: NIKO'S TACOS
+  west: Can't go that way.
+talk: 
+  "Don't tell anyone I said this," says a fireman, "but we've been super busy
+  looking for missing people. We got a call from a lady whose husband was
+  attacked. I don't know who or what it is, but it's weird. We're Fire & Rescue,
+  not the dang Ghostbusters! And now when I finally get a break they got us
+  setting up for a party. Sheesh!"
+grab: You grab a cup of cider. Mmmm!

@@ -1,0 +1,17 @@
+location: LOWLAND FIRE HALL
+time: night
+look:
+  The Halloween party is going on. Kids walk through a haunted house, and a
+  monster greets guests with cider and doughnuts. Whoa, is that a vampire?!
+exits: NORTH, SOUTH, EAST
+go:
+  north: HIKING TRAIL
+  south: W PUTNAM ST.
+  east: NIKO'S TACOS
+  west: Can't go that way.
+talk: 
+  "Seriously?" she laughs, "You thought I was a REAL vampire? You're nuts!"
+grab: You grab a cup of cider. Mmmm!
+
+
+

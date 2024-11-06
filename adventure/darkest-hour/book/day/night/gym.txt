@@ -1,0 +1,13 @@
+location: BIFF'S GYM
+time: night
+look: The door's locked.
+exits: NORTH, SOUTH, EAST, WEST
+go:
+  north: LIBRARY
+  south: THE DRUNK SKUNK
+  east: 16-MILE CREEK
+  west: E PUTNAM ST.
+talk: No one answers, but you hear a lady laugh somewhere nearby.
+grab: Nothing else here
+
+

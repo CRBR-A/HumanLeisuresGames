@@ -1,0 +1,13 @@
+location: 16-MILE CREEK
+time: day
+look:
+  On the other side of the plaza is a bridge. There are cones blocking the way,
+  and construction work going on the other side. A guy is fishing.
+exits: NORTH, SOUTH, WEST
+go: 
+  north: CEMETERY
+  south: PAWN SHOP
+  east: Can't go that way.
+  west: BIFF'S GYM
+talk: "Nah," said the fisherman, "I ain't had a bite all day."
+grab:	Nothing to grab here.

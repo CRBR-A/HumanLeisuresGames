@@ -1,0 +1,12 @@
+location: NIKO'S TACOS
+time: night
+look: The taco shop is closed, and at this time of night it smells like beer.
+exits: NORTH, SOUTH, EAST, WEST
+go: 
+  north: LOWLAND ELEMENTARY SCHOOL
+  south: E PUTNAM ST.
+  east:	LIBRARY
+  west: LOWLAND FIRE HALL
+talk: It's like her voice is in your head! "Keep running..."!
+grab: Nothing here
+

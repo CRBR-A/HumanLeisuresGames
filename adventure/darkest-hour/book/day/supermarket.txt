@@ -1,0 +1,19 @@
+location: FRESH-MART
+time: day
+look: 
+  The supermarket parking lot is nuts! There must be a sale on candy. There are
+  lines out the the door. Oh, it's a sale on garlic. That's weird.
+  !ITEM_GARLIC: A guy runs to his car, drops some garlic, and drives off.
+exits: SOUTH, EAST, WEST
+go: 
+  north: You go behind the store. Nothing to see here.
+  south: LIBRARY
+  east: ST. MARY'S CATHEDRAL
+  west: LOWLAND ELEMENTARY SCHOOL
+talk: 
+  "Vampires?" says a girl, "I don't know, in the movies they use wooden stakes 
+  to kill vampires. Why do you ask?
+grab:
+  !ITEM_GARLIC: You grab the garlic.
+  ITEM_GARLIC: Nothing here.
+  

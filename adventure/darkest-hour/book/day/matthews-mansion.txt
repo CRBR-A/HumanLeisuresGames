@@ -1,0 +1,16 @@
+location: MATTHEWS MANSION
+time: day
+look:
+  You walk down another row of houses and come to another corner. Here, one big
+  house takes up half the street. It's old and a bit spooky, but not abandoned
+  or anything. It's actually a very nice place, with a fancy iron gate and a
+  little tower like a castle. If this is where the vampire lives, she must be
+  swimming in money!
+exits: NORTH, EAST
+go: 
+  north: W PUTNAM ST.
+  south: Can't go that way.
+  east: WELLINGTON AVE.
+  west: Can't go that way.
+talk: No one is here.
+grab: Nothing to grab here.

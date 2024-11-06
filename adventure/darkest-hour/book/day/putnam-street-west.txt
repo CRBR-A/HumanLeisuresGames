@@ -1,0 +1,19 @@
+location: W PUTNAM ST.
+time: day
+look:
+  You walk down the street, looking at all the cool decorations. One house has
+  a scarecrow and corn stalks. Another is covered in cobwebs and has a foam
+  tombstone by the mailbox.
+  !ITEM_PUMPKIN: 
+    A plastic jack-o-lantern with a glowing orange light sits on the road.
+exits: NORTH, SOUTH, EAST
+go:
+  north: LOWLAND FIRE HALL
+  south: MATTHEWS MANSION
+  east: E PUTNAM ST.
+  west: Can't go that way
+talk: Nobody here
+grab: 
+	!ITEM_PUMPKIN: You grab the jack-o-lantern.
+  ITEM_PUMPKIN: Nothing to grab here.
+  

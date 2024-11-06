@@ -1,0 +1,21 @@
+location: BIFF'S GYM
+time: day
+look:
+  !ITEM_MONEY:
+    Outside, you see a $100 bill on the ground! No one is around.
+  You go inside. A woman bench-presses twice her weight, and a big guy gasps for
+  air on a treadmill. The owner helps a girl sign up.
+exits: NORTH, SOUTH, EAST, WEST
+go:
+  north: LIBRARY
+  south: THE DRUNK SKUNK
+  east: 16-MILE CREEK
+  west: E PUTNAM ST.
+talk: "If you're not here to sign up," he says, "get out."
+grab: 
+  !ITEM_MONEY:
+    +ITEM_MONEY
+    You look around cautiously, then grab the cash.
+  ITEM_MONEY:
+    Nothing else here
+    

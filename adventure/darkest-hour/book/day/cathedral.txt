@@ -1,0 +1,24 @@
+location: ST. MARY'S CATHEDRAL
+time: day
+look: 
+  In front of you is a huge stone building that reminds you of a castle in a
+  horror movie You step inside to rest a bit. It's beautiful, all stained glass
+  windows and marble statues. A priest sits in a pew, studying a book.
+  !ITEM_CRUCIFIX: You see a crucifix on the pew in front of you.
+exits: SOUTH, WEST
+go: 
+  north: Can't go that way.
+  south: CEMETERY
+  east: Can't go that way.
+  west: FRESH-MART
+talk: 
+  "Bless you!" says the priest, crossing himself. "You're looking for a vampire?
+  I can't say anything officially, but I've heard... the stories are true. A
+  young man who used to attend mass here went missing... I've already said more
+  than I should. But I will say this: I've often heard vampires hate holy
+  things. As a boy I played a video game where you used holy water as a weapon
+  (not that I'd recommend that), but if you can find a crucifix, it might help."
+grab:
+  !ITEM_CRUCIFIX: You grab the crucifix.
+  ITEM_CRUCIFIX: Nothing here.
+  

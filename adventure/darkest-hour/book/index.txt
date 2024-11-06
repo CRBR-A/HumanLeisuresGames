@@ -1,0 +1,17 @@
+location: start
+look:
+  Halloween is almost here, but something is happening that's much scarier than
+  the annual haunted house at the fire hall. There are rumors of a vampire - a 
+  real one - attacking people at night. Of course most people think it's just 
+  silly; who wouldn't? But people are going missing, and others swear they've 
+  seen it. It's up to you to track down this vampire, stop it if possible. The 
+  question is, will you even survive the night?
+note: 
+  the vampire rest the day, and move at night
+  turns: 6 turn before night
+time: day
+go: 
+  start: NIKO'S TACOS
+  credits: 
+  inventory: none (NO_ITEM)
+
