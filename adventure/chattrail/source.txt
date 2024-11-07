@@ -1,0 +1,4 @@
+Title: Adventure on the Chattooga Trail
+url: https://github.com/stefrand/ChatTrail
+license: Unlicense
+author: Stef Rand

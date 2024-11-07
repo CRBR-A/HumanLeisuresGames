@@ -1,0 +1,131 @@
+
+
+Welcome user to the game
+Print "Hello! Welcome to Stef's Game Demo"
+Print "You will be given descriptions and asked to make choices"
+Print "Have fun!"
+
+Begin start of the game
+
+Describe setting in woods
+Print "It is a beautiful day, and you have decided to go for a hike in the woods."
+Print "The birds are singing, the sun is shining, and you are having a wonderful time"
+Print "Suddenly the path in front of you splits three different ways! You have to decide which way to go next."
+
+Enter looking around decision tree
+Print "Which path would you like to look down?"
+Print "Please type 1, 2, or 3:"
+Get user input for which path to look down
+If user types 1
+Print "You look down the path to your left. A large tree has fallen across it!"
+Print "Would you like to go down this path or look at another?"
+Print "Your choices are: look, go, give up"
+If user types look, go back to the top of the looking around decision tree
+If user types go, go down to the code for that path puzzle.
+If user types give up, go down to give up/end game
+If user types 2
+Print "You look down the path straight ahead. There is a deep stream running across it."
+Print "Would you like to go down this path or look at another?"
+Print "Your choices are: look, go, give up"
+If user types look, go back to the top of the looking around decision tree
+If user types go, go down to the code for that path puzzle.
+If user types give up, go down to give up/end game
+If user types 3
+Print "You look down the path to your right. There is a snake curled up in the middle of it, basking in the sunlight."
+Print "Would you like to go down this path or look at another?"
+Print "Your choices are: look, go, give up"
+If user types look, go back to the top of the looking around decision tree
+If user types go, go down to the code for that path puzzle.
+If user types give up, go down to give up/end game
+
+Path 1, tree puzzle
+Print "You decide to go down the left path."
+Print "You walk up to the tree that has fallen. It was a very old tree and is very large. What would you like to do?"
+Print "Your choices are: look, give up"
+If user types look
+Print "You look around you. The large old sycamore looks like it fell down recently. It had to have been at least 200 years old. The trunk is smooth and at least 3 feet across. You see what might be a very faint path to the left that leads away from the main trail further into the dark woods."
+Print "What would you like to do?"
+Print "Your choices are: take new path, climb, go under, give up"
+If user types climb
+Print "You try to climb over the fallen tree, but the trunk is too big and too smooth! You slide back down to the ground."
+Print "What would you like to do?"
+Go back up to the action choices
+If user types go under
+Print "You try to go underneath the trunk of the tree, but it is too close to the ground. You almost get stuck!"
+Print "What would you like to do?"
+Go back up to the action choices
+If user types give up
+Go down to the give up/game over option.
+Correct Solution
+If user types take new path
+Print "You follow the faint trail into the dark woodsaround the top of the fallen tree, and walk around it to the main path on the other side."
+Go down to the you won/game over option
+
+
+Path 2, stream puzzle
+Print "You decide to keep going straight ahead. The stream sparkles in the sunlight and it's beautiful rushing sound fills your ears."
+Print "What would you like to do?"
+Print "Your choices are: look, give up"
+If user types look
+Print "You look around. The stream is clear, fast-flowing, and looks more than a couple of feet deep. It is about 10 feet wide, and very cold when you stick your hand in the water. You can see the main trail continue on the far side of the stream. A tree branch hangs low over the water."
+Print "What would you like to do?"
+Print "Your choices are: jump, wade, use branch, give up"
+If user types jump
+Print "You take a few steps back to give yourself a running start, jump as hard as you can, and land in the water. You climb back out of the stream on the side you started on."
+Print "What would you like to do?"
+Go back up to the action choices
+If user types wade
+Print "You decide to try and wade across the stream. About halfway across the water is deep and fast and the rocks are slippery. You lose your footing, fall in, and climb back out of the stream on the side you started on."
+Print "What would you like to do?"
+Go back up to the action choices
+If user types give up
+Go down to the give up/game over option.
+Correct Solution
+If user types use branch
+Print "You grab the low hanging branch and use it to pull yourself across the stream. Your feet slip a few times, but the branch keeps you from being swept away. You climb out of the stream on the far side."
+Go down to the you won/game over option
+
+
+Path 3, snake puzzle
+Print "You decide to go down the right path. The snake is in the middle of the path about 10 feet away from you."
+Print "What would you like to do?"
+Print "Your choices are: look, give up"
+If user types look
+Print "You try to take a closer look at the snake. You are not sure what kind of snake it is. It is red, brown, and grey and looks about 4 feet long. There is a stick by the side of the path, as well as some rocks. The area around the snake is leafy and flat."
+Print "Your choices are: poke snake, go around, throw rocks, give up"
+If user types poke snake
+Print "You pick up the snake, creep closer to it, and poke it with the stick to try and make it move. It coils aggressively and tries to bite you! (Don't poke snakes with sticks!)"
+Print "What would you like to do?"
+Go back to action choices
+If user types throw rocks
+Print "You pick up a few rocks and throw them at the snake, trying to scare it away. You miss, thank goodness, because you would have hurt the poor snake if you had hit it. (Not nice to throw rocks at snakes)"
+If user types give up
+Go down to the give up/game over option.
+Correct Solution
+If user types go around
+Print "You decide to leave the snake alone and go around it. You leave the path and slowly walk around the snake giving it lots of space. The snake ignores you and continues to sleep in the sun. You meet back up with the main path on the far side of the snake."
+Go to you won/game over option
+
+
+Give up/game over option
+If user entered give up at any point
+Print "You decide you have had enough of the outdoors for today, and go back home the way you came. You'll go hiking again another day."
+
+GAME OVER
+
+
+you won/game over option
+Print "Contratulations! You have successfully overcome the obstacle in your path! You feel awesome and continue your hike, seeing lots of birds and trees and animals on your adventure. You gain 1 hiking skill point."
+
+Print User skill point total
+
+
+End of game
+
+
+Print "Would you like to play again?"
+Print "Type yes or no"
+If user types yes, go back to start of game
+If user types no
+Print "Goodbye! Thank you for playing today!"
+

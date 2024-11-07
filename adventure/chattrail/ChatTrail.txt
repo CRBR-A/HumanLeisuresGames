@@ -1,0 +1,57 @@
+Hello! Welcome to Adventure on the Chattooga Trail
+You will be going on a hike in the woods and have some challenges to overcome!
+Have fun!
+
+It is a beautiful day, and you have decided to go for a hike in the woods.
+The birds are singing, the sun is shining, and you are having a wonderful time!
+Suddenly the path in front of you splits three different ways! You have to 
+decide which way to go next.
+look:
+  to your left: A large tree has fallen across it!
+  straight ahead: There is a deep stream running across it.
+  to your right: There is a snake lying in the middle of it, basking in the sunlight.
+go:
+  left:
+    You decide to go down the left path.
+    You walk up to the tree across the path. The large old sycamore looks like it fell down recently. It had to have been at least 200 years old.
+    The trunk is smooth and at least 3 feet across. You see what might be a very faint path to the left that leads away from the main trail further into the dark woods.
+      climb:
+        You try to climb over the fallen tree, but the trunk is too big and too smooth! You slide back down to the ground.
+      go under:
+        You try to go underneath the trunk of the tree, but it is too close to the ground. You almost get stuck!
+      take new path:
+        You follow the faint trail into the dark woods around the top of the fallen tree to the main path on the other side.
+
+  straight:
+    You decide to keep going straight ahead.
+    The stream is clear and sparkles in the sunlight. The sound of rushing water fills your ears. It looks more than a couple of feet deep. It is about 10 feet wide, 
+    and very cold when you stick your hand in the water. You can see the main trail continue on the far side of the stream. A tree branch hangs low over the water.
+    Your choices are jump, wade, use branch 
+    jump:
+      You take a few steps back to give yourself a running start, jump as far as you can...and land in the cold water.) 
+      You climb back out of the stream on the side you started on.
+    wade:
+      You decide to try and wade across the stream. The water is deep and fast and the rocks are slippery.
+      You lose your footing, fall in, and climb back out of the stream on the side you started on.
+    use branch
+      You grab the low hanging branch and use it to pull yourself across the stream. Your feet slip a few times, but 
+      the branch keeps you from being swept away. You climb out of the stream on the far side.
+
+  right:
+    You decide to go down the right path.
+    The snake is in the middle of the path about 10 feet away from you. You try to take a closer look at the snake. You are not sure what kind of snake it is. 
+    It is red, brown, and grey and looks about 4 feet long. There is a stick by the side of the path, as well as some rocks. The area around the snake is leafy and flat.
+    Your choices are poke snake, go around, throw rocks
+    poke snake:
+      You pick up the stick, creep closer to the snake, and poke it with the stick to try and make it move.
+      It coils aggressively and tries to bite you! (Don't poke snakes with sticks!)
+    throw rocks:
+      You pick up a few rocks and throw them at the snake, trying to scare it away. You miss, thank goodness,
+      because you would have hurt the poor snake if you had hit it. (Not nice to throw rocks at snakes!)
+    go around:
+      You decide to leave the snake alone and go around it. You leave the path and slowly walk around the snake giving it lots of space. 
+      The snake ignores you and continues to sleep in the sun. You meet back up with the main path on the far side of the snake.
+
+  Congratulations! You have successfully overcome the obstacle in your path!
+  You feel awesome and continue your hike, seeing lots of birds and trees and animals on your adventure.
+  You just earned 1 hiking skill point!
