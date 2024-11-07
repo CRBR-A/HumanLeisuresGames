@@ -1,0 +1,29 @@
+id: solve6
+title: A fate resolved
+
+"Why?!? Because he took something beautiful and wonderful away! Because she
+deserved to be in this world and he didn't anymore! So I made him disappear and tried to bring
+her back. I made him into her, body and mind. But—" There's a frustrated growl.
+"It wasn't enough. It wasn't the same. I couldn't forget who was
+underneath her skin. It was torture to be around him. But I couldn't bring myself to undo the
+illusion; it would be like killing her all over again myself.
+So I erased myself from her memory and
+tried to scare her out of town. Out of sight, and someday out of mind.
+
+"Surely you understand, Dis.
+Just as I'm sure you know you can't just take him to the police now. He's got them in his
+pocket. And a master sorcerer like him? Even if they convicted him, they'd never
+hold him."
+
+She steps where you can see her and levels her gun at Mr. Brown. "The only way to ensure that
+Abigail gets justice is to end him myself."
+'''
+choices: [
+  choice 'solve7-roxy',
+    'Let Roxy shoot him'
+  choice 'solve7-nobody',
+    'Stop Roxy'
+  choice 'solve7-dis',
+    'Shoot him yourself'
+]
+

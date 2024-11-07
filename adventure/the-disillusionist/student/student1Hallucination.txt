@@ -1,0 +1,10 @@
+id: student1Hallucination
+      'Research hallucinations'
+    '''
+      The dean is tight-lipped at first, but you demonstrate appreciation for some of the finer
+      hallucinations scattering his office and he begins to warm up and talk about who will be
+      featuring at this year's symposium.
+    '''
+      consequences:
+        hallucinationHunch: consq.decrease 1
+        progress: consq.increase 1

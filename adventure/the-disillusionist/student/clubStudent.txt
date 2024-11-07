@@ -1,0 +1,36 @@
+id: clubStudent
+title: A nervous-looking student
+
+If they ever throw a rocking chair convention for cats and provide free coffee, it might begin
+to equal this young lady's level of nerves. You make sure to approach from the front, where
+she can see you.
+
+"What do you want?" she hisses as you slide into the chair opposite.
+
+You explain yourself.
+
+"Oh— Oh really? Hey, you might be able to help me! My name's Amber Denotto." She shakes your
+hand. "I'm one of Mr. Brown's students. Or _was_, if the rumors are to be believed. It's
+enough for the university, anyway. They want to reassign me to a new mentor, and that means
+giving up the research materials Mr. Brown provided to me."
+
+"I'd be willing to part with them to you instead, though. Just… a little tit-for-tat, you
+know? I need your help with something first."
+
+You pointedly continue listening silently.
+
+"The seasonal symposium is coming up soon. If I get reassigned and have to start my project
+over, there's no way I stand a chance of placing for a prize, which means no chance of keeping
+my scholarship. Unless… Unless I had some way
+of knowing what competition I'm up against. If I could tailor my new project to the judges
+and make sure it stands out from the competition, I should at least be able to get an
+honorable mention."
+
+"Do that, and my old project materials from Mr. Brown are yours."
+
+consequences:
+  lead: consq.set leads.student
+  student: (quality) ->
+    quality.value++
+    'You are helping a student survive the seasonal symposium'
+  progress: consq.set 0

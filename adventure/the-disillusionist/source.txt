@@ -1,0 +1,8 @@
+title: The Disillusionist
+description: a web-based, narrative-heavy video game about a private detective in a world where magic exists. 
+warning: Not suitable for children, tweens, or young teens.
+author: 'arashikou' (John W. Bruce)
+website: https://github.com/arashikou/
+license: Unlicense 
+source: https://github.com/arashikou/exper3-2015
+last-update: Aug 13, 2015

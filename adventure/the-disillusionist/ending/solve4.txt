@@ -1,0 +1,25 @@
+id: solve4
+title: A man revealed
+
+The boxer is on him in a moment. He's up against the wall before he has time to recover his
+senses. The wizard continues to keep the warpweave out, in hopes of denying him access to
+magic. You breathe a sigh of relief. Exposing Mr. Horace Brown was easy enough, but locking
+him down before he could escape was a risk.
+
+It wasn't Mr. Brown that disappeared that night. It was Mrs. Abigail Brown. You never actually
+met her because she was already dead before you got involved.
+
+She'd been cheating on Mr.
+Brown. With evidence of her infidelity in hand, Horace had confronted her. There'd been a
+fight. A fight that got physical. A fight that got magical.
+And at a clear disadvantage in that situation, Abigail Brown had died, and her body had ended
+up in the river. Mr. Brown used his connections to shush the police from investigating.
+And that might have been the end of
+it, if not for the intervention of a third party.
+
+A third party that thinks you don't know she's creeping in the window behind you.
+'''
+choices: [
+  choice 'solve5',
+    '"Hello, Roxy."'
+]

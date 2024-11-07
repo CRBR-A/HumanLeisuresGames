@@ -1,0 +1,33 @@
+id: solve7-nobody
+title: A fate resolved
+
+The gunshot rings across the parlor, drowning out all other noise.
+
+"Curse you, Dis!" Roxy screams as she knocks you away and takes aim for a second attempt.
+
+But there's no one to aim at. Behind you, you hear a thump, and you feel the magical
+pressure return to the room. Turning
+around, you see your wizard knocked out. For a moment, you see Mr. Brown standing over him,
+but then there is only a twinkling of blue light.
+
+"I'll get you, Horace Brown! You can't run from me!" And moments later, Roxy is gone in a
+similar twinkling.
+
+The police aggressively ignore your attempts to explain the whole incident. With Mr. Brown
+potentially alive, they're still under the gun to keep this secret. You and your
+companions are released after a day of cursory interviewing with an unsubtle warning to keep
+your mouths shut.
+
+If ther's a silver lining to all this, it's that this is the last you hear of Horace Brown
+_or_ Roxy. Whether she abandoned her post to chase her lover's murderer or she was beaten by
+her quarry, you don't know. But Roxy never returns to lead her gang, and eventually they
+succumb to internal
+strife between those warring for her position. The police get significant portions of her
+gang, and others still are killed in the conflict.
+
+All told, the city is a little safer.
+For now.
+'''
+choices: [
+  epilogue
+]

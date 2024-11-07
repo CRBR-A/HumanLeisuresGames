@@ -1,0 +1,26 @@
+id: solve7-roxy
+title: A fate resolved'
+'''
+The gunshot rings across the parlor, drowning out all other noise. Blood begins to spread
+across Mr. Brown's body, soaking into the wall behind him. Your boxer stumbles backwards in
+surprise, dropping the now-dead Mr. Brown. He flops to the ground like a puppet without
+strings.
+
+There's a thump behind you, and you feel the magical pressure return to the room. Turning
+around, you see your wizard knocked out. There's footsteps rushing towars the door, but Roxy
+is already gone. There's just a twinkling of blue light where she once stood.
+
+The next week is hell for you and your companions. With Mr. Brown dead, the police no longer
+have an incentive to overlook this case and launch a full investigation. Eventually,
+though, they have to let you go. Your gun wasn't fired that night, and it doesn't match the
+bullet's caliber anyway. Your partners weren't
+packing. Besides, the idea that a notorious gangland master did the killing isn't a hard sell.
+
+They dismiss your wild stories about illusory women and broken hearts, though.
+Instead, they pin Roxy
+with the blame for Mrs. Brown's death as well. If the police ever catch up with her, it'll be
+a very bitter day.
+'''
+choices: [
+  epilogue
+]

@@ -1,0 +1,16 @@
+id: epilogue
+title: Thanks for reading
+
+Thank you for playing **The Disillusionist**, my entry in the 2015 EXPER3 challenge. I hope
+you enjoyed the experience. Perhaps, if you did not get the ending you wanted or if there are
+leads you haven't followed up on, you may want to hit that reset button in the corner and try
+again.
+
+Writing this game has been eye-opening for me and a great challenge. I won't pretend it isn't
+without its flaws, but I'm proud of it considering it's my first fiction writing in over a
+decade. If you didn't enjoy the experience, then I apologize, and you can get a full refund of
+your $0. In fact, I've already sent it to you.
+
+Thank you for coming on this journey with me.
+
+—John Bruce, 2015-08-12

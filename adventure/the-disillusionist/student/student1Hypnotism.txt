@@ -1,0 +1,10 @@
+storylet 'student1Hypnotism',
+'Research hypnotisms'
+'''
+Sure enough, several students are already preparing their hypnotisms to try and trick the
+judges. It was probably never going to work, but turning them in reduces Ms. Denotto's
+competition and gets you brownie points with people who can leak details of the symposium.
+'''
+consequences:
+  hypnotismHunch: consq.decrease 1
+  progress: consq.increase 1

@@ -1,0 +1,14 @@
+id: solve8-forroxy
+title: A fate resolved
+
+'''
+Roxy snorts and furrows her brow angrily. "Like my hands aren't already bloody. I'm not some
+delicate flower for you to protect."
+Her gun is suddenly in her hand. "That's not a call you get to make, Dis."
+
+And then your world goes black.
+'''
+choices: [
+  epilogue
+]
+      

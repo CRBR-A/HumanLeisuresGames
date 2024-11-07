@@ -1,0 +1,26 @@
+id: solve7-dis
+title: A fate resolved
+
+'''
+Two gunshots ring across the parlor. One from Roxy's gun… and one from yours. You couldn't say
+which one actually felled Mr. Brown, but he now sports two bleeding wounds that are quickly
+marring his suit with blood.
+
+You hear the sound of footsteps rushing outside at the same time as you feel the warpweave
+rush back into the room. Your wizard is so shocked that he's forgotten to do his job. This
+proves to be in your favor, however.
+
+In a flash of blue light, you suddenly find yourself
+on the roof of Roxy's headquarters. She's teleported both of you away from the crime scene.
+There, she fixes you with a stern glare.
+
+"What the hell was that, Dis? What did you think you were doing?"
+'''
+choices: [
+  choice 'solve8-fordis',
+    '"Mrs. Brown deserved justice."'
+  choice 'solve8-forroxy',
+    '"I didn\'t want to see your hands soiled in this."'
+  choice 'solve8-shoot',
+    'Shoot Roxy'
+]

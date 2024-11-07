@@ -1,0 +1,19 @@
+id: solve8-shoot
+title: A fate resolved
+
+
+Roxy coughs in surprise and falls to the rooftop.
+
+At last, every criminal in this case has
+been dealt with. Mrs. Brown's murderer is dead, and so is the woman who took Mr. Brown's
+identity away from him.
+
+Solemnly, you walk over to Roxy's body and take her gun. It's going to take every bullet
+you have and a fair bit of luck to get out of here alive.
+
+But at least you can be sure that
+justice, as far as you're concerned, was served today.
+
+choices: [
+  epilogue
+]

@@ -1,0 +1,19 @@
+id: solve3
+title: A man revealed
+
+Your wizard friend begins to weave his work. There is a feeling like an oncoming storm, of the
+pressure in the room dropping. He's lowered the ambient warpweave levels in order to isolate
+the illusions at play.
+
+And then, all at once, the illusion breaks. Mrs. Brown is like so much water, dumped out of
+a dirty bucket. She washes away onto the floor, leaving behind a confused, weak-kneed,
+mustachioed man in a fawn suit.
+
+"What? What the devil? Where am—"
+
+You don't give him time to finish.
+'''
+choices: [
+  choice 'solve4',
+    '"Now! Pin him!"'
+]

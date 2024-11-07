@@ -1,0 +1,34 @@
+Title: Research the seasonal symposium
+id: 'student1'
+Information is everywhere at the university. The question is, where to start?
+
+choice 'student1Illusion',
+  'Research illusions'
+  'Search the illusion department for information.'
+  visible:
+    progress: reqs.lt 7
+  active:
+    illusionHunch: reqs.gte 1
+choice 'student1Hallucination',
+  'Research hallucinations'
+  'Speak with the Dean of Hallucinations.'
+  visible:
+    progress: reqs.lt 7
+  active:
+    hallucinationHunch: reqs.gte 1
+choice 'student1Hypnotism',
+  'Research hypnotisms'
+  '''
+  As you recall from your own university days, using hypnotism to cheat is practically
+  mandatory.
+  '''
+  visible:
+    progress: reqs.lt 7
+  active:
+    hypnotismHunch: reqs.gte 1
+choice 'student1Solve',
+  'That should be enough'
+  'You have enough info to give Ms. Denotto a decided edge.'
+  active:
+    progress: reqs.gte 7
+

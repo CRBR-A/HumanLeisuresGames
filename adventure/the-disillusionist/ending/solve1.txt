@@ -1,0 +1,26 @@
+id: solve1
+title: A cold day
+
+Your hand hesitates, just a moment, before knocking on Mrs. Brown's door. You have the answers
+she wanted, but is this really going
+to make her life any better? What does justice even mean in a situation like this one? To
+walk away and leave the case unsolved might be the kindest thing for all involved and the
+closest thing to justice that could come from this.
+
+But you don't get paid to make those kinds of calls. You get paid to deliver information. And
+that's what you're here to do, at long last, for Mrs. Brown. This isn't the first time the
+news hasn't been what your client was hoping for. It may be a situation that's unique in your
+experience — and likely anyone else's — but it's no different in that way than breaking the
+news to someone that their spouse is a cheating bastard or that their loved one's current
+address is in the city morgue.
+
+You turn and glance at your companions. One is a wizard friend from the old days. You'll owe
+him a favor for this, and you're not looking forward to repaying it. The other
+is an ex-boxer that owes _you_ a favor for helping him clear his name and reputation a few
+years ago. Both are going to be essential to surviving today.
+'''
+choices: [
+  choice 'solve2',
+    'Knock and get this over with'
+]
+      

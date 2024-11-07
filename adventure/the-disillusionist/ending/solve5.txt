@@ -1,0 +1,17 @@
+id: solve5
+title: A woman revealed
+
+You hear the click of a revolver cocking from behind you.
+
+"Dis. I can't believe you were really fool enough to undo it. To bring that monster back into
+this world. What the hell do you think you're doing?!?"
+
+Ah, Roxy. Roxy the gangster. Roxy the sorceress. As you suspected, she was Mrs. Brown's
+lover. She found Mr. Brown with the body and transformed him into the simulacrum that has been
+living as Mrs. Brown for the last few weeks. The one that hired you to look for the missing
+husband that was right under her nose the whole time.
+'''
+choices: [
+  choice 'solve6',
+    '"Why did you do it, Roxy?"'
+]

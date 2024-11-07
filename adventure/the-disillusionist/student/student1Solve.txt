@@ -1,0 +1,31 @@
+storylet 'student1Solve',
+'Hope springs eternal'
+'''
+Ms. Denotto seems very pleased with the results you deliver. She's practically licking her
+lips with excitement at her prospects. "With this much, I could probably even _place_ at
+the symposium. I should have hired you years ago!"
+
+She's all too happy to part with her old research materials. You are shocked to discover that
+Mr. Brown provided her with a live demon in a cage. The things are exceedingly rare, and just
+seeing the little fiend's golden compound eyes takes your mind back to times better left
+forgotten.
+
+Ms. Denotto misinterprets your reverie as concern. "Don't worry, this is
+totally legal. Here—" She hands you a sheaf of papers. "These papers prove that he's
+legitimate, culled from the old battlefields and not some demonologist's weekend mistake."
+
+The other materials are nothing so interesting. Indeed, you'll probably just hock them later.
+But as she reaches to hand over the last packet, Amber stops. "Can I— Can I keep just one
+thing? To remember him by. Mr. Brown was actually quite good as a mentor."
+
+She opens the packet to reveal two tiny objects. "Go ahead, take either one you like. Just
+leave the other one for me."
+'''
+choices: [
+  choice 'studentFinalSealbone',
+    'Take the sealbone figurine'
+    'Sealbone carvings like this are often sensitive to hallucinations.'
+  choice 'studentFinalRibbon',
+    'Take the inscribed ribbon'
+    'The inscriptions are supposed to protect the bearer against illusions.'
+]

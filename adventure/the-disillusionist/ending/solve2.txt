@@ -1,0 +1,27 @@
+id: solve2
+title: A sharp knock
+
+You are promptly admitted. Your companions draw a few raised eyebrows, but you insist that
+they are vital to your
+investigation. You also insist on meeting Mrs. Brown at the scene of the crime. It's dramatic,
+perhaps, but not half as dramatic as what you're here to do.
+
+Once you've been left alone with Mrs. Brown, you regard her for a long moment. The illusion is
+almost perfection. Whoever created her knew Mrs. Brown better than anyone in this world. And
+the wards in place to dissuade magical detection are advanced sorcery of the highest caliber.
+This is the work of a master, no doubt about it, and a master with intimate knowledge of
+Mrs. Brown. To anyone not in posession of your particular talents and knowledge, it would be
+impossible to tell.
+
+"Why— Why are you staring at me?" she stammers.
+
+You don't answer. Instead, you inform her that you have found Mr. Brown.
+You explain that her husband is, in fact, not dead. This
+news heartens her, to your dismay.
+
+"Where is he, then?!?" she gasps. "Has he been kidnapped? Is he— is he hiding?"
+'''
+choices: [
+  choice 'solve3',
+    '"Bring him out, Jim."'
+]

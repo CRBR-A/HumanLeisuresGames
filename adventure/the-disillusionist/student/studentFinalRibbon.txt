@@ -1,0 +1,18 @@
+storylet 'studentFinalRibbon',
+'An inscribed ribbon'
+'''
+Amber nods and closes the packet. "If you ever change your mind, I bet the dealer in the
+Salamader Club could help you. He's always helping students swap things we've been
+overallocated for things we can't get."
+'''
+consequences:
+  cagedDemon: consq.increase 1
+  bluebacks: consq.increase 3
+  inscribedRibbon: consq.increase 1
+  lead: (quality) ->
+    quality.value = undefined
+    'Your current lead has ended.'
+  student: (quality) ->
+    quality.value++
+    'Your help has been invaluable to Ms. Denotto'
+  progress: consq.set 0

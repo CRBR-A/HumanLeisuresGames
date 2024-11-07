@@ -1,0 +1,21 @@
+id: solve8-fordis
+title: A fate resolved
+
+'''
+Roxy laughs. "You still fancy yourself as some kind of hero?" Her gun is
+suddenly in her hand. "Listen, Dis. That vengeance was mine and mine alone. You don't get to
+take that from me." There is a tense moment before she continues. "So unless you want to end
+up very dead, you are going to agree that I shot him first and then—" She shoves the gun
+towards you. "_Never_ cross me again. But your did it for Abigail, so this one time, I'll let
+you leave alive."
+
+It leaves a bitter taste in your mouth, but you consent to her version of events.
+As you're opening the door to the stairs, you hear Roxy say
+"You know, if you want a place to hide out now that you're a wanted criminal, my
+organization could use a person like you, Dis."
+
+It's an offer you may have to consider.
+'''
+choices: [
+  epilogue
+]

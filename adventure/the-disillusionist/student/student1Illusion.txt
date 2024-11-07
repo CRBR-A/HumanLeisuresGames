@@ -1,0 +1,11 @@
+id 'student1Illusion
+
+'Research illusions'
+'''
+You find several groups of students who are preparing illusion presentations for the
+symposium, including one presentation that is actually illusory. They might want to work on
+that further.
+'''
+consequences:
+  illusionHunch: consq.decrease 1
+  progress: consq.increase 1
