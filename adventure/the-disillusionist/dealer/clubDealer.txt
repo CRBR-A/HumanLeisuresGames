@@ -1,0 +1,21 @@
+id: clubDealer
+title: A dealer in rarities
+'''
+You can't even open your mouth before the rarities dealer recognizes you for what you are.
+"How the hell did you even get in here, you burnout!? Where's security?"
+
+Before he can summon anyone, you slam the demon cage down on the table. It shuts him right
+up. At his quizzical stare, you produce the demon's papers. He looks them over, then looks
+them over again, unable to believe that someone as mundane as yourself could get your
+hands on such an esoteric item.
+
+Finally, he grunts his assent. "I'll concede, you are something special. I don't have any use
+for it, but I'll put it up for sale. If anyone wants the little bastard, you get 50% after
+taxes.
+And if you're interested in making any other trades, why not come by my shop later yourself?"
+He produces a card with an address and a password.
+'''
+consequences:
+  cagedDemon: consq.decrease 1
+  dealer: consq.set 1
+  

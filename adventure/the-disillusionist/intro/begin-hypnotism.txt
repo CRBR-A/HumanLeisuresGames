@@ -1,0 +1,17 @@
+id: begin-hypnotism
+title: Ah, Hypnotism
+'''
+Yes, that was it.
+
+Anyway, that's all over now. The war left you without a scrap of magic
+to your name, just a strange itch whenever you're in the presence of your old field of work.
+
+But you, you were enterprising. You parleyed that subliminal itch, that instinct about magic,
+into a career as a detective. When people have problems that seem magical in nature, they come
+to you. You are The Disillusionist.
+'''
+consequences:
+  origin: consq.set origins.hypnotist
+  hypnotismHunch: consq.increase 1
+choice 'begin-case',
+  'Tell me about my latest case'

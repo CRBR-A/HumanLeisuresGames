@@ -1,0 +1,13 @@
+id: dealerCarnelian
+title: Trade a veiny carnelian
+'"Oh? And what do you want for it?"'
+choices: [
+  choice 'dealerCarnelianForRibbon',
+    'Trade for an inscribed ribbon'
+    'This ribbon will help you detect illusions.'
+  choice 'dealerCarnelianForSealbone',
+    'Trade for a sealbone trinket'
+    'This trinket will help you detect hallucinations.'
+  choice 'dealerEscape',    'On second though, maybe not...'    '_Return to the main screen._'
+]
+      

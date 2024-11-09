@@ -1,0 +1,25 @@
+id: copStart
+title: A crooked cop
+'''
+Dentley thumbs the stack of bills to make sure you aren't shorting him. "Horace Brown, eh?
+Funny you should mention him. That name just came across my desk this morning."
+
+You ask whether this means the police are going to investigate the disappearance after all.
+
+"No, no, nothing like that. His _alleged_ disappearance…" Something gives even Dentley pause.
+"That investigation is being shut down from a very high level. No, he came up as a person of
+interest in another case. Of course, as no one can find him, that's a request I am putting
+no effort into fulfilling."
+
+"There was a body. Washed up on the south banks near the granary district. It also vanished
+before we could bring it in. I don't know any more than that, but someone thinks it's tied to
+Brown, somehow, so it's probably of interest to you."
+'''
+consequences:
+  bluebacks: consq.decrease 10
+  lead: consq.set leads.cop
+  cop: (quality) ->
+    quality.value++
+    'Officer Dentley has given you a tip about a body.'
+  progress: consq.set 0
+  

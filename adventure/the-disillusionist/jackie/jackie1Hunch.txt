@@ -1,0 +1,11 @@
+id: jackie1Hunch
+title: See if you get any hunches
+'''
+There's traces of it all over the building where Jackie's office is. Little scraps of
+store-bought hallucinations, nothing elaborate. But telltale signs that she's been trying
+to keep him off her trail.
+'''
+consequences:
+  hallucinationHunch: consq.decrease 1
+  progress: consq.increase 1
+  

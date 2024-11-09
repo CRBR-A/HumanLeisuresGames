@@ -1,0 +1,9 @@
+id: jackie
+title: Search for Jackie's missing partner
+'She left for "greener pastures."'
+visible:
+  lead: reqs.eq leads.jackie
+next: (jackie) ->
+  switch jackie
+    when 2 then 'jackie1'
+    

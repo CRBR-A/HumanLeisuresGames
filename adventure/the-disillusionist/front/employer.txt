@@ -1,0 +1,9 @@
+id: employer
+title: Headhunt for KB&S
+'They have some very specific needs.'
+visible:
+  lead: reqs.eq leads.employer
+next: (kbs) ->
+  switch kbs
+    when 1 then 'employer1'
+          

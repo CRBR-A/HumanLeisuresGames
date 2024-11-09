@@ -1,0 +1,10 @@
+id: cop1CantripUp
+title: Hire a scryer
+'''
+You can't afford a top-rate scryer, but the one you _can_ afford gives your some tantalizing
+and useful clues about the body's current disposition.
+'''
+consequences:
+  cantripUp: consq.decrease 3
+  progress: consq.increase 1
+

@@ -1,0 +1,30 @@
+id: jackie1
+title: Search for Jackie's missing partner
+'''
+She's gone to ground, or maybe left the city entirely. You need to pick up her trail.
+'''
+choices: [
+  choice 'jackie1Rumor',
+    'Hit the streets'
+    'Ask around. Try not to be too obvious. Someone must have seen _something_.'
+    visible:
+      progress: reqs.lt 5
+    active:
+      rumor: reqs.gte 3
+  choice 'jackie1Hunch',
+    'See if you get any hunches'
+    '''
+    She wasn\'t a mage, but then, neither is Jackie. Maybe she\'s using magic to cover her
+    tracks from him.
+    '''
+    visible:
+      progress: reqs.lt 5
+    active:
+      hallucinationHunch: reqs.gte 1
+  choice 'jackie1Solve',
+    'Aha!'
+    'You\'ve pieced together enough to find her!'
+    active:
+      progress: reqs.gte 5
+]
+      

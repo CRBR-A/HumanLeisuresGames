@@ -1,0 +1,13 @@
+id: dealerRibbon
+title: Trade an inscribed ribbon
+'"Oh? And what do you want for it?"'
+choices: [
+  choice 'dealerRibbonForSealbone',
+    'Trade for a sealbone trinket'
+    'This trinket will help you detect hallucinations.'
+  choice 'dealerRibbonForCarnelian',
+    'Trade for a veiny carnelian'
+    'This gem will help you detect hypnotisms.'
+  choice 'dealerEscape',    'On second though, maybe not...'    '_Return to the main screen._'
+]
+      

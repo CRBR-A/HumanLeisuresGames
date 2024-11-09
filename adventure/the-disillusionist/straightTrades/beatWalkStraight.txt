@@ -1,0 +1,13 @@
+id: beatWalkStraight
+title: Search for public menaces
+'''
+You find the work of a few overnight vandals, including some really impressive choreographed
+dragons and flamingos in the theater district. Maybe someone was trying to audition to do
+special effects?
+
+The police pay you duly for your help.
+'''
+consequences:
+  hallucinationHunch: consq.decrease 1
+  bluebacks: consq.increase 2
+        

@@ -1,0 +1,10 @@
+id: jackie1Rumor
+title: Hit the streets
+'''
+You don\'t get any info on her directly, but the omissions in the stories are almost as
+telling as the stories themselves.
+'''
+consequences:
+  rumor: consq.decrease 3
+  progress: consq.increase 1
+

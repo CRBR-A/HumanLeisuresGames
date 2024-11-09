@@ -1,0 +1,12 @@
+id: crimeSceneIllusion
+title: Evidence of illusions
+'''
+Someone on the house staff has been using illusions to hide subpar housework. It's amateur
+stuff, but it confounds your search. Nonetheless, there has definitely been a more
+competent illusionist
+at work here as well. But was it Brown or someone else?
+'''
+consequences:
+  illusionHunch: consq.increase 1
+  bother: setBothered
+  

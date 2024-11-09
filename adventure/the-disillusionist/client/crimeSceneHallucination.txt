@@ -1,0 +1,12 @@
+id: crimeSceneHallucination
+title: Evidence of hallucinations
+'''
+If there were any hallucinations here, they've been cleaned up. But sometimes a hallucination
+is telling by its absence. There are three suspicious gaps in the decor on the wall opposite
+the windows. By the looks of it, there were hallucinations here for quite some time; the
+staff had been cleaning around them. Were they Brown's work? Or somehow related to his
+disappearance?
+'''
+consequences:
+  hallucinationHunch: consq.increase 1
+  bother: setBothered

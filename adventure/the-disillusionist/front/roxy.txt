@@ -1,0 +1,9 @@
+id: roxy
+title: Pursue Roxy the gangster
+'She wants Mrs. Brown out of town. But why?'
+visible:
+  lead: reqs.eq leads.roxy
+next: (roxy) ->
+  switch roxy
+    when 2 then 'roxy1'
+          

@@ -1,0 +1,26 @@
+id: lets-begin
+title: It was a dark and stormy decade…
+'''
+The years that followed the commoditization of sorcery were tumultous and difficult. People
+were faced with an ever-expanding array of new possibilities for their lives. The social
+order was shaken like an uptown Old Fashioned.
+
+There was, naturally, a war. You came out of it with a few interesting scars to share with
+those most intimate and one very uninteresting scar on your psyche that left you permanently
+unable to access the sorceric warpweave ever again. It was a shame, too. You'd had such a
+promising career before that, studying…
+
+Which branch of magic was it again?
+'''
+choices: [
+  choice 'begin-illusion',
+    'Illusion'
+    'The magic of making one thing appear to be another thing.'
+  choice 'begin-hallucination',
+    'Hallucination'
+    'The magic of making things appear to exist which do not.'
+  choice 'begin-hypnotism',
+    'Hypnotism'
+    'The magic of making people believe things they do not.'
+]
+      

@@ -1,0 +1,10 @@
+id: roxy1Bluebacks
+title: Pay off low-level scum
+'''
+None of them have been to the headquarters directly. Most of them are at least two tiers
+removed from anyone important enough to know anything. But who they meet and where they meet
+them tells you a lot about who to pay off next and where the orders are coming from.
+'''
+consequences:
+  bluebacks: consq.decrease 3
+  progress: consq.increase 1

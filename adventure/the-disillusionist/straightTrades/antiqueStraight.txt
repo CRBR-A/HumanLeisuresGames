@@ -1,0 +1,11 @@
+id: antiqueStraight
+title: Filter an antiquarian's collection
+'''
+You gently break the news. This one is fake. That one is real. The large one in the back? It
+never existed at all. The antiquarian, forseeing lean times in his future, can only offer a
+"mage's wages."
+'''
+consequences:
+  hallucinationHunch: consq.decrease 1
+  cantripUp: consq.increase 2
+

@@ -1,5 +1,5 @@
-storylet 'student1Solve',
-'Hope springs eternal'
+id: student1Solve
+title: Hope springs eternal
 '''
 Ms. Denotto seems very pleased with the results you deliver. She's practically licking her
 lips with excitement at her prospects. "With this much, I could probably even _place_ at

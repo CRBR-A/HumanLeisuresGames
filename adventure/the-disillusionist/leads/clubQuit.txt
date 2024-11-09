@@ -1,0 +1,8 @@
+id: clubQuit
+title: Cut your losses
+'''
+You slip through the kitchen on your way out and grab a nearly-full case of Cantrip-Up.
+They probably won't miss it.
+'''
+consequences:
+  cantripUp: consq.increase 5

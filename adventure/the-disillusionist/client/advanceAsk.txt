@@ -1,0 +1,15 @@
+id: advanceAsk
+title: Ask for an advance
+'''
+Mrs. Brown is a little less free with her funds this time. Perhaps she expected the case to
+be resolved by now, in which case she's a fool. Or perhaps she showed the contract to one of
+her accountants, in which case she's less-so. Nonetheless, you are able to draw a little blood
+from the stone before being sent on your way with a reminder to earn that money.
+'''
+consequences:
+  bluebacks: consq.increase 6
+  bother: setBothered
+  advance: (quality) ->
+    quality.value = true
+    'You will not be able to ask for an advance again.'
+

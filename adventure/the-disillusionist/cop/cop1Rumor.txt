@@ -1,0 +1,9 @@
+id: cop1Rumor
+title: Connect the dots
+'''
+With your info, you are able to narrow down the locations the body could have gone to.
+'''
+consequences:
+  rumor: consq.decrease 3
+  progress: consq.increase 1
+  

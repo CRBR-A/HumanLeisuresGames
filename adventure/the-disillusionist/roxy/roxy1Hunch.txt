@@ -1,0 +1,12 @@
+id: roxy1Hunch
+title: Look for unusual illusions
+'''
+There are illusions all over this part of town, of course. When using a spell to spruce up
+your home is so easy, why not do it? Still, a few places with an unusual number and specificty
+of illusions catch your eye, particularly the ones with illusions in places that have nothing
+to do with decor.
+'''
+consequences:
+  illusionHunch: consq.decrease 1
+  progress: consq.increase 1
+

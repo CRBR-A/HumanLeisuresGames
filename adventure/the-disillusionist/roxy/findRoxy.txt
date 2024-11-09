@@ -1,0 +1,21 @@
+id: findRoxy
+title: Begin searching for her
+'''
+There's a through-line to the stories on the street about Roxy's gang. For the last six
+months, they've been having
+trouble bringing enough people to bear to pressure the other gangs. And they're more focused
+on consolidating power in the magic districts. It all adds up to one thing: Roxy must have
+moved her base of operations east, away from downtown… and right into the vicinity of
+the Brown mansion.
+
+Based on shakedown rates in various districts, you figure Roxy's hideout must be somewhere
+within an area of about fifteen blocks on the east end. It's still a wide area, but it's a
+start.
+'''
+consequences:
+  lead: consq.set leads.roxy
+  roxy: (quality) ->
+    quality.value++
+    'You know where to start looking for Roxy'
+  progress: consq.set 0
+

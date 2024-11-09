@@ -1,5 +1,6 @@
-Title: Research the seasonal symposium
-id: 'student1'
+id: student1
+title: Research the seasonal symposium
+
 Information is everywhere at the university. The question is, where to start?
 
 choice 'student1Illusion',

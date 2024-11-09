@@ -1,5 +1,5 @@
-storylet 'studentFinalRibbon',
-'An inscribed ribbon'
+id: studentFinalRibbon
+title: An inscribed ribbon
 '''
 Amber nods and closes the packet. "If you ever change your mind, I bet the dealer in the
 Salamader Club could help you. He's always helping students swap things we've been

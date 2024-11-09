@@ -1,0 +1,11 @@
+id: dealsStraight
+title: Notarize business deals
+'''
+It's the dryest possible work, just sitting there watching all parties in a negotiation
+to make sure there's no funny business going on. There isn't, of course, but the reassurance
+of your presence is essential. And you pick up plentiful info from the deals you overhear.
+'''
+consequences:
+  hypnotismHunch: consq.decrease 1
+  rumor: consq.increase 2
+        

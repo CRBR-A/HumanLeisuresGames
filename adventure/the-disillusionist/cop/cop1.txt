@@ -1,0 +1,34 @@
+id: cop1
+title: Follow up on Dentley's tip
+'''
+You need to find this body before the police do.
+'''
+choices: [
+  choice 'cop1Rumor',
+    'Connect the dots'
+    'Some of these rumors you\'re hearing must be about the body.'
+    visible:
+      progress: reqs.lt 7
+    active:
+      rumor: reqs.gte 3
+  choice 'cop1Bluebacks',
+    'Pay for info'
+    'Unlike the police, you\'re willing to pay for good info.'
+    visible:
+      progress: reqs.lt 7
+    active:
+      bluebacks: reqs.gte 3
+  choice 'cop1CantripUp',
+    'Hire a scryer'
+    'Magic is the modern way, after all.'
+    visible:
+      progress: reqs.lt 7
+    active:
+      cantripUp: reqs.gte 3
+  choice 'cop1Solve',
+    'Somebody has been found'
+    'You know where the body went. You can only hope there\'s enough left to ID.'
+    active:
+      progress: reqs.gte 7
+]
+

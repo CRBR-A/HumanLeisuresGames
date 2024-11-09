@@ -1,0 +1,10 @@
+id: crimeSceneRumor
+tile: Information in Horace Brown\'s files
+'''
+You don't turn up any evidence relevant to the case, but you do turn up some juicy tidbits
+that you're pretty sure aren't public knowledge.
+'''
+consequences:
+  rumor: consq.increase 3
+  bother: setBothered
+  

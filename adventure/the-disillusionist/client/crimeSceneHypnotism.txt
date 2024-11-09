@@ -1,0 +1,11 @@
+id: crimeSceneHypnotism
+title: Evidence of hypnotisms
+'''
+Your brain is on fire. Here, by the workbench. Judging by the height, the person was in the
+process of standing up. And over here, by the window. But this one, it was a different person
+than the first…
+'''
+consequences:
+  hypnotismHunch: consq.increase 1
+  bother: setBothered
+  

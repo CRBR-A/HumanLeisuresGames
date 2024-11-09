@@ -1,0 +1,8 @@
+id: rest
+title: Return home to rest
+'''
+It's been a long day. Perhaps it's time to go back to your apartment and get some shuteye.
+
+_This will advance the day by one and reset your hunches._
+'''
+

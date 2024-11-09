@@ -1,0 +1,13 @@
+id: securityStraight
+title: Provide building security
+'''
+Most people pass muster, but you do have to stop a few for additional investigation. One
+appears to be genuinely unaware of her predicament and is sent off for disenchanting. Another
+is apparently into some very unorthodox uses of spellwork in the bedroom and
+forgot to clean everything off himself afterwards. He is likewise sent off for disenchanting.
+…and a bath.
+'''
+consequences:
+  hypnotismHunch: consq.decrease 1
+  bluebacks: consq.increase 2
+

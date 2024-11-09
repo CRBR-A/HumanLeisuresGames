@@ -1,0 +1,8 @@
+id: storylines
+title: Track down a lead
+'''
+You know a few places to start looking for info.
+'''
+visible:
+  lead: reqs.notexists
+        

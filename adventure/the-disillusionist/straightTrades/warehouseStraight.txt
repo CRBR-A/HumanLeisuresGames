@@ -1,0 +1,11 @@
+id: warehouseStraight
+title: Find warehouse cover-ups
+'''
+You spend a few hours pointing out crates that have been magically modified and bills of
+lading that have been magically forged. The foreman can't afford to pay you, but you wave
+him off. You got more than your money's worth in gossip from the dockworkers.
+'''
+consequences:
+  illusionHunch: consq.decrease 1
+  rumor: consq.increase 2
+

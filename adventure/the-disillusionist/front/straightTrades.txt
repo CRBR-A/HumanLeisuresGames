@@ -1,0 +1,7 @@
+id: straightTrades
+title: Do odd jobs
+'''
+Sure, you're working for Mrs. Brown, but doing that takes resources. Resources you'll have
+to earn some other way.
+'''
+      

@@ -1,0 +1,7 @@
+id: dealerSealboneForCarnelian
+title: Trade sealbone for carnelian
+'"Very well, I accept! And any time you want to trade again, you know where to find me!"'
+consequences:
+  sealboneTrinket: consq.decrease 1
+  veinyCarnelian: consq.increase 1
+

@@ -1,0 +1,30 @@
+id: roxy1Solve
+title: In a disused print shop
+'''
+The print shop's shell only takes up a small portion of the first floor, but it's been
+magicked to appear larger than it is, to cover up the fact that the rest of the building is
+filled with gangsters.
+
+Roxy won't deign to see you if you just walk up to the front door. Not after what happened
+last time. So it looks like breaking and entering is your only option. You slip in a back door
+and slide through a hallucinatory wall. You're upstairs and rifling through files without
+anyone being the wiser. Their contents aren't very revealing, though. Nothing in here really
+explains the link to Mr. Brown.
+
+You've just spotted a locked cabinet in the corner and are considering how to best open it
+when a lowly runner wanders in and spots you. He rushes out and sounds the alarm. Cursing your
+luck, you shoot the lock off. Inside is a stack of envelopes and a small, magical charm.
+
+You're going to need a hand free to hold your gun. Which do you take?
+'''
+choices: [
+  choice 'roxyFinalLetters',
+    'Take the letters'
+    'They smell… nice?'
+  choice 'roxyFinalRibbon',
+    'Take the spell-inscribed ribbon'
+    '''
+    You've seen these before. They're used to overcome illusions.
+    '''
+]
+      

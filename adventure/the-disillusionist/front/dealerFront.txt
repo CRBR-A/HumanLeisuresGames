@@ -1,0 +1,6 @@
+id: dealerFront
+title: Visit the Rarities Dealer
+'Perhaps you have something he\'d like to trade.'
+visible:
+  dealer: reqs.gte 1
+

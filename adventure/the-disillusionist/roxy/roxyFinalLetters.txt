@@ -1,0 +1,18 @@
+id: roxyFinalLetters
+title: Mysterious letters
+'''
+Once safely back in your office, you peruse the letters with great curiosity. They appear to
+be love letters. You have no idea who this Joy person is, nor who she was writing to, but
+the smell of perfume on them is tugging at your memory, as if you've smelled it before. And
+whoever she is, she uses the post office near Mr. Brown's mansion.
+'''
+consequences:
+  evidence: consq.increase 1
+  lead: (quality) ->
+    quality.value = undefined
+    'Your current lead has ended.'
+  roxy: (quality) ->
+    quality.value = 3
+    'You stole some letters from Roxy Malone\'s hideout.'
+  progress: consq.set 0
+        

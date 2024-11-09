@@ -1,0 +1,11 @@
+id: employer1Hunch
+title: Use your hunches
+'''
+You find several hypnotists operating further outside the public eye. A strange fellow in
+the university district. The man above the butcher shop. A lady stowing away in the back of
+the mail truck unnoticed.
+'''
+consequences:
+  hypnotismHunch: consq.decrease 1
+  progress: consq.increase 1
+

@@ -1,0 +1,34 @@
+id: employer1Solve
+title: A most eclectic crew
+'''
+Against all odds, a group like the one Kimble, Battherwhite, and Smith wants actually exists.
+Though they primarily make their living as musicians now, they all have magical backgrounds
+that match KB&S's needs. And, more importantly, they are keen to make some money putting those
+talents to work. "Beats singing another night for tips at The Red Squirrel."
+
+The man in the sharp suit is pleased. As the troupe is ushered away to Contractor Orientation,
+he turns back to you. "And don't think I've forgotten your payment. Let me tell you exactly
+what they'll be doing."
+
+You learn less of use than you'd hoped, and several things you wish perhaps you had never
+known. About ancient religions given new
+relevance in this magical age. About a grand ceremony in the planning. Mr. Brown was not
+actually working for KB&S, _per se_. Rather, he had been employed by Battherwhite, Esq.
+herself to prepare an elaborate ritual basement. You're quite sure she's completely mad, but
+as the sharp-suited man reminds you as he steers you towards the exit, "As you can see, Mr.
+Brown's disappearance puts us at rather a disadvantage, so we couldn't possibly have been
+involved. It's been a great burden on us, until you came along."
+
+As consolation, he presses a small gemstone on you. "We have dozens, and I think
+someone in your line of work will find it eminently useful."
+'''
+consequences:
+  evidence: consq.increase 1
+  veinyCarnelian: consq.increase 1
+  lead: (quality) ->
+    quality.value = undefined
+    'Your current lead has ended.'
+  kbs: (quality) ->
+    quality.value++
+    'Kimble, Battherwhite, and Smith no longer require your services.'
+  progress: consq.set 0

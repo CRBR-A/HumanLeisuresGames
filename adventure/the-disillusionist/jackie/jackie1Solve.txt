@@ -1,0 +1,44 @@
+id: jackie1Solve
+title: Out of the city, but not far
+'''
+It looks like she's left the city, but she didn't go far. Makes sense; someone had to keep
+those glamours up, and if she trusted anyone else, it'd be a liability. You catch up with her
+at a library. She doesn't remember you, but when you mention who you're working for, she
+drags you into an empty reading room and shuts the door.
+
+"Dammit," she starts. "I can't believe Jackie hired another gumshoe to hunt me down. Is he
+really that desperate to have me back?"
+
+You lay out the situation. You explain how Jackie seemed to be falling apart. She snorts.
+
+"That wasn't me leaving that did that. That stuff was why I left. Jackie's been on the long
+downward slide for years now. Couldn't wrap his thick skull around this new world we all live
+in. Magic befuddles him more than if someone just cast some befuddling magic at him."
+
+She purses her lips and concentrates on an empty corner of the room. "It's not the paucity of
+jobs I minded, really. Times were always lean. The problem is—" A long pause.
+
+"He got desperate for work. Started taking hit jobs for the mob. I won't be involved in that
+kind of work again. He knew that, tried to keep it secret from me, but when I found out, I
+knew it had to be over." She sets you with a hard stare. "Don't tell Jackie where I am, Dis.
+It's a complication I
+don't want to deal with, and really, neither does he. I just want to put that past behind me."
+
+She fishes around in her bag for a moment. "I don't have any info on the Brown
+disappearance to offer you, but I know the fuel you operate on. Hunches, right? I'm trying
+to get better acquainted with the magical world. I picked this thing up from a travelling
+salesman. Helps with detecting hallucinations. If you go back and tell Jackie that you
+couldn't find me, it's all yours."
+'''
+choices: [
+  choice 'jackieFinalJackie',
+    'Tell Jackie the truth'
+    'Honesty is always the best policy, and you need the info on Mr. Brown.'
+  choice 'jackieFinalPartner',
+    'Take her offer'
+    '''
+    This is messy and not your responsibility. Plus, that trinket could pay dividends in the
+    Brown case and for years to come.
+    '''
+]
+      

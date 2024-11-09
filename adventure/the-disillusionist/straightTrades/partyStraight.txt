@@ -1,0 +1,12 @@
+id: partyStraight
+title: Clean up after a party
+'''
+Along with moving furniture, you helpfully point out which objects have been carelessly
+transmuted or obscured. With any luck, the landlord will never realize how much this place
+resembled a magical strip club in a junk heap this morning. Being poor students, they can only
+pay in leftovers from last night, but it's worth the effort.
+'''
+consequences:
+  illusionHunch: consq.decrease 1
+  cantripUp: consq.increase 2
+        

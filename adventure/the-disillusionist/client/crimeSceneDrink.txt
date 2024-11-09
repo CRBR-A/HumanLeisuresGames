@@ -1,0 +1,9 @@
+id: crimeSceneDrink
+title: Raiding the liquor cabinet
+'''
+Alas, the liquor has been removed, perhaps against just such an eventuality. But you are
+able to snag a few Cantrip-Ups that you don't imagine will be missed.
+'''
+consequences:
+  cantripUp: consq.increase 3
+  bother: setBothered

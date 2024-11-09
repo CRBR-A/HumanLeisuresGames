@@ -1,6 +1,5 @@
-id 'student1Illusion
-
-'Research illusions'
+id: student1Illusion
+title: Research illusions
 '''
 You find several groups of students who are preparing illusion presentations for the
 symposium, including one presentation that is actually illusory. They might want to work on

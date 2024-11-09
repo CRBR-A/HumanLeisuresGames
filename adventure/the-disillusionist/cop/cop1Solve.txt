@@ -1,0 +1,33 @@
+id: cop1Solve
+title: Not much left
+'''
+You burst into the warehouse and order everyone on the floor. Like terrified lambs, they all
+comply. Despite their sick tendencies, these men and women aren't savage or prepared to
+defend themselves. They're lucky you found them and their crime first; the police might
+have come in with guns blazing.
+
+They're "ghouls," or at least that's how they fancy themselves. People who think this era of
+casual magic gives them the right to appropriate old cultural traditions and use them as a
+cover for their twisted desires.
+
+You gather what's left of the body in a sack and warn them to get lost before the police
+arrive. You make haste to the precinct before the body starts to smell, but not before taking
+a peek for yourself.
+
+There's not much left, but what's there is confusing. The body is female, unqestionably.
+There are bits of clothing from a dress similar to the one
+Mrs. Brown was wearing the day she walked into your office. Also a broach that's identical
+to one you've seen at the Brown household. And judging by the time of its discovery and its
+state at the time, this person probably died within a day before or after Mr. Brown
+disappearing. There's no hope of identifying this person now, but
+this is definitely tied to your case somehow.
+'''
+consequences:
+  evidence: consq.increase 2
+  lead: (quality) ->
+    quality.value = undefined
+    'Your current lead has ended.'
+  cop: (quality) ->
+    quality.value++
+    'You found a body, or at least what\'s left of it.'
+  progress: consq.set 0

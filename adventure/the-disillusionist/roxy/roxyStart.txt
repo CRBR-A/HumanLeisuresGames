@@ -1,0 +1,32 @@
+id: roxyStart
+title: Roxy Malone, big-time gangster
+'''
+There are three big gangs in the city. North of the river belongs to Mac Turleigh's boys.
+The financial district is under the watchful eye of Ambrose Beard. And everything else?
+Everything else belongs to Roxy Malone's gang.
+
+Roxy appeared during the war, already leading a small gang of street toughs. While the old
+gangs had their eyes turned to war profiteering, she was qietly eating away at their
+territory back home. While the old gangs were trying to understand how to get mages to work
+for them, she was already an accomplished sorceress in her own right. Roxy was a native of
+the new world. And one by one, the old gangs fell before her or joined her outright. Smart
+money says she won't rest until she owns the whole city.
+
+So why is she concerning herself with Mrs. Brown? What does she have to gain from driving a
+grieving woman from her home? There's more going on here than meets the eye.
+
+This won't be the first time you two have crossed paths, but you don't know where she's
+operating out of these days. You'll need to get a bead on Roxy before you can confront her.
+'''
+choices: [
+  choice 'findRoxy',
+    'Begin searching for her'
+    'You\'re going to need to do some investigation just to find a place to start looking.'
+    active:
+      rumor: reqs.gte 6
+  choice 'dontFindRoxy',
+    'No good'
+    'Roxy is still giving you the slip.'
+    next: false
+]
+      

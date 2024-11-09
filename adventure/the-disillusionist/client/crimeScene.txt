@@ -1,0 +1,22 @@
+id: crimeScene
+title: Inspect the crime scene
+'''
+Mrs. Brown has a servant let you into the witching parlor. She can't bear to look at it
+herself. What are you looking for?
+'''
+choices: [
+  choice 'crimeSceneIllusion',
+    'Evidence of illusions'
+  choice 'crimeSceneHallucination',
+    'Evidence of hallucinations'
+  choice 'crimeSceneHypnotism',
+    'Evidence of hypnotisms'
+  choice 'crimeSceneRumor',
+    'Information in Horace Brown\'s files'
+  choice 'crimeSceneDrink',
+    'Actually, I\'m here to raid the liquor cabinet'
+  choice 'leaveUntouched',
+    'Leave the crime scene untouched'
+    'On second thought, maybe coming here was a bad idea.'
+    next: false
+]

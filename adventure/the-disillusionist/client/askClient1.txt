@@ -1,0 +1,22 @@
+id: askClient1
+title: Ask for more info
+'''
+"Actually, there is something new," she purrs. "While I was going through Horry's old things,
+I came across this receipt."
+
+She hands you a receipt almost identical to the one you made out for her in your office.
+
+"It seems I wasn't the first one to employ a private detective. Though what he hired this
+'Jackie' for, I couldn't say."
+
+You know Jackie. He's one of the old guard. He was in this business before the war, before
+magic. Hell, maybe before you were even born. The new world hasn't been kind to him, though,
+and word is he fell on hard times recently. Maybe hard enough to get him to parley with the
+competition? It's not much, but it's a start.
+'''
+consequences:
+  jackie: (quality) ->
+    quality.value++
+    'You have received a receipt from Mrs. Brown.'
+  bother: setBothered
+

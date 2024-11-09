@@ -1,0 +1,21 @@
+id: jackieFinalPartner
+title: Take Her Offer
+'''
+You accept the trinket. It's a small figurine — sealbone, if you're any judge — carved in the
+shape of some north sea deity you don't recognize. Jackie's partner seems pleased at your
+acceptance, but she still shoots you a warning glare before departing the library. It's the
+last you ever see of her.
+
+Jackie is crestfallen but unsurprised to hear of your failure. He seems to sink further into
+his chair as you close the door behind you on the way out. He wouldn't hear of your advice
+to try and adapt to this new world. "Fat lot of good it did you in finding my partner, Dis."
+'''
+consequences:
+  sealboneTrinket: consq.increase 1
+  lead: (quality) ->
+    quality.value = undefined
+    'Your current lead has ended.'
+  jackie: (quality) ->
+    quality.value = 4
+    'You did not tell Jackie where his partner is.'
+  progress: consq.set 0

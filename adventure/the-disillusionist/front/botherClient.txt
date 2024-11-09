@@ -1,0 +1,9 @@
+id: botherClient
+title: Visit the client
+'''
+Is there something you need from Mrs. Brown? Or are you just hoping to inspect the scene of
+the crime?
+'''
+active:
+  bother: (quality) -> if not quality.value then true else
+    'You have already bothered Mrs. Brown today. Try again tomorrow.'

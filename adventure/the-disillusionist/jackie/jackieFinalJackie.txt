@@ -1,0 +1,28 @@
+id: jackieFinalJackie
+title: Honesty is always the best policy
+'''
+You leave her screaming obscenities after you as you leave. If she's smart, she'll be packing
+up and covering her trail again before Jackie arrives.
+
+You drive straight to Jackie's and spill the beans. He almost runs out before he has time to
+pay up. You drag him back to reality and he hurriedly dumps a huge file on your lap before
+ushering you out and racing towards the suburb where a very awkward shouting match awaits.
+
+The file explains that Mr. Brown's concerns were as old as time, the bread and butter of the
+sleuthing trade: He thought his wife was cheating on him. Jackie had been gathering photos and
+info for two weeks before Mr. Brown disappeared and the whole file became worthless. And
+judging by the contents, Mr. Brown was right to be worried. Mrs. Brown apparently has some
+very specific interests that were going very unfulfilled by Mr. Brown. Could she be more
+involved than she's letting on? Or, alternatively, could one of the other people pictured be
+behind this?
+'''
+consequences:
+  evidence: consq.increase 1
+  lead: (quality) ->
+    quality.value = undefined
+    'Your current lead has ended.'
+  jackie: (quality) ->
+    quality.value = 3
+    'You found Jackie\'s partner for him.'
+  progress: consq.set 0
+

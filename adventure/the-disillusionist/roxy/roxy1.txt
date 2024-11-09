@@ -1,0 +1,30 @@
+id: roxy1
+title: Pursue Roxy the gangster
+'''
+No operation as large as Roxy's can avoid leaving a trail behind.
+'''
+choices: [
+  choice 'roxy1Bluebacks',
+    'Pay off low-level scum'
+    'The lowest man on the totem pole is usually the most willing to trade money for secrets.'
+    visible:
+      progress: reqs.lt 5
+    active:
+      bluebacks: reqs.gte 3
+  choice 'roxy1Hunch',
+    'Look for unusual illusions'
+    '''
+    A wizard like Roxy is bound to be using huge numbers of illusions to cover up her
+    operations.
+    '''
+    visible:
+      progress: reqs.lt 5
+    active:
+      illusionHunch: reqs.gte 1
+  choice 'roxy1Solve',
+    'Aha!'
+    'You\'ve pieced together enough to find her!'
+    active:
+      progress: reqs.gte 5
+]
+

@@ -1,0 +1,10 @@
+id: cop1Bluebacks
+title: Pay for info
+'''
+You find a few people who saw the body before it was moved or saw it being moved. Whoever it
+was has them too scared to name names, but you can feel your net closing.
+'''
+consequences:
+  bluebacks: consq.decrease 3
+  progress: consq.increase 1
+

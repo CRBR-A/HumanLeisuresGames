@@ -1,0 +1,10 @@
+id: employer1CantripUp
+title: Buy a round of drinks
+'''
+You meet many interesting people working the crowd. Some seem like they have potential. Others
+are more than happy to talk about their friends and acquaintances.
+'''
+consequences:
+  cantripUp: consq.decrease 3
+  progress: consq.increase 1
+

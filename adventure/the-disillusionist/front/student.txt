@@ -1,0 +1,9 @@
+id: student
+title: Research the seasonal symposium
+'Ms. Denotto needs to know about her competition and the judges.'
+visible:
+  lead: reqs.eq leads.student
+next: (student) ->
+  switch student
+    when 1 then 'student1'
+          

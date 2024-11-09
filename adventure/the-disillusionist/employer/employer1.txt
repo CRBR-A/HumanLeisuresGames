@@ -1,0 +1,32 @@
+id: employer1
+title: Headhunt for KB&S
+'''
+You know better than to ask what Kimble, Battherwhite, and Smith want with these very
+specific people, but everything you can imagine fills you with dread. Better get this over
+with.
+'''
+choices: [
+  choice 'employer1CantripUp',
+    'Buy a round of drinks'
+    'Being liberal with Cantrip-Up always brings people running.'
+    visible:
+      progress: reqs.lt 7
+    active:
+      cantripUp: reqs.gte 3
+  choice 'employer1Hunch',
+    'Use your hunches'
+    '''
+    They want a hypnotist. Since you have hypnotism hunches, maybe that's the lead to
+    start with.
+    '''
+    visible:
+      progress: reqs.lt 7
+    active:
+      hypnotismHunch: reqs.gte 1
+  choice 'employer1Solve',
+    'Aha!'
+    'You\'ve actually found what they\'re looking for!'
+    active:
+      progress: reqs.gte 7
+]
+      

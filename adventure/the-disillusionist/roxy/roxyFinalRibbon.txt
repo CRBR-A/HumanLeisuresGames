@@ -1,0 +1,17 @@
+id: roxyFinalRibbon
+title: A magic ribbon
+'''
+Once safely back in your office, you confirm what you already suspected. The ribbon is a charm
+against illusions, inscribed with a spell of protection. It isn't the evidence in the case
+that you were looking for, but it should be very useful in continuing your investigation.
+'''
+consequences:
+  inscribedRibbon: consq.increase 1
+  lead: (quality) ->
+    quality.value = undefined
+    'Your current lead has ended.'
+  roxy: (quality) ->
+    quality.value = 4
+    'You stole a ribbon from Roxy Malone\'s hideout.'
+  progress: consq.set 0
+

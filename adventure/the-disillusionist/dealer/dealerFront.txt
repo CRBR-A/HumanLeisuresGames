@@ -1,0 +1,26 @@
+id: dealerFront
+title: A dealer in rarities
+'''
+Despite your having earned enough of his respect to get into his shop, the dealer still fixes
+you with a wary glare.
+
+"Well, go on. What is it you want?"
+'''
+choices: [
+  choice 'dealerRibbon',
+    'Trade an inscribed ribbon'
+    undefined
+    active:
+      inscribedRibbon: reqs.gte 1
+  choice 'dealerSealbone',
+    'Trade a sealbone trinket'
+    undefined
+    active:
+      sealboneTrinket: reqs.gte 1
+  choice 'dealerCarnelian',
+    'Trade a veiny carnelian'
+    undefined
+    active:
+      veinyCarnelian: reqs.gte 1
+]
+      

@@ -1,5 +1,5 @@
 id: solve7-roxy
-title: A fate resolved'
+title: A fate resolved
 '''
 The gunshot rings across the parlor, drowning out all other noise. Blood begins to spread
 across Mr. Brown's body, soaking into the wall behind him. Your boxer stumbles backwards in
