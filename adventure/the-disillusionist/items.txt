@@ -11,8 +11,21 @@
 | student  | Ms. Denotto       | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
 | roxy     | Roxy              | [ ] [ ] [ ] [ ] [ ]         |
 
-| day | Day #{@value} of the Investigation" |
-| evidence           | Evidence | Gather enough of this to solve the case! |
+| day | Day #{@value} of the Investigation |
+| Evidence | Gather enough of this to solve the case! |
+
+
+
+    ## Primary Resources
+
+| Bluebacks   | Magical counterfeit-proof bills. They're actually more of an iridescent black |
+| Cantrip-Up  | The beverage of mages. Contains concentrated warpweft that mildly enhances magical powers |
+| Rumor       | Good, old-fashioned gossip. Juicy secrets that lose their value once spread        |
+| Caged Demon | Demonology is illegal, but harvesting these from old battlefields is a public service |
+
+| bother  | You have already bothered your client today |
+| Advance | You have gotten an advance on your payment |
+| Dealer Card | It gives an address and a password to contact the Rarities Dealer with |
 
 | Hunch         | Aptitude                                |
 | ------------- | --------------------------------------- |
@@ -20,71 +33,45 @@
 | Hallucination | Spot nonexistant things                 |
 | Hypnotism     | Notice when others are being controlled |
 
+| You were | You were       | +Hunch, per day  |
+| -------- | -------------- | ---------------- |
+|    [ ]   | an illusionist | +1 Illusion      |
+|    [ ]   | a hallucinist  | +1 Hallucination |
+|    [ ]   | a hypnotist    | +1 Hypnotism     |
 
-
-    ## Primary Resources
-
-| Bluebacks | Magical counterfeit-proof bills. They're actually more of an iridescent black |
-| Cantrip-Up | The beverage of mages. Contains concentrated warpweft that mildly enhances magical powers |
-| Rumor | Good, old-fashioned gossip. Juicy secrets that lose their value once spread                  |
-| Caged Demon | Demonology is illegal, but harvesting these from old battlefields is a public service |
-
-    ## Special Items
-
-    quality 'jackie',
-      () ->
-        switch @value
-          when 1 then 'Mr. Brown hired a private eye before his disappearance'
-          when 2 then 'Jackie has asked you to find his partner'
-          when 3 then 'You found Jackie\'s partner for him'
-          when 4 then 'You found Jackie\'s partner but decided to keep it quiet'
-      '!!ERROR!!', undefined
-
-    quality 'kbs',
-      () ->
-        switch @value
-          when 1 then 'You are headhunting for KB&S'
-          when 2 then 'You found an ecclectic crew for KB&S'
-      '!!ERROR!!', undefined
-
-    quality 'cop',
-      () ->
-        switch @value
-          when 1 then 'You are searching for a body'
-          when 2 then 'You found a body, but whose?'
-      '!!ERROR!!', undefined
-
-    quality 'student',
-      () ->
-        switch @value
-          when 1 then 'You are helping a student survive'
-          when 2 then 'You helped a student survive the seasonal symposium'
-      '!!ERROR!!', undefined
-
-    quality 'roxy',
-      () ->
-        switch @value
-          when 1 then 'Roxy Malone wants Mrs. Brown out of town'
-          when 2 then 'You\'ve narrowed down the places Roxy could be'
-          when 3 then 'You stole some letters from Roxy\'s hideout'
-          when 4 then 'You stole a ribbon from Roxy\'s hideout'
-      '!!ERROR!!', undefined
-
-    ## Incidental Deatails
-
-| bother  | You have already bothered your client today |
-| Advance | You have gotten an advance on your payment |
-| Dealer Card | It gives an address and a password to contact the Rarities Dealer with |
-
-| You were       | Hunch, per day   | You were |
-| -------------- | ---------------- |
-| an illusionist | +1 Illusion      | [ ]      |
-| a hallucinist  | +1 Hallucination | [ ]      |
-| a hypnotist    | +1 Hypnotism     | [ ]      |
-
-| Item             | Hunch, per day   |
+| Item             | +Hunch, per day  |
 | ---------------- | ---------------- |
 | Inscribed Ribbon | +1 Illusion      |
 | Sealbone Trinket | +1 Hallucination |
 | Veiny Carnelian  | +1 Hypnotism     |
+
+    ## Special Items
+
+| - | Jackie 
+| 1 | Mr. Brown hired a private eye before his disappearance  |
+| 2 | Jackie has asked you to find his partner                |
+| 3 | You found Jackie's partner for him                      |
+| 4 | You found Jackie's partner but decided to keep it quiet |
+
+
+| - | kbs 
+| 1 | You are headhunting for KB&S
+| 2 | You found an ecclectic crew for KB&S
+
+| - | cop
+| 1 | You are searching for a body  |
+| 2 | You found a body, but whose?
+
+
+|   | student                                             |
+| 1 | You are helping a student survive                   |
+| 2 | You helped a student survive the seasonal symposium |
+
+
+| - | roxy                                          |
+| 1 | Roxy Malone wants Mrs. Brown out of town      |
+| 2 | You've narrowed down the places Roxy could be |
+| 3 | You stole some letters from Roxy's hideout    |
+| 4 | You stole a ribbon from Roxy's hideout        |
+ 
 
