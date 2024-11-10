@@ -1,0 +1,15 @@
+drink: 
+  if !bottle:
+    Calm down, you party animal. You don't have anything to drink.
+  if bottle:
+    You drink all of the liquor in the bottle and
+		now feel inebriated. You lose 1 health point!
+    bottle-
+heal:
+  if !bottle: You have nothing to heal yourself with!
+  if bottle and health<3:
+    You rip off a piece of cloth from your shirt and
+		apply alcohol on it. You then wrap the cloth around
+		your wound. You heal yourself by 1 point!
+    bottle-
+  if bottle and health=3: Your health is already full.

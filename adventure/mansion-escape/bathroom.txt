@@ -1,0 +1,23 @@
+id: bathroom
+look: 
+  You are in the bathroom...
+  The window to the outside is in front of you,
+  and it looks like it could be opened easily.
+  if !pipe: There is a leaky faucet pipe under the sink to your left.
+  if pipe: You already picked up the pipe here. 
+go:
+  north:
+    if !pipe: "You raise the window and climb outside. (outside)
+    if pipe: 
+      You smash the window open, thinking it would be cool
+      like in the movies, but you get a few cuts on your
+      hand. It's not a big deal, though and you climb out
+      of the mansion.
+      (outside) 
+	east: There is nowhere for you to go.
+  south: You walk back into the master bedroom. (bedroom)
+  west: There is nowhere for you to go.
+take:
+  if !pipe: You pick up the pipe.
+  if pipe: There is nothing to take
+attack: Attack what?

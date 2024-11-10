@@ -1,0 +1,10 @@
+- **Title** : Mansion Escape
+- **Description** : A basic text adventure game written in OO Java
+- **Author** : Liz Berberena, Jack Davitt, Shazia Mansuri, Simran Nanwani and Huda Yousef
+- **Language**: Java
+- **Website** : https://github.com/soltk/oop-text-adventure
+- **License** : CC0 license
+- **Source** : https://github.com/soltk/oop-text-adventure
+- **Last update** : Dec 12, 2020
+- **Modifications** : 
+  - removed files, except : "LICENSE", "README.MD" and the JAVA (sources) files. 

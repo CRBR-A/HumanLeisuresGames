@@ -1,0 +1,52 @@
+id: kitchen
+look:
+  if enemy1:
+    You are in the kitchen...
+    The stench of putrid raw meat fills your nostrils and
+    you struggle to hold back vomit while in here. A
+    hideous-looking creature from across the room is
+    eyeing you dangerously, chunk of meat in its paws.
+    Behind it, you can see a glittering key.
+  if !enemy1 and !keyHall:
+    You are back in the kitchen...
+    The stench of putrid raw meat fills your nostrils and
+    you struggle to hold back vomit while in here. The
+    corpse of the monster you killed is laying there
+    motionless. You can see a glittering key behind
+    it.
+  if keyHall:
+    You are back in the kitchen...
+    The stench of putrid raw meat fills your nostrils and 
+    you struggle to hold back vomit while in here. The
+    corpse of the monster you killed is laying there
+    motionless. 
+    You already collected the key you wanted.
+go
+  north: There is nowhere for you to go.
+  east:
+    if !enemy and bottle:
+			You foolishly approach the beast without a weapon! It tries to
+      maul you to death.
+      enemy attack (0 to 3)
+      if health=0
+        endingD
+			if health>0:
+				There was a slim chance you would survive, but you did!
+        You received X damage!
+				The enemy was slain!
+    if !enemy and !bottle: The ferocious monster is blocking your path.
+    if enemy: There is nowhere for you to go.
+	south: There is nowhere for you to go.
+	west: You go west back to the bar. (BAR)
+take:
+	if enemy1 and !keyHall:
+    You see a key on the floor behind your enemy. The enemy will not let you pass!
+	if !enemy1 and !keyHall:
+    You step around your defeated enemy and pick up the key.
+	if !enemy1 and keyHall: There is nothing to take.
+attack
+	if !bottle: Attack with what?
+  if bottle:
+    You attack the enemy with the bottle, and it shatters!
+    The beast has been slain!
+    bottle-

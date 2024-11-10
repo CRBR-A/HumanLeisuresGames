@@ -1,0 +1,24 @@
+id: bar
+look:
+  if !flashlight:
+    You are in the bar.
+    As you scan the room, you can see a flashlight on the 
+    counter next to a bottle of liquor. You're feeling thirsty, 
+    and the flashlight can also come in handy to navigate the 
+    dark. What would you like to do?
+  if flashlight:
+    You are back at the bar... 
+    You already picked up the flashlight and bottle that were
+    on the counter.
+go:
+  north: There's nothing in that direction.
+  east: You walk east into the kitchen. (kitchen)
+  south: There's nothing in that direction.
+  west: You go west back to the lobby. (lobby)
+take:
+  if !flashlight:
+    You pick up the flashlight and the bottle of liquor.
+    +flashlight
+    +bottle
+  if flashlight: There is nothing to take.
+attack: Attack what?

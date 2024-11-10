@@ -1,0 +1,33 @@
+id: lobby
+look:
+  if !flashlight:
+    You are inside the lobby of a haunted mansion... 
+    You're not sure how you got here, but the door
+    behind you is bolted shut. There is no turning back now.
+    It's pitch dark, but you can see a faint light coming 
+    from the east of where you're standing. 
+  if flashlight & !keyCar:
+    You are back in the mansion lobby...
+    You can see a glittering key lying on the corner
+    table to the north of you, and locate a dark
+    hallway to the west. You are not sure where it leads. 
+  if flashlight & keyCar:
+    You are back in the mansion lobby...
+    You already picked up the car keys here.
+go:
+  north: There's nothing in that direction.
+  east: You walk east towards the light. (BAR)
+	south: The entrance door is locked. You can't leave, but how did you get here?
+  west:
+    if !flashlight: It's too dark to see that far.
+    if flashlight and !keyHall: The door to the hallway is locked. You need a key.
+    if flashlight and keyHall: 
+			You successfully unlocked the door to the hallway! You proceed west.
+      The long dark passageway scares you into grabbing the nearest
+      unlocked door to your right which leads to the master bedroom.
+			(BEDROOM)
+take
+	if !flashlight: You feel around for the key but cannot find it in the dark.
+	if flashlight and !keyCar: You take the keys.
+	if flashlight and keyCar: There is nothing to take.
+attack: Attack what?

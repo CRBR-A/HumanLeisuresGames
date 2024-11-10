@@ -1,0 +1,24 @@
+id: bedroom
+look:
+  You are in the master bedroom... 
+  There is a question on the door to the bathroom.
+  The question must be answered correctly for you to 
+  get into the bathroom. The question on the door reads
+  'What color is a ghost? Be alert. (this totally isn't 
+  foreshadowing btw)' W-what? What an unsettling statement.
+  At least, it's an easy question.
+go
+  north: 
+    You must answer the question first to enter the bathroom.
+    What color is a ghost?
+    if "white":
+      You hear a click, and the door opens. You pass through to the bathroom.
+			(bathroom)
+ east:
+   You walk back into the hallway and to the lobby
+   because it gives you the creeps.
+   (lobby)
+  south: There's nothing in that direction.
+  west: There's nothing in that direction.
+take: There is nothing to take.
+attack: Attack what?

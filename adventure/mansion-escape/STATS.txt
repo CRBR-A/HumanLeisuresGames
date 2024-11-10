@@ -1,0 +1,21 @@
+player:
+  health: 3
+  attack: 0-3
+  inventory: 			
+    - Flashlight
+    - Bottle
+    - Faucet Pipe
+    - Car Keys
+    - Hallway Keys
+
+enemy:
+  health: 3
+  attack: 0-3
+  
+Rooms:
+  LOBBY 1
+  BAR 2
+  KITCHEN 3 (+enemy #1)
+  BEDROOM 4
+  BATHROOM 5
+  OUTSIDE 6 (+enemy #2)

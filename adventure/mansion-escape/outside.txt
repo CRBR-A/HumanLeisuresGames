@@ -1,0 +1,23 @@
+id: outside
+look:
+  You jumped out the bathroom window, fear numbing the pain
+  of the fall. You are outside the mansion at last,
+  but there's a shadowy figure blocking you from moving
+  forward to the car you can see in the distance.
+go:
+  north:
+    Without any weapon, you foolishly charge at the shadow.
+
+      The shadow disappears into thin air and you are left standing in front of a white car.
+    if !enemy2 and !keyCar: ending2
+    if !enemy2 and keyCar: ending3
+     
+	east: There is a fence you cannot climb.
+  south: Jagged glass prevents you from climbing back into the window.
+  west: There is a fence you cannot climb.
+attack:
+  if !pipe: Attack with what?
+  if pipe:
+    You run at the shadowy figure and strike it with the metal pipe!
+    You successfully defeated the shadow!
+    
