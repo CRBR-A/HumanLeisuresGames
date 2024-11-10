@@ -1,0 +1,5 @@
+description: Family-oriented paper RPG
+author: James Milne
+url: https://git.sr.ht/~shakna/littledungeons
+license: CC0-1.0
+modification: yes, using tables for simplicity
