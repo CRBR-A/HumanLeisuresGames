@@ -1,0 +1,23 @@
+id: castle
+look:
+  You are standing inside a magnificent, opulent castle.
+  A staircase leads to the upper levels, but unfortunately
+  it is currently blocked off by rusty delivery crates.
+  A large wooden door leads outside to the west, and a small
+  door leads south. There is a guard here.
+  if !carrot and !password:
+    There is a carrot here.
+go:
+  north: You cannot go that way.
+  south: 
+    if !password:
+      The guard stops you and says "Hey, you cannot go in there
+      unless you tell me the password!".
+    if password: treasury
+  east: You cannot go that way.
+  west: Outside
+take: 
+  if !carrot: You pick up the carrot.
+use:
+  if password: 
+    The guard says "Welcome Sire!" and beckons you to enter the treasury.

@@ -1,0 +1,7 @@
+Title: Adventure
+Description: A simple text adventure game written in Rust
+Author: Andrew Apted
+Website: https://github.com/andwj/
+License: CC0 license
+Source: https://github.com/andwj/adventure
+Last update: Sep 1, 2017

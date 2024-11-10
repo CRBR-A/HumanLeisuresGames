@@ -1,0 +1,6 @@
+id: ending
+look:
+  With your good health and new-found wealth, you live
+  happily ever after (well... about 50 years or so).
+
+  Congratulations, you solved the game!

@@ -1,0 +1,18 @@
+id: outside
+look:
+  The forest is thinning off here.  To the east you can see a
+  large castle made of dark brown stone.  A narrow path leads
+  back into the forest to the west.
+go:
+  north: You cannot go that way.
+  south: You cannot go that way.
+  west: Forest
+  east: 
+    if !key: The castle door is locked!
+    if key: Castle.txt
+take: nothing to take here.
+use: 
+  if key: 
+    Carefully you insert the rusty old key in the lock, and turn it.
+    Yes!! The door unlocks! However the key breaks into several
+    pieces and is useless now.

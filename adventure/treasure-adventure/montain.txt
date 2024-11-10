@@ -1,0 +1,12 @@
+id: mountain
+look:
+  You are standing on a large grassy mountain.
+  To the north you see a thick forest.
+  Other directions are blocked by steep cliffs.
+go:
+  north: Forest
+  south: You cannot go that way.
+  east: You cannot go that way.
+  west: You cannot go that way.
+take: Nothing to take here.
+use: nothing to use here.

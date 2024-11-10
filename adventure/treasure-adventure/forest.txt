@@ -1,0 +1,28 @@
+id: forest
+look: 
+  You are in a forest, surrounded by dense trees and shrubs.
+  A wide path slopes gently upwards to the south, and
+  narrow paths lead east and west.
+  There is a parrot here.
+  if !crocodile: There is a crocodile here.
+go: 
+  north: You cannot go that way.
+  south: Mountain
+  west: Lake
+  east: 
+    if !crocodile: A huge, scary crocodile blocks your path!
+    if crocodile: outside
+take: 
+  crocodile: Are you serious? The only thing you would get is eaten!
+  parrot: The parrot nimbly evades your grasp.
+use:
+  if crocodile and steak :
+    You hurl the steak towards the crocodile, which suddenly
+    snaps into action, grabbing the steak in its steely jaws
+    and slithering off to devour its meal in private.
+    crocodile-
+  if parrot and carrot:
+    The parrot happily starts chewing on the carrot. Every now
+    and then you hear it say "piehole" as it munches away.
+    I wonder who this parrot belonged to??
+    password+

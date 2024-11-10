@@ -1,0 +1,16 @@
+id: lake
+look: 
+  You stand on the shore of a beautiful lake, soft sand under
+  your feet. The clear water looks warm and inviting.
+  if !steak: There is a steak here.
+go: 
+  north: You cannot go that way.
+  south: You cannot go that way.
+  east: Forest
+  west: You cannot go that way.
+take: nothing to take.
+use: 
+  if !key:
+    You dive into the lake, enjoy paddling around for a while.
+    Diving a bit deeper, you discover a rusty old key!
+  if key: You enjoy a nice swim in the lake.

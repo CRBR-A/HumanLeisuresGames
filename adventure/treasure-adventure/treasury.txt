@@ -1,0 +1,13 @@
+id: treasury
+look: 
+  Wow! This room is full of valuable treasures. Gold, jewels,
+  valuable antiques sit on sturdy shelves against the walls.
+  However...... perhaps money isn't everything??
+go:
+  north: Castle
+  south: You cannot go that way.
+  east: You cannot go that way.
+  west: You cannot go that way.
+take:
+  You pick up the treasure. -ending.txt
+use: nothing to use here.
