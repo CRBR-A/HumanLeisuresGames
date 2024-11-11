@@ -1,0 +1,38 @@
+| Dices | Potions |
+| ---- | ---- |
+| 11 | Blowfish: Makes you buoyant in water, but you can only move with the current. |
+| 12 | Sticky: Adheres any two things together, but is very difficult to apply. |
+| 13 | Firefly: Makes your abdomen blink, but also attracts bugs. |
+| 14 | Lies: Makes you unable to tell the truth, but you can't tell when others are lying. |
+| 15 | Mixed Visions: Shows you two false and one true vision of the future, but gives you a massive headache. |
+| 16 | Cowardice: Forces whoever it hits to run away, but they're emboldened when they return. |
+| 21 | Illusory Form: Gives you the appearance of another member of your race, but only from the front. |
+| 22 | Slipperiness: Makes an area incredibly slippery, but the bottle itself is also very slippery. |
+| 23 | Blinding: Removes the target's sight, but is incredibly difficult to apply without affecting yourself. |
+| 24 | Giantvoice: Allows you to project your voice over great distances, but you lose your voice after. |
+| 25 | Strength: Makes you as strong as a bear, but you're completely exhausted afterwards. |
+| 26 | Speed: Makes you as fast as a horse, but has a very short-term effect. |
+| 31 | Terror: Creates a nightmarish illusion where the potion is spilled, but it's your own nightmare. |
+| 32 | Firebreath: Lets you breathe flames like a dragon, but torches your gear, too. |
+| 33 | Spiderlegs: Gives you legs like a spider allowing you to climb walls, but makes you voraciously hungry. |
+| 34 | Portable Doorway: Breaks against a wall to make an instant hole, but disappears very quickly. |
+| 35 | Speedy: Doubles your speed, but it's very, very difficult to stop. |
+| 36 | Blur: Gives a defense against arrows, but you randomly teleport nearby when you use the defense. |
+| 41 | Dalgeth's Brew: Makes everything the drinker hears sound disingenuous, but they're aware afterwards. |
+| 42 | Squallsight: Lets you establish a fact about the weather, but angers nearby wildlife. |
+| 43 | Turnheart: Causes the drinker to rethink their current goal, but all distrust you while you carry it. |
+| 44 | Wizardwick: Pulls magic towards its flames, containing it, but the bundled magic is highly unstable. |
+| 45 | Mindwall: Gives you a defense against enchantment, but you're vulnerable after using the defense. |
+| 46 | Snakejaw: Lets you swallow anything up to your own size without hindering you, but it tastes terrible. |
+| 51 | Invisibility: Makes you completely invisible, but you blink back into sight when you touch something. |
+| 52 | Tongues: Lets you speak another language fluently for a while, but you can't understand it. |
+| 53 | Ratsize: Shrinks you to the size of a rat, but you smell like prey. |
+| 54 | Mimic: Turns you into a carnivorous version of an object, but you only vaguely know how long it lasts. |
+| 55 | Earbug: Lets you understand another language for a while, but you can't speak it. |
+| 56 | Freeshade: Releases your shadow as a temporary minion, but it doesn't want to rejoin you later. |
+| 61 | Animal Form: Turns you into an animal, but you gain an appropriate dark impulse during it. |
+| 62 | Quickmend: Removes both bloodied and ***MUSCLES*** shock, but gives ***BRAINS*** shock. |
+| 63 | Mooncurse: Turns someone into a werewolf for one full moon, but wolves are hostile while you carry it. |
+| 64 | Expertise: Gives a single action a 3d rating for a short time, but you take -1d to all other actions during it. |
+| 65 | Intangible: Lets you float and move through walls, but doesn't wear off until recovery. |
+| 66 | Ironskin: Makes your skin as tough as iron, but you move incredibly slowly. |

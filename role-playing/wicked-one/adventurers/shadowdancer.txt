@@ -1,0 +1,36 @@
+The Shadowdancer
+
+No two dungeons are alike, yet they all have one thing
+in common - a plethora of shadowy recesses. Those
+recesses are a playground for the shadowdancer,
+who is able to teleport between shadows. The brief
+glimpses to be had of her in combat reveal a graceful
+dance that leaves her opponents dying for more.
+
+The shadowdancer is CLEVER, but IMPATIENT.
+She seeks THRILLS on adventures.
+
+PASSIVE:
+Can teleport between shadows.
+
+OFFENSIVE MOVES:
+- dance of death
+- shadowstrike
+- deeper shadows
+
+DEFENSIVE MOVES:
+- shadowform
+- dance away
+- shadowstep
+
+POSSIBLE LOOT:
+Depending on your luck, you might find her to be
+carrying rhythmic daggers, a light-banishing cape, a
+muffling mask, a shadow bomb, lenses of day-sight,
+gloves of umbral grasp, sonata sandals, or tattered
+children's ballet slippers.
+
+LAST WORDS:
+When broken, she might spill her guts about a
+place where shadows lead deeper or when the
+princess has dance practice.

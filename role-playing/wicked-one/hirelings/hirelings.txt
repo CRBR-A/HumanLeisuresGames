@@ -1,0 +1,179 @@
+Archer
+- Passive: Has great range with a bow.
+- Move1: precise shot
+- Move2: warning shot
+
+Boatman
+- Passive: Understands flowing water well.
+- Move1: ramming speed
+- Move2: evasive maneuvers
+
+Burglar
+- Passive: Is fantastic at picking locks.
+- Move1: distraction
+- Move2: keen eyes
+
+Carpenter
+- Passive: Understands wooden structures well.
+- Move1: build obstruction
+- Move2: collapse structure
+
+Cook
+- Passive: Allies begin any fight in great spirits.
+- Move1: frying pan smash
+- Move2: pepper toss
+
+Butcher
+- Passive: All creatures take -1d.
+- Move1: tendon slice
+- Move2: take the hit
+
+Chronicler
+- Passive: Can recall obscure, but relevant info.
+- Move1: grand story
+- Move2: splash ink
+
+Cartographer
+- Passive: Starting location rolls take -1d.
+- Move1: shortcut
+- Move2: toss papers in the air
+
+Driver
+- Passive: Is great at controlling animals.
+- Move1: run them over
+- Move2: outrun pursuit
+
+Farmhand
+- Passive: Understands farm animals well.
+- Move1: calm an animal
+- Move2: animal call
+
+Fisherman
+- Passive: Understands aquatic animals well.
+- Move1: place bait
+- Move2: throw a net
+
+Footman
+- Passive: Fights very well with nearby allies.
+- Move1: charge
+- Move2: absorb blow
+
+Forester
+- Passive: Can move quickly through forests.
+- Move1: axe throw
+- Move2: duck into bushes
+
+Inventor
+- Passive: Has three contraptions.
+- Move1: rig a trap
+- Move2: spring boots
+
+Footpad
+- Passive: Has a good eye for sneaky monsters.
+- Move1: ambush
+- Move2: disappear into foliage
+
+Guide
+- Passive: Excels at pathfinding.
+- Move1: double back
+- Move2: detect trick
+
+Guard
+- Passive: Can take the hits for those nearby.
+- Move1: threats
+- Move2: shield block
+
+Linguist
+- Passive: Can speak the Dark Tongue.
+- Move1: surprising insult
+- Move2: confusing riddle
+
+Locksmith
+- Passive: All locks take -1d.
+- Move1: jam a lock
+- Move2: try a different tool
+
+Lumberjack
+- Passive: Can cleave through armor.
+- Move1: fell a tree
+- Move2: climb a tree
+
+Mercenary
+- Passive: Has a knack for always surviving.
+- Move1: break a weapon
+- Move2: kick dirt
+
+Miner
+- Passive: Can find alternate dungeon entrances.
+- Move1: break through wall
+- Move2: collapse tunnel
+
+Rat Catcher
+- Passive: Understands pests and vermin well.
+- Move1: deploy trap
+- Move2: keen ears
+
+Messenger
+- Passive: Excels at getting away.
+- Move1: running leap
+- Move2: back away
+
+Priest
+- Passive: Nearby allies are immune to fear.
+- Move1: bolster allies
+- Move2: sanctuary spell
+
+Pathfinder
+- Passive: Pathfinding rolls take -1d.
+- Move1: confuse pursuers
+- Move2: duck under cover
+
+Rider
+- Passive: Highly dangerous while mounted.
+- Move1: trample
+- Move2: horse jump
+
+Sailor
+- Passive: Can read the winds effectively.
+- Move1: rope swing
+- Move2: keep balance
+
+Sawbones
+- Passive: Can point out enemy weaknesses.
+- Move1: cut tendon
+- Move2: stem bleeding
+
+Scholar
+- Passive: Knows a wide array of esoteric info.
+- Move1: know a weakness
+- Move2: confusing fact
+
+Singer
+- Passive: Can bolster allies with a song.
+- Move1: soothe beast
+- Move2: shrill shriek
+
+Trader
+- Passive: Allies heal a full heart from tier 3 rooms.
+- Move1: bribe minions
+- Move2: toss coins
+
+Scribe
+- Passive: Takes notes on everything.
+- Move1: demanding letter
+- Move2: remember details
+
+Swordsman
+- Passive: Very skilled with a sword.
+- Move1: disarm
+- Move2: parry
+
+Spelunker
+- Passive: All hazards take -1d.
+- Move1: find a tunnel
+- Move2: confusing echoes
+
+Trapfinder
+- Passive: All traps take -1d.
+- Move1: break trap
+- Move2: avoid trap

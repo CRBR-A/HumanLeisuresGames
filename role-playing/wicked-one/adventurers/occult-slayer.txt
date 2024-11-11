@@ -1,0 +1,36 @@
+The Occult Slayer
+
+The occult slayer is a member of a small, elite sect of
+priests whose faiths have been honed into a weapon
+against that which goes bump in the night. Their
+esoteric monster knowledge, god-given sense for
+danger, and knack for always having the right gear
+help the occult slayers make the night safe again.
+
+The occult slayer is PERSISTENT, but DISHONEST.
+He seeks JUSTICE on adventures.
+
+PASSIVE:
+Has a sixth sense for danger.
+
+OFFENSIVE MOVES
+- know weakness
+- heartseeker
+- sense evil
+
+DEFENSIVE MOVES
+- outwit
+- wards and charms
+- last stand
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying a nightsight fedora, a pure silver emblem,
+an armless crossbow, holy water, a smudge stick, a
+sanctified trench coat, hallowing boots, or a child's
+drawing of a demon.
+
+LAST WORDS:
+When broken, he might spill his guts about his
+church's secret weapon, plans against a monster
+faction, or a newly arrived demonic cult.

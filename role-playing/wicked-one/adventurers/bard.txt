@@ -1,0 +1,36 @@
+The Bard
+
+With melody and wit as weapons, the bard can both
+amplify allies and deafen doers of evil. No slouch if
+backed into a corner himself, he's been known to use
+monster heads to practice percussion. In addition to
+the loot from dungeon delving, his purse swells from
+filling taverns with songs of his exploits.
+
+The bard is HELPFUL, but GREEDY.
+He seeks RICHES on adventures.
+
+PASSIVE:
+Makes all nearby allies perform better.
+
+OFFENSIVE MOVES:
+- deafening strum
+- musical commands
+- dancing tune
+
+DEFENSIVE MOVES:
+- distracting song
+- helpful words
+- melodic lies
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying an amplifying ascot, a returning dagger,
+a harmonic shortsword, a two-step tunic, a hat of
+effective fibs, an unfinished composition, or a lute
+with several goblin teeth rattling around inside.
+
+LAST WORDS:
+When broken, he might spill his guts about a
+ritual chant, a noble's weakness, or a guard's
+childhood lullaby.

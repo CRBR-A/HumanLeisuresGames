@@ -1,0 +1,36 @@
+The Scout
+
+The scout can be found pressing at the borders
+between the known and unknown. Such places are
+rife with danger, but with his uncanny sense of
+direction, keen eye for peril, and unerring precision,
+he invariably returns, eagerly awaited by those
+looking for tales from the frontiers of civilization.
+
+The scout is HELPFUL, but STUBBORN.
+He seeks EXPLORATION on adventures.
+
+PASSIVE:
+Excels at spotting traps and hazards.
+
+OFFENSIVE MOVES:
+- know the way
+- suppressive fire
+- trick shot
+
+DEFENSIVE MOVES:
+- warning shot
+- spot an exit
+- shoot terrain
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying a masterwork bow, an enchanted quiver,
+a ghillie suit, a clearsight helm, gloves of steady
+hand, an acid arrow, an explosive arrow, a grappling
+arrow, or softstep boots.
+
+LAST WORDS:
+When broken, he might spill his guts about a hard
+to reach treasure, hidden routes of travel, or a
+noble's plans for expansion.

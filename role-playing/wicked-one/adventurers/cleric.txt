@@ -1,0 +1,37 @@
+The Cleric
+
+If faith could buy rations, the cleric would never go
+hungry. Sadly, it doesn't, so he keeps his ear to the
+ground for evil wrongdoings that he can rectify and
+lives off of the loot and rewards. His actions tend to
+be dictated by the deity he follows, also making him
+a slippery opponent with help just a prayer away.
+
+The cleric is GENEROUS, but STUBBORN.
+He seeks JUSTICE on adventures.
+
+PASSIVE:
+Heals an ally a bit when they take a break.
+
+OFFENSIVE MOVES:
+- prayer of restoration
+- prayer of retribution
+- prayer of divine power
+
+DEFENSIVE MOVES:
+- prayer of guidance
+- prayer of shielding
+- prayer of sanctuary
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying a bottomless canteen, a penitent crook,
+worn prayer beads, a religious artifact, the scripture,
+a tambourine, a likeness of his deity, blessed boots,
+or a protective shawl.
+
+LAST WORDS:
+When broken, he might spill his guts about his
+place of worship, an obscene ritual, or a stash of
+golden idols.
+

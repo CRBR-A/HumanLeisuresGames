@@ -1,0 +1,38 @@
+| Dices | Calamity minor |
+| -- | -- |
+| 11 | Townsfolk with pitchforks show up to dispatch you. They're woefully unprepared. |
+| 12 | A single adventurer leading a few hirelings explore your dungeon. |
+| 13 | A room or two gets flooded in waist deep water. You lose the bonus from these rooms for a cycle. |
+| 14 | An aggressive wolf wanders into your dungeon looking for a place to sleep. |
+| 15 | The imps break one of the most important items in the dungeon as they transport it. |
+| 16 | An incredibly foul smell wafts through your dungeon, decreasing productivity until you find the source. |
+| 21 | One of your dungeon rooms becomes volatile, requiring you to pay cost to use it. |
+| 22 | The entrance has become overgrown with poison ivy, a fact you won't realize until you raid. |
+| 23 | A dark faction arrives at the dungeon demanding an immediate audience. |
+| 24 | The noise of beetles mating keeps you from sleeping. Everyone takes shock to BRAINS. |
+| 25 | Voracious plants sprout from the ceiling of a well-traveled hallway, looking for a meal. |
+| 26 | A small fire sets back a downtime project clock by 2 ticks. |
+| 31 | Your imps randomly dig a tunnel between two sensitive areas, connecting them. |
+| 32 | Brawling minions wreck a dungeon room, requiring repairs before it can be used (a tier 1 project). |
+| 33 | A creature devours a lot of imps and you lose the imp downtime action the next lurking phase. |
+| 34 | Imps constantly getting caught in a trap leads to it breaking. The trap loses a tier. |
+| 35 | A dark faction that had been friendly or neutral towards you becomes hostile. |
+| 36 | An imp writes the solution to one of your tricks on the wall so they don't forget. The trick loses a tier. |
+| 41 | A small earthquake breaks a potion or concoction in a PC's supply, immediately affecting them. |
+| 42 | A minion pack decides that it's had enough and deserts the dungeon. |
+| 43 | A minion pack loses one of its upgrades from something like an accident or gambling. |
+| 44 | A minion pack left the dungeon and raided a small farm. Roll minor blowback instead. |
+| 45 | A PC falls into a liquid or is hanging deep in a hole off a ledge. Start a 4-segment clock: Die. |
+| 46 | Two minion packs start feuding. If nothing is done soon, they'll kill each other. |
+| 51 | Holes open up in the ground along one of your tunnels, turning it into a hazard. |
+| 52 | A bridge or other simple structure collapses, bloodying a minion pack. |
+| 53 | An ambush awaits you as you head out of your dungeon entrance on your next raid. |
+| 54 | One of your locks completely breaks, but you won't realize it until during the next invasion. |
+| 55 | One of your creatures roams the halls until it finds a creature or minion and devours them. |
+| 56 | A wall collapses burying one of the Wicked Ones under it. Start a 4-segment clock: Suffocate. |
+| 61 | A lone dwarf thief tunnels directly into your sanctum while you're all sleeping. |
+| 62 | One of the imps shows you that a couple of minion packs are planning a hoard heist. |
+| 63 | A minion pack betrays a PC, ambushing them in an incredibly vulnerable position. |
+| 64 | A dark faction demands the return of some minions that belonged to them. |
+| 65 | The roof of a tunnel collapses, completely blocking off passage. |
+| 66 | Tremors cause a creature lair to collapse. The lair and creature lose a tier. |

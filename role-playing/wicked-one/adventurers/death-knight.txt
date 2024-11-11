@@ -1,0 +1,36 @@
+The Death Knight
+
+It's not only monsters that make use of darker
+magics. When paired with the martial prowess of a
+sired knight, the result terrifies good and evil alike.
+Little is known about the death knight except that
+his childhood was rife with loss at the hands of
+monsters. Now, his scythe rarely stops swinging.
+
+The death knight is PERSISTENT, but COCKY.
+He seeks VENGEANCE on adventures.
+
+PASSIVE:
+Heals when death occurs nearby.
+
+OFFENSIVE MOVES:
+- sense death
+- speak to dead
+- reaping strike
+
+DEFENSIVE MOVES:
+- shadow form
+- accept fate
+- face of death
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying a leering cowl, a spiked pauldron, plate
+mail of the departed, an orb of death detection, a
+culling scythe, shadowstride boots, a shallow-grave
+sash, or a charcoal rubbing of a tombstone.
+
+LAST WORDS:
+When broken, he might spill his guts about
+a sacred graveyard, a ritual of undeath, or the
+location of the soul prison.

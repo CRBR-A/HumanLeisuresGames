@@ -1,0 +1,37 @@
+The Buccaneer
+
+The buccaneer is well-traveled and accustomed
+to the finer things, largely thanks to goods from
+merchant vessels frequently finding their way onto
+her ship. Though frequently at sea, she always keeps
+her ear to the winds that fill her sail for rumors of
+riches to be had on land.
+
+The buccaneer is GENEROUS, but COCKY.
+She seeks RICHES on adventures.
+
+PASSIVE: 
+Is nearly impossible to pin down.
+
+OFFENSIVE MOVES:
+- swinging entrance
+- trigger trap shot
+- sleeping poison bolt
+
+DEFENSIVE MOVES
+- funny line
+- tuck and roll
+- fake injury
+
+POSSIBLE LOOT:
+Depending on your luck, you might find her to be
+carrying a scintillating scimitar, a hand crossbow,
+a wayfarer's waist belt, wavemaster boots, a vial
+of fake blood, a self-tying rope, sleep poison, or an
+unassembled ship in a bottle.
+
+LAST WORDS:
+When broken, she might spill her guts about
+buried treasure, a cove that leads deep under the
+city, or a sea leviathan's favorite snack.
+

@@ -1,0 +1,38 @@
+| Dices | Discovery mixed |
+| -- | -- |
+| 11 | Delicious glowing mushrooms line the walls of this tunnel, giving you a steady supply. |
+| 12 | A lake of bubbling acid fills the air in this cavern with noxious fumes. |
+| 13 | A swift river crashes into large, jagged rocks that form a less-than-reliable bridge. |
+| 14 | A buried cache left by bandits, giving you a shared supply of liquor and tobacco. |
+| 15 | A small creek of pure blood winding its way out of a wall, down a tunnel, and into another wall. |
+| 16 | This cavern is full of sentient fungi which devour magic, causing it to be severely weakened here. |
+| 21 | A meandering underground river full of large, aggressive salamanders. |
+| 22 | A cavern with a very high ceiling that creates enormous echoing effects, shaking your dungeon. |
+| 23 | A lake with a large, moving whirlpool which teleports anyone sucked in to a random spot in the dungeon. |
+| 24 | The ruins of an ancient shipwreck with zombie pirates inside. They can't leave the wreck. |
+| 25 | A cavern filled with crystals that send dazzling lights everywhere. |
+| 26 | An old prison with two of its locks rusted away and the skeletons of giants in the cells. |
+| 31 | A perfectly square room within which hang dozens of glowing magical spheres. |
+| 32 | An old gnome farm, complete with artificial lighting that gives you a steady supply of carrots. |
+| 33 | A round room with magnetic walls, making it incredibly difficult to move around inside it with metal. |
+| 34 | Throughout this long, winding tunnel, you can hear the mad whispers of the one that built it. |
+| 35 | A small system of tunnels that produce incredibly confusing echoes while within them. |
+| 36 | Ancient crypt tunnels with many tombs, some of which that have been broken into and looted. |
+| 41 | A slow-flowing river with a perfect fishing spot that gives you a steady supply of cavefish. |
+| 42 | An old storage room that's mostly underwater. Old crates and barrels float around within it. |
+| 43 | A small cavern with a very high ceiling that has been worn away by the geyser in the center of the room. |
+| 44 | A lava flow which extends from one side of the map to the other, along which travel magmin traders. |
+| 45 | A second entrance to your dungeon opens up in a relatively safe location. |
+| 46 | A hole lies in the center of this large cavern, from which freezing cold air flows in and creates snow. |
+| 51 | A series of tunnels filled with cracked mirrors lining the walls, confusing anyone who enters. |
+| 52 | Bags of opals litter the floor along this twisting tunnel, giving you a shared supply. |
+| 53 | A small cavern that is filled with a natural garden created with the sunlight shining in from above. |
+| 54 | A waterfall of mud cascading down the side of a large cavern, then flowing off to the edge of the map. |
+| 55 | A large waterfall emptying into a lake, creating rainbow patterns in the air when light hits it. |
+| 56 | A simple square room with a magical darkness in it so thick that no light can penetrate it. |
+| 61 | A cavern full of stalactites from which drip a glowing ooze that puddles below them. |
+| 62 | A zigzagging cavern full of holes in the walls from which smoke billows. |
+| 63 | A deep, dark hole that has a small shining light at the bottom of it. |
+| 64 | A maze of tunnels missing its long-dead minotaur. |
+| 65 | A two-way portal to a hidden, but mostly useless location within the region. |
+| 66 | A pit that seeps gases from the deep, ever-burning with a bright blue flame. |

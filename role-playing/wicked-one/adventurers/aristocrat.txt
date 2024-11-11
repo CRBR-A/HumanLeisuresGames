@@ -1,0 +1,37 @@
+The Aristocrat
+
+A paragon of high society, the aristocrat spends
+much of his time at elegant affairs and plotting his
+next political maneuvers. When he cannot solve a
+problem with his purse and must get his hands dirty,
+he does so with the masterful flick of his rapier and
+his sharpest weapon, his tongue.
+
+The aristocrat is CONFIDENT, but BRASH.
+He seeks RESPECT on adventures.
+
+PASSIVE :
+Excels at one-on-one combat.
+
+OFFENSIVE MOVES :
+- challenge to a duel
+- disarm opponent
+- biting remarks
+
+DEFENSIVE MOVES :
+- throw rapier
+- riposte
+- condescending look
+
+POSSIBLE LOOT :
+Depending on your luck, you might find him to
+be carrying velvet boots, an arrowproof cape, a
+dancing rapier, a charm potion, a lineage seal, keys
+to his personal safe, a snuff box, an engraved pocket
+watch, or a party invitation.
+
+LAST WORDS:
+When broken, he might spill his guts about royal
+secrets, hidden city entrances, or a valuable goods
+shipment.
+

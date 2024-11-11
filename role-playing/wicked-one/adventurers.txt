@@ -1,0 +1,38 @@
+| 2d6 | Adventurer |
+| --- | --- |
+| 11 | - |
+| 12 | - |
+| 13 | - |
+| 14 | - |
+| 15 | - |
+| 16 | Spark two hirelings |
+| 21 | Academic |
+| 22 | Alchemist |
+| 23 | Amazon |
+| 24 | Aristocrat |
+| 25 | Assassin |
+| 26 | Barbarian |
+| 31 | Bard |
+| 32 | Buccaneer |
+| 33 | Centurion |
+| 34 | Chaos Mage |
+| 35 | Cleric |
+| 36 | Death Knight |
+| 41 | Defender |
+| 42 | Druid |
+| 43 | Eldritch Warrior |
+| 44 | Illusionist |
+| 45 | Inquisitor |
+| 46 | Knight |
+| 51 | Lancer |
+| 52 | Mage Hunter |
+| 53 | Monk |
+| 54 | Occult Slayer |
+| 55 | Ranger |
+| 56 | Scout |
+| 61 | Shadowdancer |
+| 62 | Slinger |
+| 63 | Spellbow |
+| 64 | Templar |
+| 65 | Weaponsmith |
+| 66 | Wildling |

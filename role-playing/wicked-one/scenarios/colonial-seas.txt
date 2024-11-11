@@ -1,0 +1,179 @@
+#### Colonial Seas
+
+Group: Treasure Fleet 
+Level: 3
+Alignment: Light
+Info:
+  - Pressures for more gold
+  - Protects shipping lanes
+  - Demand gold from natives
+Objectives:
+  - medium: Plunder islanders
+  - long: Dispatch treasure ship
+
+Group: Port Windfall 
+Level: 4
+Alignment: Light
+Info:
+  - Regional power, oldest town
+  - Governess on her deathbed
+  - Want to avoid war
+Objectives:
+  - medium: Elect new governor
+  - long: Arrest pilevel captain
+
+Group: Harpies 
+Level: 1
+Alignment: Dark
+Info:
+  - Worship Iziza
+  - Sing sweet songs
+  - Despise trespassers
+Objectives:
+  - medium: Cause shipwreck
+  - long: Raid the firebreathers
+
+Group: Pilevel Crews 
+Level: 3
+Alignment: Light
+Info:
+  - Several pilevel captains
+  - Loosely working together
+  - Prey on the treasure fleet
+Objectives:
+  - long: Establish a pilevel town
+  - medium: Kidnap important figure
+
+Group: Firebreathers 
+Level: 3
+Alignment: Dark
+Info:
+  - Shabaz-worshipping kobolds
+  - Burn down settlements
+  - Empowered by volcano
+Objectives:
+  - short: Raid New Greylon
+  - long: Eruption (increase level)
+
+Group: New Greylon 
+Level: 3
+Alignment: Light
+Info:
+  - Pious townsfolk
+  - Loyal to the fort
+  - Spreading religion
+Objectives:
+  - short: Build defenses (+level)
+  - long: Armada arrives
+
+Group: Goblin Islanders 
+Level: 2
+Alignment: Dark
+Info:
+  - Heavily trapped forest
+  - Ride large apes
+  - Camouflaged skin
+Objectives:
+  - short: Move to a new island
+  - short: Kidnap New Greylonian
+
+Group: Fort Landing 
+Level: 4
+Alignment: Light
+Info:
+  - New presence in the region
+  - Highly expansionist
+  - Commander is insane
+Objectives:
+  - long: War with Port Windfall
+  - long: Destroy goblin islanders
+
+Group: Seabird Manor 
+Level: 1
+Alignment: Light
+Info:
+  - Original explorer of this area
+  - Retired pilevel captain
+  - Has a flying machine
+Objectives:
+  - long: Become Windfall governor
+  - short: Gather support (+level)
+
+Group: Condor Prince 
+Level: 1
+Alignment: Neutral
+Info:
+  - Magically awakened leader
+  - Hostile towards outsiders
+  - Hates colonizers
+Objectives:
+  - medium: Expand territory (+level)
+  - short: Feast on townsfolk
+
+Group: Port Bonanza 
+Level: 2
+Alignment: Light
+Info:
+  - Wild, gambling town
+  - Mayor is very corrupt
+  - Disobey Port Windfall
+Objectives:
+  - long: Peace with the pilevels
+  - long: Defect to New Greylon
+
+Group: Gnome Islanders 
+Level: 1
+Alignment: Neutral
+Info:
+  - Sun worshippers
+  - Practice witchcraft
+  - Doomsday cult
+Objectives:
+  - medium: Appease merfolk
+  - long: Eternal sunset ritual
+
+Group: Merfolk Kingdom 
+Level: 4
+Alignment: Neutral
+Info:
+  - Regularly feast on sailors
+  - See themselves as heroic
+  - Can speak the Dark Tongue
+Objectives:
+  - short: Lure in a ship
+  - long: Wrangle the leviathan
+
+Group: Forest Folk 
+Level: 2
+Alignment: Neutral
+Info:
+  - Mysterious fae creatures
+  - Live in the treetops
+  - Despise trespassers
+Objectives:
+  - long: Destroy the orc islanders
+  - long: Awaken the wind drake
+
+Group: Orc Islanders 
+Level: 2
+Alignment: Dark
+Info:
+  - Enemies of the forest folk
+  - Worship Talazar
+  - Brutal warriors, but dumb
+Objectives:
+  - medium: Fae hunt
+  - medium: Merfolk hunt
+
+## Likely Dungeon Locations
+
+- Skull mountain (top right)
+- Within the volcano (center left)
+- Lighthouse basement (top center)
+- Foothill forest (bottom right)
+
+## Questions
+
+- What is the leviathan that lives in these waters?
+- How long ago did civilized factions arrive?
+- Who originally built the skull mountain?

@@ -1,0 +1,36 @@
+The Ranger
+
+The ranger grew up in a nomadic forest tribe that
+bred and trained ferocious bears to be dangerous
+mounts. His people often encountered monsters,
+who also sought the cover of the dense forest, and
+became quite adept at combating evil. If his bolts
+don't end things, the bear's maulings surely will.
+
+The ranger is CLEVER, but IMPATIENT.
+He seeks EXPLORATION on adventures.
+
+PASSIVE:
+Has a loyal bear companion.
+
+OFFENSIVE MOVES:
+- bear charge
+- knockback shot
+- follow tracks
+
+DEFENSIVE MOVES:
+- prepared trap
+- outrun
+- bear shield
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying an enchanted crossbow, robes of shelter, a
+bear saddle, an easy-deploy foot snare, battle fever
+mushrooms, dried salmon bear snacks, or a solid
+gold tribal pendant.
+
+LAST WORDS:
+When broken, he might spill his guts about where
+the guardian bear spirit roams, a magic tree, or a
+stream ripe with gold.

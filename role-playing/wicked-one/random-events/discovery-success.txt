@@ -1,0 +1,38 @@
+| dices | Discovery success |
+| -- | -- |
+| 11 | The remnants of an old dungeon's sanctum, with a small hoard. Everyone makes a 3d loot roll. |
+| 12 | A room that belonged to a desecrated temple to the god of stoneworking. (random tier 3 Temple room) |
+| 13 | A perfectly spherical room, in the center of which floats a rapidly spinning anti-gravity contraption. |
+| 14 | A long tunnel leading off the map to a neighboring dungeon, which seems willing to work together. |
+| 15 | A large bat colony, a creature that also gives you a steady supply of guano. (creature) |
+| 16 | An enormous cache of old weapony that gives you a shared supply of weapons, plus one large ballista. |
+| 21 | The remnants of a centipede rodeo, with several giant centipedes still living here. (creature) |
+| 22 | A room that belonged to an old gnomish inventor. (random tier 3 Forge room) |
+| 23 | A long tunnel leading off the map, the entrance to a dark elf conclave. They deal in magic secrets. |
+| 24 | A pool of pitch black water, home to dark faeries, which heals the bloodied condition once per cycle. |
+| 25 | A plain room with an entrance and three exits. Each exit teleports you to a different spot in the dungeon. |
+| 26 | A natural cave perfectly suitable as a minion lair, which also has a steady supply of food. (tier 2 room) |
+| 31 | A lava river flowing through your dungeon, perfectly protecting a previously vulnerable area. |
+| 32 | A room that belonged to an old revolutionary base. (random tier 3 Hideout room) |
+| 33 | An old river port with a few boats. The river connects to several dark underground factions far away. |
+| 34 | Anyone of good heart that drowns in this pool returns as a ghoul, a tier 2 creature under your control. |
+| 35 | A slime pit, spewing extra slime imps. Your imps take +1d on their downtime action. |
+| 36 | A cell containing an ancient, imprisoned vampire who is willing to remain friendly if you let them go. |
+| 41 | A small mining colony of dwarves lie beyond a thin wall at the end of this tunnel, completely unaware. |
+| 42 | A room that belonged to an old dwarf fortress. (random tier 3 Stronghold room) |
+| 43 | A large, incredibly cold ice cavern, with sharp icicles hanging from high above. |
+| 44 | A series of old crypts, filled with the dead. You can recruit expendable zombie minions here for free. |
+| 45 | A statue of a forgotten god. Any PC who takes up worshipping it gains an extra dark heart slot. |
+| 46 | A buried trove of potions which gives you three shared supplies, each of a random potion. |
+| 51 | A one-way portal from the dungeon to a hidden, very valuable location within the sandbox. |
+| 52 | A perfectly placed tunnel leading to a small pool full of polished skulls. (tier 1 minor room) |
+| 53 | An old torture chamber with an immortal celestial being strapped into the rack. (tier 2 room) |
+| 54 | A two-way portal from the dungeon to a hidden neutral location within the sandbox. |
+| 55 | A magical chamber which prevents any injuries suffered here from persisting when you exit. |
+| 56 | A room that belonged to a long-dead witch's coven. (random tier 3 Enclave room) |
+| 61 | The Orb of Storms, a tier 3 magic item, rests on a pedestal in the center. |
+| 62 | A motherlode of gems sit on an ancient throne, giving each PC two gold. |
+| 63 | A large treasure chest sits in the center of the room. However, when you approach, the mimic smiles. |
+| 64 | The lair of an enormous, intelligent snake that seems to want to co-exist. |
+| 65 | A cave that looks like it was once a workshop but was blown up, and a random tier 3 contraption. |
+| 66 | A room with a trove of books that allow you to establish three secret facts about the history of the region. |

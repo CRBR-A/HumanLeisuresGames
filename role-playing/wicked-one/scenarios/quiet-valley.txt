@@ -1,0 +1,177 @@
+## Quiet Valley
+
+Group: Fangtooth Goblins 
+Level: 1
+Alignment: Dark
+Info:
+  - Hungry cannibals
+  - Zealously worship Labisha
+  - Pit traps in the woods
+Objectives:
+  - short: Eat the wooden gnomes
+  - medium: Kidnap the town priest
+
+Group: Town Clergy 
+Level: 2
+Alignment: Light
+Info:
+  - Want to replace the mayor
+  - Have the townsfolk' backing
+  - Secretly ruled by a demon
+Objectives:
+  - short: Witch hunt
+  - long: Work with the garrison
+
+Group: Wood Gnomes 
+Level: 1
+Alignment: Neutral
+Info:
+  - Raid for knick knacks
+  - Incredibly greedy
+  - Horribly selfish
+Objectives:
+  - short: Trap the woods (+level)
+  - long: Summon the wood spirit
+
+Group: Stoutheart Abbey 
+Level: 2
+Alignment: Light
+Info:
+  - Dwarven brewers
+  - Warrior monks
+  - Sees trouble brewing
+Objectives:
+  - long: Destroy the cliff path
+  - medium: Reinforcements (+level)
+
+Group: Woodtown 
+Level: 4
+Alignment: Light
+Info:
+  - Run by a powerful mayor
+  - Strong loyal guard
+  - Wants to remain independent
+Objectives:
+  - medium: Wipe out the goblins 
+  - long: Request troop withdrawal
+
+Group: Garrison 
+Level: 3
+Alignment: Light
+Info:
+  - Troops of the far-off baron
+  - Unwanted by Woodtown
+  - Trying to expand the barony
+Objectives:
+  - medium: Frame the mayor
+  - short: Manufacture crisis
+
+Group: Farmfolk
+  - Poor and downtrodden
+  - Pressured by the clergy
+  - Secretly thinking of revolting
+Objectives:
+  - medium: Build harvest god shrine
+  - long: Refuse to work
+
+##### Elven Conclave 
+Level: 4
+Alignment: Light
+Info:
+  - Never seen by other factions
+  - Sees trouble brewing
+  - Wants to avoid a war
+Objectives:
+  - medium: Approach the crossing
+  - short: Approach the farmfolk
+
+Group: Rivertown 
+Level: 3
+Alignment: Light
+Info:
+  - Run by a merchant family
+  - Old trade hub
+  - Hurt by the ferry crossing
+Objectives:
+  - medium: Pay tribute to ettins
+  - short: Send tradeboats south
+
+Group: Undertown 
+Level: 2
+Alignment: Neutral
+Info:
+  - Gnome town under the ruins
+  - Live in deep caves
+  - Mix of light and dark factions
+Objectives:
+  - medium: Ally with the wood gnomes
+  - medium: Ally with the satyr tribes
+
+Group: Mountain Ettins 
+Level: 2
+Alignment: Dark
+Info:
+  - Led by a powerful zealot
+  - Worship Nezame
+  - Standoffish, but greedy
+Objectives:
+  - long: Flash flood ritual
+  - long: Demand tribute
+
+Group: Sorceress's Tower 
+Level: 3
+Alignment: Dark
+Info:
+  - Wants her castle back
+  - Tower full of servants
+  - Building an army
+Objectives:
+  - medium: Create flesh golems
+  - long: Enslave forest spirits
+
+Group: Satyr Tribes 
+Level: 3
+Alignment: Neutral
+Info:
+  - Live in the haunted woods
+  - Serve an ancient ent
+  - Mostly capricious
+Objectives:
+  - medium: Sink the ferry
+  - short: Sink a river tradeboat
+
+Group: Bugbear Horde 
+Level: 4
+Alignment: Dark
+Info:
+  - Fled from baron's conquest
+  - Occupy the castle ruins
+  - Lurk in the deep forest
+Objectives:
+  - medium: Deserters (-level)
+  - medium: Raid across the river
+
+Group: The Crossing 
+Level: 1
+Alignment: Light
+Info:
+  - Run by a few ex-adventurers
+  - Built to facilitate trade
+  - Angered mayor of Woodtown
+Objectives:
+  - medium: Make a deal with garrison
+  - medium: Quell the river fae
+
+## Likely Dungeon Locations
+
+- Glowing chapel (center)
+- Woodlands (top left)
+- Ruined castle (center right)
+- Estate's basement (bottom left)
+
+## Questions
+
+- What haunts the eastern woods?
+- What causes the ruined chapel's red glow?
+- Why is the castle in ruins?
+- What danger lurks in the river?

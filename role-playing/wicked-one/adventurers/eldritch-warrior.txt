@@ -1,0 +1,36 @@
+The Eldritch Warrior
+
+Eldritch training can only be bought with monster
+ears, so the eldritch warrior throws himself against
+the toughest of them to earn training in his art.
+Arcane practice lends him enhanced movement and
+the ability to summon magic blades, so although he
+wears no weapons, he is always carrying many.
+
+The eldritch warrior is OPTIMISTIC, but COCKY.
+He seeks CHALLENGE on adventures.
+
+PASSIVE:
+Can summon a powerful magic sword at-will.
+
+OFFENSIVE MOVES:
+- floating daggers
+- blinding flash
+- magical leap
+
+DEFENSIVE MOVES:
+- blurred visage
+- blink step
+- blade shield
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying an intimidating mask, a magefiber tunic,
+blinkstep boots, a bag of monster ears, a scroll of
+phantom blade, a luck relic, or a locket containing
+an image of an ugly young elf.
+
+LAST WORDS:
+When broken, he might spill his guts about other
+powerful monsters, an arcane armory, or an
+ancient ritual.

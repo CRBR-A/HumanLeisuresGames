@@ -1,0 +1,36 @@
+The Spellbow
+
+Arcane archery is an extremely effective discipline,
+though few have the necessary talents to master
+it. The spellbow has perfected every shot, going
+so far as to invent a few of her own. Even when
+fired around a corner or into a different room, her
+fletchings always find their mark.
+
+The spellbow is CLEVER, but GREEDY.
+She seeks THRILLS on adventures.
+
+PASSIVE:
+Imbues each arrow with an elemental effect.
+
+OFFENSIVE MOVES:
+- massive volley
+- corrosive arrow
+- homing arrow
+
+DEFENSIVE MOVES:
+- illusion arrow
+- grease arrow
+- teleportation arrow
+
+POSSIBLE LOOT:
+Depending on your luck, you might find her to
+be carrying string wax, a braided unicorn-tail
+bowstring, a components satchel, an endless quiver,
+an iron-stitched tunic, sure-release gloves, trackless
+boots, or a small carved horse.
+
+LAST WORDS:
+When broken, she might spill her guts about their
+arcane teacher, rumors about a mythical bow, or
+a monster prison.

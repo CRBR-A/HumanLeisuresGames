@@ -1,0 +1,38 @@
+| 2d6 | creature |
+| --- | -- |
+| 11 | giant spider   |
+| 12 | bat swarm   |
+| 13 | giant serpent   |
+| 14 | skeleton   |
+| 15 | ghost   |
+| 16 | living shadow   |
+| 21 | gelatinous cube   |
+| 22 | giant scorpion   |
+| 23 | dire rat   |
+| 24 | basilisk   |
+| 25 | zombie   |
+| 26 | gargoyle   |
+| 31 | mimic |
+| 32 | fire elemental |
+| 33 | water elemental |
+| 34 | earth elemental |
+| 35 | air elemental |
+| 36 | cave troll |
+| 41 | ghoul |
+| 42 | lava snake |
+| 43 | sludge monster |
+| 44 | clockwork warrior |
+| 45 | rust monster |
+| 46 | giant centipede |
+| 51 | ettercap |
+| 52 | ooze |
+| 53 | fungus |
+| 54 | minotaur |
+| 55 | darkmantle |
+| 56 | grick |
+| 61 | carrion crawler |
+| 62 | warg |
+| 63 | stirge |
+| 64 | quasit |
+| 65 | slime |
+| 66 | gorgon |

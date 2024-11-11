@@ -1,0 +1,38 @@
+| Dices | Calamity major |
+| -- | -- |
+| 11 | The spider queen and her hatchlings pour through a new hole in the wall. *Can she be negotiated with?* |
+| 12 | An enormous grizzly bear enters the dungeon looking for a new home. |
+| 13 | A very powerful wizard and his golem protector teleport randomly into the first level of your dungeon. |
+| 14 | Your imps and minions grab weapons and head for the sanctum. It's a revolt! |
+| 15 | Flammable gas seeps into your dungeon, its smell giving it away. Start a 6-segment clock: KABOOM. |
+| 16 | Imps inform you that a couple of minion packs just left the dungeon with 1 tier worth of your hoard. |
+| 21 | Tremors open up a second entrance into your dungeon, bypassing many of your defenses. |
+| 22 | Traitorous minions make away with a large part of your hoard, enough to drop you a tier. |
+| 23 | A hungry creature lashes out at a PC, leaving them bloodied. Now they move to finish their meal. |
+| 24 | Grub worms push through your dungeon walls as they begin their transformation into scarabs! |
+| 25 | Sentient toxic mold seeps into your dungeon, causing severe hallucinations. It must be fed. |
+| 26 | A portal opens up into your sanctum as arcane burglars slip in while you sleep. |
+| 31 | A lich with a skeleton horde appears at your dungeon entrance. |
+| 32 | All factions roll immediately against their clocks as you lurk in your dungeon far too long. |
+| 33 | The most troublesome faction clock comes to fruition, motivated by your dungeon's presence. |
+| 34 | A ghost possesses a PC, intent on revenge. Who must the player hunt? |
+| 35 | Heavy rains temporarily fill your dungeon with a deluge of water. It can't be stopped, only outrun. |
+| 36 | One of your tier 2 rooms is completely destroyed by minions partying. The party is on the move. |
+| 41 | A dark faction comes to you seeking help with a problem much too big for you to handle. |
+| 42 | Your denizens are bored. They demand entertainment or face rebellion. |
+| 43 | An absolutely enormous rat king bursts into your dungeon, barreling through it at full speed. |
+| 44 | A very skilled tier 4 thief with 6 moves, knowledge of your dungeon, and a scroll of teleport sneaks in. |
+| 45 | An enchantress has found a couple of your minion packs outside, dominated them, and is now invading. |
+| 46 | Gnomish engineers come through a wall with their tunnel boring machine, ready to fight. |
+| 51 | A fire breaks out and destroys a tier 1 or 2 room and threatens to rapidly spread throughout the dungeon. |
+| 52 | The biggest creature in the dungeon devours the second largest and is now on the hunt. |
+| 53 | Another group of Wicked Ones launch a pillaging raid on your dungeon along with their minions. |
+| 54 | A large dark faction tribe has surrounded your entrance and demands 1 tier of hoard in tribute. |
+| 55 | A greater demon appears in your sanctum in a burst of fire and demands the reins of control. |
+| 56 | A diviner with knowledge of the inner workings of your dungeon leads a strike team against you. |
+| 61 | One of your tier 3 rooms gets wrecked, requiring you to acquire materials again. |
+| 62 | A couple of minion packs take a PC hostage and have a list of demands. |
+| 63 | Your denizens are starving. Either raid for food or face starvation. |
+| 64 | A hole in a wall opens up and lava begins flowing into your dungeon. |
+| 65 | A shared or steady supply that you have is spoiled, stolen, or runs out. |
+| 66 | A large pack of jackals chase a minion pack back into your dungeon. |

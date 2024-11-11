@@ -1,0 +1,4 @@
+# Alignment
+- Light: humans, elves, dwarves, and halflings. 
+- Dark: bugbears, goblins, kobolds, orcs, slissiks, trolls, ogres, troglodytes, cyclopes, hobgoblins, and dark elves. 
+- Neutral: gnomes, ratfolk, centaurs, lizardfolk, satyrs, dryads, nymphs, merfolk, sprites, pixies, and giants. 

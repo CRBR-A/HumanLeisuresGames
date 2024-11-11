@@ -1,0 +1,181 @@
+## Warzone
+
+Group: Mountainhome 
+Level: 4
+Alignment: Light
+Info:
+  - Large dwarven kingdom
+  - Need trade to the east
+  - Massive long-range artillery
+Objectives:
+  - medium: Bombardment
+  - medium: Order assault across river
+
+Group: Troll Raiders 
+Level: 2
+Alignment: Dark
+Info:
+  - New to the area
+  - Came down from mountains
+  - Looking for war spoils
+Objectives:
+  - short: Raid the dwarven aviary
+  - medium: More trolls arrive
+
+Group: Dryad Woods 
+Level: 2
+Alignment: Neutral
+Info:
+  - Healing waters in center
+  - Only the pure may enter
+  - Highly distrusting
+Objectives:
+  - long: Stronger protections
+  - long: Abandon the region
+
+Group: Ghost Town 
+Level: 1
+Alignment: Dark
+Info:
+  - War-torn town
+  - Haunted by dwarven ghosts
+  - A necromancer hides here
+Objectives:
+  - medium: Terrorize Tradetown
+  - short: Haunt the trade route
+
+Group: Tradetown 
+Level: 2
+Alignment: Light
+Info:
+  - Run by halfling merchants
+  - Halfling kingdom to the west
+  - Stay completely neutral
+Objectives:
+  - short: Supply the dwarves
+  - medium: Supply the horse lords
+
+Group: Clan Thunderfalls 
+Level: 1
+Alignment: Neutral
+Info:
+  - About ten giants in the clan
+  - Twice as tall as a human
+  - Highly reclusive
+Objectives:
+  - short: Feed the minotaurs
+  - medium: Throw stones at pilevels
+
+Group: Monster Pilevels 
+Level: 3
+Alignment: Dark
+Info:
+  - Council of pilevel captains
+  - Trade pileveld goods
+  - Too much hassle to oust
+Objectives:
+  - short: Light the torch of Gimosha
+  - long: Festival of Gimosha
+
+Group: 2 Dwarven Aviary 
+Level: 2
+Alignment: Light
+Info:
+  - Raise and ride griffons
+  - Alchemy labs to make bombs
+  - More concerned about trolls
+Objectives:
+  - medium: Kidnap a moon elf
+  - short: Map the east bank
+
+Group: Dwarven Bunkers 
+Level: 3
+Alignment: Light
+Info:
+  - Led by a grizzled sergeant
+  - Extensive defensive tunnels
+  - Pushing for a fallback
+Objectives:
+  - long: Withdraw from the front
+  - medium: Request fresh troops
+
+Group: Dwarven Foresters 
+Level: 1
+Alignment: Light
+Info:
+  - Recently started logging
+  - Heavily trap in the forest
+  - Strong static defenses
+Objectives:
+  - medium: Fuel the war machine
+  - short: Foresters arrive (+level)
+
+Group: Moon Elves 
+Level: 4
+Alignment: Neutral
+Info:
+  - Strong nature magic
+  - Speak their own language
+  - Tired of the war
+Objectives:
+  - long: Ritual of flooding
+  - medium: Stop the logging
+
+Group: Wasteland Vermin 
+Level: 2
+Alignment: Dark
+Info:
+  - Loosely banded tribes
+  - Various monster races
+  - Consider the ruins home
+Objectives:
+  - long: Destroy the bridges
+  - medium: Invite the minotaurs
+
+Group: Fort Point 
+Level: 3
+Alignment: Light
+Info:
+  - Powerful mercenary captain
+  - Contract with the Horse Lords
+  - Incredibly brutal
+Objectives:
+  - medium: Kidnap the sergeant
+  - short: Extend the war
+
+Group: Minotaur Camp 
+Level: 2
+Alignment: Dark
+Info:
+  - Once hired on as mercenaries
+  - Now opposing the horse lords
+  - Currently starving
+Objectives:
+  - medium: Send envoy to the dwarves
+  - short: Raid for food
+
+Group: Horse Lords 
+Level: 4
+Alignment: Light
+Info:
+  - Human horse riders
+  - Strong cavalry
+  - Self-sufficient
+Objectives:
+  - medium: Assault the minotaurs
+  - long: Destroy the bridges
+
+## Likely Dungeon Locations
+
+- Broken bridge (center)
+- Within the rift (center)
+- Ruined city (center right)
+- Cliff cave (bottom left)
+
+## Questions
+
+- How did the war start?
+- How long has it been running?
+- Why is the town in the center demolished?
+- What lives in the cave in the bottom left?
+

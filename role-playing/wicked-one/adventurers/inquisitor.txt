@@ -1,0 +1,36 @@
+The Inquisitor
+
+Orphaned at a young age, the inquisitor was
+fortunate to be taken in by a monastery. Life there
+saved her from hunger, but even the most innocent
+of deceptions was met with brutal flagellation. This
+cultivated a profound spiritual strength, as well as a
+total intolerance of lies.
+
+The inquisitor is PERSISTENT, but STUBBORN.
+She seeks JUSTICE on adventures.
+
+PASSIVE:
+Excels at seeing through lies and tricks.
+
+OFFENSIVE MOVES:
+- terrifying lashes
+- barking command
+- ignore a trick
+
+DEFENSIVE MOVES:
+- scolding eyes
+- accept punishment
+- hissing defiance
+
+POSSIBLE LOOT:
+Depending on your luck, you might find her to be
+carrying a talisman of penance, a lacerating whip,
+a tarnished censor, pious boots, a sacred shroud,
+a cracked ceramic doll head, sanctified salt, or
+undelivered love letters.
+
+LAST WORDS:
+When broken, she might spill her guts about how
+to brew a truth serum, a powerful follower of a
+dark god, or a bishop's secret.

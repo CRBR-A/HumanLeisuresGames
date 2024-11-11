@@ -1,0 +1,36 @@
+The Templar
+
+Little is known about the templar and even less about
+the strange religious order to which he belongs. He
+has a tendency to appear wherever there has been
+intense strife, especially when said strife is caused
+by monsters. No one remembers seeing him draw
+his mace, as his holy commands have yet to fail.
+
+The templar is STEADY, but STUBBORN.
+He seeks JUSTICE on adventures.
+
+PASSIVE:
+Cannot be turned from his path.
+
+OFFENSIVE MOVES:
+- holy word: seek
+- holy word: pain
+- holy word: confuse
+
+DEFENSIVE MOVES
+- holy word: stop
+- holy word: truth
+- holy word: blind
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying a helm of sanctified vision, a boundless
+faith collar, unwavering robes, pious gloves, a mace
+of righteous fury, a hallowed holy symbol, or an
+unsent letter of confession.
+
+LAST WORDS:
+When broken, he might spill his guts about the
+details of his order, an obscene weapon sealed
+away, or a forgotten holy site.

@@ -1,0 +1,36 @@
+The Knight
+
+Being of noble birth and nobler intention, the knight
+loyally serves his kingdom to the death. After years
+of elite training, he is surprisingly agile and can
+continue brandishing his lance despite the added
+weight of several skewered foes. It's been ages since
+his armor has gotten more than a scratch on it.
+
+The knight is HONEST, but COCKY.
+He seeks RESPECT on adventures.
+
+PASSIVE:
+Is nearly impervious to physical damage.
+
+OFFENSIVE MOVES
+- unbreakable wall
+- skewer
+- unstoppable march
+
+DEFENSIVE MOVES
+- swap places
+- bulwark
+- code of honor
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to
+be carrying an impressive plume, a maiden's
+favor, proud plate armor, a kinetic kite shield, an
+unbluntable lance, joint lubrication, a military map,
+or a hay-stuffed toy bear.
+
+LAST WORDS:
+When broken, he might spill his guts about the
+princess's hiding spot, a weak point in the city
+walls, or the tomb of valor.

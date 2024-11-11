@@ -1,0 +1,36 @@
+The Slinger
+
+As a halfling, the slinger has heard every joke
+about stature there is, but has always found that a
+well-aimed rock quickly stops any laughter at his
+expense. In truth, his compact size is perfect for
+navigating small dungeon passages and slipping
+through the legs of the monsters calling them home.
+
+The slinger is OPTIMISTIC, but INDECISIVE.
+He seeks JUSTICE on adventures.
+
+PASSIVE:
+Excels against anyone bigger than him.
+
+OFFENSIVE MOVES:
+- stunning stone
+- hail of stones
+- staredown
+
+DEFENSIVE MOVES:
+- run through legs
+- sucker punch
+- reposition
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying halfling golden mead, an ammo pouch,
+a stunstone, elusive slacks, a speedy sling, a power
+sling, a touchless tunic, a hood of harrowing gaze,
+blessed fruit pies, or a letter from his proud father.
+
+LAST WORDS:
+When broken, he might spill his guts about a
+wealthy village, a hidden mead stockpile, or an
+owlbear den.

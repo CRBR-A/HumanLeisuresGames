@@ -1,0 +1,38 @@
+| Dices | DARK BARGAIN |
+| ----- | --------------------------------------------------------- |
+| 11 | A piece of your gear or supply is lost or broken, like your shield breaking or dropping your whip. |
+| 12 | An ally loses something important to them, such as their magic focus or a vile friend. |
+| 13 | You make a ridiculous amount of noise, like jumping and landing on a metal roof. |
+| 14 | You see something that makes you question reality, like the ghost of a dead PC. |
+| 15 | One of your enemies gets away, likely to move against you later. |
+| 16 | Your imps unearth something within the dungeon. Make a 1d discovery roll. |
+| 21 | The ground gives way under you or you lose your footing, putting you in a terrible spot. |
+| 22 | Your body changes temporarily or permanently, like losing a finger or growing a tail. |
+| 23 | You miscommunicate with your allies, like sending them in the wrong direction. |
+| 24 | The real threat isn't what you think it is, like a goblin tribe also raiding your target. |
+| 25 | An adventurer or two enters the scene, like a drunk barbarian and bard stumbling out of a tavern. |
+| 26 | The ground you're standing on becomes unstable, collapsing and bringing everyone with it. |
+| 31 | One of your wounds begins festering. You won't heal your bloodied condition during recovery. |
+| 32 | A group arrives to help your target, like a patrol on the roads galloping in to help. |
+| 33 | Whatever you're about to try won't work again, like a null-magic field being activated just after it. |
+| 34 | Your action will affect one of your allies as well, like blasting them with a fireball. |
+| 35 | A natural disaster is about to occur, like a lightning storm or earthquake. Start a 4-segment clock. |
+| 36 | You make a fool of yourself, losing status with allies, your minions, or even the enemy. |
+| 41 | Your vile friend gets really angry at you, cutting you off until you make amends. |
+| 42 | You get separated from your allies, like getting led into the woods by a bunch of pixies. |
+| 43 | You're completely exhausted, taking shock to all three attributes after your roll. |
+| 44 | You become the center of attention and whoever is watching will expect an immediate follow-up action. |
+| 45 | You're exposed to danger from the environment, like a fire or rocks falling. |
+| 46 | Your biggest secret is revealed, like dropping a document showing the steps to your master plan. |
+| 51 | You're forced to choose between two terrible options, like saving only your minions or your warg. |
+| 52 | An ally springs an unseen trap, like stepping on a rope and getting hauled up into a tree. |
+| 53 | An NPC near you takes a hit, like the priest you were hauling back to torture getting killed. |
+| 54 | Nature helps your enemies, like a wolf pack coming to the aid of a farmer you're chasing. |
+| 55 | The situation changes as magic is put into play, like drawing a god's attention. |
+| 56 | You must choose between two things you want to keep, like the loot or the prisoner. |
+| 61 | An unknown entity witnesses the situation, like the orc chief watching you raid their hunting grounds. |
+| 62 | You're blinded, deafened, or otherwise impaired, like your thunder spell also deafening you. |
+| 63 | A clock is filled, like hunting dogs running you down in the fields or a boat sinking. |
+| 64 | An old enemy shows up, like an adventurer that you thought you'd killed before. |
+| 65 | Targets in this area dry up, like the baron calling for a cease in road traffic. |
+| 66 | An adventuring party is about to show up. Start a 4-segment clock. |

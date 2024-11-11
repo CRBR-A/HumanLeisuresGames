@@ -1,0 +1,36 @@
+The Lancer
+
+The lancer picked up her skills during her service in
+the Elven military. She retired early and with honors,
+but never found the truly worthy opponent she
+longed for. To satisfy that longing, her retirement
+consists of finding dungeons and spearing her way
+to the center, where she hopes able warriors await.
+
+The lancer is CONFIDENT, but IMPATIENT.
+She seeks CHALLENGE on adventures.
+
+PASSIVE:
+Excels at keeping enemies at a distance.
+
+OFFENSIVE MOVES:
+- spear flurry
+- impressive display
+- precision throw
+
+DEFENSIVE MOVES:
+- leg sweep
+- warning slash
+- pin enemy
+
+POSSIBLE LOOT:
+Depending on your luck, you might find her to
+be carrying a helm of precision, a dashing cape,
+a thrusting pauldron, a vorpal glaive, barbed
+short spears, a light sash, no-slip boots, launching
+gauntlets, or an ornate lighter.
+
+LAST WORDS:
+When broken, she might spill her guts about
+military operations, an elven treasure, or a magic
+weaponsmith.

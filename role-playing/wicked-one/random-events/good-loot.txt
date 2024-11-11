@@ -1,0 +1,38 @@
+| Dices | Good loot |
+| ----- | ------------------ |
+| 11 | A chicken coop, but there's a large, pissed off rooster inside. |
+| 12 | A cart full of ale, but how will you pull it home? |
+| 13 | Holy vestments and incense, but several priests stand in your way. |
+| 14 | A beautiful stained glass window, but it seems impossible to dislodge without breaking. |
+| 15 | A wardrobe of extremely fine clothes, but it's magically locked. |
+| 16 | Tapestries hanging from the ceiling, but how can you get up there? |
+| 21 | A massive flag at the top of a flagpole, but it's in plain view of the archers. |
+| 22 | Mage robes and a wand, but the mage's pseudodragon watches over the room. |
+| 23 | Jewelry hanging off the neck of the prince as he walks through the streets, but he's with his guards. |
+| 24 | A coin purse hanging heavily off the belt of a merchant, but the merchant is a retired adventurer. |
+| 25 | Artworks lining the walls, but there's far too many and it's difficult to tell which are valuable. |
+| 26 | A chest full of gems, but it's trapped with a blinding spell. |
+| 31 | Gilded seashells lining the high shelves of the temple to the sea goddess, but they're glued down. |
+| 32 | An unattended bag with a glowing rune on it, but the bag is empty - except for the secret compartment. |
+| 33 | A statue of a conquering, grandiose general, but how do you get it off that pedestal? |
+| 34 | A large crystal, but it's incredibly fragile to both touch and sound. |
+| 35 | Several goats in their pen, but they're mean as hell. |
+| 36 | An ancient atlas, but it's linked to its golem guardian. |
+| 41 | A telescope and other astronomy equipment, but who knows which of these things is valuable? |
+| 42 | A fancy sword hanging on the wall, but the sword is enchanted to come alive and fight. |
+| 43 | A suit of armor on a stand, but it's heavy and welded together. |
+| 44 | Stacks and stacks of cheese wheels, but no way to carry all of them. |
+| 45 | An enormous luxurious carpet, but it has lots of heavy furniture on it. |
+| 46 | A large, golden harp, but it's incredibly heavy. |
+| 51 | The finest silverware you've ever seen, but it's in a very busy kitchen. |
+| 52 | A cart full of produce for market, but one of the wheels is broken. |
+| 53 | A cask of good ale, but it's starting to leak. |
+| 54 | Large amounts of dye, but it's just sitting in a large pile of dust right now. |
+| 55 | A fine quilt, but the grandmother who made it is dangerous with a rolling pin. |
+| 56 | Songbirds in a cage, but they're incredibly noisy and draw attention. |
+| 61 | A garden full of exotic flowers, but some of the plants have poisonous thorns. |
+| 62 | Gargoyle statue, but how do you get it off the wall? |
+| 63 | A fantastic ceremonial headdress, but it's protected by the ghost of its former owner. |
+| 64 | An incredible flowering tree in a pot, but pixies guard over it. |
+| 65 | A large bell, but you have to get it down from its tower. |
+| 66 | A stash of books, but the owner will defend them with their life. |

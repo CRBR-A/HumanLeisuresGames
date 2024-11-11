@@ -1,0 +1,33 @@
+# IMPORTANT
+
+Wicked Ones by Ben Nielson is marked with CC0 1.0 license.
+
+**BUT**, from "Wicked_Ones_1.4.pdf":
+ ""Wicked Ones is based on Blades in the Dark (found at 
+http://www.bladesinthedark.com/), product of One Seven Design, developed and 
+authored by John Harper, and licensed for our use under the Creative Commons 
+Attribution 3.0 Unported license 
+(http://creativecommons.org/licenses/by/3.0/).""
+""Wicked Ones is a Forged in the Dark (FitD) game, based on the system 
+mechanics and unique playstyle developed by John Harper for the game Blades in 
+the Dark. FitD games focus on intense periods of zoomed-in action where events 
+unfold in interesting ways without the need for excessive planning by the 
+players. It has a flexible resolution system that lets you get creative with 
+character actions. It’s all about cutting to the action and getting to the 
+good parts. It makes for wonderfully chaotic stories where no matter what you 
+do, things are bound to go wrong - because that’s what happens to scoundrels 
+in Blades or monsters building a dungeon.""
+
+It concern the system mechanics : 
+- character's actions, abilities, attributes, goal
+- clocks, game phases
+- stress, position & effect, consequences
+- ...
+
+THIS repository :
+- DOES NOT include Wicked Ones -nor Blades in the Dark- game mechanics
+- use only the LORE (like stories, settings) offered in Wicked Ones
+- is completely CC0 licensed (NO attribution) !
+
+Note: 
+- "Wicked Ones - Toolkit Deck v1.1": completely CC0 licensed (NO game mechanics).

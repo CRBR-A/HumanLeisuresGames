@@ -1,0 +1,36 @@
+The Centurion
+
+The centurion hails from a distant war-torn region
+where people prove their worth through triumph
+in combat. Even though he wanders now, he still
+feels the need to prove his worth to himself. Several
+times, he has stumbled out of a small dungeon
+barely clinging to life, having cleared it alone.
+
+The centurion is STEADY, but STUBBORN.
+He seeks RESPECT on adventures.
+
+PASSIVE:
+Grows more powerful when injured.
+
+OFFENSIVE MOVES:
+- throw gladius
+- teamwork
+- athletic leap
+
+DEFENSIVE MOVES:
+- words of resolve
+- knockback kick
+- guard ally
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying a helm of dire straits, crushing pauldrons,
+a heavily dented breastplate, throwable vambraces,
+herculean pteruges, greaves of great thrust, or a
+map of an unknown region.
+
+LAST WORDS:
+When broken, he might spill his guts about
+combat maneuvers, siege engines, or a cache of
+foreign trade goods.

@@ -1,0 +1,38 @@
+| Dices | Blowback major |
+| -- | -- |
+| 11 | You're cornered in a gully by some riders with dogs. There's no clear way out. |
+| 12 | A dark faction is sick of you in their hunting grounds and decides to attack you during your next raid. |
+| 13 | A very charming bard and a large number of hirelings that he's convinced to join him invade you. |
+| 14 | A priest leads an angry mob into your dungeon, intent on ridding the world of your evil. |
+| 15 | The factions in a certain area of the sandbox stand together, giving you -1d on blowback rolls there. |
+| 16 | A squad of soldiers, about ten to twenty hirelings, show up to clear out your dungeon. |
+| 21 | One of you has been caught by local rangers on the way home and is about to be hanged. |
+| 22 | A paladin steps into your path and draws their sword. Their rogue friend waits in the bushes. |
+| 23 | A small army has set up an encampment around your dungeon entrance, but hasn't noticed it yet. |
+| 24 | There are a large number of scouts around your dungeon. You take -1d on raid engagement rolls. |
+| 25 | One or two of you are taken and imprisoned in a small border garrison. You're the bait. |
+| 26 | A dark faction's emissary arrives with an ultimatum - swear fealty or face invasion. |
+| 31 | Forest pixies and sprites confuse and separate you all, then try leading you to your demise. |
+| 32 | The faction that you just attacked gets motivated and finishes any faction clocks they have. |
+| 33 | Boats along the river defend themselves more heavily, carrying archers that watch the shorelines. |
+| 34 | A friendly faction of yours is attacked, knocking them down a tier. They come pleading for help. |
+| 35 | A friendship with a faction breaks as they feel somehow slighted due to your last raid. |
+| 36 | The faction that you just hit can finish a faction clock as they feel spurred into action. |
+| 41 | Adventurers arrive at your dungeon before you and are in your sanctum as you walk into the entrance. |
+| 42 | You arrive at your dungeon entrance to see a squad of soldiers camped outside it. |
+| 43 | An adventurer that you thought was dead confronts you on the road, more powerful than before. |
+| 44 | You step foot into a dryad's grove and everyone is instantly entangled and poisoned. |
+| 45 | You all fall into a pit trap and wake up tied to spits, ready to be roasted by cannibals. |
+| 46 | The target and its neighbors have increased defenses, giving you -1d to engagement against them. |
+| 51 | A light-aligned dragon roasts the copse of trees you were hiding in, then comes in for a snack. |
+| 52 | Noticing your intent on raiding them, a faction calls in favors and increases their tier by 1. |
+| 53 | An ancient druid and his panther companion don't appreciate you stepping through their glade. |
+| 54 | Your next raid is incredibly easy as guards break and run and nothing is locked. Then it all changes. |
+| 55 | You enter a forest clearing and see a mage duel in progress. They both see you and turn to attack. |
+| 56 | A storm completely batters you, leaving everyone spent. You do not get recovery. |
+| 61 | A diviner foretells your next raid. Its engagement roll will be 0d no matter what. |
+| 62 | A griffon swoops down and snatches one of you, then carries you off to its nest. |
+| 63 | You stop for a break to count up your loot under an enormous tree ent. |
+| 64 | You hear growling in the woods around you as a wolf pack sees a meal. |
+| 65 | You're ambushed on your next raid by archers hiding in carts. |
+| 66 | The ghosts of dead adventurers haunt you on your next raid. |

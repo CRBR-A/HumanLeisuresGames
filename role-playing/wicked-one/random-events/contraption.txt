@@ -1,0 +1,38 @@
+| dices | Contraption |
+| ---- | -- |
+| 11 | Lighter: Easily ignites flammable materials, but breaks easily. |
+| 12 | Gas Mask: Ignores the effects of gases, but you can barely see while wearing it. |
+| 13 | Monocle Spyglass: Sees objects far away as if they were up close, but disorients you. |
+| 14 | Rapid-Reload Crossbow: Never requires pausing to reload, but sometimes misfires. |
+| 15 | Candlehelm: Lights the way in front of you, but drips wax onto your face. |
+| 16 | Rope Launcher: Sends a rope flying a great distance, but requires time to wind it up. |
+| 21 | Snorkel: Lets you breathe underwater, but is easily spotted. |
+| 22 | Spring-loaded hidden dagger: Puts a dagger instantly into your hand, but can randomly activate. |
+| 23 | Concoction Launcher: Shoots a concoction a great distance, but is really cumbersome to carry. |
+| 24 | Bear Trap: Latches onto the foot of whoever steps in it, but is really dangerous to pick back up. |
+| 25 | Corner Mirror: Lets you see around corners, but is easily broken. |
+| 26 | High Pitch Whistle: Can only be heard by dogs and similar beasts, but gives you a headache. |
+| 31 | Parachute: Slows your fall, but you still hit the ground pretty hard. |
+| 32 | Shockstick: Stuns the one you hit with it, but also stuns you. |
+| 33 | Portable Trampoline: Lets you jump higher than you otherwise could, but is hard to put away. |
+| 34 | Welding Torch: Welds metal together with a hot flame, but showers you in sparks. |
+| 35 | Escape Balloon: Can pull you up into the air, but is almost impossible to control. |
+| 36 | Spring Boots: Let you make one giant leap, but take a long time to reload after use. |
+| 41 | Glider: Lets you control your descent, but it's absolutely terrifying. |
+| 42 | Mining Drill: Bores through stone very quickly, but gives -1d on calamity rolls when used in the dungeon. |
+| 43 | Sticky Gloves: Let you climb up a wall, but you can only reliably move up. |
+| 44 | Two-Wheeler: Lets you rapidly move over flat terrain, but the brakes don't work. |
+| 45 | Electromagnet: Strongly attracts metal, but shocks the hell out of you when you turn it off. |
+| 46 | Retract-o-Claw: Clamps onto whatever it's shot at, but retracts very slowly. |
+| 51 | Rocket Pack: Allows you to soar through the sky at rapid speeds, but can go off at any time. |
+| 52 | Night-Vision Goggles: Lets you see in the dark, but blinds you if you look directly at a light source. |
+| 53 | Chainsaw: Can tear through wood and flesh like butter, but merely wielding it is highly dangerous. |
+| 54 | Rocket Boots: Let you briefly move incredibly fast, but always launch you out of them at the end. |
+| 55 | Flamethrower: Fires jets of white hot fire, but the fuel tank is very vulnerable and fuel is limited. |
+| 56 | Waterbreather: Lets you breathe underwater, but your vision is highly limited. |
+| 61 | Auto-Lockpick: Allows you to roll the item's tier against any lock, but is very noisy. |
+| 62 | Backpack Catapult: Can launch fairly large stones, but takes up an extra gear or supply slot. |
+| 63 | Clockwork Servant: Can do one specific task that it's programmed to do, but rusts easily. |
+| 64 | Laser Eye: Fires a laser out of one of your eyes, but you have ***BRAINS*** shock while it recharges. |
+| 65 | Robotic Limb: Replaces a hacked off limb, but seems to have a mind of its own. |
+| 66 | Boomstick: Blows something within short range to smithereens, but also hits nearby allies. |

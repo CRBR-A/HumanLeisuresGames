@@ -1,0 +1,36 @@
+The Wildling
+
+The wildling has survived the last twenty years by
+himself deep in the wilderness. More feral than most
+monsters, he can run through dense forest like it's
+a paved road and sniff out anything that doesn't
+belong in his domain. Should he happen to find a
+dungeon, he jumps in head first for a little fun.
+
+The wildling is GENEROUS, but DUMB.
+He seeks THRILLS on adventures.
+
+PASSIVE
+Can run through difficult terrain.
+
+OFFENSIVE MOVES
+- pounce
+- stalk
+- lick wounds
+
+DEFENSIVE MOVES
+- ignore pain
+- warning growl
+- keen senses
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying dire wolf fur, carved antler daggers, a gnoll
+tooth necklace, a throwing hatchet, otter skin boots,
+twelve-leaf ointment, moonshine, numbing bark, or
+ironwood vines.
+
+LAST WORDS:
+When broken, he might spill his guts about an
+overgrown crater, the fruit of a talking tree, or an
+abandoned druid grove.

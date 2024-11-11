@@ -1,0 +1,38 @@
+| Dices | Discovery failed |
+| -- | -- |
+| 11 | Aggressive mold rapidly attacks any food carried through this room. |
+| 12 | A small, circular cavern with a hole in the top that leads straight to the surface. |
+| 13 | Small tunnels with cave pixies in holes scattered along their walls, who will steal from evil beings. |
+| 14 | A wide river with a current too strong to swim across limits your dungeon's expansion. |
+| 15 | The storage room of an ancient gnomish inventor which houses a large, hostile automaton. |
+| 16 | An ancient sanctuary, once belonging to a cathedral, which nobody of evil heart can enter. |
+| 21 | In the center of this room is a large block of rapidly melting ice which imprisons a heroic sorceress. |
+| 22 | A bubbling tar pit that spews awful smells inconveniently situationed within your dungeon. |
+| 23 | A large hole in the wall, from which spews huge amounts of smoke that drift through your dungeon. |
+| 24 | A natural tunnel that connects two or three vulnerable areas to each other. |
+| 25 | A river with a massive cave gator in it that randomly snatches anyone that wanders too close. |
+| 26 | A tunnel leading to the entrance to a giant ant colony preparing to invade your dungeon. |
+| 31 | A buried cell with an imprisoned devil inside that demands you surrender control of your dungeon. |
+| 32 | A tunnel with a hole in the center of the end wall which carnivorous worms occasionally emerge from. |
+| 33 | A hallway full of heroic statues which, if disturbed, might come alive and attack you or join an invasion. |
+| 34 | This chamber houses a sentient holy relic which alerts members of the faith nearby of its discovery. |
+| 35 | A barrel of explosive reagents in this old storeroom detonates, destroying tunnels and dungeon walls. |
+| 36 | A lava river that occasionally spits out magma elementals who run through your dungeon starting fires. |
+| 41 | A tunnel leading to an underground rebel base, led by the local lord's illegitimate daughter. |
+| 42 | A magical statue of a forgotten god which bloodies anyone of evil heart when they enter this room. |
+| 43 | A one-way portal leading into your dungeon from a well-protected area outside it. |
+| 44 | A shrine of vigor which replenishes a single adventurer move per cycle. It's very volatile if destroyed. |
+| 45 | A dark dwarf encampment set up as the forward advance of a much larger settlement below. |
+| 46 | A rift with the two sides slowly grinding against each other. Any additional movement causes quakes. |
+| 51 | A brackish lake filled with cavesharks that blocks the expansion of your dungeon. |
+| 52 | A complex web of crawlways that connect to several vulnerable points within your dungeon. |
+| 53 | A gnomish inventory's hidden laboratory and copper mine, filled with working constructs. |
+| 54 | A health shrine which replenishes a single adventurer heart per cycle. It's very volatile if destroyed. |
+| 55 | A windy cavern full of mushrooms whose poisonous spores occasionally waft through your dungeon. |
+| 56 | A large ooze pit that feasts on bodies, becoming highly unstable when left hungry for too long. |
+| 61 | A giant hole with strong winds flowing out of it and through your dungeon. |
+| 62 | A hostile mind-controlling crystal rests on fabulous rugs and pillows. |
+| 63 | A tunnel full of mushrooms that douse you in hallucinogenic spores. |
+| 64 | A second entrance to your dungeon opens up in a terrible location. |
+| 65 | An enormous slime pit that throws slime balls at anyone traveling over it. |
+| 66 | The nest of a huge spider which will feed on your minions if not placated. |

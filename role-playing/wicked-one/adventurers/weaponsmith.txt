@@ -1,0 +1,36 @@
+The Weaponsmith
+
+Some weapons go on to be greater legends than
+those who wielded them and the weaponsmith is
+determined to create the next such weapon. To craft
+such fine armaments, one must also know how to
+brandish them, so the few breaks he takes from his
+forge are used to hone his skill with his creations.
+
+The weaponsmith is HONEST, but COCKY.
+He seeks CHALLENGE on adventures.
+
+PASSIVE:
+Always has the right weapon for the job.
+
+OFFENSIVE MOVES
+- confident laugh
+- snatch weapon
+- break weapon
+
+DEFENSIVE MOVES
+- exploit flaw
+- block strike
+- drop weapon
+
+POSSIBLE LOOT:
+Depending on your luck, you might find him to be
+carrying a warpick, a quick-study helm, a keen
+short sword, twin short spears, a smith's apron,
+a wounding rapier, a pauldron of heft, greaves of
+spurious talent, or a notebook of creation notes.
+
+LAST WORDS:
+When broken, he might spill his guts about the
+pieces of a mythical weapon, a spirit forge, or a
+weakness in the army's armor.

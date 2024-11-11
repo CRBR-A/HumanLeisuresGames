@@ -1,0 +1,38 @@
+| Dices | Blowback minor |
+| -- | -- |
+| 11 | You find an altar to a fallen deity. A PC has already touched it and the others are compelled to also do so. |
+| 12 | You see a dead deer with an arrow in it. The wound is fresh and you hear the hunters coming. |
+| 13 | You hear a rumbling, then suddenly you're all caught up in the middle of an animal stampede. |
+| 14 | An adventurer silently stalks you, waiting for the right time to pounce. |
+| 15 | The ground gives way and one or more PCs fall down into a cave. |
+| 16 | You see a human prisoner being chased by several guards through the forest towards the dungeon. |
+| 21 | While climbing up a rough embankment, one or two PCs lose a piece of gear. |
+| 22 | You see the remnants of a battle with several corpses lying around. It's a clever necromancer's trap. |
+| 23 | The roads in this area now have riders with dogs patrolling them. |
+| 24 | An NPC from a dark faction leaves a note demanding gold or they will reveal your dungeon location. |
+| 25 | You get stuck while moving through a marsh and see gators slowly moving towards you. |
+| 26 | A storm delays your return to the dungeon. You take -1d on your next downtime action. |
+| 31 | One of your minions steps on a bear trap on the way home, bloodying or killing them. |
+| 32 | It takes you a very long time to get back home. All faction clocks tick once. |
+| 33 | A faction near the one you hit starts a new 4-segment clock: Improved Defenses. |
+| 34 | You spot a young dragon flying overhead. It circles as it thinks it saw something rustling the bushes. |
+| 35 | A unicorn steps out in front of you and paws the ground. You've stumbled into its glade. |
+| 36 | Halfway home, one of you realizes you've left an important piece of gear back at the raid. |
+| 41 | A mudslide has blocked your path and you realize you have to travel through troll territory. |
+| 42 | A group of farmers chase you down with torches and pitchforks. |
+| 43 | Light faction defenses in the area increase giving -1d on assault and strike raid plan engagement rolls. |
+| 44 | You stumble upon two black bear cubs and notice the momma bear off to the left too late. |
+| 45 | A random PC hits a trap coming back to the dungeon, bloodying or killing them if already bloodied. |
+| 46 | You hear the sound of dogs barking as they catch your trail. Start a 4-segment clock: Cornered. |
+| 51 | Your dungeon was spotted by a tracker, who is now running away. Capture them or face invasion. |
+| 52 | Any further raids against factions in this area will take -1d to the loot roll. |
+| 53 | A griffon rider circles overhead, intent on finding your dungeon's location. |
+| 54 | Each PC has to pay cost as they struggle their way home through a storm. |
+| 55 | You encounter a couple of satyrs inviting you off to party. You're compelled to follow. |
+| 56 | One of you gets smacked with a swinging log trap, knocking you into a river. |
+| 61 | A minion pack that you thought was dead actively disrupts your next raid plan to get revenge. |
+| 62 | One of the PCs has become separated and a mountain lion is stalking them. |
+| 63 | You all wake up entwined in thick vines. Several fae are pulling your loot away. |
+| 64 | You meet a wretched crone offering you a secret way into the keep. It's not a trap, but you can't trust her. |
+| 65 | A famous adventuring crew arrives in the region and leaves warning signs for you. |
+| 66 | A minion pack doesn't make it out of the raid and gets captured. |

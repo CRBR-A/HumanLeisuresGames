@@ -1,0 +1,201 @@
+# City Sewers
+
+Group: Pixie Island 
+Level: 1
+Alignment: Neutral
+Info:
+  - Campfire festivals
+  - Blinking lights in trees
+  - Fascinated by people
+Objectives:
+  - medium: Lure in a fisherman
+  - long: Move into the city trees
+
+Group: Baron Pointyears 
+Level: 1
+Alignment: Neutral
+Info:
+  - Ratfolk tribe in the sewers
+  - Ride sewer gators
+  - Incredible hunters
+Objectives:
+  - medium: Expand territory (+level)
+  - short: Feed the gators
+
+Group: Admiralty 
+Level: 3
+Alignment: Light
+Info:
+  - Control the navy and docks
+  - Recruit from Shanty Town
+  - Admiral is from Mucktown
+Objectives:
+  - medium: Round up shanty towners
+  - long: Get wind of merfolk
+
+Group: Shanty Town 
+Level: 1
+Alignment: Light
+Info:
+  - Loyal Prosperity believers
+  - Exploited by the temple
+  - Hardworking, honest folk
+Objectives:
+  - medium: Tithe the temple
+  - medium: Praise the Prince Day
+
+Group: Mentwick Manor 
+Level: 2
+Alignment: Light
+Info:
+  - Ex-adventurer and family
+  - Very wealthy
+  - Blackmailing the Prince
+Objectives:
+  - long: Marry into royalty
+  - medium: Blackmail the merfolk
+
+Group: Baron Bigteeth 
+Level: 1
+Alignment: Neutral
+Info:
+  - Ratfolk tribe in the sewers
+  - Live on sewerboats
+  - Powerful warriors
+Objectives:
+  - long: Tear down the statue
+  - medium: Join with the pointyears
+
+Group: Noble Estates 
+Level: 1
+Alignment: Light
+Info:
+  - A few minor noble families
+  - Jealous of the Mentwicks
+  - Loyal Prosperity followers
+Objectives:
+  - short: Hire proper guards (+level)
+  - long: Challenge the Mentwicks
+
+Group: Mucktown Gangs 
+Level: 2
+Alignment: Light
+Info:
+  - Five constantly warring gangs
+  - Loose loyalty to the "top" gang
+  - Want to exterminate ratfolk
+Objectives:
+  - medium: New gang takes over
+  - short: Smuggle goods for nobles
+
+Group: Prosperity Temple 
+Level: 4
+Alignment: Light
+Info:
+  - Highly corrupt priesthood
+  - Seek to run the city
+  - Forsaken by their goddess
+Objectives:
+  - short: Persecute a heretic
+  - long: Frame the High Wizard
+
+Group: The Royal Family 
+Level: 4
+Alignment: Light
+Info:
+  - Led by the Prince
+  - Belong to a secret cult
+  - Don't trust the royal guard
+Objectives:
+  - medium: Curtail the temple (-level)
+  - long: Destroy the Mentwicks
+
+Group: City Guard 
+Level: 2
+Alignment: Light
+Info:
+  - Loyal to Prosperity Temple
+  - Keep the muck out of the city
+  - Patrols within the walls
+Objectives:
+  - short: Bust Mucktown heads
+  - long: Uncover blackmail
+
+Group: Royal Guard 
+Level: 3
+Alignment: Light
+Info:
+  - Greatly diminished power
+  - Accompany the Prince
+  - Easily bribable
+Objectives:
+  - medium: Shakedown the college
+  - medium: Shakedown the Mentwicks
+
+Group: Merfolk Coven 
+Level: 1
+Alignment: Neutral
+Info:
+  - Thought of only as a myth
+  - Prince has a merfolk lover
+  - Want to stop the dirty waters
+Objectives:
+  - short: Convince Prince to help
+  - long: Ritual of cleansing
+
+Group: College Arcanum 
+Level: 2
+Alignment: Light
+Info:
+  - At odds with the temple
+  - Strongly against the ratfolk
+  - Loyal to the Prince
+Objectives:
+  - medium: Expose the royal guard
+  - long: Exterminate Whiskers
+
+Group: Baron Whiskers 
+Level: 1
+Alignment: Neutral
+Info:
+  - Ratfolk tribe in the sewers
+  - Practice strange magics
+  - Universally hated
+Objectives:
+  - short: Capture a merfolk
+  - medium: Raid the College Arcanum
+
+Group: Cult of Prosperity 
+Level: 2
+Alignment: Light
+Info:
+  - Led by the Prophet
+  - Preaches of true prosperity
+  - Directly opposes the temple
+Objectives:
+  - long: Kidnap the high priest
+  - short: Spread the faith
+
+Group: Baron Longtail 
+Level: 1
+Alignment: Neutral
+Info:
+  - Ratfolk tribe in the sewers
+  - Contacts with the Prophet
+  - Swim through the sewers
+Objectives:
+  - medium: Convert to Prosperity
+  - long: Join the Cult
+
+## Likely Dungeon Locations
+
+- Under the prison (top right)
+- Bottom of a slum well (bottom left)
+- Prosperity Church crypts (top center)
+- Arcane College warrens (center)
+
+## Questions
+
+- Why doesn't the city clear out the ratfolk sewer barons?
+- What else stalks the city's sewer system?
+- Who is the statue near the harbor of?

@@ -1,0 +1,38 @@
+| Dices | Magic item |
+| ----- | ---------- |
+| 11 | Bag of Luck: Lets you reach your hand in and pull out a mundane item, but likes to play tricks on you. |
+| 12 | Driftcloak: Lets you slowly descend from a high spot, but you can't control your descent at all. |
+| 13 | Ember Ring: Emits embers, igniting anything flammable, but burns you when you use it. |
+| 14 | Marionette : Can perform a simple command that you give it, but wanders off afterwards. |
+| 15 | Waterstep Boots: Lets you walk across water, but you have to keep moving so you don't sink. |
+| 16 | Spidersilk Lute: Draws in spiders in your area when played, but the spiders are hostile to you as well. |
+| 21 | Bouncy Boots: Lets you always bounce safely when falling, but you bounce in a random direction. |
+| 22 | Grasping Shield: Can reach out and entangle enemies, but is terrified of axes. |
+| 23 | Vision Helm: Vastly enhances your sight, but you can't hear very well when wearing it. |
+| 24 | Snake Lock: Can be placed on a door to instantly lock it, but bites you when you take it off. |
+| 25 | Tracking Jewel: Always makes you aware of its location, but bloodies you if broken. |
+| 26 | Soul Flask: Can hold a single soul for transport, but the soul will rattle the flask at the worst moment. |
+| 31 | Displacement Arrows: Teleport anyone hit with them to a nearby spot, but the spot is totally random. |
+| 32 | Immovable Armor: Makes you nigh-immovable, but you can't run while wearing it. |
+| 33 | Spiteskull: Tries to bite and latch onto anything you throw it at, but is always looking for a better owner. |
+| 34 | Endless Bottle: Holds an immense amount of liquid, but all of it flows out when opened. |
+| 35 | Bag of Devouring: Will completely destroy any non-living material put inside it, but is very hungry. |
+| 36 | Lookout Cap: Lets you know if anyone can see you, but is extremely paranoid of getting spotted. |
+| 41 | Thundering Mace: Knocks back anyone you hit with it, but is incredibly noisy. |
+| 42 | Dancebox: Makes anyone around without a task start dancing, but only plays one song. |
+| 43 | Eye of Melawa: Reveals lies and illusions, but makes a blinding flash when it does so. |
+| 44 | Cursed Coin: Causes the one that finds it to grow greedier over time, but tries to be spent. |
+| 45 | Blink Boots: Lets you teleport a short distance away, but you're disoriented after. |
+| 46 | Bloodstone: Heals a wound, but must be bathed in increasingly potent blood after each use. |
+| 51 | Goldmonger's Tooth: Turns victims into golden statues, but they might randomly come back to life. |
+| 52 | Rust Shield: Instantly rusts any metal weapon it blocks, but slowly falls apart. |
+| 53 | Werepelt: Turns you into a werebeast while the full moon is out, but it's a mostly harmless beast. |
+| 54 | Cursed Mirror: Sends the thoughts of anyone looking into it to its creator, but slowly drives you insane. |
+| 55 | Stasis Ring: Puts you into a visible but incorporeal stasis for a few moments, but you can't see anything. |
+| 56 | Covensworn Tome: Allows you to cast a predetermined tier 1, 2, and 3 spell, but costs more each time. |
+| 61 | Mind Distillery: Drains memories from people's minds, but makes them go insane in the process. |
+| 62 | Cloak of Invisibility: Turns you completely invisible, but no other gear besides the cloak. |
+| 63 | Cube of Knowledge: Answers almost any yes or no question you ask, but can't be used again for a cycle. |
+| 64 | Harvesting Axe: Gives you a huge burst of power when you hack off a limb, but always demands more. |
+| 65 | Storm Orb: Can conjure up a major storm within the region, but you can't decide its path. |
+| 66 | Withering Staff: Causes plant life within a large area to wither, but leaves you feeling drained. |
