@@ -1,0 +1,26 @@
+
+
+Find a different character hidden a text
+Important: depends heavily on the font used
+
+pair : 
+u and n
+1 and l
+b and d
+p and q
+t and b
+u and v    
+Q and O                QQQQOQQQQ
+D and O     OOOODOOOO  DDDDODDDD
+S and 5 ex: 5555S5555  SSSS5SSSS
+G and 6     6666G6666  GGGG6GGGG
+B and 8     8888B8888  BBBB8BBBB
+7 and Z     7777Z7777  ZZZZ7ZZZZ
+R and P     RRRRPRRRR  PPPPRPPPP
+h and k 
+H and K
+X and K
+M and W 
+m and w
+o and c
+y and v
