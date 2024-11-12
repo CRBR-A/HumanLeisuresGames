@@ -1,0 +1,3 @@
+url: https://github.com/AlexanderJDupree/text_adventure_game
+author: Alexander DuPree, Jacob Bickle
+License: Unlicense
