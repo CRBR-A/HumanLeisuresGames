@@ -1,0 +1,8 @@
+| 1d6 | Encounters |
+| -- | -- |
+| 1 | Danger - Adventurer(s)! |
+| 2 | Danger - Ambush or Trap |
+| 3 | Danger - Animal or Hazard |
+| 4 | Obstacle - Terrain or Weather |
+| 5 | Obstacle - People or Magic |
+| 6 | Chance - A golden opportunity! |

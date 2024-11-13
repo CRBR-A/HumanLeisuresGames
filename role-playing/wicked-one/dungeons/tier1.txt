@@ -1,0 +1,12 @@
+#### Tier 1 Rooms and Structures
+
+***Crawlway***: A tiny passage that smaller creatures can move through fairly quickly, but is too tight for day to day laboring within the dungeon.
+
+***Long Tunnel***: A simple, long passage used to connect areas of the dungeon.
+
+***Minor Room***: A simple room built only to please your minions and give your dungeon atmosphere, such as a mess hall, latrines, a skull filled corridor, or a garden. When you build one, all minions gain morale and you take +1d on your next calamity roll. Give it two atmospheric traits (choose two): *bright* - *cold* - *cluttered* - *crumbling* - *dim* - *echoing* - *hot* - *noisy* - *silent* - *smelly* - *spooky*.
+
+***Secret Tunnel***: A hidden passage that will likely go unnoticed unless recently used.
+Traverse: A bridge, ladder, rope, swing, pulley lift, or other similar structure that allows safe passage over tough terrain.
+
+***Window***: A hole in a wall between caverns, rooms, or tunnels.

@@ -1,0 +1,46 @@
+## Brute
+> Powerful & Intimidating Brawlers
+
+You’re called to battle and delight in facing down your enemies, chopping them to pieces in brutal combat. For you, the bloodier, the better. Your confidence with a weapon in hand manifests outside of combat when commanding others, bellowing orders like you expect them to be obeyed and bashing heads on the off chance they aren't. You begin play with the following **core ability**:
+
+Rage: You can spend stress to perform an incredible feat of strength, like *throwing a large boulder*, *tackling a charging horse*, or *facing off against a much larger foe on equal footing*.
+
+things a Brute would have thought to do : *torturing a prisoner*, *threatening violence*, or *acquiring just the right weapon*.
+
+### Brute Abilities
+
+#### Assault
+
+You’re a force to be reckoned with. On a success in close combat, you can also (choose one): *cleave into a nearby enemy* - *destroy their shield or armor* - *send them flying*.
+
+#### Fury
+
+When you suffer injury or humiliation, you take +1d if you immediately lash out. On a critical, you clear 1 stress.
+
+#### Living Weapon
+
+Your body is a deadly weapon and has edges (choose two): *concealed* - *longreach* - *grappling* - *ranged* - *pulverizing* - *terrifying*. *How did you end up this way?*
+
+#### Menace
+
+You put the torment of others over your own safety. You take +1d when you go hard to intimidate or humiliate someone. On a critical, you clear 1 stress.
+
+#### Pack Mule
+
+You can carry an immense amount. You gain two gear slots, a defense based on them, and a supply slot. *Where do you keep all of that extra stuff?*
+
+#### Rawhide
+
+Your thick hide protects you from harm. You take +1d when resisting physical attacks and spend 1 less stress when you do so. *What makes your hide so tough?*
+
+#### Taskmaster
+
+You gain a downtime action which you can only use to recruit minions or sacrifice to have minions perform a downtime action without paying them gold.
+
+Example Brute Items :
+| battleaxe | spiked armor |
+| horned helmet | jug of liquor |
+| barbed whip | bag of tasty snacks |
+| torture tools | wardrums |
+| fur cloak | sturdy chains |
+| bone earrings | throwing axes |

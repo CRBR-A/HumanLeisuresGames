@@ -1,0 +1,12 @@
+You reach out and seize control of primal, arcane energies, twisting them to serve your own nefarious purposes. Sorcery is the purview of Warlocks, who can learn to cast higher tier spells within this magic discipline. Those who wield sorcery draw their power from a variety of sources. Some tap into the underlying energies that created the world. Others harness the remnants of life energy remaining in corpses. This power might even come from within, such as a forbidden mystical heritage or a heart corrupted by dark experiences.
+
+Over the following pages, the sorcery magic paths are laid out with example spell failures, limitations, magic focuses, and spells. Remember that spell tiers fluctuate depending not on the spell effect itself, but on what you're trying to accomplish with it. All of these are merely examples to help show what might be possible within that path. Magic is a creative endeavor and up to you to define the power you wield.
+
+**Sorcery has the following magic paths:**
+
+- **Enchantment**: Manipulate Weak Minds
+- **Evocation**: Summon Hellish Fiends
+- **Force Mastery**: Move Objects at Will
+- **Illusion**: Confuse the Senses
+- **Necromancy**: The Cold Caress of Unlife
+- **Pyromancy**: Watch the World Burn

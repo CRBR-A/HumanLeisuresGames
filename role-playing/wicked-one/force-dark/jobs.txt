@@ -1,0 +1,22 @@
+| +d6 | Minion Jobs |
+| --- | --- |
+| 1 | acolytes |
+| 2 | alchemists |
+| 3 | builders |
+| 4 | cutthroats |
+| 5 | sappers |
+| 6 | envoys |
+| 7 | grunts |
+| 8 | mages |
+| 9 | miners |
+| 10 | haulers |
+| 11 | priests |
+| 12 | raiders |
+| 13 | scouts |
+| 14 | thieves |
+| 15 | bodyguards |
+| 16 | trappers |
+| 17 | tricksters |
+| 18 | witches |
+| 19 | workers |
+| 20 | jesters |

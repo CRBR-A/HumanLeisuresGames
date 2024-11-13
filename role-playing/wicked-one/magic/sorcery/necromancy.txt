@@ -1,0 +1,25 @@
+### Necromancy : The Cold Caress of Unlife
+
+Flesh and bone have memory of life and, even once the spark is gone, that memory can be forced to serve your will. You can fill these vessels with necrotic energy to bring forth unlife or turn that necrotic energy against living flesh, sapping its strength.
+
+When necromancy spells fail, the ghosts of those you're raising might hinder you, a skeleton may break free of your command, or the memories of your victims could haunt you.
+
+**Limitations**: Necromancy requires flesh or bone and tends to work far better on the already dead. You might also need to lay your hands on the target or place your own soul within a vessel.
+
+#### Tier 1 Spells
+Equal to Other Actions in Impact
+- Helping Hand: The dead man's arm detaches and drags his weapon to you.
+- Wither: A burst of necrotic energy saps the barbarian's vigor. 
+- Corpse Explosion: The corpse rumbles, then explodes in a dangerous shower of flesh and bones.
+
+#### Tier 2 Spells
+Equal to a Team's Action or One Person Over Time
+- Raise Skeletons: The bones form up into a skeleton minion pack, walking towards you and awaiting orders.
+- Skeleton Surprise: The skeleton rips itself free of its mortal husk.
+- Witness Death: You see a horse kicking them in the head, then bandits riding off, leaving them bleeding to death in the road.
+
+#### Tier 3 Spells
+Equal to a Team Over Time or Impossible Effects
+- Whispers: The long-buried duke tells you where his illegitimate son lives.
+- Zombie Horde: A large horde of zombies burst forth from their graves.
+- Life Siphon: The lancer's life energy is ripped from her, healing your wounds.

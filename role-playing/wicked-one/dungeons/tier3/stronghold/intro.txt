@@ -1,0 +1,9 @@
+## Stronghold
+
+Through Strength of Arms. 
+Choose this dungeon theme if you want to face challenges with pure military might. Its core function is ***warband***, giving you a powerful minion that can raid the region. A Stronghold has the following tier 3 rooms: ***barracks***, ***bestiary***, ***fighting pit***, ***funeral pyre***, ***smithy***, ***war drums***, and ***war room***.
+
+A Stronghold is the seat of power from which you command your forces. You project might through sheer military power. You start with this **core function**:
+
+[context]: # (important rule)
+> ***Warband***: The dungeon has a raiding party, a shared minion pack with *greater scale* than usual and the *companion* and *expendable* upgrades. It can be sent on its own raids. At the beginning of the raiding phase, each player allocates 1d towards a target, chooses a raid plan, then selects a goal (choose one): *gather room materials* - *grab good loot* - *influence a faction* - *kidnap someone* - *setup for a pillaging raid*. You can also choose the same plan and goal to combine rolls to determine effectiveness. Make a fortune roll for each target, rolling the number of dice allocated and narrate accordingly. If you forego these independent raids, the warband can accompany you on a raid instead.

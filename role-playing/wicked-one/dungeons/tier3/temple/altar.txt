@@ -1,0 +1,8 @@
+#### Altar
+
+You can make a sacrifice at the altar, paying cost to gain a dark blessing (choose one): *take +1d on a single roll with an item this cycle* - *take +1d on your next resistance roll* - *your next failure instead becomes a mixed*. The sacrifice must be unique each time you ask for a blessing.
+
+*An altar might need incense, statues, or icons specific to your god's domains.*
+
+[context]: # (example of play)
+> "I kneel before the altar and Vahoona answers my howl with her own. Shaking with terror, I pay for the blessing with shock to ***GUTS***."

@@ -1,0 +1,25 @@
+### Evocation : Summon Hellish Fiends
+
+The hells are full of demons, devils, and fiends waiting to be pulled forth from their firey domain and put to good use. You open portals and pull through whatever servants you need, binding them to do your bidding.
+
+When evocation spells fail, the fiend you summoned might take vengeance on you for disturbing them, break free and run amok, or hold a grudge against you.
+
+**Limitations**: Evocation requires the actual summoning and binding of creatures from hell, which generally don't take too kindly to this. You might also leave lingering portals or need to make small offerings to appease them.
+
+#### Tier 1 Spells
+Equal to Other Actions in Impact
+- Thief: A tiny whiptail demon appears and picks the lock for you.
+- Annoyance: Quasits appear and grab the bag from the merchant.
+- Whip: A demonic whip appears in your hand and you lash the sorcerer with it
+
+#### Tier 2 Spells
+Equal to a Team's Action or One Person Over Time
+- Hellish Workcrew: A pack of wretches appear and rip down the wall.
+- Warrior: A barbed demon climbs out of a pit and tackles the knight.
+- Winged Servant: A winged demon flies high into the sky to look for the caravan.
+
+#### Tier 3 Spells
+Equal to a Team Over Time or Impossible Effects
+- Hellhounds: A pack of hellhounds run down the fleeing horsemen.
+- Pits of Hell: Flaming pits erupt along the ground dragging some villagers into them, then lava begins pouring out into the village.
+- Devilish Transformation: Your form twists into that of a devil, with flaming sword and spiked armor.

@@ -1,0 +1,21 @@
+> ### Kobolds
+> **Kobolds** are small, raucous creatures. They look like a mix between a rodent, a dog, and a lizard. They’re hyperactive and aggressive, with short attention spans. They usually prefer working together on something. They rarely have a sense of self preservation. A kobold might say:
+> > "What the hell was I doing again? Oh yeah, stabbin'!"  
+> > "Oh, that's shiny! I think I'll be having that."  
+> > "Kill 'em all before they get away!"
+>
+> [randomizable]: # (name)
+> #### Common Names
+> - Bitey
+> - Blek
+> - Dimm
+> - Drell
+> - Frum
+> - Gromp
+> - Harf
+> - Mungus
+> - Muts
+> - Retch
+> - Skelk
+> - Stitch
+> - Snarl

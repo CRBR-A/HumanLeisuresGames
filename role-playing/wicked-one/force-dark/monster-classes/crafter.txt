@@ -1,0 +1,47 @@
+## Crafter
+
+> Clever & Curious Tinkerers
+
+You spend hours in your workshop mixing together alchemical reagents and constructing dangerous devices with a gleeful disregard for your own safety. You strap up before you leave the dungeon, well-prepared for any situation. You begin play with the following **core ability**:
+
+Ingenuity: You can spend stress to perform an incredible feat of creation, like *mixing concoctions on the fly to create a powerful combined effect*, *slapping together a temporary simple contraption*, or *ignoring volatility in monster science creations*.
+
+Things a Crafter would have thought to do : as *sabotaging structures*, *grabbing materials*, or *brewing a concoction*.
+
+### Crafter Abilities
+
+#### Brewmaster
+
+When you make a concoction, you always make 1 extra dose, even on a failure. You gain a downtime action which you can only use to brew concoctions.
+
+#### Creative Frenzy
+
+On a success while working on a crafting downtime project, the downtime action isn’t consumed. You also gain a downtime action which you can only use to craft.
+
+#### Monster Science
+
+You fully believe in your creations. You take +1d when you go hard with a concoction or contraption, but you can't resist any consequences from the roll. On a critical, you clear 1 stress.
+
+#### Pride
+
+You instill a deep sense of yourself into anything you create. When you or someone else rolls a critical using something you crafted, you gain a dark heart.
+
+#### Prototype
+
+Start a single tier 2 or 3 contraption crafting clock. You can use this unfinished  contraption as normal. Any time you make a <ins>dire</ins> roll using it, it ticks the crafting clock once. When the clock is full, the contraption is made and you start a new clock.
+
+#### Scrutiny
+
+You can spend stress to establish a flaw in a structure or some machinery you can see. You take +1d when you act on that knowledge.
+
+#### Signature Elixir
+
+You have a steady supply of a single specific tier 2 concoction and you gain 2 supply slots which you can only use for it.
+
+#### Example Crafter Items
+| tool pouch | magnifying glass |
+| crossbow | bag of loose parts |
+| lamp & oil | safety goggles |
+| sledgehammer | flint & tinder |
+| leather apron | canvas bag |
+| shovel | pickaxe |

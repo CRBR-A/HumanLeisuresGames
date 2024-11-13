@@ -1,0 +1,20 @@
+### Shabaz, The Unscrupulous Destroyer
+
+**God of Tempests and Blights**. He is the bringer of nature's destructive forces, the catalyst for change in the world. He knows no equal and cares little for his victims.
+
+Shabaz may forsake you if you displease him, such as by stemming the forces of nature, aiding growth in the world, or allowing civilization to thrive.
+
+#### Tier 1
+- Wilt: The flower garden wilts under your gaze, angering the sprites.
+- Lightning: A bolt crashes down from the sky, setting the hay on fire.
+- Howling Winds: The pursuers lose your trail as the heavy winds pick up.
+
+#### Tier 2
+- Ominous Fog: As the fog rolls in, the sailors begin to question the captain.
+- Parch: Wetness is sucked from the air and the goblins grasp their throats.
+- Waves: Large waves batter the ship, rocking it from side to side.
+
+#### Tier 3
+- Lightning Storm: Rain and lightning pelt the defenders on the walls.
+- Insect Plague: Locusts descend on the farmlands, wrecking crops.
+- Tornado: A twister tears through the small hamlet.

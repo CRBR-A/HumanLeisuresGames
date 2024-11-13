@@ -1,0 +1,20 @@
+**Imps** are small, pitiful monsters that flock to your dungeon as soon as you start building it. In exchange for protection, they take care of the drudgery in your dungeon, cleaning, digging, and hauling stuff around. Their existence allows players to handwave a lot of the tedious "management" of the dungeon. Imps can be weaved into scene narration as you see fit.
+
+Exactly what kind of monsters they are is up to you and is chosen at dungeon creation. They usually match the dungeon theme, its overall atmosphere, or the region it's built in. A forge in a volcano might have magma imps while a temple's imps would likely be themed after the god they worship. 
+
+Imps only speak in grunts, squeeks, and gestures, though they can understand the Dark Tongue. They're generally useless, completely refusing to venture outside of your dungeon. They can only have very low impact on any situation, merely adding flavor to scenes like flipping a trap's lever or being thrown at an adventurer. If you ever need to determine an imp’s effectiveness, **they roll 0d and take -effect**.
+
+| 2d6  | Imp Traits |
+| --- | --- |
+| 1 | clever |
+| 2 | cowardly |
+| 3 | cruel |
+| 4 | helpful |
+| 5 | noisy |
+| 6 | weird |
+| 7 | irritating |
+| 8 | manic |
+| 9 | stupid |
+| 10 | surly |
+| 11 | tireless |
+| 12 | lazy |

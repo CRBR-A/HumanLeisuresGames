@@ -1,0 +1,48 @@
+## Shaman
+
+> Terrifying & Vengeful Witches
+
+You understand the dark power of nature and are drawn to the hidden world of spirits. You might revere them and seek their favor, or perhaps enslave them for your own purposes. Either way, the spirits speak and you hear their mad whispers of vengeance. You begin play with the following **core ability**:
+
+Witchcraft: You have mastered a magic path (choose one): *bloodreading* - *soothsaying* - *spiritcalling* - *stormstrike* - *wildheart*. You can spend stress to ***Invoke*** tier 2 and tier 3 spells of your path.
+
+things a Shaman would have thought to do : *interacting with spirits or animals*, *brewing a wild concoction*, or *sowing terror*.
+
+### Shaman Abilities
+
+#### Beastform
+
+You can spend stress to assume the form of a beast. While in this form, one of your actions swaps ratings with another and you gain either ***Primal Ability*** or a special ability from another calling. You also gain a second dark impulse while in this form. All of these are chosen when you first take this ability.
+
+#### Bonded Spirit
+
+You have a magically bonded spirit or pack instead of minions. It has the companion upgrade and powers (choose two): *become invisible* - *manifest physically* - *possess the weak-minded* - *reveal information about the past*. It can use each once per cycle.
+
+#### Spirit Whispers
+
+Your control of chaotic situations pulls information from surrounding spirits. On a success when resisting, you can ask the GM a question or to reveal a secret related to the situation. You also gain a defense against lies, trickery, and stealth.
+
+#### Terror
+
+Others can't help but reveal their fears. You can spend stress to establish what someone’s worst fear is. You take +1d when you act on that knowledge.
+
+#### Weaving
+
+You effortlessly blend witchcraft with the material or mundane. On a success when casting a spell, you take +1d on any follow-up using a different action.
+
+#### Wild Brews
+
+You can brew potions of any tier from all witchcraft paths. You also gain a downtime action which you can only use to brew potions.
+
+#### Wrath
+
+Your desire for payback fuels your witchcraft. When you cast a spell immediately after a resistance roll, you take +1d and it costs no stress to cast.
+
+#### Example Shaman Items
+
+| spirit mask | spiked club |
+| bone mace | bag of snakes |
+| thorn amulet | smoking pipe |
+| augury bones | gnarled staff |
+| jar of fireflies | tooth necklace |
+| voodoo mask | feathered headdress |

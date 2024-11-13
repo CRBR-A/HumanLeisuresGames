@@ -1,0 +1,9 @@
+## Forge
+
+The Power of Industry. 
+Choose this dungeon theme if you want a dungeon full of monstrous inventions and steampunk tech. Its core function is ***power source***, boosting the productivity and defenses of your dungeon. A Forge has the following tier 3 rooms: ***alchemist lab***, ***guild hall***, ***factory***, ***mineshaft***, ***testing chamber***, ***vehicle bay***, and ***workshop***.
+
+A Forge is built for production - inventions, factories, steamworks, and alchemy can be found throughout the complex. Problems are approached with ingenuity, eagerness, and a keen disregard for danger. You start with this **core function**:
+
+[context]: # (important rule)
+> ***Power Source***: In a forge, your sanctum is a source of power fueling your dungeon, such as a volcano, a steamworks, or a waterwheel. During downtime, you can take +1d on a single downtime action. During dungeon defense, you can take +1d on a single lock, trap, or trick on your list of dungeon duties.

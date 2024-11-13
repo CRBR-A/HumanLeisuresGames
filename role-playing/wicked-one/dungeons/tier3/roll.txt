@@ -1,0 +1,39 @@
+#### 
+| 2d6 | Tier 3 Rooms |
+| -- | -- |
+| 11 | 1d discovery |
+| 12 | academy |
+| 13 | alchemist lab |
+| 14 | antechamber |
+| 15 | augury circle |
+| 16 | barracks |
+| 21 | bestiary |
+| 22 | crucible |
+| 23 | dojo |
+| 24 | dormitory |
+| 25 | factory |
+| 26 | fighting pit |
+| 31 | funeral pyre |
+| 32 | gambling den |
+| 33 | gear locker |
+| 34 | greenery |
+| 35 | guild hall |
+| 36 | library |
+| 41 | mineshaft |
+| 42 | obstacle course |
+| 43 | penance chamber |
+| 44 | planning room |
+| 45 | potion lab |
+| 46 | reliquary |
+| 51 | roost |
+| 52 | scriptorium |
+| 53 | scrying pool |
+| 54 | smithy |
+| 55 | spawning chamber |
+| 56 | tavern |
+| 61 | testing chamber |
+| 62 | vehicle bay |
+| 63 | war drums |
+| 64 | war room |
+| 65 | workshop |
+| 66 | 3d discovery. Roll again. |

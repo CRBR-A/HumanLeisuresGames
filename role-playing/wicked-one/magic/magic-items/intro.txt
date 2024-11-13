@@ -1,0 +1,20 @@
+Given their line of work, dungeon monsters are bound to come across magic items, whether they're hanging off the bodies of dead adventurers, hidden away in a wizard’s closet, or being secretly transported in a grain caravan. Magic items often give permission to do something that you couldn't otherwise do, rather than enhance your abilities. Like anything else in the fiction, they may count as circumstance bonuses towards position and effect. 
+
+**Magic items can be crafted with a ritual of a tier equal to the item being enchanted.** The tier of the magic item is set in the same way as a ritual, based on its impact within the story. You must also fulfill ritual requirements, though one of these is always a special focus to be enchanted.
+
+As these items have quite a broad range of power, you can balance their power by giving them a drawback. The drawback is decided prior to crafting it. Remember that a tier 1 magic item already becomes *volatile* when you get a mixed on the roll, making it possible to be *volatile* twice.
+
+- Activation: You must activate it in some way, such as by taking stress or paying cost. After activation, it might only be usable once or for a short time.
+ - You turn over the hourglass, giving yourself one hour of protection.
+ - You take stress to launch a fireball from the wand.
+ - You put a gold coin in the tiny statue's mouth and it tells you a secret.
+  
+- Limited use: It only has a certain number of uses before it becomes completely unusable or needs to be recharged in some way.
+ - You must throw one of the seeds to grow a tree at that spot.
+ - The flaming sword has a chance of burning out, needing to be dipped in lava to regain its power.
+ - Every time you use the eaglewing cape, a few more feathers fall off.
+ 
+- Volatile: It's *volatile*, having some negative effect on the user when used.
+ - The cinderstone burns you every time you use it.
+ - The jumping boots make you queasy every time you use them.
+ - The lightning wand arcs to an ally after it hits your enemies.

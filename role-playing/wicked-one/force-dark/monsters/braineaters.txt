@@ -1,0 +1,62 @@
+### Braineater
+
+[context]: # (summarizing subtitle)
+> Voracious Psionic Masters
+
+The delicious energy hidden within the brains of intelligent creatures calls to you. You crave it, engaging in a neverending search for your next harvest. This endless hunger may even force you to join forces with those you might otherwise consider food.
+
+#### Braineater Traits
+
+***Psionic Disciplines***: You have four psionic disciplines, detailed on the next page, which allow you to manifest psionic powers. Each discipline functions like a magic path. At character creation, you can assign 3, 2, 1, and 1 dots to these disciplines and you roll them as an action when you manifest powers within that discipline. You can spend stress to manifest tier 2 and 3 powers, taking dice penalties like when casting a spell.
+
+***Psionic Masteries***: Each discipline has two masteries, advanced techniques brought about by fully mastering the discipline. When you have 3 dots in a discipline, you gain one of its two masteries. The second mastery can later be taken with wicked xp.
+
+***Psionic Dependency***: Your reliance on psionics has stunted growth elsewhere. You only place 2, 1, 1, and 1 dots in normal actions at character creation.
+
+***Psionic Advancement***: You do not have calling abilities like other callings. When your wicked xp is full, you can add a dot in a discipline, take a second mastery in a 3-dot discipline, or use your flexibility slot to take a calling ability.
+
+***Feasting***: You no longer clear all stress automatically each recovery. Instead, you feast on brains to handle your stress and hunger. This is possible to do during any scene. This requires a *living victim* that is *subdued* or *restrained* and you're very vulnerable while you take the time to feast.
+
+    **Hunger** dominates your thoughts. Failing to feast on the brain of a living, intelligent creature at least once per cycle weakens you. You become bloodied during recovery if you failed to feast during the previous cycle.
+
+    **Weak brains** barely satiate your hunger. This sets your stress clock to 3 ticks regardless of whether you had more or less ticks before.
+
+    **Delicious brains** from a worthy foe or from a victim with particularly interesting memories completely satiate your hunger. You clear all stress.
+
+Your revelry is also ***Feasting***. This covers not only the eating of brains, but also the satisfying of your curiosity as you flitter through the memories in the brains you've consumed. When you overdo it, you might take shock from the flood of memories or hunger for more brains, turning on your dungeon's denizens.
+
+#### Psionic Disciplines & Masteries
+
+Psionic disciplines function as magic paths, though they don't require you to have a magic focus. Each discipline has two masteries listed underneath it.
+
+##### Deception
+
+[context]: # (summarizing subtitle)
+> You ***DECEIVE*** the minds of others into believing what you want.
+
+- ***Mind Blur***: You can spend stress to make anyone not aware of your presence simply unable to notice you until you give them cause to. This lasts for several moments. Once noticed, it is much harder to use it against them again.
+- ***Devious Intent***: On a critical with a deception power, you gain a dark heart. On a failure, you can choose to spend stress to change the result to a mixed instead.
+
+##### Domination
+
+[context]: # (summarizing subtitle)
+> You ***DOMINATE*** the minds of others to do your bidding.
+
+- ***Thrall***: You can perform a tier 1 ritual to turn a subdued adventurer into a thrall, occupying your minion slot. It has the companion and mindset (loyal) upgrades. It also has an extra action with a rating equal to its tier and a calling ability that represents something it can do. If the ability requires it to spend stress, you can spend stress for them.
+- ***Null Field***: You can spend stress to create a spherical null-field, within which all magic ceases to function. Anyone who attempts to cast receives a sharp mental rebuke. The sphere itself is crystalline and vulnerable to physical attack or your concentration being broken.
+
+##### Telekinesis
+
+[context]: # (summarizing subtitle)
+> You ***CONTROL*** objects in the environment around you.
+
+- ***Levitation***: You can levitate as easily as you can walk. You can also spend stress to fly through the sky as swiftly as a hawk for a short time.
+- ***Warding***: You have honed your telekinetic abilities to maintain a reflexive guard around you. You can spend stress to fully resist a physical attack as if you had used a defense. *What form does your guard take?*
+
+##### Telepathy
+
+[context]: # (summarizing subtitle)
+> You ***READ*** the thoughts and memories of others.
+
+- ***Awareness***: You're constantly scanning the surface thoughts of those around you. You're never surprised by living creatures and can always act first. You can spend stress to have the GM reveal a secret about an NPC the first time you meet them.
+- ***Prescience***: Delicious brains can't help but reveal their intentions to you. Any adventurer using a defensive move against your psionic powers takes -1d. When you resist adventurer offensive moves, you take +1d.

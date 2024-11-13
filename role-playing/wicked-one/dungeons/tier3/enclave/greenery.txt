@@ -1,0 +1,8 @@
+#### Greenery
+
+This garden of voracious plants will devour living prey. Feed them to harvest (choose one): *a plant-based shared supply* - *special ingredients for potions*, *a few doses of a concoction*. The higher the tier, the better the harvest. This room is also a trap equal to your dungeon tier.
+
+*A greenery might need rare plants, fertilizer, or artificial sunlight.*
+
+[context]: # (example of play)
+> "We drag the scout into the room and toss him onto the floor. The plants wake up and turn to look at him, baring their teeth. Later in the day, I return to pick some of the fruit they've grown."

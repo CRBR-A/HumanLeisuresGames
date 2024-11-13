@@ -1,0 +1,8 @@
+#### Academy
+
+Young monsters come to study and learn arcane secrets. You can recruit minions from this room. They have ***Invoke*** as their primary action and the *adept* upgrade for free. This room also acts as a creature with a tier equal to the dungeon tier.
+
+*An academy might need crystal balls, mantles, or wands.*
+
+[context]: # (example of play)
+> "I walk in to see a mishmash of young monsters slaving away at the spell memorization they've been assigned. I spot a group of lazy goblins hanging out in the back, avoiding their work. They're perfect for the job."

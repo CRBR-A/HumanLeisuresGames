@@ -1,0 +1,8 @@
+#### Potion Lab
+
+Your imps have learned how to make potions. The dungeon chooses a single magic path of which you have a steady supply of all tier 1 potions and a single tier 2 potion.
+
+*A potion lab might need brewing equipment, special ingredients, or a giant cauldron.*
+
+[context]: # (example of play)
+> "The slissiks knock over a shelf full of Spiderlegs potions, dumping them on the adventurers. Let's see how they react to growing spider legs!"

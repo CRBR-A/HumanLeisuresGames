@@ -1,0 +1,48 @@
+## Warlock
+
+> Daring & Ambitious Mages
+
+You reach out and grab raw, arcane magic by its neck and bend it to your will. You dabble in dangerous arts and know that true power must be wrested away from others. A deep, unquenched thirst for power dwells inside of you. You begin play with the following **core ability**:
+
+Sorcery: You have mastered a magic path (choose one): *enchantment* - *evocation* - *force mastery* - *illusion* - *necromancy* - *pyromancy*. You can spend stress to ***Invoke*** tier 2 and tier 3 spells of your path.
+
+things a Warlock would have thought to do: *acquiring arcane knowledge*, *striking occult deals*, or *creating magic items*.
+
+### Warlock Abilities
+
+#### Artificer
+
+You gain a downtime action which you can only use to incant rituals to make magic items. These rituals also require one less special requirement than usual.
+
+#### Counterspell
+
+On a success when resisting magical effects, you also (choose one): *absorb the spell and clear 1 stress* - *establish a quirk about the caster’s power* - *reflect the spell at the caster*.
+
+#### Familiar
+
+You're magically bonded to a small critter, no bigger than a cat. You can speak telepathically while it's close by. Choose two actions that it excels at, which you roll your own ***Invoke*** for. You roll 0d on anything else. It's knocked out of a scene when bloodied and magically returns during recovery. You can spend stress to cast a tier 1 spell through it.
+
+#### Grand Sorcery
+
+You can choose a second path for your ***Sorcery*** core ability and can cast from any sorcery path with only a single magic focus.
+
+#### Overload
+
+You open yourself to a torrent of power. You take +1d when you go hard with a spell, but you can't resist any consequences from the roll. On a critical, you clear 1 stress.
+
+#### Reaper
+
+When you deliver a killing blow with a weapon, you reap the soul of your victim. You can expend this soul later to cast a spell without spending stress, also taking +1d on the roll. You can only hold one reaped soul at a time.
+
+#### Vile Form
+
+You can spend stress to assume an amorphous form for a few moments, such as a swarm or a fog. You gain any strengths and weaknesses the form possesses and can roll ***Invoke*** to perform actions it would excel at. All of these are chosen when you first take this ability.
+
+#### Example Warlock Items
+
+| decorated staff | skinbound spellbook |
+| scythe | flowing cape |
+| crystal ball | human skulls |
+| ceremonial dagger | component pouch |
+| tattered robes | summoning utensils |
+| twisted wand | bag of minor gems |

@@ -1,0 +1,9 @@
+### Contraptions
+
+Monster science can push the limits of what’s considered possible in a fantasy world: hot air balloons, rocket boots, portable catapults - you name it. These are called contraptions and with them, you can do almost anything you can imagine. Whether it's safe or not, though, is another matter entirely. 
+
+On the next page is a list of example contraptions, what they do, and a possible *volatility* that they might have. What the contraption can accomplish and its *volatility* are determined by the player and GM when you start crafting it. Contraptions are made by using the craft <ins>downtime action</ins> with the tier of the downtime project determined by the tier of the contraption you want to make. When you want to craft something, describe what it is to the GM and they set its tier.
+
+> Contraptions are creations that don't already commonly exist, and for good reason. Every contraption is *volatile* in some way. Work with the GM when you finish making a contraption to choose the nature of its *volatility*.
+
+**The technology level in a dungeon is "shoddy steampunk."** You can’t make anything you want. A monster isn’t going to whip up a computer. An airplane is probably impossible, but a dirigible might be doable! Incredibly complex creations are usually the culmination of several different contraptions. A mask that lets you breathe underwater and a small propeller might function as some sort of makeshift submarine. In the end, the GM determines the scope of technology.

@@ -1,0 +1,38 @@
+| | | | |
+|--|--|--|--|
+| 11 | ceremonial dagger | tool pouch | spirit mask |
+| 12 | vestments | crossbow | bone mace |
+| 13 | scripture | lamp & oil | thorn amulet |
+| 14 | blessed wine | sledgehammer | augury bones |
+| 15 | quill & parchment | leather apron | jar of fireflies |
+| 16 | anointing oil | shovel | voodoo mask |
+| 21 | unholy symbol | magnifying glass | spiked club |
+| 22 | simple sickle | bag of loose parts | bag of snakes |
+| 23 | golden bell | safety goggles | smoking pipe |
+| 24 | box of incense | flint & tinder | gnarled staff |
+| 25 | torture tools | canvas bag | tooth necklace |
+| 26 | wax candles | pickaxe | feathered headdress |
+| 31 | battleaxe | hornbow | dark cloak |
+| 32 | horned helmet | animal trap | throwing knives |
+| 33 | barbed whip | coil of rope | shortbow |
+| 34 | torture tools | trail snacks | lockpick |
+| 35 | fur cloak | hide armor | bag of rocks |
+| 36 | bone earrings | full waterskin | polished mirror |
+| 41 | spiked armor | skinning knife | grappling hook |
+| 42 | jug of liquor | weighted net | smoke bomb |
+| 43 | bag of tasty snacks | felling hatchet | crowbar & pliers |
+| 44 | wardrums | animal collar | garrote |
+| 45 | sturdy chains | fishing gear | shrill whistle |
+| 46 | throwing axes | animal calls | twin daggers |
+| 51 | skin of fine wine | decorated staff | round shield |
+| 52 | blowgun & darts | scythe | twin axes |
+| 53 | wooden flute | crystal ball | bolas |
+| 54 | iron manacles | ceremonial dagger | mapping tools |
+| 55 | weighted dice | tattered robes | ball-and-chain flail |
+| 56 | writing utensils | twisted wand | curved dagger |
+| 61 | hidden dagger | skinbound spellbook | sturdy bracers |
+| 62 | decorative mask | flowing cape | javelins |
+| 63 | flashy rings | human skulls | iron caltrops |
+| 64 | soap & perfume | component pouch | battle horn |
+| 65 | hooded cloak | summoning utensils | clutch of torches |
+| 66 | comb & accessories | bag of minor gems | leather armor |

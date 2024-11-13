@@ -1,0 +1,15 @@
+#### Potion Ingredients
+
+| bat wings | fool's gold | rabbit foot |
+| beetle guts | frog spit | rose thorns |
+| bent ring | four-leaf clover | rusty key |
+| broken mirror | owl feather | scorpion tail |
+| crushed pine cone | poison ivy | seashells |
+| curdled goat milk | pumpkin seeds | snake teeth |
+
+**Especially rare ingredients give you +1d to the roll to brew a potion.** These ingredients are almost always procured within a scene under risky conditions. They might be things like unicorn blood, fairy dust, mermaid scales, prince tears, or a lion's tail. You might...
+- Use unicorn blood to make a *potion of healing*.
+- Use fairy dust to make a *potion of flying*.
+- Use mermaid scales to make a *potion of waterbreath*.
+- Use prince tears to make a *potion of disguise*.
+- Use a lion's tail to make a *potion of courage*.

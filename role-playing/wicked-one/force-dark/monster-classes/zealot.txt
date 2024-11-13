@@ -1,0 +1,47 @@
+## Zealot
+> Fervent & Mystical Believers
+
+You heed the words of your dark god. You believe in them fiercely, knowing that those who serve will be rewarded. The more believers you can recruit, the higher the chance your god will recognize you. They bestow power onto you, from which your intense conviction comes. You begin play with the following **core ability**:
+
+Channeling: You can spend stress to ***Invoke*** tier 2 and tier 3 spells of your <ins>chosen deity’s domains</ins>. Each god has two domains which act as magic paths.
+
+things a Zealot would have thought to do: *interrogating nonbelievers*, *making sacrifices*, or *issuing commands to followers*.
+
+### Zealot Abilities
+
+#### Acolytes
+
+Your minions are fanatic devotees of your god. They have the *mindset (zealous)* and *companion* upgrades and will take a downtime action to incant a ritual each downtime without asking for gold.
+
+#### Defiler
+
+Draw a 4-segment clock on your sheet. Tick it once each time you defile something sacred or beautiful that is antithetical to your god’s domains. When the clock is full, a tier 2 ritual immediately manifests in that location and you start a new clock.
+
+#### Fervent Aura
+
+When you would become bloodied or be killed, you can designate a nearby minion to become bloodied or die instead. When a minion pack dies in this way, they can perform a final action and you gain a dark heart.
+
+#### Inquisitor
+
+You feel deep satisfaction in breaking the will of others. On a success when torturing prisoners, you gain a dark heart and learn twice as much information as normal. You also gain a downtime action which you can only use for this purpose.
+
+#### Rebuke
+
+You teach those who challenge you a harsh lesson. On a success when resisting, you take +1d if you immediately act against them. On a critical when resisting, you also (choose one): *strike fear in their heart* - *make them doubt their path*.
+
+#### Smite
+
+Designate a weapon as your *unholy* weapon. It's now your magic focus. On a success when attacking someone with it, you can spend stress to immediately affect the target with a tier 1 spell without rolling.
+
+#### Unholy Rituals
+
+You gain a downtime action which you can only use to incant rituals. On a success when incanting a ritual, you gain a dark heart.
+
+#### Example Zealot Items
+
+| ceremonial dagger | unholy symbol |
+| vestments | simple sickle |
+| scripture | golden bell |
+| blessed wine | box of incense |
+| quill & parchment | torture tools |
+| anointing oil | wax candles |

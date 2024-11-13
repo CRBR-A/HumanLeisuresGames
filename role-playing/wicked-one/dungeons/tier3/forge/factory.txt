@@ -1,0 +1,8 @@
+#### Factory
+
+Your imps relentlessly sweat away in the factory. Each downtime, they can either produce a single tier 1 contraption or tick a contraption clock twice.
+
+*A factory might need metal casing for a boiler, piles of coal, or raw iron.*
+
+[context]: # (example of play)
+> "I wake up heavily hungover, lying on a table. I turn my head to see machinery and tools tossed about, the result of my drunken rampage. The imps are all scowling at me. I guess they can't work this downtime."

@@ -1,0 +1,8 @@
+#### Tavern
+
+You have a raucous tavern complete with a bar, shelves of alcohol, a roaring fire, and usually a scuffle. Your minions gain morale during recovery and take +1d when fighting invaders here. Wandering monsters also show up from time to time.
+
+*A tavern might need a bartender, lots of alcohol, or a bard.*
+
+[context]: # (example of play)
+> "As you enter the tavern, you see imps singing tunes and dancing on tables. It's getting pretty crazy in here, but at the bar sits a lone dark dwarf quietly downing flagons of ale."

@@ -1,0 +1,26 @@
+### Stormstrike : The Storm's Fury
+
+The storm is the ultimate power of nature, wreaking havoc and destruction without reserve. You understand the ebbs and flows of the storm, harnessing it for your own purposes. You control clouds, wind, rain, hail, and lightning.
+
+When stormstrike spells fail, you might cause favorable weather conditions for your enemies, strike your allies, or lose control of the raging storm.
+
+**Limitations**: Stormstrike requires access to the open sky or flowing winds. You might also have your magic affected by the current weather conditions or need to recharge yourself occasionally by being struck by lightning.
+
+
+#### Tier 1 Spells
+Equal to Other Actions in Impact
+- Weather Reading: Tomorrow will be an incredibly windy day.
+- Lash: Winds buffet the adventurers coming down the tunnel.
+- Bolt: Lightning crashes across the room, smashing into the warrior's shield.
+
+#### Tier 2 Spells
+Equal to a Team's Action or One Person Over Time
+- Hail Storm: Large chunks of hail pelt the workers, forcing them to take cover.
+- Arc Lightning: A bolt of lightning arcs between several riders in platemail.
+- Ominous Skies: The skies grow dark, making the barbarian tribe waver.
+
+#### Tier 3 Spells
+Equal to a Team Over Time or Impossible Effects
+- Windwalking: You soar with the wind, high above the clouds.
+- Thunderstorm: Torrential rain pelts the town, keeping everyone inside.
+- Tornado: An uncontrollable funnel cloud descends into the fields, throwing livestock and fieldhands into the air.

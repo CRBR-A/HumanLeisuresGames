@@ -1,0 +1,8 @@
+#### Guild Hall
+
+You let your minions organize to better their working and living conditions. In truth, you ignore their demands, but the illusion of having some control reduces grumbling. The dungeon takes +1d on calamity rolls.
+
+*A guild hall might need benches, a long table, or scribing tools.*
+
+[context]: # (example of play)
+> "Your minions are sitting in the guild hall having a guild meeting. You see one of the kobold alchemists pounding a gavel, calling the meeting to order. Then suddenly, BAM - the door is kicked in by adventurers."

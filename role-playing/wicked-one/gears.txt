@@ -1,0 +1,7 @@
+- **Minion Mistakes**: You might carry a whip, a club, or a whistle.
+- **Detection**: You might wear a dark cloak, soft boots, or a mask.
+- **Magic**: You might wear a spirit mask, a mantle, or bracers.
+- **Caught Lying**: You might wear impressive clothes, jewelry, or a mask.
+- **Wounds**: You might have heavy armor, a shield, or a defensive weapon.
+- **Enemy Movement**: You might have a spear, bolas, or a net.
+- **Containment**: You might have a small knife, oil, or spiked armor.

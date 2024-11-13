@@ -1,0 +1,110 @@
+### Goldmonger
+
+[context]: # (summarizing subtitle)
+> Greedy Tyrants
+
+You're driven by your lust for gold. It's your obsession as well as fueling your growth. You start as a small whelp, growing alongside your hoard, eventually becoming a terror. But before then, you need some "allies" to help build your hoard.
+
+#### Goldmonger Traits
+
+***Type***: There is an element, part of nature, or mystical source of energy that forms the core of your being and manifests in various ways within your abilities. This is your ***type***. The effects possible with it are judged similarly to spell magic tiers, though you never take dice penalties on the roll. When a roll is called for using it, you roll ***Invoke***. While your type gives you strength, it also creates a weakness. This is your ***anti-type***, a similar source of power that directly opposes the core of your being. You have a vile hatred of it as well as a vulnerability towards it. Choose each of these at character creation from the list below or make up your own:
+
+[context]: # (complete list)
+> - acid
+> - crystal
+> - fire
+> - earth
+> - energy
+> - ice
+> - illusion
+> - lightning
+> - metal
+> - mind
+> - plant
+> - shadow
+> - shimmering
+> - sonic
+> - venom
+> - water
+> - wind
+
+***Primal Body***: The nature of your form makes it impossible to use items. You do not have gear or supply. However, your claws, teeth, and tail are as deadly as a weapon.
+
+***Hatchling***: You start as an egg ready to hatch or a recently hatched whelp. At character creation, you assign 2, 2, 2, 1, and 1 action dots and advance one step in three of the growth paths detailed on the next two pages.
+
+***Growth***: You grow alongside your hoard. When the dungeon tier increases, you add an action dot and advance one step in two separate growth paths. You also grow in size. At tier 0, you're just a tiny whelp and humanoids have scale against you. By tier 1, you can stand on equal footing with them. At tier 3, you now have scale against them. You can also choose not to grow in size when you increase tier.
+
+***Pleased XP***: You do not gain wicked or reckless xp. Instead, at the end of each session, you can give 1 wicked xp to the PC that pleased you the most this session. You can still gain practice xp.
+
+#### Slumber
+
+You do not make loot rolls. Instead, you enjoy nothing more than curling up on your hoard for a nice, long nap. Your time spent slumbering also means you have no downtime actions. As others roll loot, you make a **slumber roll**.
+
+[context]: # (roll summary)
+> ##### Slumber Rolls
+> You roll a number of dice equal to the amount of loot from
+your last raid.
+>
+> **Failure**: Your slumber is disturbed and you overdo it, wreaking havoc on the dungeon or surrounding countryside in some way.  
+**Mixed**: You slumber, albeit restlessly, gaining a dark heart.  
+**Success**: You slumber deeply, filling all of your dark hearts as you dream of (choose one): *an interesting faction scene* - *the location of great treasure* - *secrets of the past*. Establish a fact you saw.  
+**Critical**: Also, you awaken invigorated and can increase a type effect's tier by 1 once this cycle!
+
+#### Growth Paths
+
+Your growth is defined as you advance along six growth paths, each with a chain of three abilities. When you advance a growth path, you always move from the top down and gain the abilities in order. At each opportunity to advance a growth path, you can only move along it one step.
+
+##### Breath
+
+[context]: # (summarizing subtitle)
+> *You fire dangerous blasts from your maw.*
+
+1. You can unleash your breath as a powerful blast, a tier 1 effect of your ***type***.
+2. You can spend stress to increase the power of your blast to a tier 2 effect.
+3. When you go hard with a blast, you increase the tier by 1 instead of gaining +effect. On a success when going hard, you gain a dark heart.
+
+##### Ferocity
+
+[context]: # (summarizing subtitle)
+> *You rend your enemies to bits with tooth, claw, and tail.*
+
+1. Your natural weaponry (choose one): *have an edge* - *become a tier 1 magic item of your ***type****. Appropriate edges may be *corrosive*, *powerful*, or *terrifying*.
+2. You add another edge or the magic item increases to tier 2. On a critical when using your natural weaponry, you gain a dark heart.
+3. On a success in close combat, you can spend stress to (choose one): *cleave into a nearby enemy* - *manifest your ***type*** (tier 1)* - *swallow them* - *swat them away*.
+
+##### Flight
+
+[context]: # (summarizing subtitle)
+> *You take to the skies to rain death from above.*
+
+1. Your wings are powerful enough to fly, though you must spend stress to launch yourself into the air when under threat. You lack fine control over your flight.
+2. Your wings grow stronger and more dependable and you now have even fine control over your flight. You also gain a defense against missile attacks.
+3. You can spend stress to perform an incredible feat of flight, like *dive bombing at high speeds* or *generating huge gusts of wind*. You can also use this to carry a rider or haul large cargo.
+
+##### Hide
+
+[context]: # (summarizing subtitle)
+> *Your scales provide you with greater protection.*
+
+1. Your scales (choose one): *have an edge* - *become a tier 1 magic item of your ***type****. Appropriate edges may be *camouflaged*, *slippery*, or *spiked*. You also gain
+a defense that comes from your scales.
+2. On a success when resisting a physical attack, you can (choose one): *break their weapon* - *manifest your ***type*** (tier 1)* - *strike fear in their heart*.
+3. You can spend stress to manifest an aura of your ***type*** around you that lasts for a few moments. When someone enters the aura, make a fortune roll using ***Invoke*** to see if they're affected by a tier 1 effect of your ***type***.
+
+##### Lair
+
+[context]: # (summarizing subtitle)
+> *Your lair is an extension of yourself.*
+
+1. Once per dungeon defense, you can manifest your type as a trap, trick, or lock anywhere in the dungeon. You can spend dark hearts on these rolls.
+2. You can manifest your ***type*** a second time as a trap, trick, or lock anywhere in the dungeon. On a success, you gain a dark heart.
+3. You can now have a maximum of three dark hearts. After you successfully defend your dungeon from invasion, you fill all of your dark hearts.
+
+##### Tyranny
+
+[context]: # (summarizing subtitle)
+> Your presence within the dungeon can't be ignored.
+
+1. Your dungeon's imps take +1d on their downtime action and you control what they work on, not the GM. You also take +1d on power struggles.
+2. Your reputation brings in minions devoted to serve you. They have the *companion* and *expendable* upgrades. They will also perform one downtime action each downtime without asking for gold.
+3. You roam the region around your dungeon, reigning terror. State a goal and start a faction clock representing it. Once per downtime, you can awaken from your slumber and take a downtime action to work towards the goal.

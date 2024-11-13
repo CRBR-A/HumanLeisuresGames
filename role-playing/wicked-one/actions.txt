@@ -1,0 +1,116 @@
+BRAINS :
+- affects a character’s smarts, awareness, or insight. 
+- These strike at your mind, making it harder to think.
+- Scan: read situations or search for information.  
+  - scope out good targets on a road
+  - read fear in your enemy’s heart
+  - pour over an archaic tome
+- Tinker: fiddle with a device, mechanism, or concoction
+  - rig a cart axle to fail
+  - place a trap along a forest path
+  - jimmy a lock in your way
+- Trick: deceive, confuse, or manipulate someone 
+  - make someone believe you’re harmless
+  - distract some farmers while your buddies loot the barn
+  - lose some hounds running you down
+  
+MUSCLES :
+- affects a character’s strength, agility, or speed. 
+- These strike at your body, making it harder to move well.
+- Finesse: take aim, maneuver, or use tools
+  - stick an arrow between someone’s ribs
+  - jump from tree limb to limb
+  - trip someone walking by you
+- Skulk: move unnoticed or launch a surprise attack
+  - slip out of the shadows and cut a guard’s throat
+  - sneak up and pocket some unattended gold pouches
+  - go unnoticed in a crowd
+- Smash: assault someone or something 
+  - bury an axe into someone’s skull
+  - bend some prison cell bars
+  - toss an exploding concoction against a wall
+  
+GUTS: 
+- affects a character’s personality, mettle, or magical ability. 
+- These strike at your spirit, making it harder to impose your will.
+- Banter:  get people to help you because they like you
+  - get a group of goblins to join your dungeon as minions
+  - convince some satyrs that you’re not looking for trouble
+  - calm a giant spider down
+- Invoke: interact with dark, mystical forces
+  - cast a fireball into a town square
+  - dispel a ward spell on a door
+  - make a hippogriff back down with a display of magic
+- Threaten: compel someone to obey or fear you
+  - scare townsfolk into running away
+  - keep your minions in line
+  - demand some travelers surrender their bags
+
+
+-----
+
+Ambush: Hit them when they least expect it, making sure they don't take any of you down in the process.
+During an **ambush**, you make sure nobody falls. An ambush is about catching your enemy off guard and minimizing your own losses.
+> - 3d: You sprung the ambush on the riders perfectly. They fell into the trench you dug, then you dropped rocks on them from the trees.
+> - 2d: One of the riders managed to jump the trench and stuck an arrow in the Brute's chest. Your goblin minions also fell out of their tree and died.
+> - 1d: Even though the trench worked, the riders clawed their way out of it. In the ensuing melee, they cut down the Shadow before dying.
+
+
+Assault: Bring full force to bear, driving off or killing all those who stand against you.
+During an **assault**, you drive off or kill all those who stand against you. An assault is about proving you're mightier and crushing any challenge.
+> - 3d: You climbed over the side of the boat, cutting down the sailors as they scrambled to form a defense. They were quickly broken.
+> - 2d: The sailors put up a good fight, the captain was tougher to put down than expected, and several jumped overboard and swam to safety.
+> - 1d: The fight on the deck was brutally fought and hard won, but the sailors fell back to a hold below deck and you left before finishing the job.
+
+
+Negotiation: Talk it out, tell lies, or offer something to get what you want, spilling as little blood as possible.
+During a **negotiation**, you spill as little blood as possible. A negotiation is about avoiding conflict with charm or relying on threats instead of direct violence.
+> - 3d: You coaxed the dryad into coming out and talking. While negotiations were tense, she agreed to swap a bag of seeds for the prince's golden hair.
+> - 2d: The dryad seemed willing to talk, but you realized it was a trap when you heard a bear growling behind you. After you brought it down, you threatened the dryad's life and she gave up the bag of seeds.
+> - 1d: The dryad wouldn't speak to you and your threats angered her. She called the creatures of the woodlands into a bloody fight with you, with both the dryad and the Marauder getting killed.
+
+
+
+Stealth: Slip in, find what you're after, and slip out quietly, being noticed as little as possible.
+During **stealth**, you avoid being noticed. Stealth is about not letting anyone know you're there and getting out without being spotted.
+> - 3d: You scaled halfway up the wizard's tower, snuck past the magical wards, unlocked the door silently, grabbed the tome without alerting the golems, glided off the roof into the harbor, and swam away unnoticed.
+> - 2d: You almost made it through all of that, but dropped the tome, waking up the golem. Your quick reaction kept the noise to a minimum, though.
+> - 1d: The wizard's pet pseudodragon spotted you climbing up the side of the tower just as you ducked into the window. This led to you being careless and setting off the magical wards and the pseudodragon waking the golem before you got there.
+
+Strike: Bust in, get what you want, and run out quickly, without deviating from your goal.
+During a **strike**, you stick to the path you've set. A strike is about prioritizing your objective and getting out as quickly as possible.
+> - 3d: You rushed deep into the forest, too fast for the elven rangers to catch you. You evaded their traps, made your way to their town in the trees, and kidnapped several elves you need for your ritual.
+> - 2d: Although you made it past the outer sentries, the Shadow got pulled up into a tree by a trap and had to be cut down. This gave the elves time to try fleeing, so it took you longer than expected to gather the prisoners.
+> - 1d: The Brute took an arrow to the thigh, so you had to fight your way through the sentries. The running townsfolk made it difficult to gather prisoners and the cruel Shaman ended up getting killed while tormenting the fleeing elves.
+
+
+Trickery: Confuse, lure, or trick them into doing what you want, without letting on until it's too late.
+During **trickery**, you don't let on to your intentions until it's too late. Trickery is about making sure you get the target to do what you want and taking advantage of it.
+> -3d: The farmers rushed to the hayfield to put out the fire raging there as you slipped into the barn and made off with some livestock.
+> - 2d: A fire in these cold months didn't make sense, making the farmers suspicious. They left a few people to watch the livestock
+> - 1d: The fire fails to spread quickly, instead serving as a warning sign. The farmers hole up inside the barn, but break and flee when you light
+it on fire.
+
+Note: can be dictated by a roll dice :
+| 1 | Ambush |
+| 2 | Assault |
+| 3 | Negotiation |
+| 4 | Stealth |
+| 5 | Strike |
+| 6 | Trickery |
+
+---
+Pillaging: bringing large amounts of gold and resources back into your dungeon, while reducing the ressources of the target.
+
+
+
+(examples :
+
+1st Raid: **Ambush**, 2nd: **Trickery**
+The baron has maintained a strong presence in the region with their garrison for quite some time, always looming over you. A decisive attack, seizing their stock of arms and armor will be enough to set them back and help equip your raiders. The troops themselves are fierce though, so you can't attack them head on. Instead, you set an **ambush** on a grain caravan heading towards the fort. Once they're subdued, your Warlock enchants them, forcing them to bring the caravans into the garrison as you hide inside the carts.
+You arrive at sunset and the enchanted crew tell the guards they'll empty the wagons in the morning. Late that night, you set out and begin your **trickery**. A few PCs and minion packs load weapons and armor from the armory into the carts as fast as they can, while another PC goes to open the garrison gates and run interference with the guards. The last PC heads into the stable, killing any horses they don't need. Once the carts are full, you lash some terrified horses to them and barrel recklessly out of the garrison gates.
+
+1st Raid: **Negotiation**, 2nd Raid: **Assault** :
+The elves have controlled the southern forest for too long, its treelines protected by woodland creatures. Recently, a group of elven adventurers invaded your halls so you feel like it's time for some revenge. First, you set up a **negotiation** with the goblin tribe. You have kept your distance from them until now, being the unstable Labisha-worshipping cannibals that they are. But there's bloody work ahead and you're sure they'll want in on it.
+Once you've secured their help, you launch a full-on **assault** into the elven woodlands. The goblins move in from the west while you and your dungeon's minions come at them from the north. As you move through the woods, you set fires sending smoke throughout the trees to create confusion. You dispatch the outer sentries and butcher your way to the home tree. The goblin chief and his warriors meet you there, blood fresh on their lips. The elves flee as you torch the great, ancient tree while your minions start gathering anything of value they can find.
+)

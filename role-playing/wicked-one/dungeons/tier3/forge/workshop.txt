@@ -1,0 +1,10 @@
+#### Workshop
+
+You have a well-furnished workshop where your imps and minions can toil away. They take +1d when working on crafting or building projects.
+
+*A workshop might need crafting tools, leather aprons, or barrels of nails.*
+
+[context]: # (example of play)
+> "A portal opens and the chaos mage steps out. 'Hmm, wrong room... but
+this'll do,' he says as he holds open his cloak. Tentacles reach out of it,
+lifting the goblin workers into the air."

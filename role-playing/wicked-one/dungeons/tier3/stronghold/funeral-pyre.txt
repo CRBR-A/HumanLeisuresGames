@@ -1,0 +1,8 @@
+#### Funeral Pyre
+
+Your warrior culture honors the dead, burning their bodies as a sendoff to the afterlife. When minions die in combat, any minions that witness it gain morale and will perform a downtime action during the next downtime without asking for gold.
+
+*A funeral pyre might need incense, special wood, or the tabards of conquered enemies.*
+
+[context]: # (example of play)
+> "I toss the bear head onto the pyre. 'When that dwarf ranger fell, you all saw how enraged that bear got. But these two crazy bastards? They stood in the way, and somehow brought her down with 'em! For glory!'"

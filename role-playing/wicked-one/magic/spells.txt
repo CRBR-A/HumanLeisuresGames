@@ -1,0 +1,38 @@
+The higher the spell tier, the more strenuous, difficult, and dangerous to cast it becomes. Tier 2 and tier 3 spells can only be cast by a Shaman, Warlock, or Zealot. They're more dangerous and difficult than normal spells, so tier 2 spells take -1d on the roll and tier 3 take -2d.
+
+
+#### Tier 0 Spells
+Minor, Mostly Cosmetic Effects
+results much weaker than normal actions.
+**These spells achieve results that anyone could easily accomplish or are completely stylistic in nature.** Their main purpose is to blend magic into the narration, allowing you to couple them with other actions or flavor basic actions in a way to make your character feel more magical. They almost never require a roll.
+- You snap your fingers and light a candle. 
+- You call the wind to make your cape blow behind you. 
+- You send a shiver down someone’s spine, causing them to turn around.
+
+#### Tier 1 Spells
+Equal to Other Actions in Impact
+results equivalent to normal actions.
+**These spells achieve results that could be accomplished with another action.** Their main purpose is allowing you to use Invoke in place of another action as long as you can creatively justify it within your magic path. They generally require a roll, unless there is no challenge or risk.
+- You ensorcel the horse’s mind, making it buck off its rider. 
+- You beseech Shabaz for power and hurl a lightning bolt at the knight in plate mail. 
+- You hear the blood coursing through the veins of the hidden rogue.
+
+#### Tier 2 Spells
+results greater than normal actions.
+**These spells achieve results that could only be accomplished with several actions or a team working together.** Their main purpose is to allow you to scale up spells to perform incredible feats, equivalent to other callings’ core abilities. They're inherently dangerous and always require a roll. You must spend stress to cast them and you take -1d on the roll.
+- You grow vines, snaking their way across the gap to form a bridge. 
+- You listen as your goddess, Melawa, tells you where the adventurers are hiding in ambush. 
+- You enchant the dryad, causing her to think someone else burned down her forest.
+
+#### Tier 3 Spells
+results much greater than normal actions.
+**These spells achieve results that even a team working together would take quite some time to accomplish.** Their main purpose is to allow you to take center stage in a scene, but at great risk. They can also be used to accomplish things completely impossible with other actions. They're inherently dangerous and always require a roll. You must spend stress to cast them and you take -2d on the roll.
+- You hit the town wall with a huge amount of force, blowing a hole in it. 
+- You enter the spirit realm and possess the caravan guard. 
+- You conjure an illusion of a huge wyvern flying overhead, which chases away the cavalry pursuing you.
+
+
+A tier 1 spell is usually an instantaneous or short-lived effect that affects a single target within a limited area. You can increase spell tiers by modifying these factors:
+- You expand the **area** from a small area to a medium area, or a medium area to a large area. What constitutes the size of these areas is up to the GM.
+- You expand the **duration** from a short time to a medium time, or a medium time to a long time. Permanent magical effects are only possible with rituals.
+- You expand the **scale** allowing you to go from being in a tight spot to even footing, or from even footing to having the upper hand. This might also change the spell from a single target to a few targets, or a few targets to many targets.

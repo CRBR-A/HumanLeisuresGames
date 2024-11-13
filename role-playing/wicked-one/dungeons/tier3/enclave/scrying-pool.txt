@@ -1,0 +1,7 @@
+#### Scrying Pool
+The pool reveals far away scenes. Once per cycle, the dungeon can establish a fact about an NPC’s recent activity. You can also flashback to use this again while outside the dungeon. *What question or object do you present to the pool to guide its gaze?*
+
+*A scrying pool might need cursed water, mosaic tiles, or a center figurine.*
+
+[context]: # (example of play)
+> "I toss the insignia into the pool and ask, 'Where's the captain now?' As the ripples settle, it shows me a clear image of the captain riding with a few men. I recognize the area instantly. 'He's on the south road. Let's go.'"

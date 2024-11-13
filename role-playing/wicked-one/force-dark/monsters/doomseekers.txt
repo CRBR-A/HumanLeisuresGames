@@ -1,0 +1,47 @@
+### Doomseeker
+
+[context]: # (summarizing subtitle)
+> Paranoid Aberrations
+
+You're an ancient guardian of a long-lost dungeon, finally freed from the pact that kept you bound to it. A creature of caution, you know you need to surround yourself with "allies" as a buffer against destruction.
+
+#### Doomseeker Traits
+
+***Eye Rays***: You have nine eyes, each able to shoot a different magical ray. At character creation, you assign a ray to each eye. These are explained in detail on the next page.
+
+***Bizarre Body***: You can float through the air with supernatural buoyancy. You don't have gear and therefore no gear defense, but you do have supply. Your teeth are also as dangerous as a weapon.
+
+***Paranoia***: Your dark impulse is ***Paranoid***. This impulse makes it difficult for you to leave the dungeon, strongly preferring to instead send minions on raids. You must spend 2 stress to suppress any compels outside of the dungeon.
+
+**Guardian XP**: You have guardian xp in place of reckless xp, marking 1 xp for each session in which you were neither bloodied nor went feral. When you hit 3 xp, you can either increase an eye ray's action rating (max of 3d) or add an action dot.
+
+***Meticulous***: On a success during a flashback, you gain a dark heart and an ally takes +1d on any follow-up roll.
+
+***Support***: After an ally rolls, you can spend a dark heart to give them an additional +1d on the roll. *How did you prepare them for the challenges to come?*
+
+***Overseer***: Your minions can resist consequences using their actions, though you take or clear stress instead of them when they do. Explain how you warned them ahead of time to handle the consequence. You also get an extra downtime action which you can only use to recruit minions.
+
+***Ultimate Flexibility***: You begin with no abilities, but you have 5 flexibility slots to use when you gain an ability from xp. The following abilities are recommended:
+
+- **Conniver**: ***Missed a Spot***, ***Weaving the Web***
+- **Crafter**: ***Brewmaster***, ***Scrutiny***
+- **Marauder**: ***Cohort***, ***Commander***
+- **Shadow**: ***Dark Mind***, ***Unseen Hand***
+
+#### Eye Rays
+
+Your eyes have magical eye rays that act as a very narrow magical path. You can cast tier 1 spells with them and can also spend stress to cast a tier 2 spell, taking -1d on the roll as normal. However, you can't cast tier 3 spells. You have the following nine eye rays:
+
+- ***Death Ray***: Harms any living thing it hits, necrotizing flesh and plant matter.
+- ***Transmogrification Ray***: Shapes inanimate objects into new forms.
+- ***Paralysis Ray***: Wrecks a target's nerves, temporarily paralyzing them.
+- ***Bewitchment Ray***: Makes the target act to help you in some way.
+- ***Time Ray***: Modifies time, speeding it up or slowing it down, in a limited bubble.
+- ***Null-Magic Ray***: Creates a small area inside which magic does not function.
+- ***Vision Ray***: Sees the unseeable, such as through walls or at great distances.
+- ***Telekinesis Ray***: Moves objects and other non-living, solid matter.
+- ***Fear Ray***: Strikes fear in their heart, pushing them towards irrational action.
+
+You have nine eyes, each with an action rating. At character creation, you assign each eye a specific eye ray that it casts. When you cast spells, you roll that eye's rating in place of ***Invoke***. Your large, main central eye is 3d, your outer eyestalks are 2d, and the other body eyes are 1d.
+
+Your eye rays can be used to make resistance rolls and are affected by shock to ***GUTS***.

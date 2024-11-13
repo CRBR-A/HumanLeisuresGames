@@ -1,0 +1,20 @@
+### Talazar, The Relentless Stalker
+
+**God of Vengeance and the Hunt**. He is the apex predator, never giving up once on a trail. His pride prevents him from letting even the smallest slight go unanswered.
+
+Talazar may forsake you if you displease him, such as by giving up on your quarry, being hunted down yourself, or passing on the chance at vengeance.
+
+#### Tier 1
+- Haunting Voice: The scout hears your voice on the wind and gets distracted.
+- Grasping Vines: Vines grab and hold the running farmer.
+- Waterwalk: You skip across the pond surface after the swimming tribesman.
+
+#### Tier 2
+- Stalking Eyes: Several eyes scour the forest and find the runaway.
+- Trap: A pitfall trap suddenly appears, cleverly disguised with leaves.
+- Barbs: Every plant grows poisonous barbs in front of your quarry.
+
+#### Tier 3
+- Longshot: Your spear flies an improbable distance, striking your prey.
+- Relentless Speed: You run like the wind, far faster than normal.
+- Passage: A hole opens up in the large stone walls and you head in.

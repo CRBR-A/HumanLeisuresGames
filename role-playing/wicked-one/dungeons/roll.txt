@@ -1,0 +1,23 @@
+| 2d6 | Tier 1 Rooms |
+| -- | -- |
+| 1 | crawlway |
+| 2 | fountain ( minor) |
+| 3 | hall of bones (minor) |
+| 4 | latrines (minor) |
+| 5 | long tunnel |
+| 6 | mess hall (minor) |
+| 7 | sauna (minor) |
+| 8 | secret tunnel |
+| 9 | traverse |
+| 10 | well (minor) |
+| 11 | window |
+| 12 | 1d discovery. Roll again. |
+
+| 1d6 | Tier 2 Rooms |
+| -- | -- |
+| 1 | guard post |
+| 2 | minion lair |
+| 3 | prison |
+| 4 | torture chamber |
+| 5 | two tier 1 rooms |
+| 6 | 2d discovery. Roll again. |

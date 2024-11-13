@@ -1,0 +1,8 @@
+#### Vehicle Bay
+
+The dungeon has an incredible vehicle, such as a submarine, dirigible, or steamcar. Detail the vehicle and give it edges (choose two): *armored* -  camouflaged* - *dependable* - *fast* - *nimble*. Give it a flaw (choose one): *clumsy* - *distinct* - *noisy* - *rickety* - *slow*. The vehicle is fully repaired or rebuilt by imps each recovery.
+
+*A vehicle bay might need parts for the vehicle, barrels of fuel, or awesome paint.*
+
+[context]: # (example of play)
+> "The bay doors open above us and we float up into the sky, the Wicked Ones on deck and a few minion packs dangling from the ropes below us. I guess someone should've told them how fast this thing is."

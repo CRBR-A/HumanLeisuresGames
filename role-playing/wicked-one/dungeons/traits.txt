@@ -1,0 +1,52 @@
+
+| 1d6 | Lighting |
+| --- | --- |
+| 1 | torches on the walls |
+| 2 | magma flows |
+| 3 | magical illumination |
+| 4 | glowing mushrooms |
+| 5 | imps with lanterns |
+| 6 | giant fireflies |
+
+| 1d6 | Floors & Walls |
+| --- | --- |
+| 1 | cold, damp stone |
+| 2 | mud and roots |
+| 3 | warm obsidian |
+| 4 | musty bricks |
+| 5 | dry dirt and wood |
+| 6 | rock and ice |
+
+
+| 1d6 | Smell |
+| --- | --- |
+| 1 | fetid water |
+| 2 | overwhelming incense |
+| 3 | rotting flesh |
+| 4 | sulfur and brimstone |
+| 5 | grease and smoke |
+| 6 | absolutely nothing |
+
+
+| xd6 | Room Traits |
+| -- | -- |
+| 1 | bright |
+| 2 | cluttered |
+| 3 | cold |
+| 4 | confusing |
+| 5 | crumbling |
+| 6 | dank |
+| 7 | dim |
+| 8 | echoing |
+| 9 | flooded |
+| 10 | hot |
+| 11 | infested |
+| 12 | overgrown |
+| 13 | noisy |
+| 14 | silent |
+| 15 | shifting |
+| 16 | silent |
+| 17 | slanted |
+| 18 | smelly |
+| 19 | spooky |
+| 20 | windy |

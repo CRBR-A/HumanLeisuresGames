@@ -1,0 +1,65 @@
+### Facestealer
+
+[context]: # (summarizing subtitle)
+> Devious Impersonators
+
+You're a creature of deceit and exploitation, taking on the forms of those you lay eyes on and slipping deep within civilized lands. However, your powers are reviled and you're hunted, so it may be best to find a safe place to rest your head.
+
+#### Facestealer Traits
+
+***Shapeshifting***: You can spend stress to physically change your appearance and voice for a few moments into the form of a humanoid you can currently see. This includes the clothes they're wearing, but not items they're carrying.
+
+***Facestealer Abilities***: You start play with one of the abilities on the next page and gain an additional one each time you fill your wicked xp.
+
+***Faces***: You can spend stress to slide a copy of a completely helpless humanoid's face off of them. They must be alive when you do this. When you do so, draw some of its distinguishing features on your character sheet, then add a few details about the owner. You can shapeshift into the face's owner for as long as you like without spending stress, also gaining the ability to speak their language while shifted. You can only keep three such faces at a time and can replace one when you steal a new face.
+
+***Voices***: The faces speak to you, wrestling for control of your mind. You do not have a dark impulse, instead being compelled by the faces. They might force you to hold off on taking an action they strongly oppose, stop to enjoy one of their own impulses, or do something out of character that might blow your cover.
+
+***Grafting***: If you go feral while assuming the forms of one of your faces, that face permanently grafts itself onto you. It can no longer be replaced, taking up one of your three slots. It also costs you two stress to resist a compel from a grafted face.
+
+***Hunted***: Your kind is hunted by civilization, which fears and despises you for your ability to pass among them unnoticed. Any time your cover is completely blown and you don't cover your tracks, the GM can pocket minor blowback.
+
+***Mindspeak***: You can communicate telepathically with anyone you can see, though this communication is one-way and they always know who is speaking to them.
+
+***Gearless***: You do not wear gear like a normal monster, finding it inhibits your ability to shift into a new shape. Since you have no gear, you also have no gear defense. However, you still have supply and most Facestealers will carry an inconspicuous bag of things they can use in a pinch. You can choose 6 items to put into your supply at character
+creation.
+
+#### Facestealer Abilities
+
+##### Dramatic Reveal
+
+You can reveal yourself with impeccable timing, taking advantage of people's shock. You take +1d on any action immediately after you reveal your true form.
+
+##### Embodiment
+
+You take on physical and personality traits of your faces. Each face has one action that it is especially good at and you act as if your rating is always at least 2d with it. On a critical with that action while in that face, you gain 1 wicked xp.
+
+##### Grotesque Mutations
+
+When you shift into a form, you can instead shift into a grotesque version of the form, such as *having multiple heads* or the *limbs are backwards*. You take +1d when horrifying someone with your appearance and on a success, you gain a dark heart.
+
+##### Meddling
+
+You excel at manipulating factions from within. You gain a downtime action that you can only use to try to tick faction clocks forwards or backwards. You're assumed to be using forms during this time, though you don't need to pay stress.
+
+##### Perfect Entrance
+
+You can spend stress to appear in any scene already shifted into one of your faces as long as you can reasonably explain how that face got there. When you do so, make a separate engagement roll to determine how good your cover is.
+
+##### Shifting Tricks
+
+You push your shifting powers to the limit and have learned a few useful tricks. You can spend stress to do one of the following for a few moments (choose one): *climb on walls like a spider* - *grow a weapon from your body* - *turn into a puddle of goo*.
+
+##### Thought Thief
+
+You can skim the surface thoughts of those unaware of your true nature. When you enter a scene shapeshifted, you can establish a single fact that one of them has on their minds at that moment. You take +1d when you act on that knowledge.
+
+##### Facestealer Items
+| | |
+|:-:|:-:|
+| garrote | listening cup |
+| writing utensils | tools |
+| pipe & tobacco | rope |
+| dagger | perfume |
+| manacles | blowgun |
+| hourglass | lockpick |

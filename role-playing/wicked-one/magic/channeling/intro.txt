@@ -1,0 +1,26 @@
+## Channeling
+
+You call upon a dark god, demigod, or powerful fiend that, in return for your worship, allows you to wield a small fraction of their power. Channeling is the purview of Zealots, who can learn to cast higher level spells within this magic discipline.
+
+You can choose one of the following evil gods to follow or make up your own. Each god has a title followed by two domains, which combine to form your magic path. The descriptions of the gods are intentionally vague. They're meant more as creative prompts than lore of the world, giving hooks that you can use to define your character's religion. When you decide to worship a god, take some time and discuss it with the GM but don't worry about detailing everything. You'll flesh it out over time through play. Choose one of the follow dark deities or make up your own:
+
+- **The Imperial Family: The Follies of Civilization**
+  - **Gorlag**, The Blessed Emperor, God of *Conquest* and *Tyranny*
+  - **Iziza**, The Sweet Mistress, Goddess of *Seduction* and *Trickery*
+  - **Melkahar**, The Rotting Prince, God of *Pestilence* and *Decay*
+  - **Gimosha**, The Flame of Jealousy, Goddess of *Greed* and *Envy*
+  - **Dalgeth**, The Grumbling Malcontent, Goddess of *Cunning* and *Treachery*
+  - **Nezame**, The Joyful Hedonist, God of *Pleasure* and *Satisfaction*
+  - **Melawa**, The Keeper of Secrets, Goddess of *Knowledge* and *Deceit*
+- **The Wild: The Essence of Nature**
+  - **Shabaz**, The Unscrupulous Destroyer, God of *Tempests* and *Blights*
+  - **Labisha**, The Flesh Eater, Goddess of *Slaughter* and *Savagery*
+  - **Talazar**, The Relentless Stalker, God of *Vengeance* and the *Hunt*
+  - **Crevis**, The Quivering Wretch, God of *Cowardice* and *Suffering*
+  - **Vahoona**, The Howler at Night, Goddess of *Nightmares* and *Twilight*
+  - **Zaheen**, The Dancing Madman, God of *Luck* and *Chaos*
+
+Channeling does not have the same limitations as sorcery and witchcraft. Instead, you must strive to please your god, else they will **forsake** you. Minor infractions may be overlooked, but when you have displeased them enough, the punishment is quite severe.
+
+[context]: # (important rule)
+> **Forsaken**: When forsaken, you lose access to tier 2 and tier 3 spells until you have atoned in some way. The GM can also compel you towards actions that would please your god, essentially the opposite of the things that you can be forsaken for. If you suppress the compel, your god immediately forsakes you.

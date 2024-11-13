@@ -1,0 +1,27 @@
+### Soothsaying : The Timeless Eye
+
+You can cast your sight far and wide, moving your senses forwards and backwards through time. You play with alternative versions of the future and delve into events in the past, looking to unlock valuable secrets.
+
+When soothsaying spells fail, you might get bad information, curse yourself by toying with future timelines, or make the one who you were viewing aware of your presence.
+
+**Limitations**: Soothsaying only sees a possible version of the future and a likely version of the past, being prone to error and misinterpretation. You might also only be able to see through a certain element or require a related item.
+
+
+#### Tier 1 Spells
+Equal to Other Actions in Impact
+- Cast Senses: Your sight floats through a small crack in the wall and into the other side, showing you the butcher ready with a cleaver held high.
+- Recent Past: As the chieftess shakes your hand, you flash to her perspective moments ago, inside her hut, and see her ordering her warriors to stand ready.
+- Predict Weather: The pool ripples, then shows you storm clouds brewing.
+
+#### Tier 2 Spells
+Equal to a Team's Action or One Person Over Time
+- Advanced Warning: You know when the next time you'll be hit with an attack 
+is, giving you a temporary defense against wounds.
+- Glimpses: Visions of the future flood your mind: melting snow, birds chirping, a carriage, horns sounding, people marching. The duchess is coming in spring.
+- Signs: In the fire, you see a rope and suddenly know what to do.
+
+#### Tier 3 Spells
+Equal to a Team Over Time or Impossible Effects
+- Project Vision: You spot the far-away caravan moving through the pass.
+- Traces: Time rewinds around you, rushing through major events in the area.
+- Shared Sight: You view the world through the guard's eyes as they go on patrol.

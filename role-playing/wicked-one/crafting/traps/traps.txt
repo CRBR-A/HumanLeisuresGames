@@ -1,0 +1,37 @@
+### Traps
+
+Traps are static, well-hidden defenses that are meant to surprise and maim any unwary adventurer wandering your halls. Each trap consists of a mechanism which details what the trap does and a trigger which details what sets it off. The player in charge of the trap narrates the results of the trap roll. Trap rolls deal damage as if they were ticking a clock, with each tick doing half a heart of damage.
+
+The **mechanism** details how the trap is effective against invaders. Choose from the mechanisms below or make up your own:
+| 2d6 |  Trap Mechanisms |
+| -- | -- |
+| 1 | crushing wall |
+| 2 | darts |
+| 3 | spikes |
+| 4 | boulder |
+| 5 | saw blade |
+| 6 | pendulum blade |
+| 7 | gas |
+| 8 | lightning coil |
+| 9 | swing blade |
+| 10 | explosion |
+| 11 | pitfall |
+| 12 | floor blade |
+
+The **trigger** is how the trap is activated. Depending on the nature of the trigger, some adventurers might not even activate it such as a levitating mage not setting off a pressure plate. Choose from the triggers below or make up your own:
+| 2d6 | Trap Triggers |
+| -- | -- |
+| 1 | pressure plate |
+| 2 | tripwire |
+| 3 | magical |
+| 4 | detection |
+| 5 | illusion |
+| 6 | disguise |
+| 7 | sound |
+| 8 | item removal |
+| 9 | false door |
+| 10 | sentry |
+| 11 | wrong choice |
+| 12 | false lever |
+
+Traps are rated from tier 1 to tier 3, based on how deadly they are and chosen by the player when it's crafted. A tier 1 trap is somewhat easy to avoid, such as a doorknob trapped with a poison needle. Tier 2 traps are deadly, like a giant swinging blade attached to a pressure plate. Tier 3 traps are the deadliest, likely to affect multiple adventurers, like a tripwire that releases an enormous rolling stone ball.

@@ -1,0 +1,8 @@
+#### Fighting Pit
+
+Place any two combatants in the pit, then each PC chooses the one they think will win. Make fortune rolls for each fighter, with the loser dying and both living on a tie. If your chosen fighter wins, you gain a dark heart.
+
+*A fighting pit might need exotic weapons, dangerous animals, or a pitmaster.*
+
+[context]: # (example of play)
+> "The two dwarves face off against one another, the promise of living another day overriding old friendships. The imps and minions howl at them, making wagers and tossing around gold."

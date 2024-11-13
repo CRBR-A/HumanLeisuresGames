@@ -1,0 +1,10 @@
+#### Dojo
+
+The dojo master trains you relentlessly, forging you into a unified team. When you team up, you only take stress on a failure and 6s from different participants count towards rolling a critical. This room also acts as a creature with a tier equal to the dungeon tier.
+
+*A dojo only needs a master to train you, which you must either defeat or impress.*
+
+[context]: # (example of play)
+> "Complete silence greets the monk and she steps lightly into the room.
+Her keen eyes catch two imps at the far end scurrying over and sliding
+the doors open. The master steps out and says, 'Finally, a real fight.'"

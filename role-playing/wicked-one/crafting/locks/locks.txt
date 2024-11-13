@@ -1,0 +1,39 @@
+### Locks
+
+Locks are used to buy time while defending to set up proper defenses, maneuver around your dungeon, or beat a hasty retreat. They also serve to push adventurers away from sensitive areas. It’s best to remember that locks won’t keep adventurers out forever - given enough time and determination, adventurers can push their way through any lock in front of them. When a lock pushes the invaders away, they go on another path until there are no paths besides the locked one. They then double back and encounter the lock again. Each time they come against the lock, you make a <ins>lock roll</ins>, detailed later in the pathing section. Locks might alert nearby minions, give them time to set up ambushes, or keep sensitive areas safe.
+
+Locks are rated from tier 1 to tier 3 depending on how difficult it is to get through it, with players deciding the tier of the lock when building it. Tier 1 locks are the simplest locks with limited reliability, such as a wooden bar holding a door shut. Tier 2 locks are straightforward and effective at keeping people out, such as a chained door with a padlock. Tier 3 locks are complex and formidable, such as a large steel portcullis with a pulley and password system.
+
+When you build a lock, you first choose what kind of **door material** it is made of. You can choose from those below or make up your own:
+> #### 
+> | 2d6 | Door Materials |
+> | -- | -- |
+> | 1 | bars |
+> | 2 | bone |
+> | 3 | clockwork |
+> | 4 | crystal |
+> | 5 | gel |
+> | 6 | leather |
+> | 7 | ice |
+> | 8 | iron |
+> | 9 | magical field |
+> | 10 | roots |
+> | 11 | stone |
+> | 12 | wood |
+
+Next, you select what the **lock mechanism** is. Make sure to note these down under dungeon duties and the player who builds them should narrate what happens after the lock roll is made. Below are some examples, or you can think of your own:
+> #### 
+> | 2d6  | Lock Mechanisms |
+> | -- | -- |
+> | 1 | arcane |
+> | 2 | bar |
+> | 3 | bolt |
+> | 4 | heavy object |
+> | 5 | mortise lock |
+> | 6 | padlock |
+> | 7 | password |
+> | 8 | pressure plate |
+> | 9 | pulley |
+> | 10 | puzzle |
+> | 11 | rim lock |
+> | 12 | timed |

@@ -1,0 +1,11 @@
+### Tips to Drawing Better Dungeons
+
+- Tier is the most important piece of information about creatures, traps, tricks, and locks. No matter which style you choose to use, always note down the tier by writing a number of dots equal to the tier near the drawing.
+- Dungeon rooms tend to be geometric shapes, looking like someone built them. Most discoveries drawn by the GM and many creature lairs have a natural look to them, such as the walls of a cavern or an old structure that has partially collapsed.
+- Most dungeon rooms are between 3x3 and 5x5 squares in size. There's no strict rule on this, but this size tends to make for a balanced dungeon with plenty of space on the paper. The tunnels connecting them are generally 1 to 3 squares in length. Discoveries can be any size that the GM feels is appropriate. **All rooms must be connected to the dungeon by tunnels.**
+- The sanctum is larger, usually 5x5 or more squares in size. Don't forget to draw a stairway connecting it to the first level as well. Adding details to your sanctum makes boss fights more interesting.
+- Minions are not drawn on the map, since they move around the entire dungeon a lot. Imps are not generally drawn either, though sketching out some of them can be a nice reminder of their existence.
+- Creatures should be drawn on the map. When drawing in the basic style, you should fill in the circle with the first letter of the creature to help remember what it is.
+- When you draw a trick, it's usually just best to draw a trigger or some symbol representing it. Arrows that indicate intent also help you remember them.
+- Keep in mind that your dungeon will grow over time away from the edge of
+the dungeon sheet that it started on.

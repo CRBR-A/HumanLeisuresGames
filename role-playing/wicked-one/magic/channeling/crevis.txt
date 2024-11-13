@@ -1,0 +1,20 @@
+### Crevis, The Quivering Wretch
+
+**God of Cowardice and Suffering**. He is intensely focused on self-preservation. Others suffering or fleeing are the only things that distract from his self-loathing.
+
+Crevis may forsake you if you displease him, such as by facing an enemy head on, putting yourself on the line, or getting caught in a terrible situation.
+
+#### Tier 1
+- Retreat: You slide under the doorway and away from the fight.
+- Debilitating Pain: The traveler clutches their belly, unable to stand.
+- Waver: The horseman wavers, raising his lance and galloping away.
+
+#### Tier 2
+- Fog: A fog rolls into the clearing, obscuring everyone's vision.
+- Obstacle: A wall collapses between you and your pursuers.
+- Slow Death: The soldier with an arrow in their chest gasps for breath.
+
+#### Tier 3
+- Dummy: A copy of you spawns and runs in the opposite direction.
+- Share Pain: The soldier hitting you feels every blow themself.
+- Squirm: You burst into a thousand centipedes, squirming away

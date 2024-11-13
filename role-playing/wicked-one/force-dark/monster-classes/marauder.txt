@@ -1,0 +1,47 @@
+## Marauder
+> Cunning & Fearless Warriors
+
+For you, battle is a dance. The thrill of outmaneuvering your enemies sends blood pumping through your veins. Your moves are precise and calculated and your awareness of the field of battle gives you the ability to see the bigger picture in other situations as well. You begin play with the following **core ability**:
+
+Battlemaster: You can spend stress to perform an incredible feat of athletics, like *throwing an axe a great distance*, *maneuvering nearly anywhere on the field of battle*, or *facing off against a group of foes on equal footing*.
+
+Marauder would have thought to do: *giving orders to minions*, *surveying a target's strength*, or *disciplining subordinates*.
+
+### Marauder Abilities
+
+#### Bulwark
+
+You're the rock on which your allies lean. You take +1d when resisting consequences for an ally. On a success, the ally takes +1d on any follow-up action.
+
+#### Cohort
+
+Your minions are always elite, with the mindset (loyal) and companion upgrades. They also have an additional upgrade (choose one): *equipped* - *mindset (fearless)* - *trained* - *versatile*.
+
+#### Commander
+
+You exert your will to bolster your minions. You can spend stress or a dark heart to give a minion pack +1d on a roll. You also gain a defense against minion failure.
+
+#### Control
+
+You fluidly control a fight. On a success when resisting an attack in close combat, you can also (choose one): *disarm them* - *redirect the attack* - *reposition them nearby*.
+
+#### Joy of Battle
+
+You love nothing more than your own excellence in battle. On a critical while engaged in combat, you clear 1 stress and gain a dark heart.
+
+#### Maniac
+
+You think nothing of risking life and limb. You take +1d when you go hard and put your own body on the line, but you can't resist any consequences from the roll. On a critical, you clear 1 stress.
+
+#### Tactician
+
+Battle plans are the key to your success. You take +1d on your first action after an engagement roll. You also gain a defense against raid plans going off track.
+
+#### Example Marauder Items
+
+| round shield | sturdy bracers |
+| twin axes | javelins |
+| bolas | iron caltrops |
+| mapping tools | battle horn |
+| ball-and-chain flail | clutch of torches |
+| curved dagger | leather armor |

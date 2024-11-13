@@ -1,0 +1,11 @@
+#### Tier 2 Rooms & Structures
+
+***Guard Post***: Assign a single pack of minions to this room. They can always start dungeon defense here regardless of their <ins>starting position roll</ins>.
+
+***Minion Lair***: Assign a single pack of minions to this room. These minions get morale each recovery and take +1d when defending the room against invaders. Give it two atmospheric traits from the minor room list.
+
+***Prison***: A room with 4 cells that can contain prisoners, who can't escape without *opportunity*. If invaders enter the prison, make a fortune roll equal to the dungeon tier to determine whether prisoners can be freed and if they join the invaders.
+
+***Stairway***: Add another level to your dungeon, with the sanctum remaining at the bottom. This stairway connects them.
+
+***Torture Chamber***: You gain +position or +effect (your choice) when <ins>torturing</ins>.

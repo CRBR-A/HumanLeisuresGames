@@ -1,0 +1,9 @@
+## Temple
+
+Serving a Greater Power. 
+Choose this if you want to focus on a certain god and its domains. Its core function is ***divine intervention***, which you can use to cast a tier 3 spell from your god. A temple has the following tier 3 rooms: ***altar***, ***antechamber***, ***augury circle***, ***dormitory***, ***reliquary***, ***penance chamber***, ***scriptorium***.
+
+A Temple is an unholy monument to a dark god, venerating their domains as you lay out your master plan in accordance with their desires. A temple often utilizes rituals to further its goals. You start with this **core function**:
+
+[context]: # (important rule)
+> ***Unholy Intervention***: Once per cycle, one member of the dungeon can beseech the dungeon’s deity to cast a tier 3 spell from their domains. You roll the dungeon tier as an action roll with no dice penalty and the GM determines who is open to any consequences.

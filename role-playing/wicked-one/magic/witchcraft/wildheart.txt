@@ -1,0 +1,25 @@
+### Wildheart : The Brutality of Nature
+
+The power of nature is immense, but you hold sway over it. The dark beasts and creepy crawlers of the world obey your commands. Gnarled roots and thorny vines move when you beckon. Even the cold soil and rushing waters answer your calls.
+
+When wildheart spells fail, you might lose nature's trust for a while, slip into a temporary feral state, or nature might cause unintended trouble.
+
+**Limitations**: Wildheart requires plants, animals, or aspects of nature to interact with. You might also only able to cast while on solid ground or limit yourself to one style such as casting plant magic with seeds.
+
+#### Tier 1 Spells
+Equal to Other Actions in Impact
+- Roots: Roots grow and tangle the dwarf's legs, tripping them.
+- Flying Helper: A falcon descends from above and snatches the talisman.
+- Nature Guide: A wolf leads you to where the traveler is hiding.
+
+#### Tier 2 Spells
+Equal to a Team's Action or One Person Over Time
+- Rumbles: The earth trembles from below, sending the horses into a panic.
+- Gnarled Pal: The tree grabs the goblin and launches them across the river.
+- Dangerous Waters: A whirlpool forms making the riverboat rapidly spin.
+
+#### Tier 3 Spells
+Equal to a Team Over Time or Impossible Effects
+- Treefriends: The trees uproot themselves and join the fight.
+- Bee Invasion: Bees swarm the town square, stinging all those within it.
+- Nature's Mount: A giant falcon serves as a mount to you.

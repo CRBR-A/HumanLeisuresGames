@@ -1,0 +1,20 @@
+### Gorlag, The Blessed Emperor
+
+**God of Conquest and Tyranny**. As the head of the imperial family, he rules with an iron fist, ever-intent on expanding his domain and tightening control.
+
+Gorlag may forsake you if you displease him, such as by running like a coward from battle, giving up an opportunity to seize power, or taking orders from your lessers.
+
+#### Tier 1
+- Booming Voice: Across the field of battle, all can hear you give your demands.
+- Bestow Fear: The archer on the wall throws their bow and runs for their life.
+- Command: The troll bends their knee, ready to serve.
+
+#### Tier 2
+- Hammer: You punch a soldier's shield, sending several of them over the wall.
+- Warsteed: A mighty black steed gallops from the forest, ready to be ridden.
+- Judgement: The envoy buckles in pain as the lie escapes their lips.
+
+#### Tier 3
+- Battering Ram: The gate splinters as you slam your mace into it.
+- Rally: Dead minions stand on their feet again, ready to fight.
+- Enthrall: All fighting ceases as they turn to listen to you speak.

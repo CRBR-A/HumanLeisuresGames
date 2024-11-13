@@ -1,0 +1,48 @@
+## Hunter
+> Ruthless & Tenacious Trackers
+
+You’re at home running with the beasts of the forest. Relentlessly chasing down prey brings you closer to the animal inside of you. And yet, you're deliberate, never missing a sign, always on the trail. And when you finally corner your target, there’s no hesitation to finish it. You begin play with the following **core ability**:
+
+Thrill of the Hunt: You can spend stress to establish a small, momentary weakness in your prey. You gain +effect when you exploit this on your next roll to stalk, catch, or bring them down. On a success, you gain a dark heart.
+
+Things a Hunter would have thought to do: *setting a trap*, *scouting out a location*, or *hunting up some food*.
+
+### Hunter Abilities
+
+#### Feral Senses
+
+Animal blood runs through your veins, causing your senses to extend twice as far as normal. You take +1d when tracking or surveying an area. You also gain a defense against surprise.
+
+#### Grit
+
+You don't go down easy. On a failure when resisting, you can immediately roll an extra 1d that counts towards the roll. If the result is a success, it counts as a critical.
+
+#### Hunting Pet
+
+You have a hunting pet or pack instead of minions. It has the companion upgrade and knows tricks (choose two): *cause confusion* - *fetch* - *herd prey* - *locate prey* - *surprise attack*. Your pet takes +1d when performing known tricks.
+
+#### Scavenger
+
+On a success while surveying or traversing a risky area, you can (choose one): *find a piece of mundane gear* - *tick an edge crafting clock* - *harvest a tier 2 concoction*.
+
+#### Scout
+
+You make a habit of roaming the surface and scouting out targets. While choosing a raid plan, you can establish a weakness you know about in your target’s defenses. During the raid, you can also spend stress to establish a second fact.
+
+#### Trick Shots
+
+You can pull off improbable (but not impossible) shots with a ranged weapon, like ricocheting a projectile off a wall or shooting through one target and hitting another. You ignore any circumstances towards effect from the difficulty, but you must explain how you pulled off the shot.
+
+#### Wild Knowledge
+
+You can spend stress to establish a fact about plants, animals, or 
+the weather. You take +1d when you act on that knowledge.
+
+#### Example Hunter Items
+
+| hornbow | skinning knife |
+| animal trap | weighted net |
+| coil of rope | felling hatchet |
+| trail snacks | animal collar |
+| hide armor | fishing gear |
+| full waterskin | animal calls |

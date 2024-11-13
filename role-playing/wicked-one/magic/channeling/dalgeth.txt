@@ -1,0 +1,20 @@
+### Dalgeth, The Grumbling Malcontent
+
+**Goddess of Cunning and Treachery**. She has her hand in every plot within the imperial family. She sees resentment brewing and bends it to her own advantage.
+
+Dalgeth may forsake you if you displease her, such as by revealing your own plots, being used for another's advantage, or relying on those with power over you.
+
+#### Tier 1
+- Sow Discord: The farmers in this community begin grumbling about taxes.
+- Deflect: The scout follows your gaze and narrows their eyes at your companion.
+- Mislead: The orc chief hears sarcasm in his warrior's voice.
+
+#### Tier 2
+- Comeuppance: The priest is confronted by an angry mob.
+- Discern: You gather that the guard and the merchant are old friends.
+- False Promises: The templar forsakes their god and joins you.
+
+#### Tier 3
+- Treasonous Thoughts: The prince can't sleep, thinking of the crown.
+- Spark Betrayal: The traveler sneaks off with his friend's coin purse.
+- False Hope: The horsemen futilely charge the spear wall.

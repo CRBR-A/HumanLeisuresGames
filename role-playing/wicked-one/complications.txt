@@ -1,0 +1,33 @@
+- losing an item, either temporarily or permanently.
+  - The dogs wrestle the bow out of your hands.
+  - Your flamespitter runs out of fuel.
+  - You lose a gold as coins fall out of your pocket.
+- losing an opportunity, as your target or chances slip away
+  - The noble steps into his carriage, closing the door.
+  - The priest, needed alive for the ritual, gets an arrow in the heart.
+  - The demon angrily picks up his wares and leaves your dungeon.
+- something bad arrives on the scene, and it’s likely hostile towards you.
+  - You hear dogs barking as they close in on your position.
+  - Several riders join the caravan before you can launch the ambush.
+  - The bear breaks the lock on its cage.
+- Magic backfires or your gear malfunctions, harming you or those nearby.
+  - You miss and knick yourself, quickly feeling the poison take effect.
+  - The illusion works so well that your allies fall for it, too.
+  - The summoned spirit doesn't appreciate being disturbed.
+- environmental changes or hazards, hindering current goal
+  - The sun comes up well before you've finished the job.
+  - A torrential downpour starts, making it difficult to see.
+  - The ship slowly starts to slip beneath the waves.
+- obstacles in the way, forcing to overcome it to proceed
+  - Guards fast on your heels, the doors slam shut in your face.
+  - Rocks fall, blocking the path through the mountains.
+  - An incredibly chatty skeleton won't leave you alone.
+- directly hindered, preventing from acting as you’d like.
+  - The cleric smacks you in the back of the head, knocking you out.
+  - The farmer hogties you.
+  - The harpy convinces you to protect her.
+- Clever NPCs lying to or manipulating, keeping you from what you want.
+  - The prisoner bites their own tongue off.
+  - The necromancer orders you dragged out of their sight.
+  - The witch swears the potion has no side effects.
+  

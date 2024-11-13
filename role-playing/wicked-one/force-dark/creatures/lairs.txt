@@ -1,0 +1,21 @@
+**Creature lairs** attract creatures looking for a home into your dungeon. They're stumbled upon by your imps as your dungeon grows, usually being caves or other natural underground formations which feel appropriate for the type of creature you want. Your hoard or the lair itself provides sustenance for the creature.
+
+[context]: # (important rule)
+> When your dungeon tier increases, you add a new creature lair somewhere to your dungeon, choosing its location and drawing it on the map. The new lair only attracts creatures equal to the dungeon tier at which the lair was added, which should be noted on the map when it's drawn.
+
+**When you have a vacant lair, one new creature can be attracted to your dungeon each recovery. This always fills the lowest tier lair first.** However, the very first time you build a lair, it immediately attracts a new creature. You decide what kind of creature is attracted, but it tends to be a good practice to just replace fallen creatures with the same type to reduce bookkeeping. You can also spend gold or take downtime actions to attempt to fill vacant lairs faster if you want.
+
+**When a creature is attracted to your dungeon, one player sets up a short scene detailing it.** This scene could be as simple as noticing the empty lair has been filled again or it could be more complex with other PCs joining in as you all watch a new monster make its way through your tunnels. Remember that creatures are independent, often more like beasts than intelligent monsters, though they're not hostile towards you. Taking the time to recognize that the lair has been filled provides a chance to further flesh out your dungeon and give creatures their space within the story.
+
+Each dungeon begins with a single tier 1 creature lair. They might also be added to your dungeon by discoveries, with the GM deciding the tier, location, and nature of the lair and the first creature inhabitant. The initial lair, the dungeon tier increasing, and discoveries are the only ways creature lairs can be added. If you manage to come into control of a creature besides those gained in the above ways, you can place them within your dungeon but once they're dead, you lose them forever. Additional creature lairs can't be built as your hoard can only support creatures determined by the dungeon tier or specific, self-sufficient lairs that already existed underground that you discovered.
+
+Creatures are generally quite unwilling to venture outside of their lairs. If you do manage to coax a creature out, its effectiveness in whatever you're doing with it is determined by rolling its tier as a fortune roll.
+
+
+#### Creature Creation
+
+When a creature is attracted to your dungeon, you decide what kind of monster it is. You choose its type, how many of them there are, and give it two traits that help describe the way it behaves. When a new creature lair is built, one player must write it down in the dungeon duties section of their character sheet. They're responsible for narrating that lair's creature or knowing when a new creature is attracted to the dungeon.
+
+A single creature might represent a swarm of insects, a pack of beasts, or some other group. Their total impact is equal to their tier, so the higher the creature's tier, the larger the group or more powerful the individual creature is.
+
+Creatures are unintelligent - natural or magical beasts, undead, fungi, oozes, and the like. After you have chosen the creature, you give it two traits from the following list or make up your own that better describe it:

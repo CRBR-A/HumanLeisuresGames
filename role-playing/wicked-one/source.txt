@@ -1,0 +1,16 @@
+source1:
+  url: https://drive.google.com/drive/folders/1z2MzjhdC1AgNPPUobnLSvyFXfizUOzlF
+  author: Ben Nielson (Writing & Layout), Ken Stine (Writing), Cass Rea & Victor Costa (Illustrations)
+  license:
+    short: CC0-1.0
+    text: >
+      Instead, Wicked Ones has been set to CC0, meaning it's now in the 
+      public domain. It can be freely used, distributed, or even re-sold as 
+      you like. The updated wording should be on the updated Wicked Ones v1.4
+      and Toolkit deck files you can download from your DTRPG library.
+      The artwork and any associated files are also released into CC0. 
+source2:
+  title: Wicked Ones RPG text in markdown
+  author: Adam Kleizer
+  url: https://github.com/adamkleizer/wickedones
+  license: CC0-1.0

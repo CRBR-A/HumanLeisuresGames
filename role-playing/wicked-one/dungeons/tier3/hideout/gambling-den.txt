@@ -1,0 +1,9 @@
+#### Gambling Den
+
+You set up a small gambling establishment, attracting monsters from outside your dungeon. You can recruit minions from this room. They always have Trick as their primary action and start with the strapped upgrade for free. This room also acts as a creature with a tier equal to the dungeon tier.
+
+*A gambling den might need gambling tables, luxurious lighting, or cigars.*
+
+[context]: # (example of play)
+> "Those two slissiks came in here and fleeced us. I'm pretty sure they're
+working together. I definitely want them on our side."

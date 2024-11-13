@@ -1,0 +1,25 @@
+### Force Mastery : Move Objects at Will
+
+There is a force flowing throughout this world, intertwining all objects. You can sense and manipulate this tension to propel non-living matter as you please. Living matter, on the other hand, defies this force and is beyond your ability.
+
+When force mastery spells fail, you might drop whatever you were moving on an ally, break it apart instead of picking it up, or move it way beyond where you intended.
+
+**Limitations**: Force mastery can only move objects, not things that are alive such as plants and animals. You might also only be able to move one type of material, like stone, or lose one of your senses while casting.
+
+#### Tier 1 Spells
+Equal to Other Actions in Impact
+- Snatch: The sword flies from the soldier's hands and into yours.
+- Slide: The bolt slides allowing the door to swing open.
+- Toss: Rocks pummel the cows, causing a stampede.
+
+#### Tier 2 Spells
+Equal to a Team's Action or One Person Over Time
+- Build: Stones pulled from the cliff form a stairway to climb up it.
+- Slam: The house's support beam breaks and the whole structure comes down.
+- Protect: Pots and pans form a protective wall in front of you.
+
+#### Tier 3 Spells
+Equal to a Team Over Time or Impossible Effects
+- Heavy Lifting: The small sailing ship lifts out of the water.
+- Flying Disc: You stand on a small disc, then lift it into the air and fly away.
+- Symphony: Every door and shutter in the town slam open and shut over and over, terrifying the townsfolk and causing pandemonium.

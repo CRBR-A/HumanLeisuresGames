@@ -1,0 +1,7 @@
+### Potions
+
+Potions are bottled elixirs with potent magical effects. They're usually in liquid form, though it’s not unheard of to find these magical essences within a dust or some other form. They're consumed upon use. The tier of a potion is equal to the tier of spell it would take to create the effect normally. Potions are brewed by spending a downtime action. You make two doses with a single downtime action and it is always a tier 1 project, regardless of the tier of the potion. On a mixed, the potion becomes volatile. Example potions, with volatilities listed after "but..." are on the next page. The effects and volatility of potions are determined by the player and GM when crafting them. You must have the proper core ability to brew tier 2 or tier 3 potions.
+
+> Brewing more potent potions carries more risk, just like casting spells. You take -1d on the roll when brewing tier 2 potions and -2d when brewing tier 3 potions. You don't spend stress as you would when casting higher tier spells, though.
+
+**You must state an ingredient or two when brewing a potion.** The stress you would normally spend to cast a spell is replaced within a potion by ingredients. Ingredients tend to be related to the effect of the potion in some way, such as a cat eye for a potion that allows you to see in the dark. It's assumed that you can collect most ingredients you need when brewing and you can weave this collecting of them into your downtime action narration. 

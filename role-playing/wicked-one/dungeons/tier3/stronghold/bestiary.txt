@@ -1,0 +1,8 @@
+#### Bestiary
+
+You have mounts and a secure area to keep them in. Detail them and give them edges (choose two): *aquatic* - *armored* - *fast* - *flying* - *magical* - *terrifying*. This room also acts as a creature with a tier equal to the dungeon tier.
+
+*A bestiary might need the mounts, something to feed them, or riding equipment.*
+
+[context]: # (example of play)
+> "I yell to mount up and we head off into the night on our giant bats."

@@ -1,0 +1,20 @@
+### Vahoona, The Howler at Night
+
+**Goddess of Nightmares and Twilight**. She dwells in darkness, slips into dreams, and feeds off of fear and paranoia. She is the terror lurking deep in everyone's heart.
+
+Vahoona may forsake you if you displease her, such as by failing to bring terror into the world, ending someone's fear too quickly, or fearing something more than her.
+
+#### Tier 1
+- Paranoia: The dwarf leaves the campfire to check on the echoing sounds.
+- Terror: The cleric sees the angered face of their god when they look upon you.
+- Lullaby: The sounds of night lull the guard into a restful slumber.
+
+#### Tier 2
+- Darkness: Torches and flames go out, plunging the room into darkness.
+- Hallucinations: Tentacles swing at the edge of the captain's vision.
+- Horrific Dreams: The foresters wake up ragged from restless sleep.
+
+#### Tier 3
+- Dreamwatch: You peek in on the knight gallivanting with his liege's wife.
+- Come True: The cows stampede, just as the farmer dreamed last night.
+- Dreamwhisper: A scene of betrayal plays out in the mayor's dreams.

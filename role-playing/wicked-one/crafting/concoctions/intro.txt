@@ -1,0 +1,8 @@
+Concoctions are single-use alchemicals thrown together in mad science laboratories, distilling and mixing reagents into powders, poultices, poisons, oils, and bombs. Herbal, plant, or fungal creations are also considered to be alchemical in nature. Concoctions are brewed by spending a <ins>downtime action</ins>. You make two doses with a single downtime action and it is always a tier 1 project, regardless of the tier of the concoction. If you roll a mixed on this downtime action, the concoction becomes *volatile*. A list of example concoctions can be seen on the next page, along with a possible effect and *volatility*. The effects and *volatility* of concoctions are determined by the player and GM when crafting them.
+
+Concoctions are made using alchemical reagents, purified and distilled elements of the natural world. These tend to be things like minerals, herbs, or fungi. It's assumed that you can collect any ingredients you need when brewing and you can weave the collecting of them into your narration of the downtime action. 
+
+After setting the tier of a concoction, you can further amplify its effects as below. In doing so, it increases the tier of the concoction (max tier 3), making it more difficult or dangerous to create.
+- Expand the **area** from a small to a medium area, or medium to large.
+- Expand the **duration** from a short to a medium time, or medium to long.
+- Expand the **scale** allowing you to affect targets that you might normally be in a tight spot against.

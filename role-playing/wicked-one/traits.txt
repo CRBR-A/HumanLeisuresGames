@@ -1,0 +1,15 @@
+- Clever
+- Corrupted
+- Corrosive
+- Diseased
+- Incorporeal
+- Flaming
+- Freezing
+- Magical
+- Oozing
+- Sneaky
+- Strong
+- Swarming
+- Terrifying
+- Tireless
+- Venomous

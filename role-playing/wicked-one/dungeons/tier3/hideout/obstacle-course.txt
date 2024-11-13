@@ -1,0 +1,8 @@
+#### Obstacle Course
+
+Minions train hard here, honing their skills. When recruited, you can add an extra primary action to minions, but only to ***Finesse***, ***Scan***, or ***Skulk***. This room also acts as a trick equal to the dungeon tier, detailed when the room is built.
+
+*An obstacle course might need rolls of wire, large spikes, or barrels of tar.*
+
+[context]: # (example of play)
+> "The adventurers swing over the tar pit, crawl under the barbed wire, and run across the balancing board inches above the lava. They don't even realize that each of them dropped a piece of equipment along the way."

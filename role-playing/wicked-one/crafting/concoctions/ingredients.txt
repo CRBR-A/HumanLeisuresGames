@@ -1,0 +1,8 @@
+alchemical reagent
+
+| black powder | mold spores | quicksilver |
+| brimstone | moondew | realgar |
+| cold iron | mugwort extract | saltpeter |
+| ginger extract | myrrh | sea salt |
+| gold flakes | nightshade | silver |
+| magnesium | phosphorus | thistle |

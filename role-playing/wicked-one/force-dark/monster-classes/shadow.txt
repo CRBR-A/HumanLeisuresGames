@@ -1,0 +1,47 @@
+## Shadow
+
+> Sneaky & Elusive Rogues
+
+You're at home in the darkness, lurking unseen. You can slip into and out of areas unnoticed. The element of surprise is your greatest weapon and you can often find your way into and out of the trickiest of situations. You begin play with the following **core ability**:
+
+Prowler: You can spend stress to perform an incredible feat of agility, like *slipping unimpeded through a mob*, *leaping safely from a high tower*, or *hiding in plain sight*.
+
+things a Shadow would have thought to do : *snatching something valuable*, *lying to create opportunity*, or *stashing some items*.
+
+### Shadow Abilities
+
+#### Dark Mind
+
+You can compel other PCs to action just as if the GM had compelled them. If they accept, you gain a dark heart. If they decline, you take stress. The GM is still the final judge of what is an appropriate compel.
+
+#### Poisoner
+
+Making or procuring poisons is second nature for you. You have a steady supply of the following tier 1 concoction poisons: *blinding* - *disorienting* - *slowing* - *nauseating*. You also gain two supply slots which you can only use for them.
+
+#### Pounce
+
+You recognize the perfect timing to strike. You take +1d when you catch someone by surprise. On a critical, you clear 1 stress.
+
+#### Slippery
+
+You're tough to pin down. On a success when resisting an enemy attack, you can also (choose one): *disappear from their sight* - *pick their pocket* - *reposition behind them*.
+
+#### Stalker
+
+Your lurking presence forces foolish action. On a success while moving stealthily, NPCs near you (choose one): *do something stupid due to paranoia* - *reveal a secret*.
+
+#### Sticky Fingers
+
+You always manage to come away with something of value. You get 1 extra gold each loot roll and can control up to 4 gold without raising suspicion. Also, once during each raid, you can establish the location of some good loot nearby.
+
+#### Unseen Hand
+
+When you assist an ally, you only take consequences if they roll a failure. If they roll a critical, you clear 1 stress. *Why do they not know you're helping them?*
+
+#### Example Shadow Items
+| dark cloak | grappling hook |
+| throwing knives | smoke bomb |
+| shortbow | crowbar & pliers |
+| lockpick | garrote |
+| bag of rocks | shrill whistle |
+| polished mirror | twin daggers |

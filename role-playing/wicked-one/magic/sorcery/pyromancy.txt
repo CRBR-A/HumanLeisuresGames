@@ -1,0 +1,25 @@
+### Pyromancy : Watch the World Burn
+
+Fire is the ultimate destructive force. It's wild, fickle, and blazing hot. But within that chaos, there is a beauty that captivates your attention. It's a cleansing force that those who wield can unleash upon the world.
+
+When pyromancy spells fail, you might light up your allies instead, catch something unintended on fire, or burn up a piece of your own gear.
+
+**Limitations**: Pyromancy requires what you're targeting to be burnable and struggles against anything resistant to fire. You might also be unable to cast in rain or need to directly shoot flames from a body part like your mouth.
+
+#### Tier 1 Spells
+Equal to Other Actions in Impact
+- Cinders: The torch explodes into a cloud of cinders, distracting the guard.
+- Flameblade: Flames ripple along the edge of the blade, giving it potency.
+- Scorch: A blast of flame leaps from your hand and singes the griffon.
+
+#### Tier 2 Spells
+Equal to a Team's Action or One Person Over Time
+- Heatshield: A shield of flames envelopes and protects you from projectiles.
+- Flamewall: The encroaching lion is blocked by a large wall of flames.
+- Flaming Path: Flames spring up along the ground behind you as you run, making it difficult for your pursuers to keep up.
+
+#### Tier 3 Spells
+Equal to a Team Over Time or Impossible Effects
+- Fireball: An enormous fireball arcs across the sky and into the ship.
+- Flamestep: You step into the fire and step out of a fire elsewhere.
+- Cauterize: The heat painfully seals the wound closed.

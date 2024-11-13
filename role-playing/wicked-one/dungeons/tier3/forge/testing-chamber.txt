@@ -1,0 +1,10 @@
+#### Testing Chamber
+
+You can empower your monster science, for a price. You can pay cost related to your testing to (choose one): *remove an item's volatility* - *increase a concoction in size, scope, or duration* - *take +1d on your next use with a specific item*.
+
+*A testing chamber might need a huge steel door, a pulley system, or gears.*
+
+[context]: # (example of play)
+> "I haul my chainsaw into the testing chamber and start mixing together
+fuels, seeing if I can get a superpowered mix. I manage to do it, but the
+chainsaw gets away from me at one point and cuts my helmet in half."

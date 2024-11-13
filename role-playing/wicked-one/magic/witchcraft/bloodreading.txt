@@ -1,0 +1,25 @@
+### Bloodreading : The Pulse of Life
+
+Bodies are nothing more than the blood coursing through their veins, and you know blood well. You can sense it, read it, control it, and use it to push people past their limits, seal wounds closed, or force its body to do terrible things.
+
+When bloodreading spells fail, you might invigorate your target, send them into a blood-boiling rage, or harm yourself instead.
+
+**Limitations**: Bloodreading requires a living target. You might also need to make them bleed first or touch their flesh with your own before you can cast spells on them.
+
+#### Tier 1 Spells
+Equal to Other Actions in Impact
+- Tears of Blood: The victim sheds tears of blood, horrifying themself and those around them.
+- Heartbeats: You listen intently and hear the hiding priest's heartbeat from the choir balcony above you.
+- Spasm: The sailor inexplicably throws the crate into the water.
+
+#### Tier 2 Spells
+Equal to a Team's Action or One Person Over Time
+- Adrenaline: The Brute ignores any shock despite being peppered with arrows.
+- Block Senses: Suddenly unable to see, the fleeing merchant rides into a tree.
+- Puppet Master: The goblin loses control of her body and swings at her friend.
+
+#### Tier 3 Spells
+Equal to a Team Over Time or Impossible Effects
+- Infect: Another rider starts coughing up flecks of blood - the fourth today.
+- Close Wounds: The Zealot loses the bloodied condition and MUSCLES shock.
+- Bloodbond: Any wounds taken by the Marauder are taken by you instead.

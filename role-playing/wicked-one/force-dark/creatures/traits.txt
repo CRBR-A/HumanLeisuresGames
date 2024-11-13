@@ -1,0 +1,23 @@
+#### 
+| xd6 | Creature Traits (Choose Two Per Creature) |
+| -- | -- |
+| 1 | clever |
+| 2 | corrupted |
+| 3 | corrosive |
+| 4 | diseased |
+| 5 | incorporeal |
+| 6 | flaming |
+| 7 | freezing |
+| 8 | magical |
+| 9 | oozing |
+| 10 | sneaky |
+| 11 | strong |
+| 12 | swarming |
+| 13 | terrifying |
+| 14 | tireless |
+| 15 | venomous |
+| 16 | acidic |
+| 17 | jumpy |
+| 18 | mechanical |
+| 19 | loud |
+| 20 | telepathic |

@@ -1,0 +1,9 @@
+## Hideout
+
+Keeping Your Head Low. 
+Choose this dungeon theme if you want to work as a cohesive unit and manipulate the factions of the region. Its core function is ***agents of chaos***, allowing you to strongly influence faction clocks. A Hideout has the following tier 3 rooms: ***dojo***, ***gambling den***, ***gear locker***, ***obstacle course***, ***planning room***, ***roost***, and ***tavern***.
+
+A Hideout is a place to lay low and keep an eye on the world. Escaping detection is your primary concern. You live and operate under the radar. Teamwork and efficiency are the keys to your success. You start with this **core function**:
+
+[context]: # (important rule)
+> ***Agents of Chaos***: Your dungeon excels at placing blame on others or meddling with faction plans. On a success on blowback, your minions gain morale and you can finish or reset a faction clock. *What happens in the aftermath of your raid to cause this?*

@@ -1,0 +1,13 @@
+### Ritual Requirements
+
+- **Blood Magic**: You must feed the ritual with your own blood, leaving you bloodied. *What does the scar look like?*
+- **Fasting**: You're not allowed to eat while preparing this ritual. You take shock to an attribute each time you incant this ritual. *Why must you go through such suffering?*
+- **Intimate Materials**: You need an item that the target of the ritual greatly values or cares about deeply. *Why is it so important to them?*
+- **Place of Power**: You must perform the ritual at a specific place of power, such as deep within a volcano or a long forgotten battlefield. *How does the place magnify the ritual's power?*
+- **Rare Ingredients**: You must collect rare ingredients before you can cast the spell - often from high, inaccessible mountain peaks or at the bottom of deep, dark lakes. *What stands between you and the ingredient?*
+- **Ritual Cleansing**: Your body must be thoroughly cleansed with ointment, blood, or other special materials. *What are you being cleansed of?*
+- **Sacrifice**: You must sacrifice some type of animal or even a specific person. *What's special about the required sacrifice?*
+- **Secret Knowledge**: You require secret, arcane information from a specific source. *What do you have to give up to acquire this knowledge?*
+- **Special Focus**: You require a special item or creature that the ritual’s power is channeled through. If the item or creature is destroyed, the magic effect is also destroyed. *How is the magic channeled through this focus?*
+- **Timing**: You can only perform the ritual at a specific time, such as a certain lunar phase or when the stars align. When your ritual starts, the GM starts an additional 4, 6, or 8 segment clock and ticks it each lurking phase to represent the time approaching. *What is significant about the timing?*
+- **Trial**: You must undergo some trial to prove yourself worthy before the ritual can be completed, such as swimming across a dangerous river, burning down a temple, or finding and killing a wyvern without using any weapons. *What makes the task more dangerous than is immediately apparent?*

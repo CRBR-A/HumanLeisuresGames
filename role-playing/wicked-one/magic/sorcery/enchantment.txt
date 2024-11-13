@@ -1,0 +1,25 @@
+### Enchantment: Manipulate Weak Minds
+
+You delve deep into the minds of others, eliciting emotion and controlling thoughts. You can alter memories, implant the seeds of action, or give explicit commands which you expect to be followed. The weaker the mind, the stronger your magic is.
+
+When enchantment spells fail, you might falsely believe it worked, the target may become aware of what you were attempting, or the spell might be reflected back at you.
+
+**Limitations**: Enchantment only works against living creatures and tends to work better on those with lesser intelligence. You might also have to share a language or only be able to elicit a certain range of thoughts and emotions.
+
+#### Tier 1 Spells
+Equal to Other Actions in Impact
+- Interrogate: Their eyes cloud and they blurt out where the gold is.
+- Recognition: They think they met you before, grinning as you approach.
+- Emotion Control: Anger replaces annoyance as the guard draws his sword and threatens his friend.
+
+#### Tier 2 Spells
+Equal to a Team's Action or One Person Over Time
+- Implant Urge: The merchant stops the caravan and hops off to take a leak.
+- Hypnotism: They fall into a deep hypnotic state, ready for your suggestion. The first thing they'll do when they get back to the fort is fire the captain.
+- Memory Loss: With a wave of the hand, the guard forgets you were ever there.
+
+#### Tier 3 Spells
+Equal to a Team Over Time or Impossible Effects
+- Dominate: The farmers heft pitchforks and defend you with their lives.
+- Implant Memory: The troll suddenly remembers you saved his life in the river and offers to help you take down the town wall.
+- Betray Oath: The knight plunges the sword into his lord's back.

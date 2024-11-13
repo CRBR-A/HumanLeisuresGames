@@ -1,0 +1,32 @@
+## Discoveries
+
+As you dig into the earth, you’re bound to run across other things underground such as rivers, lakes, lava flows, remnants of old structures, and horrible creatures best left buried. When your dungeon tier increases, you make a discovery as your imps find something underground while they clear out space for your dungeon. The GM rolls to find out how beneficial it is for you. Discoveries may come at other times that the GM deems appropriate as well, such as after several new additions have been made to the dungeon or as the result of <ins>calamity</ins>.
+
+| 1d6 | Discoveries |
+| --- | --- |
+| 1 | Earth Formation |
+| 2 | Liquid Formation |
+| 3 | Forgotten Structure |
+| 4 | Resource / Stockpile |
+| 5 | Creature / NPC |
+| 6 | Magic / Science |
+
+While discoveries underground can be anything the GM thinks would make for interesting gameplay, the following six categories help imagine what's possible.
+
+1. **Earth Formations**: Naturally occurring formations of stone and dirt that are typically found in underground cave systems.
+  > These are things like crystal caverns, winding tunnels, deep holes, and new entrances to your dungeon.
+
+2. **Liquid Formations**: Naturally or unnaturally occurring liquid flows and pools.
+  > These are things like rivers, lakes, geysers, ooze, tar pits, or lava.
+
+3. **Forgotten Structures**: Ancient remnants of dungeons and underground bastions that you dig up and incorporate into your own dungeon.
+  > These are things like dungeon rooms, bridges, winding corridors, or crypts full of the dead.
+
+4. **Resource / Stockpile**: Naturally growing plants or fungus, ores, or goods buried and hidden by others.
+  > These are things like mushroom filled tunnels, a fantastic fishing spot, a vein of iron ore, or buried treasure.
+
+5. **Creatures / NPCs**: Wild animals, monstrous beings, and new factions that might be either friendly or hostile towards your dungeon.
+  > These are things like burrowing beasts, a hive of giant bugs, lost adventurers, imprisoned beings, or an underground colony.
+
+6. **Magic / Science**: Wild arcane phenomenon, persistent magical effects, or discarded technology left buried or intentionally hidden in the deep.
+  > These are things like portals, power cores, automatons, or puzzles.

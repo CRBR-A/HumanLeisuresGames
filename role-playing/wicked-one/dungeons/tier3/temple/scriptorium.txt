@@ -1,0 +1,8 @@
+#### Scriptorium
+
+Your deeds are recorded in unholy scripture, immediately giving you wicked xp equal to your dungeon tier. You also gain a new wicked xp trigger: Were your actions worthy of your god’s notice? Each PC must prove their own worth to gain this xp.
+
+*A scriptorium might need desks, writing equipment, or leather for binding.*
+
+[context]: # (example of play)
+> "I finally broke that elven druid, getting some nice hints as to the location of the Mother Tree. I'm sure Melawa is pleased."

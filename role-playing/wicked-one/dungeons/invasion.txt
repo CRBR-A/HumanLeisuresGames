@@ -1,0 +1,12 @@
+
+Invasions usually occur due to bad <ins>blowback</ins> or <ins>calamity</ins> rolls as your actions in the overworld bring adventurers down upon you or problems within your dungeon alert them to your presence. Sometimes, events in the story might dictate an invasion is occurring, such as a faction clock filling or you giving away your dungeon's location to known enemies. They're generally undertaken by groups of adventurers coming to deal with the threat you pose to the region and plunder your hoard. At times, the adventurers may instead bring along a few hirelings to fill their ranks or the group invading your halls could be something else entirely, such as a hostile orc tribe, a huge mob of angry townsfolk, a powerful ghost, or a garrison from the local lord.
+
+Dungeons are in hidden, isolated, or wild areas. The exact location of your dungeon is usually unknown to those on the surface. Most adventurers that wander into your halls are just following some rumors of monster activity in the area and head out in hopes of finding it and ridding the world of your evil.
+
+### Invasion
+
+When invaders enter your dungeon, they're usually <ins>adventurers</ins>. Each adventurer has **hearts** that represent their willingness or ability to push forward. Dungeon defenses roll to damage these hearts, wearing away at the resolve or health of the invaders. When a defense works, it slashes these hearts. One slash is equivalent to a clock tick and two slashes takes out a heart. When adventurers have no more hearts, they're killed, knocked out, or run away.
+
+Adventurers are incredibly strong foes and, when grouped, the only way to stop them is to send them through the gauntlet that is your dungeon’s defenses. Adventurers might use their moves to disable or resist dungeon defenses. A move might completely negate the dungeon defense, such as a scout spotting a trap or a barbarian bashing down a locked door. At other times, it might merely reduce the effectiveness of the defense, dropping its tier by one or two. These are judgement calls by the GM. Adventurers' passives might also interact with dungeon defenses, such as a rogue reducing all locks in a dungeon by -1d.
+
+Sometimes, adventurers will bring along **hirelings** to pad their numbers. A hireling has 1 heart and either has a passive or can make a single move. The GM may also choose to have other groups invade your dungeon halls and represent them with hearts, moves, and passives similar to adventurers or use clocks to show how difficult they are to overcome.

@@ -1,0 +1,52 @@
+## Conniver
+
+> Manipulative & Controlling Masterminds
+
+You lurk in the background pulling the strings, laying out intricate plans, and having others do your bidding. For you, revenge is a dish best served cold. Methodical is an understatement - you’re in complete control at all times. You begin play with the following **core ability**:
+
+Strings: You can spend stress to have an ally remember your voice in their head, allowing them to reroll a failure. If they roll a success, you gain a dark heart. *What criticism or advice did you previously impart on them?*
+
+You can flashback to things a Conniver would have thought to do, such as *manipulating others*, *setting up contingency plans*, or *acquiring information*.
+
+### Conniver Abilities:
+
+#### Intuition
+
+Others are an open book to you. You can spend stress to establish a target’s emotional state, though it must be a reasonable emotion for them to be feeling. You take +1d when you act on that knowledge.
+
+#### Masterful Liar
+
+You excel at lying when you go all in on a falsehood. You take +1d when you go hard to tell a lie. On a success, you gain a dark heart.
+
+#### Missed a Spot
+
+Each downtime, you get two ticks which can be distributed to any project clocks started by your allies. *What errors do you point out in their work?*
+
+#### Opportunist
+
+You take +1d on a roll when acting immediately after an ally fails a resistance roll. *How do you leverage their failure to your own advantage?*
+
+#### Tongues
+
+You can speak the Light Tongue, albeit with a strong, monstrous accent. *How does a monster like you even learn to speak the language of civilization?*
+
+#### Weaving the Web
+
+On a success during a flashback or downtime action to interact with contacts, you gain a dark heart. You also gain a downtime action which you can only use to contact a vile friend, faction, or other NPC.
+
+#### Wordplay
+
+On a success when resisting with ***Banter***, ***Threaten***, or ***Trick***, you can also (choose one): *deflect blame* - *plant 
+a false idea* - *have the GM reveal a secret*.
+
+#### Example Conniver Items
+
+[randomizable]: # (example item)
+| | |
+|:-:|:-:|
+| skin of fine wine | hidden dagger |
+| blowgun & darts | decorative mask |
+| wooden flute | flashy rings |
+| iron manacles | soap & perfume |
+| weighted dice | hooded cloak |
+| writing utensils | comb & accessories |

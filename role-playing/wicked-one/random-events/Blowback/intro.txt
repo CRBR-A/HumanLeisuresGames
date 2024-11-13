@@ -1,0 +1,29 @@
+| 1d6 |  Random Blowback |
+| --- | ---- |
+| 1 | Dungeon Invasion |
+| 2 | Dungeon Invasion |
+| 3 | Dungeon Invasion |
+| 4 | Travel Trouble  or roll random blowback |
+| 5 | Factions / Sandbox  or roll random blowback |
+| 6 | Ambush / Capture  or roll random blowback |
+
+- Dungeon Invasion: A group of adventurers, soldiers from a local faction, a powerful beast, or some other entity enters your dungeon and makes its way towards your sanctum. Minor blowback invasions are always much weaker or unprepared for your dungeon and can serve as a good test of your defenses. When it's major blowback, they come in prepared to take you down.
+  - A group of hunters wander into the dungeon.
+  - An adventuring party is hired to bring you down.
+  - A massive wyvern chases you home and into your caves.
+
+- Factions / Sandbox: Your raid spurs a faction, either the one you hit or another affected by it in some way, into action. They might finish off a clock, start a new one, or act immediately in their best interests.
+  - The two tribes decide to end their conflict and protect their lands.
+  - The town stops sending trading caravans along that route.
+  - Reinforcements from afar boost the garrison's tier by 1.
+
+
+- Travel Trouble: The need to stay off well traveled paths makes moving across the overworld quite treacherous.
+  - A heavy fog separates you in a forest, then you hear wolves growling.
+  - You get stuck in a storm with heavy waves crashing into your ship.
+  - You drop some equipment scaling a cliff.
+
+- Ambush / Capture: Someone you have wronged in the past goes out of their way to take you down. They either set up an ambush to take advantage of a vulnerable position you're in or capture a Wicked One or dungeon denizen.
+  - The Brute is captured by a local patrol after you get split up.
+  - Everyone falls into a pit trap and you hear the sound of snakes.
+  - A volley of arrows suddenly pepper you and force you into cover.

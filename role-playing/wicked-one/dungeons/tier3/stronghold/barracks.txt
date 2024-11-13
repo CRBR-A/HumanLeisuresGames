@@ -1,0 +1,8 @@
+#### Barracks
+
+Fresh recruits flock to your dungeon. You can recruit minions from this room. They have ***Smash*** as their primary action and the mindset (loyal) upgrade for free. This room also acts as a creature with a tier equal to the dungeon tier.
+
+*A barracks might need a cache of weapons, armor, or a large amount of rations.*
+
+[context]: # (example of play)
+> "I ***Smash*** the biggest one in the face. 'Follow me. There's work to do.'"

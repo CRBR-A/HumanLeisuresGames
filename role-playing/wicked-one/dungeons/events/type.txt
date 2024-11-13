@@ -1,0 +1,38 @@
+Types of Calamity
+
+The severity of the calamity is determined by the calamity roll. The GM can come up with something fitting on their own, use the tables below to determine the category of the calamity, or roll on the detailed tables on the next page.
+
+Minor calamity results in mishaps within your dungeon, small things that are a bother but don’t present an enormous challenge. They can generally be recovered from with a downtime action or two.
+
+Major calamity results in big events that have a major impact on the dungeon. They're a serious setback that requires your immediate attention and puts a lot of pressure on the dungeon.
+
+| 1d6 | Random Calamity |
+| -- | --|
+| 1 | Dungeon Invasion |
+| 2 | Dungeon Invasion |
+| 3 | Denizen Trouble or roll random calamity |
+| 4 | Denizen Trouble or roll random calamity |
+| 5 | Structural Problem or roll random calamity |
+| 6 | Outside Interference or roll random calamity |
+
+Below are just some of the categories of calamity that might befall your dungeon, though the GM is free to come up with their own that might not fit into these. Just keep in mind that **minor calamity should sting and major calamity should hurt**. The GM shouldn't pull their punches here. Make calamity an ever-present worry.
+
+- **Dungeon Invasion**: Your activities within the dungeon bring the attention of adventurers, other dark factions, or local wildlife. Minor calamity invasions are always much weaker or unprepared for your dungeon and can serve as a good test of your defenses. When it's major calamity, they come in prepared to take you down.
+  - An adventurer and a few hirelings follow your minions home.
+  - Adventurers spot smoke rising from your dungeon.
+  - A massive bear wanders into your dungeon looking for a home.
+
+- **Denizen Trouble**: The denizens in your dungeon start infighting, betray you, or make stupid mistakes. This could even lead to rebellion with major calamity.
+  - A basilisk devours a pack of minions.
+  - Imps steal or just lose a random item from a random PC.
+  - Your minions head into the sanctum, weapons ready.
+
+- **Structural Problem**: Your dungeon's rooms, walls, traps, and so on fail or fall apart in some way.
+  - A cave-in fills a tunnel with rubble, making it impassable.
+  - You lose all progress on a tier 3 room clock as it collapses.
+  - A lava flow bursts through a wall, destroying a tier 3 trap.
+
+- **Outside Interference**: Forces from outside of your dungeon move against you. This could be another faction discovered underground, something burrowing into your dungeon, or heavy rains flooding your halls.
+  - A dire mole burrows into the dungeon, making a second entrance.
+  - A hostile underground faction appears near the dungeon.
+  - Rain floods your halls, drowning some creatures and minions.

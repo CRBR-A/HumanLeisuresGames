@@ -1,0 +1,29 @@
+Rituals push magic to its limits, allowing you to bring forth truly horrifying magical effects, transcending what is possible with spell magic. You do not need to have spellcasting ability or even ***Invoke*** to incant a ritual, though without some magical ability, you do need a proper explanation for why you know the ritual.
+
+Rituals are incanted with downtime actions, using any action that makes sense within the fiction. You must also meet a number of special requirements equal to the ritual's tier before the ritual can be completed. The GM and player work together to choose interesting requirements. Special requirements are something challenging to accomplish, usually requiring a scene or perhaps even a raid to do so.
+
+**A ritual's tier is determined by how large of an impact it will have on the story.** Cursing a farmer is usually easier than cursing a noble, though if that farmer is an important figure in the story, setting the curse on them becomes much more difficult.
+
+### Tier 1 Rituals
+Minor Impact; Fulfill 1 Requirement
+**These rituals achieve results that have a minor impact on the story.** They tend to be useful for PCs, but have minor effect on NPCs.
+- You permanently raise some skeletons to serve you as a minion pack. 
+- You build a teleportation circle between two places you've been.
+- You make all milk in a town to go rancid, causing paranoia.
+
+### Tier 2 Rituals
+Moderate Impact; Fulfill 2 Requirements
+**These rituals achieve results that have a moderate impact on the story.** They tend to give PCs a strong advantage or push NPCs into a tough spot.
+- You plant fear in the baron’s mind, causing him to betray the duke. 
+- You link the fate of two people together, so if one dies, they both die. 
+- You conjure a large wall of ice, blocking the mountain path.
+
+### Tier 3 Rituals
+Major Impact; Fulfill 3 Requirements
+**These rituals achieve results that have a major impact on the story.** They tend to drastically alter the entire dynamic of the story and NPCs must deal with the fallout.
+- You call forth a mighty storm, earthquake, or other natural disaster. 
+- You summon a nightmarish creature beyond your control to wreak havoc on a local region. 
+- You cause a blight, destroying and cursing farmland for miles around.
+
+
+Rituals often bring attention from outside forces seeking to stop it. The GM can make a blowback roll just before it's completed to see if anyone intervenes.
