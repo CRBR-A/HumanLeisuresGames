@@ -1,0 +1,376 @@
+# ChroniclesRPG System
+*Created by BossGames*  
+*This Document Is Property Of The Public Domain*  
+*License: Creative Commons 0*
+
+
+# Introduction
+In 2018, the Chronicles RPG System was born. It started out as a casual idea, but eventually turned into something more. The goal was to make an RPG that was different from the others. Something that had not been done yet. Something that anyone could learn to play in a matter of minutes, by even those who have never played an RPG before. Lots of ideas came and went, but the vision always stayed the same. After a long period of hard work and determination, Chronicles RPG System was finally created. We hope you like it!
+
+### What You Will Need
+In order to play a game that uses the Chronicles RPG System, you will need a few things:
+1. A copy of the rules (Listed below)
+1. Four six-sided dice (D6)
+1. Something to write with (Preferably a pencil. You will be erasing)
+1. A character sheet
+1. Someone to play the game with (A game master and at least one player)
+
+  
+
+### How to Play
+Chronicles RPG System is a system that serves as the backbone for any Tabletop RPG and is meant to be paired with the more artistic elements of a game, such as a setting and theme, by the user of the system. The system is made so that anyone, regardless of experience, can quickly learn and participate in games that run on it, or create a game that runs on it if the user is so inclined. The game system offers the following mechanics as a foundation on which to run an RPG.
+
+  
+
+### Statement of Intention
+This system is meant to relieve the burden of mechanical development with regard to the creation of a Tabletop RPG. These systems are suggestions and are meant to be taken as such. But we have worked hard so that these systems can be taken and used at face value to provide you with an avenue by which to create and play a Tabletop RPG using anything from a simple idea or the setting of your favorite movie or book, to a well thought out and developed fictional universe. This system attempts to remain as agnostic as possible so that you may use it to create and play anything that comes to your mind. Have fun!
+
+### Contact Us
+We encourage you to connect with the project further at ChroniclesRPG.com.  
+
+\newpage
+
+---
+---
+  
+    
+	  
+## Preamble
+In this system there are a few recurring terms and ideas that are used throughout it. In order to make it easier to communicate these ideas, we will define them here.
+
+### Preamble: Dice Groups
+A Dice Group is a group of six-sided dice. These dice are normally acquired in exchange for Experience Points as a Character Creation Option. A Dice Group can have up to four dice in it. A Dice Group is what is used to make checks with, by rolling the dice in the Dice Group. Unless otherwise specified, a player may spend an Experience Point in order to add a die to a Dice Group. A "Die Penalty" temporarily subtracts a number of dice from a Dice Group, to a minimum of one die.
+
+### Preamble: Making Checks
+There are four main categories of checks that a character can make. These are as follows:
+
+A **Standard Check** is where the character is opposing their environment or circumstances. The number on the highest die is compared to the Standard Check results table below:
+
+- **1-3 = Failure:** If the result of a Standard Check is Failure, then the attempt fails as decided by the GM.  
+- **4-6 = Success:** If the result of a Standard Check is Success, then the attempt is successful as decided by the GM.
+
+It is left to the GM's discretion to change the difficulty of the standard Check by deciding what result counts as a success.
+
+An **Opposed Check** is where the character is rolling a Dice Group to directly oppose the roll of another Dice Group. The total is compared with the opponent's total and the character with the higher total wins the Opposed Check. If the totals are a tie, the aggressor of the Opposed Check (the character who most directly initiated the Opposed Check) wins the tie.
+
+An **Inverse Check** is where the character subtracts the number of dice that they have in their Dice Group from the number five. They then roll the resulting number of dice and add up the total. This is used when rolling the lowest total possible is desired.
+
+A **Power Check** is where the character makes a Standard Check using a Dice Group and if that Standard Check is a failure then that character loses one die from that group of dice. Unless otherwise specified all dice lost in this way are restored whenever a character completes a Full Rest. A Power Check, unless otherwise specified, is made with no Buffs or Debuffs, Advantages or Disadvantages, Die Penalties, does not count as an Act and does not end a character's Turn if they fail it.
+
+  
+
+## Talents
+Every character has the following Talents. Each Talent is a Dice Group which has a minimum of one die in it by default. A Talent with one die in it is considered average. The Talents are as follows:
+
+  
+
+- **Aim** is the faculty of a character for judging and coordinating the motion of objects delicately and accurately through space to a target or mark.  
+**Related Terms:** Accuracy
+
+- **Athleticism** is the measure of a character's coordination, efficiency, power, and endurance with regard to their bodily movements.  
+**Related Terms:** Strength, Coordination
+
+- **Communication** is the measure of a character's ability to communicate and understand meaning and intention, using available means and methods, effectively and influentially.  
+**Related Terms:** Influence, Persuade, Explain
+
+- **Defense** is the overall metric of a character's ability to defend themselves from harm.  
+**Related Terms:** Deflect, Dodge, Avoid
+
+- **Fortune** is the measure of a character's tendency to good fortune, which provides certain benefits which seem to come in the nick of time.  
+**Related Terms:** Serendipity, Chance, Luck
+
+- **Instinct** a character's unconscious, intuitive ability to sense, process, and react to their surroundings.  
+**Related Terms:** Detection, Senses, Reflexes, Gut-Feeling, Intuition
+
+- **Knowledge** a measure of the breadth, depth, and clarity of what a character knows and remembers.  
+**Related Terms:** Recall, Absorb, Memorize
+
+- **Sneak** is the ability of a character to conceal objects, actions, or intent.  
+**Related Terms:** Conceal, Hide
+
+- **Vitality** is the measure of a character's vital resilience, the strength of their life-energy to propel and repair their physical form and bind them to their body.  
+**Related Terms:** Fortitude, Resistance, Endurance, Health
+
+- **Wit** is a character's ability to form an understanding of something through observation and then use that understanding to their benefit.  
+**Related Terms:** Reason, Inference, Strategy, Ingenuity
+
+  
+
+### Talents: Extraordinary Talents  
+An Extraordinary Talent is a Dice Group that can be used to attempt Checks that are considered exceptional and unbelievable. There is an Extraordinary Talent for each of the normal Talents. A character can only add a die to an Extraordinary Talent if that character already has four dice in its corresponding Talent. If the check is something that the GM deems to be extraordinary, then an Extraordinary Talent is the only way to attempt it.
+
+  
+
+- **Minor, Major and Epic Feats**  
+A "Feat" is an action that is performed using an Extraordinary Talent IE: "They performed an incredible feat of strength". Each of these Feats fall within a category, either Minor, Major or Epic.
+
+	1. A Minor Feat does not reduce or diminish the Extraordinary Talent that is being used.
+	2. A Major Feat requires a Power Check to be made using that Extraordinary Talent.
+	3. An Epic Feat requires you to spend a certain number of dice from the Extraordinary Talent that is being used.  
+All Extraordinary Talent dice that were spent in this way are restored after finishing a Full Rest.
+
+  
+
+## Using A Talent
+Whenever a character attempts to do something which is a significant effort, a Dice Group is tested to determine the degree of success that the character meets with. This test will come in the form of a check.
+
+  
+
+### Using A Talent: Buffing and Debuffing  
+
+Buffing indicates an effect that helps a character do something. Debuffing indicates an effect that makes it harder for a character to do something. Below are some details about this:
+
+- A character can choose to use one of their Talents in order to Buff or Debuff another character who is using the same Talent.  
+- Buffs/Debuffs are calculated before Advantages/Disadvantages.  
+- If a Die Penalty reduces a Dice Group to one die, then that Dice Group can no longer be Buffed or be used to Buff/Debuff.  
+
+A character may choose another character at the GM's discretion. More than one character can Buff/Debuff a single Act of another character, but a character cannot Buff/Debuff a single Act multiple times. The Buffing/Debuffing character may choose from the following options:
+
+- **Buffing As An Act**  
+The Buffing character may choose, as an Act on their Turn, to roll the dice that they have in the chosen Talent and select the highest value die. The next time that the chosen character chooses to make a check with that Talent, they may replace their lowest die with the selected die.
+
+- **Buffing As A Turn**  
+The Buffing character may choose, before they Act on their Turn During Turn Order, to skip their Turn in order to Buff the chosen character. When doing so they may use the "Buffing As An Act" option each time that the chosen character chooses to make a check with the chosen Talent on their next Turn.
+
+- **Debuffing As An Act**  
+The Debuffing character may choose, as an Act on their Turn, to make an Opposed Check against the chosen character using the chosen Talent. If this Opposed Check is successful then the Debuffing character rolls the dice that they have in the chosen Talent and selects the lowest value die. The next time that the chosen character chooses to make a check with the chosen Talent they must replace their highest die with the selected die.
+
+- **Debuffing As A Turn**  
+The Debuffing character may choose, before they Act on their Turn During Turn Order, to skip their Turn in order to Debuff the chosen character. When doing so they may use the "Debuffing As An Act" option each time that the chosen character chooses to make a check with the chosen Talent on their next Turn.
+
+### Using A Talent: Advantages and Disadvantages  
+While playing the game, a character may encounter certain situations where they may be advantaged or disadvantaged significantly by circumstances that are outside of the scope of their own Talents. This is expressed as written below:
+
+- **Advantage** is expressed in the form of rerolling the lowest die until it is higher than the original roll and keeping the new result.  
+- **Disadvantage** is expressed in the form of rerolling the highest die until it is lower than the original roll and keeping the new result.
+
+Each time that an Advantage/Disadvantage is rolled, pick the new highest/lowest die for the remaining Advantages/Disadvantages, if any. Disadvantages and Advantages are considered to cancel each other out, if applied to the same check.
+
+### Using A Talent: Operating Tools and Equipment  
+A character may encounter a situation where they seek to operate some form of system, whether that may be tools, equipment, or transportation. By default, the Wit Talent is used.
+
+### Using A Talent: Using the Fortune Talent  
+
+A helpful application of the Fortune Talent is when the GM needs to make a decision on something they hadn't previously considered.
+In this case, the character who is most affected by the decision can make a standard check using their Fortune Talent.
+For example:
+
+- **Player:** *"GM, is there a fire-escape ladder on the side of this building?"*
+- **GM:** *"I don't know, make a Standard Check using your Fortune Talent".*
+- **Player:** *"It's a success".*
+- **GM:** *"Then yes, there is a fire-escape ladder on the side of the building!".*
+
+### Using A Talent: Twisting Fate  
+At the beginning of each day, each character rolls their Fate Dice and records the individual values. A character's Fate Dice are a number of dice equal to the sum of the dice in their Fortune Talent and their Extraordinary Fortune Talent. A Fate Value may be used to replace the result of any D6 that directly affects the character using it, or that the character directly affects, after the roll has been seen and the result known. A Fate Value may only be used once. Multiple characters cannot, unless otherwise specified, use a Fate Value to influence a single outcome. As well, a character cannot spend more than one Fate Value to influence a single outcome.
+
+### Using A Talent: Downtime Tasks  
+Downtime Tasks are represented by a character making an Inverse Check using the relevant Dice Group and spending that amount of time completing the task. Minor Tasks can be completed in a matter of minutes, Major Tasks are completed in a matter of hours and Epic Tasks take days to complete. The number is equal to the Inverse Check. If that character does not have the relevant Dice Group then by default they can roll 4D6 and multiply the result by two instead. The GM determines any cost, supplies or other requirements for completing the task.
+
+## Turn Order
+There may come to be time sensitive or intense situations where those involved must make every second and every action count. Turn Order is used to fairly organize the forces involved into a simplified order of turns, where each character does what they choose to. The Instinct Talent is used to determine Turn Order.
+
+### Turn Order: Rounds and Turns  
+Turn Order is divided into Rounds and Turns. Every character in Turn Order gets one Turn every Round. Each character's Turn during each Round occurs at roughly the same time, but each Turn occurs after the events of the preceding Turn. For example, if a group finds themselves in a situation where they are blocked by a barricade, the character who is set to go first in Turn Order may use one of their Acts to break down the barricade and create an opening for other characters to pass though. Following this character's turn, the other characters will now have the option to pass through the opening and proceed with their Turns as they wish.
+
+### Turn Order: Acting and Moving During Turn Order  
+An "Act", unless otherwise specified, is anything that the character wishes to do that will require them to make a check. A character may Act as many times on their Turn as they wish to, but each Act has a Die Penalty equal to the number of Acts that the character has made since the beginning of their current Turn. If a character fails a check on their Turn then their Turn ends.
+
+A character can Move on their turn as far as the GM allows. At the GM's discretion, the character may make a check with their Athleticism Talent in order to Move further on that Turn.
+
+### Turn Order: Preparing an Act
+During their turn a character may declare that they are "Preparing an Act" and skip their next Act. This means that at any time between the and the beginning of that character's next Turn, they may use that Act immediately as if it were their Turn. A prepared Act has the Die Penalty that it had when it was prepared IE: an Act with a Die Penalty of 2 still has that Die Penalty if it is prepared and used later. This can only be done by a character once on that character's Turn. If they do not use this prepared Act by the beginning of their next turn, it is lost.
+
+### Turn Order: Communicating in Turn Order  
+A character may verbally communicate meaning that can be expressed in a number of words equal to the total of rolling the dice in their Communication Talent. They can do this as an Act during Turn Order.
+
+## Combat
+Combat is a situation where some characters are involved in a physical conflict with other characters, where one group or individual is attempting to subdue or cause harm to another group or individual. Characters that enter Combat are organized into a Turn Order with the other characters involved in Combat. The following rules are rules to conduct Combat and assume that the characters involved have already been organized into a Turn Order:
+
+### Combat: Attacking and Defending  
+When in combat, characters will be attempting to deal harm to their opponents while attempting to avoid receiving harm themselves. This is expressed through Opposed Checks between the defender's Defense Talent and the attacker's Talent that they are using to attack with, as shown below:
+
+- The **Aim Talent** is used to make attacks that rely more on the character's precision than on the character's physical power, such as ranged attacks or precision melee attacks.  
+- The **Athleticism Talent** is used to make attacks that rely more on the character's physical power than on the character's precision, such as melee attacks and moves.
+
+If the defender fails the Opposed Check as noted above, then that character receives Harm and must make a Harm Check.
+
+### Combat: Receiving Harm and Harm Checks  
+A character may be subjected to an effect which injures one of their Talents. This causes the character to lose a point in that Talent. When a character must roll a Harm Check, the character makes a Standard Check with their Vitality Talent. The results of this Standard Check are as shown below:
+  
+- **1-3 = Vitality Loss:** If the result of this Standard Check is Vitality Loss, then the character's Vitality Talent sustains an Injury.
+  
+- **4-6 = Injury:** If the result of this Standard Check is Injury, then the character sustains an Injury to one of their Talents (Extraordinary Talent if present), other than their Vitality Talent. This will normally be decided at random, but is left to the GM's discretion.
+
+### Combat: Death and Dying  
+If the character's Vitality Talent sustains an injury when they only have one die in their Vitality Talent, then the character suffers a critical injury and must roll to cheat death. To do this, the character rolls one D6. If the result is 1-3 then the character dies. If the result is 4-6 then the character falls unconscious. If the character falls unconscious for this reason then they become Traumatized as well.
+
+### Combat: Health and Healing  
+A character's Health is roughly measured by their Talent's. When a character's Health is affected, it is represented by a temporary reduction in that character's Talents. Some circumstances that affect a character's Health are when that character becomes Injured, Exhausted or Traumatized. An Injury causes a character to temporarily lose one Experience Point in one of their Talents, Exhaustion causes a character to temporarily lose one Experience Point in all of their Talents and Traumatization causes a character to temporarily lose all Experience Points in their Talents.
+
+The effect of these circumstances can be prevented or resolved by sleeping. A period of four hours of sleep is called a Field Rest. A period of eight or more hours of sleep is called a Full Rest. The above circumstances can be prevented or resolved by resting as described below:
+
+1. A character may heal a number of **Injured** Talent points equal to the number of total dice that they normally have in their Vitality Talent and Extraordinary Vitality Talent by completing a Full Rest.
+
+1. A character must at least complete a Field Rest per day or else become **Exhausted**. A character becomes further Exhausted for each successive day that they do not complete at least a Field Rest. A character may remove the effect of one day of Exhaustion by completing a Full Rest.
+
+1. A character may remove the effect of being **Traumatized** by completing a Full Rest.
+
+### Combat: Weapons  
+Attacks with weapons can be made as the GM judges to be sensible. This refers to, but is not limited to, the range of the attack, the type of the attack (what kind of damage can the weapon cause) and whether or not the object being used is meant to be a weapon.
+
+If the GM judges that a certain attack is not sensible for some reason (e.g. the attacker is too far away from their target) then the GM can either disallow the attack or allow the attacking character to make a Standard Check with their attacking Talent in order to decide if they can continue their attack. The GM should keep in mind that they can make a four or a five a failure.
+
+### Combat: Dual Wielding  
+If you are wielding two weapons, one in each hand for instance, you negate a single Die Penalty while using them to make alternating attacks (one and then the other).
+
+### Combat: Unguarded Defense  
+When a character is not expecting an attack then that character may not make use of the Experience Points in their Defense Talent (this does not affect Extraordinary Defense) until they join Turn Order. As well, when a character who is under the effect of Unguarded Defense is attacked, the attacking character can use their Sneak Talent to make their attacks against the Unguarded character instead of their Aim or Athleticism Talents. A character in Turn Order can not be affected by Unguarded Defense.
+
+### Combat: Attacking from a Hidden Position  
+When a character attacks another character from a hidden position, such as when the attacker has successfully hidden using their Sneak Talent, then the target of the attack is considered to be under the effect of the Unguarded Defense rule against that one attack. After that one attack the target is then not affected by this rule.
+
+### Combat: Calling Shots  
+There may be times when a character attempts to make a heavily targeted attack, either in an attempt to injure a specific Talent of the defender, or to damage something worn or carried by the defender. In these situations, the attacker may claim, before the attack, what they are specifically trying to damage. The attacker's Opposed Check is decreased by five and if the attack succeeds then the damage is dealt as the attacker wishes.
+
+### Combat: Defensive Action  
+You can Buff your own Defense Talent as described in Buffing and Debuffing.
+
+### Combat: Breaking 20  
+When a character makes a successful attack, and the result is greater than 20, that character has achieved a Critical Hit. The defender's Harm Check automatically fails.
+
+  
+
+# ChroniclesRPG System: Modification Packages
+Modification Packages (Mods) are packages of optional rules that can be used to add things to your game that the base system does not have rules for. These are things such as crafting, spells, creatures and creature-taming. Mods can be any rules that someone writes to extend or improve the base system of ChroniclesRPG. Whereas the base system (above) is included by default, these rules (below) are excluded by default. These rules have been scrutinized relentlessly in order to make them broadly useful, but feel free to change anything that doesn't serve your purposes.
+
+The Mods listed here are not all of the ways that the base system can be usefully changed. We encourage everyone to write and share Mods to continue changing the base system in useful, more setting-specific ways. As well, always feel free to share your Mods in any way that would benefit you the most. There is no restriction on derivative content based on the ChroniclesRPG system as this document is the property of the Public Domain.
+
+These Mod Packages can sometimes fundamentally alter the base system, removing and replacing entire sections for specific reasons. So they are not all necessarily compatible with each other. But that is okay, to try to make them all play nice with each other would just restrict the Mod Packages that could exist for ChroniclesRPG. In summary, ChroniclesRPG Mods are a great way to expand your ChroniclesRPG based game with more setting specific pieces that can expand the gameplay opportunities and we encourage you to change them as you wish or even come up with your own! We believe in you, you've got this!
+
+  
+
+## Engineering
+Things created by characters can grant capabilities that characters would otherwise not have. In order to regulate the greater power that characters can gain by creating things, a GM may wish to use the below system:
+
+### Engineering: Functions  
+A Function is a description of what something can accomplish. Below are some details about Functions:
+  
+- The GM determines the definition of each Function. Some examples of this are "Invisibility", "Flight" or "Harm". In each example, the Function is defined by what it enables something to do, such as "Enables something to become Invisible or to be used in order to become Invisible" or "Enables something to Fly or to be used in order to Fly".
+  
+- A character can learn a Function by spending a number of Experience Points determined by the GM. This number is, by default, one Experience Point.
+
+### Engineering: Creation Dice  
+Creation Dice are a Dice Group that determines how quickly a character can make a Creation and how well that Creation works once it is made. Creation Dice are restored after a Full Rest.
+
+### Engineering: Making a Creation  
+In order to make a Creation a character does an amount of work based on the complexity of that Creation. The complexity of the Creation is either Minor, Major or Epic and that is decided by the GM. The unit of time used for Minor, Major and Epic Creations is Minutes, Hours and Days respectively. The amount of time is decided by making an Inverse Check using the character's Creation Dice. Completing this process allows the character to add one die to one of that Creation's Dice Groups. Each of a Creation's Dice Groups can only have a number of dice equal to or less than the number of the character's Creation Dice at that time.
+
+### Engineering: Limitations  
+In order to use this system optimally, a character ought to know each Function that they are including in their Creations and they ought to possess Creation Dice. If a character doesn't know one of the Functions that they are including in their Creation, then if that Creation is a Minor Creation it is considered to be a Major Creation and if it is a Major Creation then it is considered to be an Epic Creation.
+
+If a character doesn't possess Creation Dice then they must roll 4D6 and multiply that result by two. As well, in both of the above cases, that character cannot make Epic Creations.
+
+### Engineering: How Creations Work  
+When a Creation takes damage, it loses one die in one of its Dice Groups. In order to repair it, a character must use the above process described under "Making a Creation". As well, each Function in the Creation must be assigned to one of that Creation's Dice Groups and it uses that Dice Group when making a check. If a GM assigns a minimum to a Function, then the Dice Group that the Function is assigned to must have that many dice in it or else the Function does not work.
+
+## Abilities
+Abilities are effects that a character can learn how to produce that are beyond the scope of the effects produced by Talents. The GM determines any costs or conditions required in order to receive an Ability. Below are some details about Abilities:
+
+- All Abilities have a "Value" (1-4) and a "Type" (Minor, Major or Epic) which are determined by the GM. For best results, the GM must determine the "Type" of the Ability in question, then determine the "Value" of the Ability within that Type, not in comparison to Abilities of other types.  
+- If an Ability is involved in a check then the check is made using the Ability's Power Group by default.  
+- Whenever a character gains an Ability, that Ability must be assigned to a Power Group that has a number of Power Dice equal to or greater than the Value of that Ability. An Ability can only use its own Power Group.  
+
+### Abilities: Power Dice  
+Power Groups are Dice Groups that indicate the capacity of a character to fuel the effect of an Ability. Below are some details about Power Groups:
+  
+- Power Dice are the dice in a Power Group. A character can have any number of Power Groups.
+  
+- All spent Power Dice are restored after the character completes a Full Rest.  
+
+### Abilities: Ability Type  
+
+The Ability Type of an Ability is determined by the GM and describes the way that an Ability works. The three Ability Types are "**Minor**", "**Major**" and "**Epic**":
+
+- A **Minor** Ability is an Ability that the character can use without reducing its Power Group. A Minor Ability can be either Active or Inactive and must be Active in order for the character to use it. A character can change a Minor Ability from Active to Inactive, or vice versa, as an Act in Turn Order. A character can have a number of Minor Abilities Active in the same Power Group equal to or less than the number of dice in that Power Group.  
+- A **Major** Ability is an Ability that may reduce its Power Group in order to fuel its effects. A Major Ability may only be used if it has a Value equal to or less than the number of dice in its Power Group. When a Major Ability is used, a Power Check must be made using its Power Group.  
+- An **Epic** Ability is a high powered Ability that immediately consumes a number of dice from its Power Group when the character uses it.  
+
+## Creatures (Requires "Abilities")
+A world is normally inhabited by many interesting and unique non-humanoid creatures. These creatures may be strong, swift and have various special capabilities that themselves are above the average capability of a humanoid character.
+
+In order to represent significant creatures and their special capabilities, Talents and Abilities may be used. Because a creature's power to fuel special capabilities is normally rooted in the special development of their conventional strengths, or in other words their Talents, for these purposes the Experience Points in the creature's Talents will also count as Power Dice and be organized into Power Groups, as referenced in Abilities.
+
+If a creature loses a point in one of their Talents then the corresponding Power Die is lost. However if a creature spends a Power Die due to using an Ability then the corresponding Talent is not affected.
+
+### Creatures: Taming  
+A character may attempt to Tame a creature if the player chooses to. For this purpose a character has a **Tamer Grade **which by default is zero. A character's Tamer Grade is a representation of their capability to interact successfully with and direct/command creatures. A character may increase their Tamer Grade by one by spending an Experience Point.
+
+A character may attempt to Tame a creature if that creature has a sum total of Experience Points equal to or less than the character's Tamer Grade. A character may do this spending an amount of time with the creature equal to an Inverse Check made using their Instinct Talent. The amount of time is Minutes, Hours or Days for a Minor, Major or Epic Creature (Respectively). The GM decides whether a Creature is a Minor, Major or Epic Creature. The character must do this for each Experience Point that the creature has.
+
+As well, a character may only exercise command over a group of Tamed creatures at the same time which have a sum total of Experience Points between them equal to or less than twice the character's Tamer Grade.
+
+## Legendary Dice
+Some NPC characters in a story are stronger, more resilient or more of a threat to the plans of the main characters than others. A GM may wish to grant a number of Legendary Dice to one or more characters such as these. A character that has Legendary Dice rolls them at the beginning of each of their Turns and notes the resulting numbers. This character may spend these numbers in two ways:
+  
+- A character may spend as many of these numbers as they wish to in order to replace the result of any D6 rolls that directly affects them or that they directly affect.
+  
+- A character may spend one of these numbers to take a single Act that immediately interrupts Turn Order. This Act does not have any Die Penalty.  
+
+A character loses all remaining numbers from Legendary Dice at the beginning of their Turn.
+
+This allows a character that ought to seem more significant to skew the game in their favor enough to emulate this significance without becoming so overpowered that the encounter becomes unstable. As well, since players can Buff each others attacks they could easily Break 20 by working together, but a character with one or more Legendary Dice is far more difficult to use that strategy on because they can replace a D6 after all of the Buffs have occurred and take a max roll down to an average roll.
+It is encouraged that the GM not grant Legendary Dice to player characters, because that can get crazy very quickly. But this is left up to the GM's discretion, as always.
+
+  
+
+## Threat Class
+Threat Class can be used to define how well-suited something is to either resist a threat, or to pose a threat. A giant city smashing monster isn't going to have the same risk of being harmed by a basic unarmed attack as some thug in an alleyway has. This idea of things that are fundamentally just too weak or too strong to be considered as "on the same level" is what inspired me to write this mod.
+
+### Threat Class: Offense and Defense  
+Threat Class is broken up into Minor, Major and Epic. Each of those are further divided into Offense and Defense. Threat Class is only considered when something with an assigned Threat Class is opposing something else with an assigned Threat Class. Defining Offense and Defense separately can be used when something's ability to pose a threat greatly varies from its ability to resist a threat, such as "Major Offense \| Minor Defense".
+
+### Threat Class: Defaults  
+1. Player Characters have a Threat Class of Major.
+
+2. Player Character unarmed attacks are Minor Offense.
+
+3. Player Characters who are unarmored are considered to have Minor Defense.
+
+4. The use of an improvised Tool/Weapon is considered Minor Threat Class.
+
+5. The use of an Extraordinary Talent increases Threat Class by one.
+
+6. An Ability has a Threat Class equal to its Type.
+
+7. A Creation has a Threat Class equal to its Type.
+
+### Threat Classes: Matchups  
+Minor Offense → Epic Defense = The Defender Is Immune  
+Major Offense → Epic Defense = The Defender Has An Advantage  
+Epic Offense → Epic Defense = The Check Is Made As Normal  
+Minor Offense → Major Defense = The Defender Has An Advantage  
+Major Offense → Major Defense = The Check Is Made As Normal  
+Epic Offense → Major Defense = The Defender Has A Disadvantage  
+Minor Offense → Minor Defense = The Check Is Made As Normal  
+Major Offense → Minor Defense = The Defender Has A Disadvantage  
+Epic Offense → Minor Defense = The Defender Has Two Disadvantages  
+
+These Advantages/Disadvantages affect every element of an interaction between members of a specific matchup. For instance, in "Epic Offense attacking Major Defense", the defender has a Disadvantage on their checks to defend themselves from harm, as well as on their Harm Checks. The Advantages/Disadvantages carry all the way through, to each step in the interaction.
+
+  
+
+## Techniques
+A Technique is a way of doing something that can make you more likely to succeed than you would otherwise be if you weren't using it. A Technique is made by someone and then taught to others through instruction and training. The person making the Technique uses their own Talent and/or Extraordinary Talent in order to make it. The person using the Technique, however, can use it in place of their own Talent or Extraordinary Talent. A Technique is used to accomplish a very specific thing, so Techniques still aren't a good replacement for Talents in general.
+
+### Techniques: Minor, Major and Epic Techniques  
+The GM will determine if a Technique is a Minor, Major or Epic Technique. This determines how long it takes to Advance the Technique. Minor Techniques take a matter of minutes in order to Advance in, Major Techniques take hours to Advance in and Epic Techniques take days in order to Advance in them.
+
+### Techniques: Advancing a Technique  
+In order to create or learn a Technique, a person has to have a source. The source for creating a Technique is the person's own Talents/Extraordinary Talents. The source for learning a Technique is a master who already knows the Technique and is willing to teach it to you. The stages of creating or learning a Technique is called "Advancing" the Technique.
+
+In order to Advance a Technique, you must make an Inverse Check using the relevant Talent or Extraordinary Talent that the Technique is based on (if you have no Experience Points in the related Extraordinary Talent, you instead roll 4D6 and multiply the result by two). You must then spend that much time dedicated to Advancing the Technique. If you are creating the Technique then this time is spent doing the activity that the Technique is based around. If you are learning the Technique then this time is spent following the instruction of the master who is teaching it to you. Once this time is completed, you have Advanced the Technique by one die.
+
+If you are creating the Technique then you can only Advance the Technique until it is equal to your Talent/Extraordinary Talent. If you are learning this Technique, then you can only Advance the Technique up to the limitations of your master's ability to teach it to you.
+
+### Techniques: Using a Technique  
+When you are using a Technique, the conditions of the Technique have to apply exactly, not partially. If the Technique is for preparing the poisonous blowfish and cooking a specific meal with it, then this Technique cannot be used for anything other than doing exactly that. If the Technique is used for defending yourself against "Short-Blade Attacks", then it cannot be used to defend yourself against attacks of any other kind. When you use the Technique, you use it in place of your own Talent/Extraordinary Talent.

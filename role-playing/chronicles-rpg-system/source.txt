@@ -1,0 +1,4 @@
+url: https://gitlab.com/chroniclesrpg/chronicles-core
+author: Boss Games 
+license: CC0-1.0
+last-update: 17 may 2023
