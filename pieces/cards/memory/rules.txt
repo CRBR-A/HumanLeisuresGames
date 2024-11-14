@@ -1,3 +1,0 @@
-players: 1+
-type: memory game
-material: card game

@@ -1,0 +1,6 @@
+| Suit     | Symbol |
+| -------- | ------ |
+| Spades   | ♠      |
+| Diamonds | ♦      |
+| Hearts   | ♥      |
+| Clubs    | ♣      |
