@@ -1,7 +1,0 @@
-- **Title** : After Sundown
-- **Description** : After Sundown is a cooperative storytelling game that tells stories in the realm of horror.
-- **Author** : The Gaming Den  
-- **Website** : https://github.com/thegamingden/
-- **License** : CC0
-- **Source** : https://github.com/thegamingden/after-sundown
-- **Last update** : Jul 25, 2019
