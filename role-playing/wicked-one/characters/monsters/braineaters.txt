@@ -1,6 +1,5 @@
 ### Braineater
 
-[context]: # (summarizing subtitle)
 > Voracious Psionic Masters
 
 The delicious energy hidden within the brains of intelligent creatures calls to you. You crave it, engaging in a neverending search for your next harvest. This endless hunger may even force you to join forces with those you might otherwise consider food.
@@ -31,7 +30,6 @@ Psionic disciplines function as magic paths, though they don't require you to ha
 
 ##### Deception
 
-[context]: # (summarizing subtitle)
 > You ***DECEIVE*** the minds of others into believing what you want.
 
 - ***Mind Blur***: You can spend stress to make anyone not aware of your presence simply unable to notice you until you give them cause to. This lasts for several moments. Once noticed, it is much harder to use it against them again.
@@ -39,7 +37,6 @@ Psionic disciplines function as magic paths, though they don't require you to ha
 
 ##### Domination
 
-[context]: # (summarizing subtitle)
 > You ***DOMINATE*** the minds of others to do your bidding.
 
 - ***Thrall***: You can perform a tier 1 ritual to turn a subdued adventurer into a thrall, occupying your minion slot. It has the companion and mindset (loyal) upgrades. It also has an extra action with a rating equal to its tier and a calling ability that represents something it can do. If the ability requires it to spend stress, you can spend stress for them.
@@ -47,7 +44,6 @@ Psionic disciplines function as magic paths, though they don't require you to ha
 
 ##### Telekinesis
 
-[context]: # (summarizing subtitle)
 > You ***CONTROL*** objects in the environment around you.
 
 - ***Levitation***: You can levitate as easily as you can walk. You can also spend stress to fly through the sky as swiftly as a hawk for a short time.
@@ -55,7 +51,6 @@ Psionic disciplines function as magic paths, though they don't require you to ha
 
 ##### Telepathy
 
-[context]: # (summarizing subtitle)
 > You ***READ*** the thoughts and memories of others.
 
 - ***Awareness***: You're constantly scanning the surface thoughts of those around you. You're never surprised by living creatures and can always act first. You can spend stress to have the GM reveal a secret about an NPC the first time you meet them.

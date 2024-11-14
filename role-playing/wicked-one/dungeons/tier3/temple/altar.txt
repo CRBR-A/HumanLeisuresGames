@@ -4,5 +4,4 @@ You can make a sacrifice at the altar, paying cost to gain a dark blessing (choo
 
 *An altar might need incense, statues, or icons specific to your god's domains.*
 
-[context]: # (example of play)
-> "I kneel before the altar and Vahoona answers my howl with her own. Shaking with terror, I pay for the blessing with shock to ***GUTS***."
+"I kneel before the altar and Vahoona answers my howl with her own. Shaking with terror, I pay for the blessing with shock to ***GUTS***."

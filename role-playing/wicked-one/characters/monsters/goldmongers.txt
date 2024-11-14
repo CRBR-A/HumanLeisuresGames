@@ -1,6 +1,5 @@
 ### Goldmonger
 
-[context]: # (summarizing subtitle)
 > Greedy Tyrants
 
 You're driven by your lust for gold. It's your obsession as well as fueling your growth. You start as a small whelp, growing alongside your hoard, eventually becoming a terror. But before then, you need some "allies" to help build your hoard.
@@ -56,7 +55,6 @@ Your growth is defined as you advance along six growth paths, each with a chain 
 
 ##### Breath
 
-[context]: # (summarizing subtitle)
 > *You fire dangerous blasts from your maw.*
 
 1. You can unleash your breath as a powerful blast, a tier 1 effect of your ***type***.
@@ -65,7 +63,6 @@ Your growth is defined as you advance along six growth paths, each with a chain 
 
 ##### Ferocity
 
-[context]: # (summarizing subtitle)
 > *You rend your enemies to bits with tooth, claw, and tail.*
 
 1. Your natural weaponry (choose one): *have an edge* - *become a tier 1 magic item of your ***type****. Appropriate edges may be *corrosive*, *powerful*, or *terrifying*.
@@ -74,7 +71,6 @@ Your growth is defined as you advance along six growth paths, each with a chain 
 
 ##### Flight
 
-[context]: # (summarizing subtitle)
 > *You take to the skies to rain death from above.*
 
 1. Your wings are powerful enough to fly, though you must spend stress to launch yourself into the air when under threat. You lack fine control over your flight.
@@ -83,7 +79,6 @@ Your growth is defined as you advance along six growth paths, each with a chain 
 
 ##### Hide
 
-[context]: # (summarizing subtitle)
 > *Your scales provide you with greater protection.*
 
 1. Your scales (choose one): *have an edge* - *become a tier 1 magic item of your ***type****. Appropriate edges may be *camouflaged*, *slippery*, or *spiked*. You also gain
@@ -93,7 +88,6 @@ a defense that comes from your scales.
 
 ##### Lair
 
-[context]: # (summarizing subtitle)
 > *Your lair is an extension of yourself.*
 
 1. Once per dungeon defense, you can manifest your type as a trap, trick, or lock anywhere in the dungeon. You can spend dark hearts on these rolls.
@@ -102,7 +96,6 @@ a defense that comes from your scales.
 
 ##### Tyranny
 
-[context]: # (summarizing subtitle)
 > Your presence within the dungeon can't be ignored.
 
 1. Your dungeon's imps take +1d on their downtime action and you control what they work on, not the GM. You also take +1d on power struggles.

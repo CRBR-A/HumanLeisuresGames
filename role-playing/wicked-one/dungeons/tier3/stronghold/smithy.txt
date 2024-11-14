@@ -4,5 +4,4 @@ You have a steady supply of mundane weapons such as axes, bows, and hatchets. Yo
 
 *A smithy might need an anvil, metalworking tools, or a large pile of charcoal.*
 
-[context]: # (example of play)
-> "I head down to the smithy and throw my battleaxe on the table along with a small pile of gold and say, 'Make it look scary as hell.' My minions fight a bit over the gold, then get to work."
+"I head down to the smithy and throw my battleaxe on the table along with a small pile of gold and say, 'Make it look scary as hell.' My minions fight a bit over the gold, then get to work."

@@ -4,5 +4,4 @@ This garden of voracious plants will devour living prey. Feed them to harvest (c
 
 *A greenery might need rare plants, fertilizer, or artificial sunlight.*
 
-[context]: # (example of play)
-> "We drag the scout into the room and toss him onto the floor. The plants wake up and turn to look at him, baring their teeth. Later in the day, I return to pick some of the fruit they've grown."
+"We drag the scout into the room and toss him onto the floor. The plants wake up and turn to look at him, baring their teeth. Later in the day, I return to pick some of the fruit they've grown."

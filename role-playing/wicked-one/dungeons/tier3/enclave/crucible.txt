@@ -4,5 +4,4 @@ The mystical power of this room enchants items. Each downtime, it can either pro
 
 *A crucible might need an essence core, a mystical beast, or magical helpers.*
 
-[context]: # (example of play)
-> "One of your kobolds runs up to you holding a dwarf skull. Excitedly, she puts it on like a helmet. When she speaks, the skull's mouth moves and it sounds like the dead dwarf's voice!"
+"One of your kobolds runs up to you holding a dwarf skull. Excitedly, she puts it on like a helmet. When she speaks, the skull's mouth moves and it sounds like the dead dwarf's voice!"

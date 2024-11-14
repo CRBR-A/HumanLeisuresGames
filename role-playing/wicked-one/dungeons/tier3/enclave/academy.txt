@@ -4,5 +4,4 @@ Young monsters come to study and learn arcane secrets. You can recruit minions f
 
 *An academy might need crystal balls, mantles, or wands.*
 
-[context]: # (example of play)
-> "I walk in to see a mishmash of young monsters slaving away at the spell memorization they've been assigned. I spot a group of lazy goblins hanging out in the back, avoiding their work. They're perfect for the job."
+"I walk in to see a mishmash of young monsters slaving away at the spell memorization they've been assigned. I spot a group of lazy goblins hanging out in the back, avoiding their work. They're perfect for the job."

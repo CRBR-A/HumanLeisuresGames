@@ -4,5 +4,4 @@ Proper strategy is the key to warfare. You take +1d on engagement rolls for ambu
 
 *A war room might need maps, books on warfare, or intel on your enemies.*
 
-[context]: # (example of play)
-> "As we gather around the table, I slam my fist down. 'Tonight, we take the fort. A full-on assault. It's been a thorn in our side this whole time. Let's just get it over with. Get the minions ready!'"
+"As we gather around the table, I slam my fist down. 'Tonight, we take the fort. A full-on assault. It's been a thorn in our side this whole time. Let's just get it over with. Get the minions ready!'"

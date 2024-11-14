@@ -4,5 +4,4 @@ You plot out your raids in great detail. You take +1d on engagement rolls for ne
 
 *A planning room might need maps, measuring tools, or refreshments.*
 
-[context]: # (example of play)
-> "Going too deep into my craving, I run out of my stash of unicorn blood. I spend hours and hours meticulously planning out how to get more. I'm at the drawing board so long that my fingers start bleeding."
+"Going too deep into my craving, I run out of my stash of unicorn blood. I spend hours and hours meticulously planning out how to get more. I'm at the drawing board so long that my fingers start bleeding."

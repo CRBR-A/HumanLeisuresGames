@@ -4,5 +4,4 @@ Place any two combatants in the pit, then each PC chooses the one they think wil
 
 *A fighting pit might need exotic weapons, dangerous animals, or a pitmaster.*
 
-[context]: # (example of play)
-> "The two dwarves face off against one another, the promise of living another day overriding old friendships. The imps and minions howl at them, making wagers and tossing around gold."
+"The two dwarves face off against one another, the promise of living another day overriding old friendships. The imps and minions howl at them, making wagers and tossing around gold."

@@ -1,0 +1,25 @@
+snatching something valuable, lying
+to create opportunity, or stashing some items.
+
+Poisoner: Making or procuring poisons is second nature for you. You have a
+steady supply of the following tier 1 concoction poisons: blinding - disorienting
+- slowing - nauseating. You also gain two supply slots which you can only use
+for them.
+
+Pounce: You recognize the perfect timing to strike. You take +1d when you catch someone by surprise. On a critical, you clear 1 stress.
+
+Prowler: You can spend stress to perform an incredible feat of agility,
+like slipping unimpeded through a mob, leaping safely from a high tower,
+or hiding in plain sight.
+
+Slippery: You’re tough to pin down. On a success when resisting an enemy
+attack, you can also (choose one): disappear from their sight - pick their pocket
+- reposition behind them.
+
+Stalker: Your lurking presence forces foolish action. On a success while
+moving stealthily, NPCs near you (choose one): do something stupid due to
+paranoia - reveal a secret.
+
+Unseen Hand: When you assist an ally, you only take consequences if they
+roll a failure. If they roll a critical, you clear 1 stress. How do you help without
+anyone knowing?

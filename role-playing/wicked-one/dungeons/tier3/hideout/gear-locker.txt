@@ -4,5 +4,4 @@ You always get geared up before leaving the dungeon. You gain a supply slot and 
 
 *A gear locker might need a trove of concoctions, crates of gear, or matching outfits.*
 
-[context]: # (example of play)
-> "I give the signal to pull out thunderstones, then I kick the door in and get out of the way to let them toss the stones in. Back to the wall as I hear loud bangs, I point at the waiting Brute and give the thumbs up to go."
+"I give the signal to pull out thunderstones, then I kick the door in and get out of the way to let them toss the stones in. Back to the wall as I hear loud bangs, I point at the waiting Brute and give the thumbs up to go."

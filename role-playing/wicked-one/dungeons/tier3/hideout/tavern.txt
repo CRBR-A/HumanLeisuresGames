@@ -4,5 +4,4 @@ You have a raucous tavern complete with a bar, shelves of alcohol, a roaring fir
 
 *A tavern might need a bartender, lots of alcohol, or a bard.*
 
-[context]: # (example of play)
-> "As you enter the tavern, you see imps singing tunes and dancing on tables. It's getting pretty crazy in here, but at the bar sits a lone dark dwarf quietly downing flagons of ale."
+"As you enter the tavern, you see imps singing tunes and dancing on tables. It's getting pretty crazy in here, but at the bar sits a lone dark dwarf quietly downing flagons of ale."

@@ -1,0 +1,27 @@
+interacting with plants or animals, brewing
+a concoction, or scaring unwelcome guests away from the wilds.
+
+Beastform: You can spend stress to assume the form of a beast. While in
+this form, one of your actions swaps ratings with another and you gain either
+Primal Ability or a special ability from another calling. You also gain a dark
+impulse (from Wicked Ones) while in this form. All of these are chosen when
+you first take this ability.
+
+Nature Magic: You have mastered the stormstrike and wildheart magic
+paths, needing only a single magic focus. You can spend stress to Invoke tier
+2 and tier 3 spells of these paths. However, you cannot cast tier 2 and 3 spells
+while within a walled town.
+
+Nature’s Whispers: The natural world around you speaks to you, offering
+information. On a success when resisting, you can ask the GM a question or
+to reveal a secret related to the situation. You also gain a defense against lies, trickery, and stealth.
+
+Weaving: You effortlessly blend nature magic with the material or mundane.
+On a success when casting a spell, you take +1d on any follow-up using a
+different action.
+
+Wild Brews: You can brew potions of any tier from all witchcraft paths. You
+also gain a downtime action which you can only use to brew potions.
+
+Wrath: You do not suffer slight lightly. When you cast a spell immediately
+after a resistance roll, you take +1d and it costs no stress to cast.

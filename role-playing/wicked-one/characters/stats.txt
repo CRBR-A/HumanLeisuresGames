@@ -1,0 +1,47 @@
+BRAINS :
+- affects a character’s smarts, awareness, or insight. 
+- These strike at your mind, making it harder to think.
+- Scan: read situations or search for information.  
+  - scope out good targets on a road
+  - read fear in your enemy’s heart
+  - pour over an archaic tome
+- Tinker: fiddle with a device, mechanism, or concoction
+  - rig a cart axle to fail
+  - place a trap along a forest path
+  - jimmy a lock in your way
+- Trick: deceive, confuse, or manipulate someone 
+  - make someone believe you’re harmless
+  - distract some farmers while your buddies loot the barn
+  - lose some hounds running you down
+  
+MUSCLES :
+- affects a character’s strength, agility, or speed. 
+- These strike at your body, making it harder to move well.
+- Finesse: take aim, maneuver, or use tools
+  - stick an arrow between someone’s ribs
+  - jump from tree limb to limb
+  - trip someone walking by you
+- Skulk: move unnoticed or launch a surprise attack
+  - slip out of the shadows and cut a guard’s throat
+  - sneak up and pocket some unattended gold pouches
+  - go unnoticed in a crowd
+- Smash: assault someone or something 
+  - bury an axe into someone’s skull
+  - bend some prison cell bars
+  - toss an exploding concoction against a wall
+  
+GUTS: 
+- affects a character’s personality, mettle, or magical ability. 
+- These strike at your spirit, making it harder to impose your will.
+- Banter:  get people to help you because they like you
+  - get a group of goblins to join your dungeon as minions
+  - convince some satyrs that you’re not looking for trouble
+  - calm a giant spider down
+- Invoke: interact with dark, mystical forces
+  - cast a fireball into a town square
+  - dispel a ward spell on a door
+  - make a hippogriff back down with a display of magic
+- Threaten: compel someone to obey or fear you
+  - scare townsfolk into running away
+  - keep your minions in line
+  - demand some travelers surrender their bags

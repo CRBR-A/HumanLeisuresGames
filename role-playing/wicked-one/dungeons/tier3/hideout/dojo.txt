@@ -4,7 +4,6 @@ The dojo master trains you relentlessly, forging you into a unified team. When y
 
 *A dojo only needs a master to train you, which you must either defeat or impress.*
 
-[context]: # (example of play)
-> "Complete silence greets the monk and she steps lightly into the room.
+"Complete silence greets the monk and she steps lightly into the room.
 Her keen eyes catch two imps at the far end scurrying over and sliding
 the doors open. The master steps out and says, 'Finally, a real fight.'"

@@ -4,5 +4,4 @@ Minions are grown or summoned here, easily replacing your losses. Once per dunge
 
 *A spawning chamber might need mystical goo, glass containers, or magic seeds.*
 
-[context]: # (example of play)
-> "My orc grunts rip themselves out of the ooze sacks they were growing in. They follow their instincts, grabbing an axe off the wall and heading down the tunnel towards the adventurers."
+"My orc grunts rip themselves out of the ooze sacks they were growing in. They follow their instincts, grabbing an axe off the wall and heading down the tunnel towards the adventurers."

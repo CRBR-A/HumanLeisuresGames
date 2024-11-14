@@ -1,0 +1,26 @@
+training with a great master, surveying a
+target’s strength, or long periods of intense meditation.
+
+Acolyte: You have a trainee, taking your hireling spot. They have the mindset
+(loyal) and companion upgrades. Upgrades cannot be purchased, however
+for every ability you have, they also earn an upgrade (choose one): equipped -
+mindset (fearless) - trained - versatile.
+
+Control: You fluidly control a fight. On a success when resisting an attack
+in close combat, you can also (choose one): disarm them - redirect the attack -
+reposition them nearby.
+
+Fearless: You know the body is just a vessel. You take +1d when you go hard
+and put your own body on the line, but you can’t resist any consequences from
+the roll. You also gain a defense against fear or intimidation.
+
+Joy of Battle: You love nothing more than your own excellence in battle. On
+a critical while engaged in combat, you clear 1 stress and gain a heart.
+
+Martial Arts: You can spend stress to perform an incredible feat of athletics,
+like facing off against a group of foes on equal footing, maneuvering up or
+across nearly any surface, or snatching an arrow out of the air.
+
+Willpower: Your mind and body do not fold easily. On a failure when
+resisting, you can immediately roll an extra 1d that counts towards the roll. If
+the result is a success, it counts as a critical.

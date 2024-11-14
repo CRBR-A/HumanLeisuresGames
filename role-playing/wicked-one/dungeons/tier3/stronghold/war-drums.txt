@@ -4,5 +4,4 @@ A steady beat emanates throughout your dungeon, keeping everyone focused on the 
 
 *War drums might need lots of leather, huge wooden drums, or massive horns.*
 
-[context]: # (example of play)
-> "The adventurers steel themselves and head in. They hear the low, deep pounding of drums from deep within the tunnel giving them a shiver up their spine."
+"The adventurers steel themselves and head in. They hear the low, deep pounding of drums from deep within the tunnel giving them a shiver up their spine."

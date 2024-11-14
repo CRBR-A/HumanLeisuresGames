@@ -1,0 +1,25 @@
+an evening spent socializing, performing
+for an influential person, or acquiring information from contacts.
+
+Intuition: Others are an open book to you. You can spend stress to establish
+a target’s emotional state, though it must be a reasonable emotion for them to
+be feeling. You take +1d when you act on that knowledge.
+
+Masterful Liar: You excel at lying when you go all in on a falsehood. You
+take +1d when you go hard to tell a lie. On a success, you gain a heart.
+
+Opportunist: You take +1d on a roll when acting immediately after an ally
+rolls a success on a resistance roll. How do you leverage their success to your
+own advantage?
+
+Strings: You can spend stress to have an ally remember your words or song
+in their head, allowing them to reroll a failure. If they roll a success, you gain a
+heart. What advice or motivation did you previously impart on them?
+
+Weaving the Web: On a success during a flashback or downtime action
+to interact with contacts, you gain a heart. You also gain a downtime action
+which you can only use to contact a friend, faction, or other NPC.
+
+Wordplay: On a success when resisting with Banter, Threaten, or Trick,
+you can also (choose one): deflect blame - plant a false idea - have the GM reveal
+a secret.

@@ -1,0 +1,27 @@
+combing through the temple archives,
+making a sacrifice to your god, or preaching to believers.
+
+Bulwark: You’re the rock on which your allies lean. You take +1d when
+resisting consequences for an ally. On a success, the ally takes +1d on any
+follow-up action.
+
+Channeling: You can spend stress to Invoke tier 2 and tier 3 spells of your
+chosen deity’s domains. Each god has two domains which act as magic paths.
+Define your god and their domains, plus any limitations they might impose.
+
+Holy Rites: You gain a downtime action which you can only use to incant
+rituals. On a success when incanting a ritual, you gain a heart.
+
+Rebuke: You teach those who challenge you a harsh lesson. On a success
+when resisting, you take +1d if you immediately act against them. On a critical
+when resisting, you also (choose one): convert them to your god’s path - strike
+fear in their heart.
+
+Sanctifier: Draw a 4-segment clock on your sheet. Tick it once each time you
+cleanse something defiled or ruined that is antithetical to your god’s domains.
+When the clock is full, a tier 2 ritual immediately manifests in that location
+and you start a new clock.
+
+Smite: Designate a weapon as your holy weapon. It’s now your magic focus.
+On a success when attacking someone with it, you can spend stress to
+immediately affect the target with a tier 1 spell without rolling.

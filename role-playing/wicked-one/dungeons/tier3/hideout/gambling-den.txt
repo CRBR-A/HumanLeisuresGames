@@ -4,6 +4,5 @@ You set up a small gambling establishment, attracting monsters from outside your
 
 *A gambling den might need gambling tables, luxurious lighting, or cigars.*
 
-[context]: # (example of play)
-> "Those two slissiks came in here and fleeced us. I'm pretty sure they're
+"Those two slissiks came in here and fleeced us. I'm pretty sure they're
 working together. I definitely want them on our side."

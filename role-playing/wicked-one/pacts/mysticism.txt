@@ -1,0 +1,21 @@
+Boon: During a downtime, you can make a sacrifice to
+your deity, paying cost to gain a boon (choose one): take +1d
+on a single roll with an item this cycle - take +1d on your next
+resistance roll - your next failure instead becomes a mixed. The
+sacrifice must be unique each time you ask for a boon.
+
+Intervention: Once per cycle, one member of the pact
+can beseech the pact’s deity to cast a tier 3 spell from their
+domains. You roll the dungeon tier as an action roll with
+no dice penalty and the GM determines who is open to any
+consequences.
+
+Farseeing: Once during a long downtime, the pact gains
+glimpses of the activity of factions in the world. You can
+establish a fact about a faction or make a 3d roll to tick one of
+their clocks forward or backward
+
+Visions: You can establish a fact in the present about an
+NPC’s next likely action, but you immediately take shock of the
+GM’s choice. A fortune roll determines how the NPC’s action
+plays out. What form does the vision take?

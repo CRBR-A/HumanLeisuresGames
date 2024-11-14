@@ -1,0 +1,25 @@
+sabotaging structures, grabbing some
+materials, or brewing a concoction.
+
+Brewmaster: When you make a concoction, you always make 1 extra dose,
+even on a failure. You gain a downtime action which you can only use to brew
+concoctions.
+
+Creative Frenzy: On a success while working on a crafting downtime
+project, the downtime action isn’t consumed. You also gain a downtime action
+which you can only use to craft.
+
+Faith in Science: You fully believe in your creations. You take +1d when you go
+hard with a concoction or contraption, but you can’t resist any consequences
+from the roll. On a critical, you clear 1 stress.
+
+Ingenuity: You can spend stress to perform an incredible feat of creation,
+like mixing concoctions on the fly to create a powerful combined effect, slapping
+together a temporary simple contraption, or ignoring volatility in science
+creations.
+
+Pride: You instill a deep sense of yourself into anything you create. When you
+or someone else rolls a critical using something you crafted, you gain a heart.
+
+Scrutiny: You can spend stress to establish a flaw in a structure or some
+machinery you can see. You take +1d when you act on that knowledge.

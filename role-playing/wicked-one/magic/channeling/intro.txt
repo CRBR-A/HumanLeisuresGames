@@ -22,5 +22,4 @@ You can choose one of the following evil gods to follow or make up your own. Eac
 
 Channeling does not have the same limitations as sorcery and witchcraft. Instead, you must strive to please your god, else they will **forsake** you. Minor infractions may be overlooked, but when you have displeased them enough, the punishment is quite severe.
 
-[context]: # (important rule)
 > **Forsaken**: When forsaken, you lose access to tier 2 and tier 3 spells until you have atoned in some way. The GM can also compel you towards actions that would please your god, essentially the opposite of the things that you can be forsaken for. If you suppress the compel, your god immediately forsakes you.

@@ -4,5 +4,4 @@ You can flashback to time spent in the circle, reading portents of future events
 
 *An augury circle might need mosaic tiles, a large mirror, or exotic incenses.*
 
-[context]: # (example of play)
-> "Chaotic imagery fills my vision, then Zaheen shows me a portent - a sparrow flying through the madness. In the present, the same sparrow smacks straight into the door and dies, warning me of a guard ambush."
+"Chaotic imagery fills my vision, then Zaheen shows me a portent - a sparrow flying through the madness. In the present, the same sparrow smacks straight into the door and dies, warning me of a guard ambush."

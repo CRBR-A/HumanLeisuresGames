@@ -4,5 +4,4 @@ This room corrupts and amplifies the magic of up to three items of unholy impact
 
 *A reliquary does not require special materials beyond the items placed within it.*
 
-[context]: # (example of play)
-> "I put the holy ring, still on the priest's finger, on the pedestal. The reliquary twists the domains of the fishing village's goddess, filling our underground river with carnivorous fish. It's now an extreme hazard."
+"I put the holy ring, still on the priest's finger, on the pedestal. The reliquary twists the domains of the fishing village's goddess, filling our underground river with carnivorous fish. It's now an extreme hazard."

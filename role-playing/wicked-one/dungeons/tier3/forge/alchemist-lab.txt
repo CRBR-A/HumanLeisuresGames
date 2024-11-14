@@ -4,5 +4,4 @@ Your imps are always hard at work mixing reagents. You have a steady supply of a
 
 *An alchemist lab might need alchemy equipment, chests full of reagents, or recipes.*
 
-[context]: # (example of play)
-> "KABOOM! An explosion in the lab showers a minion pack with beastlure and broken glowsticks falling off the shelves. From down the hall outside, you hear the sniffing of wargs."
+"KABOOM! An explosion in the lab showers a minion pack with beastlure and broken glowsticks falling off the shelves. From down the hall outside, you hear the sniffing of wargs."

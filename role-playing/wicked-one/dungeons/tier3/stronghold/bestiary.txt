@@ -4,5 +4,4 @@ You have mounts and a secure area to keep them in. Detail them and give them edg
 
 *A bestiary might need the mounts, something to feed them, or riding equipment.*
 
-[context]: # (example of play)
-> "I yell to mount up and we head off into the night on our giant bats."
+"I yell to mount up and we head off into the night on our giant bats."

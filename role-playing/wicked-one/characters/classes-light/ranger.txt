@@ -1,0 +1,27 @@
+setting a trap, scouting out a location,
+or hunting up some food.
+
+Feral Senses: Animal blood runs through your veins, causing your senses
+to extend twice as far as normal. You take +1d when tracking or surveying an
+area. You also gain a defense against surprise.
+
+Hunting Pet: You have a hunting pet. It has the companion upgrade and
+knows tricks (choose two): cause confusion - fetch - herd prey - locate prey -
+surprise attack. Your pet takes +1d when performing known tricks.
+
+Scout: You make a habit of roaming ahead and scouting out targets. Any time
+your party chooses a plan, you can establish a weakness you have learned
+about your target’s defenses. During the plan, you can also spend stress to
+establish a second fact.
+
+Thrill of the Hunt: You can spend stress to establish a small, momentary
+weakness in your prey. You gain +effect when you exploit this on your next roll
+to stalk, catch, or bring them down. On a success, you gain a heart
+
+Trick Shots: You can pull off improbable (but not impossible) shots with a
+ranged weapon, like ricocheting a projectile off a wall or shooting through one
+target and hitting another. You ignore any circumstances towards effect from
+the difficulty, but you must explain how you pulled off the shot.
+
+Wild Knowledge: You can spend stress to establish a fact about plants,
+animals, or the weather. You take +1d when you act on that knowledge.

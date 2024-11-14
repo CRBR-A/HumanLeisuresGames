@@ -4,5 +4,4 @@ Fresh recruits flock to your dungeon. You can recruit minions from this room. Th
 
 *A barracks might need a cache of weapons, armor, or a large amount of rations.*
 
-[context]: # (example of play)
-> "I ***Smash*** the biggest one in the face. 'Follow me. There's work to do.'"
+"I ***Smash*** the biggest one in the face. 'Follow me. There's work to do.'"

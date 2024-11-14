@@ -4,5 +4,4 @@ Fresh cultists flock to serve your god. You can recruit minions from this room. 
 
 *A dormitory might need furniture, accoutrements, or the first batch of pupils.*
 
-[context]: # (example of play)
-> "It seems like a new clan of scrawny kobolds has felt the pull of Gimosha. I toss a gold’s worth of obsidian daggers on the floor and say, 'Anyone that comes away with a dagger is promoted.'"
+"It seems like a new clan of scrawny kobolds has felt the pull of Gimosha. I toss a gold’s worth of obsidian daggers on the floor and say, 'Anyone that comes away with a dagger is promoted.'"

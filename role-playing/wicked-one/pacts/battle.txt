@@ -1,0 +1,19 @@
+Loyalty: You instill great respect in your hirelings. They have
+the mindset (loyal) upgrade. If you take harm that would leave
+you bloodied, they will take the hit in your stead - bloodying
+or killing them.
+
+Mounts: You have mounts to carry you into battle, enough
+for your entire group, including hirelings. You always manage
+to replace lost ones during long downtimes. Detail them and
+give them edges (choose two): aquatic - armored - enormous -
+fast - flying - magical - powerful - terrifying.
+
+Strategic Plans: Proper strategy is the key to warfare. You
+take +1d on engagement rolls for ambush, assault, or strike
+raid plans. On a success, you gain a dark heart.
+
+Warrior Culture: When hirelings witness any pact
+member die in glorious combat, they gain morale and lose
+the bloodied condition if they have it. However, they are now
+compelled to finish what their allies started.

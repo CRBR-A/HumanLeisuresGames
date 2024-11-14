@@ -4,5 +4,4 @@ You dig out a mine, gaining a steady supply of a single non-precious material an
 
 *A mineshaft might need mining gear, lots of railway, or several minecarts.*
 
-[context]: # (example of play)
-> "The brakes on the minecart give out and it goes careening back down into the mineshaft. It slams into the wall at the end of the track, knocking it down and revealing an enormous crystal cavern."
+"The brakes on the minecart give out and it goes careening back down into the mineshaft. It slams into the wall at the end of the track, knocking it down and revealing an enormous crystal cavern."

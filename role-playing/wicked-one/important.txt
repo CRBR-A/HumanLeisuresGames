@@ -20,14 +20,14 @@ in Blades or monsters building a dungeon.""
 
 It concern the system mechanics : 
 - character's actions, abilities, attributes, goal
-- clocks, game phases
-- stress, position & effect, consequences
+- clocks, "cycles of play", stress
+- position & effect
 - ...
 
 THIS repository :
 - DOES NOT include Wicked Ones -nor Blades in the Dark- game mechanics
-- use only the LORE (like stories, settings) offered in Wicked Ones
-- is completely CC0 licensed (NO attribution) !
+- use only the LORE (like stories, settings, examples) offered in Wicked Ones
+- is completely CC0 licensed -NO attribution- !
 
 Note: 
 - "Wicked Ones - Toolkit Deck v1.1": completely CC0 licensed (NO game mechanics).

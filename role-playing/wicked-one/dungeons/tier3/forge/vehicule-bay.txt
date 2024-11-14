@@ -4,5 +4,4 @@ The dungeon has an incredible vehicle, such as a submarine, dirigible, or steamc
 
 *A vehicle bay might need parts for the vehicle, barrels of fuel, or awesome paint.*
 
-[context]: # (example of play)
-> "The bay doors open above us and we float up into the sky, the Wicked Ones on deck and a few minion packs dangling from the ropes below us. I guess someone should've told them how fast this thing is."
+"The bay doors open above us and we float up into the sky, the Wicked Ones on deck and a few minion packs dangling from the ropes below us. I guess someone should've told them how fast this thing is."

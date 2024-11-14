@@ -4,5 +4,4 @@ Books are the key to knowledge of the world. Once per cycle, the dungeon can est
 
 *A library might need a trove of books, large bookshelves, or a librarian.*
 
-[context]: # (example of play)
-> "I leaf through some old dusty tomes, looking up the duke's lineage and find out that his succession was illegitimate. The true heir is still alive."
+"I leaf through some old dusty tomes, looking up the duke's lineage and find out that his succession was illegitimate. The true heir is still alive."

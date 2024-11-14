@@ -4,5 +4,4 @@ Minions train hard here, honing their skills. When recruited, you can add an ext
 
 *An obstacle course might need rolls of wire, large spikes, or barrels of tar.*
 
-[context]: # (example of play)
-> "The adventurers swing over the tar pit, crawl under the barbed wire, and run across the balancing board inches above the lava. They don't even realize that each of them dropped a piece of equipment along the way."
+"The adventurers swing over the tar pit, crawl under the barbed wire, and run across the balancing board inches above the lava. They don't even realize that each of them dropped a piece of equipment along the way."

@@ -1,0 +1,19 @@
+Geared Up: You gain a supply slot and have a steady
+supply of the following concoctions and gear: climbing gear
+- glowsticks - smoke bombs - tar bombs - throwing weapons -
+thunderstones - traps.
+
+Pathfinding: Your pact has a knack for traversing the land,
+finding hidden trails, and knowing to avoid danger. You take
++1d on wander rolls.
+
+Teamwork: When you team up, you only take stress on
+a failure and 6s from different participants count towards
+rolling a critical.
+
+Vehicle: The pact has an incredible vehicle, such as a
+submarine, dirigible, or steamcar. Detail the vehicle and give
+it edges (choose two): armored - camouflaged - dependable
+- fast - nimble. Give it a flaw (choose one): clumsy - distinct -
+noisy - rickety - slow. The pact always manages to fully repair
+the vehicle each long downtime.

@@ -4,5 +4,4 @@ Between the stairway and sanctum on the final level is an impressive room glorif
 
 *An antechamber might need skulls, the banners of worthy foes, or an artist.*
 
-[context]: # (example of play)
-> "The adventurers creep through the antechamber, horrified by the scenes depicted on its frescoed walls. You can hear their gasps, filling your dark hearts with glee as you prepare for battle."
+"The adventurers creep through the antechamber, horrified by the scenes depicted on its frescoed walls. You can hear their gasps, filling your dark hearts with glee as you prepare for battle."

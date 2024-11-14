@@ -1,6 +1,5 @@
 ### Doomseeker
 
-[context]: # (summarizing subtitle)
 > Paranoid Aberrations
 
 You're an ancient guardian of a long-lost dungeon, finally freed from the pact that kept you bound to it. A creature of caution, you know you need to surround yourself with "allies" as a buffer against destruction.

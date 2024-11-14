@@ -4,5 +4,4 @@ Your minions fear punishment more than death and will never betray you. When the
 
 *A penance chamber might need shackles, whips, or tar.*
 
-[context]: # (example of play)
-> "Grabbing the dagger off of her dead friend with the only hand she has left, the cultist staggers to her feet and mutters, 'Death in service.'"
+"Grabbing the dagger off of her dead friend with the only hand she has left, the cultist staggers to her feet and mutters, 'Death in service.'"

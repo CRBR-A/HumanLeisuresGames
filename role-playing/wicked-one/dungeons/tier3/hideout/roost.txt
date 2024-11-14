@@ -4,5 +4,4 @@ You have bats, ravens, or other small winged beasts at your service. Each time y
 
 *A roost might need cages, winged beasts, or pet food.*
 
-[context]: # (example of play)
-> "Our ravens return from the woods, reporting back that the count is back from his hunting trip. One of the horses is injured, so they're slowly leading it back to the village."
+"Our ravens return from the woods, reporting back that the count is back from his hunting trip. One of the horses is injured, so they're slowly leading it back to the village."
