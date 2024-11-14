@@ -1,0 +1,154 @@
+## The Aurora RPG Engine – Part 7
+
+## The "Extra Die" Beauty: Creating a Margin of Success
+
+Now we get to the key idea that really makes Aurora sing:  After
+tallying enough dice to reach the target number of 15, any "remaining"
+dice count (as in counting the number of dice themselves, not the
+numbers on the dice) as the Margin of Success (hereafter often noted as
+MoS).
+
+With this innovation\*, a Margin of Success mechanic is elegantly added
+to a dice pool system that keeps things moving quickly and, most
+importantly, preserves the pool's visceral nature.  By dealing in dice
+(and by having/keeping a fixed target number), there's no need to
+calculate something fiddly such as "for every 5 points over the target
+number you have achieved an extra level of success."  Count out to 15,
+move the rest of the dice to the side, and there's the Margin of
+Success.
+
+With this, the many great options and advantages of a Margin of Success
+system open up:
+
+- Provides for more interesting narrative outcomes. With an explicit
+  MoS system, the players and GM know not only if the character
+  succeeds or fails, but also how well or by how much.  Did they just
+  narrowly make it?  Succeed with style?  Fail miserably?  Or did they
+  shine in a moment of glory?  This gives everyone a tool to create
+  and craft a rich and more exciting scene and story.
+- AND, using the "Buying Success" mechanic detailed in the next
+  section, it allows for tension, excitement, and a great story even
+  if the character fails or just ekes out a win.
+- Allows for the easy creation of cumulative or extended tasks,
+  compiling a count of MoS towards completing a goal.
+- Explicitly allows the coupling of success in combat (or other
+  conflicts) with the skill roll, avoiding the oddities (and often
+  frustration) of excellent to-hit rolls yet terrible damage rolls, or
+  vice versa. This makes the skill roll more important and thus makes
+  character ability and agency more relevant.
+- By leveraging MoS as a type of "currency," interesting subsystems
+  can be added, such as spending MoS to activate special abilities,
+  create advantages, or other creative and exciting outcomes.
+
+
+**\* Innovation?**  
+This idea of counting "Extra Dice" is what broke my
+mental logjam and ended my multi-year pursuit through various (and
+increasingly complex) dice systems to handle all the aspects I wanted in
+my game system, especially the inclusion of an elegant way to determine
+Margin of Success within a dice pool.  It also provides for the very
+nifty inversion of the idea, using the same mechanics and values as the
+results from the MoS, only flipped, to "buy" success at a cost (which is
+detailed in "The Twist," below).
+
+This idea is the crux of Aurora and I'm excited that it came to me.  AND
+I'm putting an asterisk next to the word "innovation" for I know there
+are countless game systems out there, and while I don't recall seeing
+this idea used in this manner before I'm not so arrogant as to believe
+that I must be the only person to ever dream it up.  So to all of us who
+have had this idea, it's a great idea and innovation\!
+
+
+**Handling MoS:  The Success Ladder.** 
+As used (and perhaps pioneered)
+in the old James Bond RPG by Victory Games, as well as the FATE system
+and, to some degree, DP9's Silhouette system, MoS can be handled in a
+narrative fashion to play out the results of a test.
+
+For example, to pull from the FATE ladder:
+
+| MoS | Quality of Result |
+| --- | ----------------- |
+| 0   | Fair              |
+| 1   | Good              |
+| 2   | Great             |
+| 3   | Superb            |
+| 4   | Fantastic         |
+| 5   | Epic              |
+| 6   | Legendary         |
+
+Alternately, it could be written like this:
+
+| MoS | Quality of Result    |
+| --- | -------------------- |
+| 0   | Unremarkable Success |
+| 1   | Notable Success      |
+| 2   | Absolute Success     |
+| 3   | Brilliant Success    |
+| 4   | Stunning Success     |
+| 5   | Sublime Success      |
+| 6   | Legendary Success    |
+
+Used as a narrative result, the impact of these results on a given
+situation or outcome is left up to the GM and players in the spur of the
+moment.  Suggestions include the task taking less time, requiring less
+resources, obtaining additional or sizable and spectacular results,
+gaining narrative advantages, gaining additional information, or
+influencing NPC actions, dispositions, or reactions.  If, as in the
+James Bond RPG, the same results are also used to determine success in a
+conflict, high results could also indicate taking out multiple or
+stronger opponents.
+
+**Handling MoS:  MoS as Currency.**
+Beyond a purely narrative
+construct, MoS can also be used as a form of "currency" that allows a
+player to "purchase" and guide the outcome of their extraordinary
+success at a task.  This is used in Modiphius' 2d20 system (spending
+Momentum) and, of a fashion, in FFG's Star Wars/Genesys system (spending
+Advantage).  DP9's Silhouette system also used parts of this idea,
+especially towards damage during conflicts.
+
+For example, as a very basic list:
+
+| Cost | Benefit                                                                                                                              |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | Damage:  When attacking someone, deal an extra point of damage. (Repeatable)                                                         |
+| 1    | Great Success:  Improve the task outcome (Repeatable:  +15%/30%/50%/70%/90%)                                                         |
+| 1    | Great Success:  Reduce time required to perform the task (Repeatable:  -15%/30%/50%/70%/90%)                                         |
+| 1    | Great Success:  Reduce resources required to perform the task (Repeatable:  -15%/30%/50%/70%/90%)                                    |
+| 1    | Boon:  Add an appropriate Trait/Aspect to the scene or character that lasts until the end of your next turn.                         |
+| 3    | Create Advantage:  Add an appropriate Trait/Aspect to the scene or character that lasts until the end of the scene.                  |
+| 5    | Asset or Leverage:  Gain an appropriate and "permanent" Trait/Aspect or Asset going forward for the remainder of the episode.        |
+| 3    | Remove Complication:  Remove or nullify an appropriate Trait/Aspect on the scene or character that lasts until the end of the scene. |
+| 2    | Disarm:  One item or weapon held by the target is knocked away.                                                                      |
+| 4    | Swift Task:  Perform an additional action at no die penalty.                                                                         |
+
+(With a brief reminder that the values on the above list have not been
+playtested...)
+
+In addition, certain games and genres could also include special
+abilities, feats, or stunts that are activated by spending points of
+MoS.  Martial arts moves and maneuvers (especially wuxia-like ones) are
+a prime example of where this could be used.
+
+**Purchasing Outcomes.**
+Having played in a few games that use this
+type of success economy, this concept can be very exciting and of great
+help to create amusing, nifty, and memorable results, all through player
+choice.  Sometimes I may just want the maximum damage or skill outcome
+possible, but other times, and even often, setting up an advantage or
+creating narrative hooks can be more important to success, not to
+mention supremely rewarding for the story being created through play.
+
+**MoS Options:  Collective MoS Pool.**
+To borrow from the Momentum Pool
+idea/mechanic that is used in Modiphius' Star Trek Adventures, any
+"leftover" MoS that has not been spent to purchase outcomes can be
+added to a common MoS pool, up to a certain cap.  Later, any character
+can pull these stored MoS dice from the pool to purchase outcomes as
+though they had generated the MoS themselves during their roll.
+
+---
+previous: [Handling Difficulty and Modifiers](./part06.txt)  
+next: [The Twist: "Buying Success"](./part08.txt)
+...

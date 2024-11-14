@@ -1,0 +1,193 @@
+## The Aurora RPG Engine – Part 10
+
+## Additional and Common Subsystems and Considerations
+
+To round out and complete the resolution system...
+
+**Opposed Rolls.**
+To make an opposed test, both characters make
+independent rolls against the standard target number.  As individual
+rolls, each are separately modified as appropriate to the situation for
+that character.  If a circumstance or influence would affect both
+characters equally (for example, Wet Ground during a tug-of-war), then
+it can be discarded, with no modifier to either of their rolls.  (If one
+of the characters is wearing Cleats however, they may get a bonus...)
+
+Once the tests have been rolled, the results are compared to each other:
+
+*Both Characters Fail*:  Well, that's embarrassing.  The situation
+(likely) remains static, with no effect or outcome on either side.
+
+*Initiating Character Succeeds, Defender Fails*:  The initiating
+character succeeds as though they had rolled a regular test and
+succeeded.  MoS is determined normally.
+
+*Both Characters Succeed*:  In this situation, compare the MoS results
+between the characters.  The character with the higher MoS succeeds,
+with the final MoS being the difference between the respective MoS
+values.  In most cases, ties go to the initiator (succeeding with an MoS
+of 0), however in certain cases the result may instead indicate a draw
+or a stalemate.
+
+*Initiating Character Fails, Defender Succeeds*:  The defending
+character succeeds just as though they had rolled a regular test and
+succeeded.  Often this results in no effect or no specific outcome,
+depending on the nature of the test (or if the reacting character was
+even "aware" of the situation); however, in certain circumstances it
+could be appropriate in the game for there to be a result that benefits
+the defender.  For example, if the opposed test was for melee combat,
+the defending character may have made a successful counterattack.
+
+**Regular or Opposed Roll?**
+Most tests in a game will be of the
+regular type.  Opposed tests should be reserved for when characters (PC
+or NPC) are actively (in other words, both are aware of each other)
+acting or re-acting in opposition to each other, or when it is a
+showdown between the PCs and major NPCs.  Sneaking past guards, for
+example, is often better handled as a standard test (modified for the
+quality and competence of the guards, further modified by how many
+guards there are and the environment of the sneaking) rather than an
+opposed roll or, worse, a series of opposed rolls against dozens of
+guards.  Sneaking past the mastermind (definitively a major NPC),
+however, can be dramatically appropriate as an opposed roll, doubly so
+if they are actively on the lookout.
+
+That is not to say every action against an active NPC needs to be an
+opposed test.  For many genres, ranged attack rolls are best handled as
+a regular test – there is little difference between shooting a person
+versus shooting an object at range – while melee attacks could be
+opposed.  For more cinematic and kinetic games, however, both types of
+attack could be handled by opposed rolls, allowing the target character
+to doge the attacker's aim and heightening the feeling of a showdown.
+
+
+**Extended Tasks.**
+For tasks that require extra effort and/or time, an
+extended task can simply be handled as requiring a certain (total)
+amount of success to complete, handled over multiple successive tests. 
+For every successful test, the player gains 1 tick towards completing
+the extended task, plus an additional 1 for every point of MoS.  Once
+the required number is reached, the task is complete.
+
+In addition, multiple characters may be able to assist and add their
+work towards completing the task, with each adding their MoS towards the
+total number of successes required.
+
+
+**Assistance from Other Characters, Option 1.**
+When a character
+offers to assist another character, they must offer their support prior
+to the skill check being made.  The assisting character makes an
+independent skill test; if they succeed, the character being assisted
+can add one die to their pool for the task, plus an additional die per
+point of MoS.
+
+The GM may impose a limit on how many characters may logically assist in
+a skill check.  Additionally, certain game tones and genres (plus GM
+discretion) may inflict penalties if the assisting character fails their
+roll (or only if they fail their roll very badly).
+
+
+**Assistance from Other Characters, Option 2.**
+By adding to the
+character's dice pool, Option 1 as described above has the side-effect
+of making it easier to succeed at a task with assistance.  If it is more
+appropriate for the genre and tone of the campaign, rather than adding
+to the task-takers die pool, a success by the assisting character
+instead adds one (plus one per additional MoS) to the MoS of the task if
+(and only if) the acting character succeeds on their own skill roll.
+This allows assistance to aid in generating greater success, but doesn't
+render the base task any easier.
+
+
+**Fumbles and Critical Successes.**
+The idea of a Critical Success or
+Failures are generally not as needed in a system using MoS and MoF.  A
+high MoS already fuels and provides for amazing outcomes, while rolling
+poorly likewise results in narrative downfalls.  However, if it is
+appropriate for the genre and tone of the campaign, here are some ways
+to incorporate critical results:
+- If half or more of the dice (round up) come up as 6s, count as a
+  Critical Success.
+- If half or more of the dice (round up) come up 1s, count as a Bane
+  or Glitch (something narratively bad happens).
+- If you have a Glitch and do not succeed on the test, count as a
+  Critical Glitch (very very bad).
+
+
+**Handling Vehicles, Equipment, and More as Aspects/Traits.**
+Items in
+game can be considered as a kind of Aspect or Trait, allowing something
+to happen that ordinarily couldn't, and/or providing modifiers to skill
+rolls.  In this way, having a Car as a trait allows a character to drive
+and move at a speed that someone on foot could not.  If it is also a
+Sports Car, it may provide a bonus to maneuvers due to it's great
+handling characteristics.  And if it is a Slick Sports Car it may also
+provide a bonus to bluff your way into an exclusive nightclub (or impose
+a penalty if you're trying to question someone who finds displays of
+wealth distasteful).
+
+**Vehicles, Equipment, and Zero Rating.**
+Following the example of a
+Car versus a Sports or a Slick Sports Car above, it is easiest if items,
+equipment, and vehicles in the game are "Zero-Rated".  That is, unless
+otherwise noted, an item (and its inherent Aspect/Trait) is a perfectly
+average item of that type.  It may allow something to happen, and may
+influence certain types of tests, but otherwise it does not add or
+subtract modifiers for using it, especially when in competition against
+other items of a similar type.  Items of better, or worse, quality are
+then differentiated by adding additional Traits to it.
+
+For example, in a Star Wars campaign, the X-Wing could set as the
+baseline for the zero-rating.  Flying it, firing its blasters, and
+dodging incoming fire while piloting it wouldn't incur any bonuses or
+penalties to normal piloting tests.  But a Y-Wing might be given the
+Lumbering Trait with one dot, indicating a single step down the ladder
+whenever maneuverability or speed would be important to a test or
+contest.  Conversely, the A-Wing might get the Agile Trait with two
+dots, granting a two-step bonus in the same situations.
+
+
+**Meta Currency: Plot Points, FATE Points, Bennies, Force Points...**
+If appropriate for the campaign style and feel, meta currencies play very
+well within the Aurora core resolution engine\!  Some ideas of their
+effects include: adding dice to the pool during a test, doubling the
+effects of a Trait/Aspect, allowing a reroll of individual dice or of
+the pool as a whole, activating special abilities, or being a way to
+directly influence and/or write something into the narrative.
+
+
+**Conflict and Combat.**
+In many (if not most) games and game systems,
+the rules and subsystems for conflict are prominent and extensive enough
+to warrant their own chapter.  There are many different ideas and ways
+to set up a conflict (be it social, economical, psychological, physical,
+or etc) or combat system, each possessing a different feel and
+influencing gameplay in different ways.  Which one is appropriate for a
+campaign depends greatly on the genre and tone of the world/campaign and
+the story being told.  Here are a few considerations that have the
+greatest impact on the feel of the system and thus the game:
+- Are conflict tests all-in-one type rolls (where equipment is just
+  another aspect/modifier to the dice pool), or are there separate
+  values for items (like weapons and armour) that have their own
+  interactions after the fact (boosted by MoS)?
+- Is damage/outcome tracked narratively? Are there wound states with
+  cumulative penalties?  Or is it handled by fully ablative Hit Points
+  or similar idea?
+- Are ranged attacks and melee attacks handled in the same? Do they
+  have different resolution methods?  (Likewise, for non-combat
+  conflicts is, for example, oration handled the same way as
+  bureaucratic maneuvering?)
+- Is range handled precisely or narratively (or at all)? Is position
+  relative to another important (for flanking, etc) or not?
+
+As noted, there are many games from which to crib and use as a starting
+point in designing a conflict system appropriate to the campaign at
+hand.  The aforementioned Cortex Prime SRD is once again a great
+resource, detailing several options for handling conflicts that cover
+many of the different styles.
+
+---
+previous: [Creating the Base Pool](./part09.txt)  
+next: [Postscript – Breaking the Core Mechanic (In a Good Way)](./part11.txt)
+...

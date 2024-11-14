@@ -1,0 +1,93 @@
+## The Aurora RPG Engine – Part 13
+
+## Postscript 4 – MoS Counting
+
+It's somewhat thorny to get an idea of an average numerical value for
+MoS that includes the possibility of failure, since both failure and an
+MoS of 0 calculate as zero.  However, if we look at mechanics for using
+MoS either in cumulative or extended tasks, or when it is used to
+determine damage or an outcome against an opponent, we can calculate
+some useful guidelines (and get a window on how to use those values in
+our game).
+
+There are two prime methods to use MoS in this way.  The first is to
+have a success (MoS of 0) count as 1, plus 1 additional per point of
+MoS.  So a success with an MoS of 2 would result in a value of 3,
+whether that be 3 points of damage/effect, or 3 points added to the
+cumulative pool towards completing a task or achieving an aim.
+
+Using this, we can determine the average MoS expected for a particular
+dice pool that includes failure:
+
+|         | 3d   | 3.5d | 4d   | 4.5d | 5d   | 5.5d | 6d   | 6.5d | 7d   | 7.5d | 8d   |
+| ------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Avg Val | 0.09 | 0.43 | 0.68 | 1.42 | 1.82 | 2.83 | 3.16 | 4.21 | 4.44 | 5.47 | 5.62 |
+
+An alternate way is [to re-work the success ladder presented
+earlier](https://lynxthoughts.com/2020/02/26/the-aurora-rpg-engine-part-7/)
+to make an MoS of 0 a little more precarious by making it a Minimal
+success:
+
+| MoS | Quality of Result |
+| --- | ----------------- |
+| 0   | Minimal Success   |
+| 1   | Solid Success     |
+| 2   | Notable Success   |
+| 3   | Brilliant Success |
+| 4   | Stunning Success  |
+| 5   | Sublime Success   |
+| 6   | Legendary Success |
+
+Thus a Minimal success is a case where the character has just, barely,
+succeeded at the task.  For example:
+- If a character is leaping between buildings, their foot lands right
+  on the edge of the parapet. They made it, but their heart is
+  certainly beating hard now\!
+- If this leap was part of a chase, it may cause them to stumble a
+  bit, which, depending on how their quarry rolls, might make them
+  lose a bit of ground.
+- If the character was attempting to haggle for an item, they only
+  manage to get a minor discount.
+- If the character was researching something, they confirm its
+  existence and the overall, general information about the thing, but
+  nothing very detailed.
+- If the character was fixing an engine, they get it running in the
+  nick of time, but it was looking dodgy right up until the last
+  moment\!
+
+This is opposed to the next rung up the ladder, where a Solid success is
+an unambiguous one:  a character lands firmly on the roof beyond the
+parapet; they achieve a worthy discount; they gain a new piece knowledge
+that will aid them going forward, or they get things running and are
+sure that things won't break again.
+
+The value of making a distinction between Minimal and Solid success is
+mostly one of RP – it's to narrate a bare success.  It also helps to
+make each of the levels above a Solid success more distinct and thus
+easier for the GM to craft mechanical and narratively appropriate
+outcomes (and thus also more RP-rich).
+
+Minimal success can also be used to tweak the cumulative/damage
+mechanics by having the value be equal to the MoS, with the special case
+that an MoS of 0 counts as a value of ½.  This makes things more elegant
+and straightforward\* to calculate as there's a more direct line between
+the MoS and the value (when compared to calculating it as the 1 + MoS
+method above).
+
+Using this Minimal success method, here is the matrix to determine the
+average MoS expected for a particular dice pool:
+
+|         | 3d   | 3.5d | 4d   | 4.5d | 5d  | 5.5d | 6d   | 6.5d | 7d   | 7.5d | 8d   |
+| ------- | ---- | ---- | ---- | ---- | --- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Avg MoS | 0.05 | 0.21 | 0.34 | 0.83 | 1.1 | 1.96 | 2.24 | 3.24 | 3.46 | 4.48 | 4.63 |
+
+\*While keeping track of ½ points of success might seem to add back some
+inelegance, but as the system is already tracking ½ values for the dice
+pool the context for ½ points already exists.  Much like modifiers
+described above, it could be recorded using boxes, where a ½ result is
+marked by placing a single slash in the box and a full point is marked
+either with an X in the box or by completely filling in the box.
+
+---
+previous: [Postscript – Further Probabilities & Hidden Rolls & Discoveries](./part12.txt)
+...

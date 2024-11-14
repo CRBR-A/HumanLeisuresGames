@@ -1,0 +1,154 @@
+## The Aurora RPG Engine – Part 6
+
+## Handling Difficulty and Modifiers
+
+As already noted for the reasons mentioned above, the baseline
+difficulty of a task as well as pertinent modifiers are handled by
+adjusting the dice pool, adding or subtracting dice in ½d increments. 
+The target number (15) remains the same.
+
+**Nomenclature.**  
+What to call this up and down travel through half
+dice increments?  While there are many nice and elegant names that can
+be chosen to fit and reinforce the genre, theme, and tone of a specific
+campaign, in this document I will generically refer to it as *stepping*
+up and down the *dice* or *difficulty ladder*.
+
+
+**Setting Difficulties:  The Difficulty Ladder.** 
+To borrow the
+approach commonly used across many (and perhaps most) RPGs, a task's
+difficulty is set and handled by the GM determining the baseline
+difficulty based on a descriptive chart:
+
+| Task Difficulty         | Pool Modifier   | Modifier in Steps |
+| ----------------------- | --------------- | ----------------- |
+| Trivial                 | \+2d            | 3 to 4 steps      |
+| Easy                    | \+1d            | 1 to 2 steps      |
+| Routine                 | \+0d            | No change         |
+| Challenging             | \-1d            | 1 to 2 steps      |
+| Intense                 | \-2d            | 3 to 4 steps      |
+| Formidable              | \-3d            | 5 to 6 steps      |
+| Severe                  | \-4d            | 7 to 8 steps      |
+| Insane                  | \-5d            | 9 to 10 steps     |
+| Herculean (Heroic/Epic) | \-6d or greater | 11+ steps         |
+
+(Just another reminder that, compared to most other games, it is the
+character's *dice pool* that is adjusted via stepping rather than
+setting a *base target number*.)
+
+For a more "narrative" style of play (as is done, for example, in the
+FATE system) this same chart and nomenclature is used to set both the
+baseline difficulty as well as any situational modifiers.  Here, the
+table serves double duty in a conversation between the GM and the
+player(s) to determine the final difficulty:  "You are going to jump
+across the wide ravine while it is dark and raining, but you have a good
+running start and are wearing your lucky underwear.  Still sounds quite
+formidable, step down 5 or 2½ dice."
+
+Using a more "traditional" procedure, once the baseline difficulty is
+determined (using the baseline difficulty chart) the total pool is
+further adjusted using modifiers from a list of standard situational
+modifiers – for example, Lightly Obscured = -1 shift; Heavily Obscured =
+-3 shifts; Totally Obscured = -5 shifts.  With a robust and extensive
+enough list of modifiers, a very granular game system can easily be
+created if appropriate and desired.
+
+Either way, there is no need to re-invent the wheel, and the familiar
+difficulty-setting method can be used in Aurora's core resolution engine
+quite easily.
+
+**Easy and Trivial Tasks?** 
+It is recommended that skill rolls be
+called for only when a task requires some degree of skill or ability to
+do properly (following directions on a map in a city as a tourist is
+generally not a skill roll), is narratively interesting (there's
+something relevant that can arise from failure or there is something to
+be gained knowing how well a task is performed) and/or there is
+something out of the ordinary or dramatic about the situation.  Thus,
+though they are on the list, Easy or Trivial skill tests are likely to
+be infrequent except in unusual circumstances or when circumstances
+inject extra adversity and thus uncertainty.  Then again, adventurers
+often find themselves in very unusual circumstances while also under
+duress so... maybe in the end Easy/Trivial rolls won't be that infrequent
+(albeit often with a lot of other modifiers piled on top).
+
+**Setting Difficulties:  Using Traits, Aspects, and Tags. ** 
+That said,
+if we want to add new wheels to the idea, the notion of modifiers can be
+expanded to invoke the idea of Aspects or Traits [as detailed in this
+earlier blog
+post](https://lynxthoughts.com/2018/02/08/gaming-thursday-tasks-difficulties-and-aspects/)
+and as used in games such as FATE and Modiphius' Star Trek Adventures. 
+To briefly summarize the linked blog post, a Trait, Aspect, or Tag is a
+phrase or label that describes and denotes something (usually out of the
+ordinary or special) about a person, object, or scene to which it is
+attached.
+
+If a case can be made that the Trait or Aspect applies to the
+action/event, then it may affect a test/roll in two ways:
+- It may allow (or disallow) something that normally would (or would
+  not) be possible.
+- It may affect the difficulty of the task, adding or subtracting dice
+  to the pool depending whether it helps or hinders.
+
+Using this idea, there is no list of standard situational modifiers. 
+Instead, once the base pool is determined, any and all applicable
+Aspects, Traits, or Tags are factored in one by one until the final dice
+pool is created.  How much of a modifier each Trait or Aspect provides
+to making a test depends on how relevant or important it is and its
+magnitude of impact.  Some of these will be highly situational, while
+others, such as the strength of a lock or the impact of fog, will be
+more common within a more fixed range.  These can be noted on the table
+with a card denoting the magnitude (and thus number of shifts) using
+dots or boxes next to the Aspect.  For example:  Lock ■ ■ □ (where each
+filled box is a full die, and a white box is a half die), or Lock ●●●●●
+(where each dot is a step).
+
+Altogether, this provides greater flexibility and range of effect than a
+set table of modifiers, making for a richer set of choices and enhancing
+player involvement.
+
+
+**The Double-Edged Nature (In a Good Way) of Traits.**
+One of the nice
+things about applying Traits, Aspects, or Tags (versus a rigid list of
+modifiers) is that many of them will be of a dual nature, acting
+alternately as hinderance as well as able to be leveraged for advantage
+by the characters.  For example, while a Trait of "Very Foggy" makes it
+more difficult to aim and therefore more difficult to hit things in
+ranged combat, at the same time the fog makes it easier to sneak around
+or to stealth away.  More creatively, if I'm on fire, I can leverage
+that trait to more easily put out the flames as everything around me
+would be damp.  (Still, it's likely best advised to avoid being set on
+fire in the first place...)
+
+This double nature becomes even more important if the Aspect, Trait, or
+Tag is part of a character's background, concept, values, disposition,
+or similar.  As in FATE, Cortex Prime (using Distinctions), and to an
+extent in Star Trek Adventures (using Values), traits can be used to
+both aid and appropriately hinder a character to create interesting
+narrative situations and complications while fostering greater RP
+opportunities.
+
+
+**How to Handle the ½d to Avoid Confusion.**
+How best to remember which
+die in a pool is the ½ die (d3) and avoid the (almost inevitable) "Wait,
+which one was it?" conversation?  As no more than a single ½d is ever
+required as part of a pool, here are a few options:
+- Each player chooses a die, unique in some way (colour, style, size,
+  etc), to always be their ½ die.
+- Set a table rule, for example, "Blue dice are always counted as the
+  d3."
+- A single die is designated as the d3 die, to be shared by all the
+  players.
+- The group invests in buying (or 3D printing) a few of the
+  fancily-shaped d3s that are available on the market, and use those
+  when rolling a ½d.
+
+
+---
+previous: [Baseline Values and an Aside on Probabilities](./part05.txt)  
+next: [The "Extra Die" Beauty: Creating a Margin of Success](./part07.txt)
+...

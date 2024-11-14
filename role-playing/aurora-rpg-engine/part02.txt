@@ -1,0 +1,130 @@
+## The Aurora RPG Engine – Part 2
+
+## Intentions and Advantages of the Aurora RPG Engine
+
+- Delightfully visceral, with an intuitively graspable chance of
+  success and strong emotional engagement.
+- Uncomplicated and minimal math plus easy handling of modifiers makes
+  for a quick and efficient resolution system.
+- In a clean and innovative way, outcomes generate a Margin of Success
+  or Failure that tie both into crunchy rule impacts and/or narrative
+  boons, banes, and effects.
+- Easy to hack and customize to suit a campaign's specific needs in
+  terms of genre, tone, feel, and playstyle.
+- Emphasizes player choice and agency, allowing for greater options,
+  engagement, excitement, and storytelling oomph.
+
+## Aurora's Core Resolution Engine Building Blocks
+
+- The task resolution mechanic is d6 pool system.
+  - All die values in the game are written without the 6 on d6, as
+    there are no other dice. For example: 5d.
+  - Values are (generally) stepped up or down in ½d increments: 4d,
+    4½d, 5d, etc.
+  - A ½d is a d3.
+- Values on the character sheet determine the base pool.
+  - Exactly what these values are, and what they represent, varies
+    depending on the genre, style, and tone of the campaign.
+  - Most games will use a combination of values to generate the base
+    pool.
+  - Common value groupings include:
+    - Attributes
+    - Skills
+    - Styles
+    - Roles
+    - Backgrounds
+    - Approaches
+    - Aptitudes
+    - Traits/Aspects/Distinctions/Tags
+  - Values are (generally) rated in ½d increments.
+- The base number of dice for a skilled entry-level professional is
+  5d.
+  - Consider: "If this was someone's profession, and they had a year
+    or two in that profession, would this be considered regularly
+    doable? Would this be in their wheelhouse?"  If so, this is the
+    baseline of 5 dice.
+  - A higher level of skill, experience, or capability is
+    represented by a base number of dice greater than 5.
+  - Likewise, a lower level of skill, experience, or capability is
+    represented by a base number of dice less than 5.
+- This base pool is adjusted.
+  - Tasks of greater or lesser difficulty are handled by adding or
+    subtracting dice from the character's base pool.
+  - External and contextual modifiers to the task (for equipment,
+    environment, situation, injuries, etc) are also handled by
+    adding or subtracting dice from the character's base pool.
+  - Modifiers are (generally) applied in ½d increments.
+  - Therefore, the total pool rolled (generally) equals the Base
+    Values ± Difficulty Modifier ± All External & Contextual
+    Modifiers.
+- The target number of the roll is <span class="underline">15</span>.
+  - This number is fixed; as above, tasks of greater or lesser
+    difficulty, as well as external and contextual modifiers to the
+    task, are handled by adding and subtracting dice from the
+    character's base pool, not by increasing or decreasing the
+    target number.
+- Rolls that total or exceed the target number of 15 count as a
+  success.
+  - "Extra" dice (the number of dice remaining after totalling
+    enough dice to equal 15) count as the Margin of Success.
+  - These Margin of Success dice are then used to gain superior
+    outcomes, including narrative favour, creating advantages, extra
+    effect(s), etc.
+- Rolls that total less than the target number count as a failure.
+  - "Extra" dice can be bought (one by one) to be rolled and added
+    to the total to succeed "at cost" by incurring setbacks,
+    including narrative disfavour, disadvantages, troubles,
+    complications, etc.
+
+
+**Influences and Inspirations.**  Over my 35+ years of gaming I've
+played dozens of different RPG systems and read (though not played)
+countless more.  As can be expected, every one of them has influenced me
+in some way.  But there are a couple of games that clearly play an
+outsized role in inspiring Aurora:
+
+The first and most noticeable being West End Games' d6 system, as
+originally presented in their Star Wars games.  It is from here that the
+base functionality of the dice pool derives and forms the glowing heart
+of this game engine (albeit with an innovative twist that I think both
+strengthens its inherent advantages as well as creating further
+advantages).\*
+
+The second is the Silhouette system by Dream Pod 9.  A flexible and
+effects-based system, it introduced me to many ideas, most especially
+the great concept and utility of a "Margin of Success/Failure."
+
+The third, as [I began to describe in this earlier blog
+post](https://lynxthoughts.com/2016/01/28/gaming-thursday-rpg-system-x-timeout/),
+is the current crop of what could be termed (though I am cautious of the
+reductiveness pitfall in using such labels) more "narrative-based"
+games, with FATE and Cortex Plus/Prime being the most noticeable and
+influential.  There are a lot of ideas and aspects within Aurora that
+very much fall in line with what's being created in both Cortex and
+FATE.
+
+\* This is especially poignant as the founder of WEG and creator of the
+d6 system, Daniel Scott Palter, [unfortunately has just passed
+away](https://icv2.com/articles/news/view/45207/r-i-p-daniel-scott-palter). 
+A big debt of gratitude to him for his all his work in the RPG industry,
+creating not only the amazing d6 ruleset but also an astounding volume
+of work done to keep and expand the Star Wars universe and lore during a
+time when the franchise was dormant in the popular media sphere.
+
+
+**The Drop-In Factor**.  One of the great things about systems such as
+FATE, Cortex Prime, or Savage Worlds, is how they are designed to be
+modular and flexible.  As such, they are a treasure chest of ideas and
+game rules that can be "easily" imported, adopted, and attached to the
+Aurora core resolution system in order to create a full game system that
+suits the tone, style, and feel of the campaign.  Alternately, there is
+the option to use those systems as the base and swap out their
+resolution system with Aurora's to incorporate the advantages it
+brings.  This is especially true (and "easy") with Cortex Prime, for it
+as well is explicitly developed as toolkit, based around its own core
+resolution ideas.
+
+---
+previous: [Introduction](./part01.txt)
+next: [Base Underpinnings and Dice Pool](./part03.txt)
+...

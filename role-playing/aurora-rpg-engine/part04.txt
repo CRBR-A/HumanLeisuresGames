@@ -1,0 +1,77 @@
+## The Aurora RPG Engine – Part 4
+
+## Fixed Target Number and Difficulty as Dice Modifiers
+
+There is one main disadvantage to most dice pool systems:  the time it
+takes to total the rolled dice.  This begins to get especially tedious
+around 7-8 dice and only increases thereafter, slowing the game and
+potentially killing its momentum.
+
+A second disadvantage also arises if the system uses a series of
+increasing target numbers (for example, setting a target number of 10
+for an Easy task, 15 for a Moderate task, 20 for Difficult task, etc). 
+Doing so undermines the intuitive feel of "Number of Dice = Chance of
+Success".  If I have 8 dice in my hand versus 5 dice, I should *feel* as
+though my character is more capable; however, if the target number is
+*also* changing/increasing, then it's tough to gauge whether those extra
+dice really are leading to an extra chance of success.  With two
+variables at play it creates a matrix of possibilities that hinders any
+automatic and visceral feel.
+
+By setting the target number at a fixed value of 15 and by adjusting
+both for the difficulty as well as accounting for all other modifiers by
+adjusting the number of dice rolled:
+
+- The number of dice rolled at one time is generally kept low.
+- Even when many dice are rolled, we only need to count enough dice to
+  make 15, which can be easily done by adding together the highest
+  dice until 15 is reached. (The remaining dice are used as a "Margin
+  of Success", to further explained below.)  This avoids needing to
+  tally large numbers of dice.
+- And because the target number never changes, we easily grasp the
+  chance of success by the number of dice in our hand. The visceral
+  nature of the die pool is maintained.
+
+**Why Not Use A ‘Success' Mechanic Instead of Counting at All?**  One of
+the common ways to avoid the "count many dice" disadvantage of a dice
+pool is to use the concept of "success dice."  These are either custom
+dice where a certain number of faces are explicitly labelled as
+successes, or by using regular dice and denoting which values count as a
+success (for example, stating that every 5 or 6 on a die counts as a
+success).  In this way, instead of summing the value rolled from every
+die we are only looking for successes and counting those.  As a bonus,
+since we're already dealing with successes this also allows an easy way
+to incorporate a Margin of Success mechanism.
+
+That sounds great and easy, so why not do that?
+
+In short, it is because of the "law" of averages.  This explanation
+might get a bit involved, so please bear with me... but in short, using a
+success die system reduces number of combinations on the dice rolled
+that potentially can lead to success.  This is because low rolls are not
+aided or averaged out by high values on other dice.  For example, if we
+roll 6 dice in a system where 4+ on a die equals success, and we need 3
+successes, and get a roll of 6, 5, 1, 1, 1, 1, this would count as 2
+successes and thus a failure.  However, under a more traditional
+additive system with a target number, the two high numbers help carry
+the low rolls, averaging things out to count for at least a baseline of
+success (and using Aurora's target number of 15, it would indeed be a
+success).
+
+The net result of a using a success dice regime is a reduction in the
+number of successful die roll combinations, leading to greater jumps and
+gaps in the chances of success or failure between each die that is added
+or subtracted from the pool, making for a probability curve that is way
+steeper than I like or want.  (I did *a lot* of modelling using dice
+probability calculating websites...)  And these jumps only become more
+pronounced as more dice are added to the pool.  While this can be
+partially overcome with certain tricks (such as saying certain values or
+faces on a die counts as multiple successes), these tricks are
+cumbersome and often require players to invest in specialized dice. 
+These are all downsides when compared to the straightforward "Additive,
+Count to 15" motif that lies at the heart of Aurora.
+
+---
+previous: [Base Underpinnings and Dice Pool](./part03.txt)  
+next: [Baseline Values and an Aside on Probabilities](./part05.txt)
+...

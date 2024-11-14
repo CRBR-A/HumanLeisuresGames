@@ -1,0 +1,137 @@
+## The Aurora RPG Engine – Part 5
+
+## Baseline Values and an Aside on Probabilities
+
+The base number of dice for a skilled entry-level professional is
+baselined at 5 dice.  With 5d and a target number of 15, the chance of
+success is roughly 75% (in actuality it is a bit over, but close
+enough).  As outlined [in this previous blog
+post](https://lynxthoughts.com/2014/11/06/gaming-thursday-rpg-system-4-resolution/),
+this falls into the probability range that I find is most perfect, where
+a competent, trained, healthy individual beginning their professional
+career should succeed on almost-routine tasks (I say almost, as if it
+were perfectly routine there'd be no need to roll a test\!) most times. 
+And even in those instances where they fail their roll, rarely will it
+be too disastrous of a setback (especially if the player chooses to
+succeed at cost, which is further explained below).
+
+By adjusting the dice pool up and down in increments of ½ dice (a d3)
+allows for roughly this progression of success chances:
+
+|     |                     |
+| --- | ------------------- |
+| 3d  | 10%                 |
+| 3½d | 25%                 |
+| 4d  | 50% (actual is 45%) |
+| 4½d | 66%                 |
+| 5d  | 75%                 |
+| 5½d | 90%                 |
+| 6d  | 95%                 |
+
+
+In play, it is easy to remember that 3½d to 5d forms the middle ground
+of success probabilities.  Anything less than 3½d is super unlikely to
+succeed, and anything over 5d is pretty much guaranteed to succeed.
+
+Taken together, everything comes together nicely:
+
+- A nice round target number that is easy to remember.
+- An easily graspable number of dice that counts as "competent".
+- Enough dice to let beginning characters succeed despite modifiers
+  while also tempting the players with extra actions.
+- And an intuitively graspable notion of the chances of success.
+
+**What the Number of Dice Mean in Play.** 
+I have 3 dice in my hand? 
+My chances are not so great – is there anything I can do to give myself
+an advantage?  Maybe it is best for me to not perform this action quite
+yet and instead spend a round setting myself up... or maybe I'll go ahead
+anyway, because I'm willing to succeed at cost if necessary\! (Thus we
+have set up interesting choices.)
+
+I have 7 dice in my hand?  Yeah, that's darn good\!  I'll succeed with
+style.  I'm going to go for it and use that extra skill to gain some
+benefits from the high Margin of Success.  Or, maybe I'll try to do a
+bit more this round, pulling off a couple of more actions and dropping
+my dice down to 5d for each action...  (Again, we have set up interesting
+choices.)
+
+I have 5 dice in my hand?  I'm likely to succeed.  Cool.  But what if I
+could do better?  Can I get creative to gain slightly more advantage? 
+Or how about the opposite?  Even at the base of 5 dice, I could be
+tempted to eek out one more action.  Or perhaps the GM has challenged us
+with obstacles and countdown events that require me to take multiple
+actions in a round...  (And so, we have again set up even more interesting
+choices\!)
+
+
+**Impossible Rolls.**  
+What happens when the task difficulty or various
+modifiers have pushed my pool down to just 2d?  I can do math, there's
+no way I can get 15 on two dice.  So why bother, it's pointless.  Well,
+not entirely... it's more of an invitation to get creative\!  What can I
+do in order to improve my chances?  Maybe I can go and do research to
+learn a bunch of information that gives me an advantage, or find some
+gear to assist me, or recruit a few allies, or other similar ideas that
+can and will increase my die pool.  And then there is always the choice
+to succeed at cost (described below), gaining what I want though
+hardship.
+
+In addition, in games that include a narrative meta-currency I can
+always spend my way to success if I really want it.  And in games using
+a critical-success mechanic, maybe I want to push my luck and hope I get
+lucky...
+
+Alternately, to come at this from a different direction, maybe it really
+is out of my league right now.  I can use this as a signal to find a
+different path, or to come back to it later once I've gained more
+experience.
+
+While a GM is advised to not place too many impossible obstacles in a
+character (and player's) way, depending on the campaign style and tone
+it can be totally appropriate and even lead to crowning moments of
+awesome.
+
+
+**Granularity Option 1.**  
+If each ‘step' in the dice ladder is a ½ die,
+then the probabilities of success between each step can sometimes jump
+rather substantially.  Between 3d and 6d, the chance of success
+increases or decreases between 12% per step to 22% per step.  While
+this, at a gut level, is a tad higher than my absolute preference, I
+think it remains quite workable and keeps dice accounting simple.
+
+However, for an even smoother shift up or down the ladder, we can insert
+another step of "die+1" in between the steps of "die" and "die and a
+half."  For example:
+- 4d
+- 4d+1
+- 4½d
+- 5d
+- 5d+1
+- Etc...
+
+
+The downside here is that the dice accounting is not nearly as elegant
+and requires a bit more care during play to properly adjust the dice
+pool.  That said, it is still not an excessive amount of complexity and
+for certain genres and playstyles the extra granularity could be
+appropriate.
+
+**Granularity Option 2**.  
+The opposite side of the coin from Option 1
+above, things can be instead simplified to only deal in full dice.  This
+renders the jumps in probability between each number of dice even
+larger, thus making each change in the dice pool (advantages, setbacks,
+modifiers) that much more significant.  While this might push players to
+become more timid and cautious, it may also push them to be more bold,
+clever, and daring.
+
+It has the definite bonus, however, of making the accounting absolutely
+straightforward and ups the visceral feel.  Again, for certain genres
+and playstyles this could be totally appropriate and welcomed.
+
+---
+previous: [Fixed Target Number and Difficulty as Dice Modifiers](./part04.txt)  
+next: [Handling Difficulty and Modifiers](./part06.txt)
+...

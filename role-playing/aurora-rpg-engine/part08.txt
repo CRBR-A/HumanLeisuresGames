@@ -1,0 +1,134 @@
+## The Aurora RPG Engine – Part 8
+
+## The Twist: "Buying" Success
+
+Riffing on the previous concept is a twist that complements the idea of
+MoS from the opposite direction:  If I fail the roll, or if I succeeded
+but want extra MoS, I can "buy" extra dice to succeed (or succeed
+better) *at cost*.
+
+While this doesn't preclude the recommendation of using a "fail-forward"
+concept in scenario design, there are still times where I might want my
+character to succeed in this moment, right now.  And so I have a choice...
+let things continue as I rolled them, or am I willing to put my
+character into some narrative (backed by mechanics) peril in order to
+get the win?
+
+If I choose the latter, \<devilish voice\>excellent\</devil\>.  Much
+like the ladder of options for MoS, each extra die bought in this manner
+raises the magnitude of the potential trouble.  The number of dice to be
+bought doesn't need to be stated up front, allowing them to be bought
+one at a time, rolling and adding to my total and gradually raising the
+stakes until either my character succeeds or I reach my limit of peril.
+
+Note that the narrative/perilous cost of the extra dice is paid whether
+they lead to success or not\!
+
+**Buying Success: The Setback Ladder.**
+Flipping the idea of the
+Success Ladder around, each die spent here has increasing narrative
+impact:
+
+| Dice Purchased | Narrative Penalty |
+| -------------- | ----------------- |
+| 1              | Mild              |
+| 2              | Moderate          |
+| 3              | Painful           |
+| 4              | Severe            |
+| 5              | Brutal            |
+| 6              | Debilitating      |
+
+
+**Buying Success:  Traits, Aspects, and Tags.**  If the game is using
+the idea of Traits/Aspects, then purchasing extra dice comes at the cost
+of new, mostly negative, Traits/Aspects.  This can be placed on the
+character, the scene, or the overall environment (such as "Alerted
+Guards") as appropriate, with a duration based on the number of extra
+dice purchased:
+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Dice Purchased</strong></td>
+<td><strong>Duration</strong></td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>Fleeting<br />
+(Next/Few Actions)</td>
+</tr>
+<tr class="odd">
+<td>2-3</td>
+<td>Transitory<br />
+(Remainder of Scene)</td>
+</tr>
+<tr class="even">
+<td>4-5</td>
+<td>Sticky<br />
+(Lasts until Handled or Overcome)</td>
+</tr>
+<tr class="odd">
+<td>6+</td>
+<td>Enduring<br />
+(Lasts until the next Adventure, or is very difficult to Overcome)</td>
+</tr>
+</tbody>
+</table>
+
+In addition to extra duration for higher levels of dice being purchased,
+the GM can also opt to increase the severity of the Traits/Aspects or
+instead assign multiple Traits/Aspects.  All of which provide additional
+options for exciting play and excellent story-crafting potential.
+
+**Buying Success: Temptation Bargains.**
+To add even more interesting
+choices to a game, once a player has gathered their pool but before they
+roll for the test, the GM can offer a ‘discounted' level of bane to
+allow the player to add additional dice to their modified pool.  In
+other words, rather than performing the test as normal and, if the test
+is failed, buying additional dice one at a time, before the roll the GM
+can instead offer, "If you take a Transitory Bane, you may add 3 extra
+dice to your pool right now."  Temptation...  the stuff that heroic
+stories are made from.
+
+It also works to let the players themselves suggest such bargains. 
+While the GM has to formalize and accept the idea, letting the players
+get themselves into trouble is another great gameplay and storytelling
+boon.
+
+
+**Buying Success: Collective MoS Pool.**
+If using a Collective MoS
+Pool as presented above, rather than buying dice from the GM with a bane
+attached, a player can instead (or in combination) pull and roll dice
+from the collective pool.
+
+Alternately, to make it more restrictive and to inject more interesting
+choices to the game (and to preserve some fun opportunities from
+failure), a player could be restricted to only pulling from the
+collective pool *before* they make their roll, adding the die to their
+dice pool and then making the test.
+
+
+**Margin of Failure.**
+So, the players didn't take the bait... er, the
+option of purchasing more dice, and the task is failed.  How badly did
+it fail?  What narrative outcome should be crafted?  While in certain
+situations it may not matter (if you are aiming for something and miss,
+you just miss) where the margin does matter, here is a guideline:
+
+| Total Rolled | Narrative Outcome |
+| ------------ | ----------------- |
+| 13-14        | Near Miss         |
+| 10-12        | Solid Miss        |
+| 5-9          | Severe Miss       |
+| 1-4          | Disastrous Miss   |
+
+---
+previous: [The "Extra Die" Beauty: Creating a Margin of Success](./part07.txt)  
+next: [Creating the Base Pool](./part09.txt)
+....

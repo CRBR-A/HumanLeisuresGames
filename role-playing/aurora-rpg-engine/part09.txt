@@ -1,0 +1,139 @@
+## The Aurora RPG Engine – Part 9
+
+## Creating the Base Pool
+
+After going through nearly the entirety of the resolution system and
+outlining the bits that happen once the base pool has been gathered,
+it's well past time to cover how that base pool, and its baseline
+value of 5 dice, is generated.  This is no trivial matter.  As every
+test or roll made by a character begins with these values, what gets
+included, measured, and listed on the character sheet not only defines
+that character but also has a huge influence on the overall genre, tone,
+and playstyle of the entire game/campaign.  These values say what's
+important about the characters, and thus what's important about the
+game.  They influence how the players view the characters, how they
+approach things, and what kinds of actions they will take.  They provide
+flavour and guidance and ultimately are the lens through which the
+players/characters know themselves.  All in all, the way characters are
+measured and defined is one of the most important choices in designing
+the campaign.<span id="more-6687"></span>
+
+Whether the base pool is generated from a combination of characteristics
+(such as Attributes + Skills) or a single one (such as Approaches), the
+key to assigning value ranges is remembering that the intent is to
+provide a baseline of 5 dice for an entry level professional in that
+field.  Thus, in games with a combination of characteristics, each
+characteristic will be in the range of 1-3 dice each, while for single
+characteristic games the range will be higher, on the order of 3-6 dice
+per characteristic.
+
+Furthermore, in games where the characters begin as professionals, the
+total values should be assigned such that they are rocking 5 dice total
+when doing something in their wheelhouse, with perhaps six dice if they
+are extra specialists in that area or if they have a narrative-based
+Aspect that applies, and with less dice in the areas where they are
+weaker.  If the campaign instead begins with the characters as novices,
+they may only have 3 to 4 dice in their particular areas of
+semi-expertise.  If they begin as veterans, and as they progress and
+gain more experience, they likewise begin with and gain larger and
+larger base pools.
+
+**Characteristics, Attributes, Approaches, and More**.
+There are dozens
+upon dozens (upon dozens\!) of examples to pull from other RPGs as
+possible systems to use to categorize, measure, and ultimately define a
+character.  Even inside similar system models, such as the classic
+Attribute + Skills, how many attributes are characterized and what each
+one represents (plus how many skills are enumerated and how general or
+specific each one is) makes a big difference in how the game plays and
+how the world/campaign feels.  Using three broad stats feels very
+different than using 12 "precise" ones, and even with 12 "precise"
+values if more stats detail physical attributes than spiritual wellbeing
+or social interaction it signals what the game considers important and,
+as such, the campaign will gravitate towards those certain actions and
+the accompanying playstyle, focus, and feel.
+
+All in all, this is a way of saying that while some ideas are presented
+below, they are by no means exhaustive.   The Cortex Prime SRD (when
+it's fully released...) is a great resource here as well as an example,
+for it too dives into a multitude of options for attributes/etc and
+discusses using them in combinations with its own core resolution
+system/idea.
+
+**Attribute + Skill.**
+The classic construction for an RPG character,
+useful for many game styles and genres.\*  For games and genres where
+distinct expertise is considered important, skill values should be
+emphasized, with 3d being considered as the value for a trained skill,
+leaving the "average" attribute to have a value of 2d in order to total
+five dice.  For campaigns that emphasize more broadly capable
+characters, reverse the two, with 3d for an average attribute, and 2d
+for a trained skill.
+
+\*Also very appropriate, given my musings that began this whole
+multi-year journey towards this new RPG system started with a [nifty
+idea for a matrix of
+attributes](https://lynxthoughts.com/2014/02/17/rpg-system-1-attributes/)...
+
+
+**Attributes + Departments/Areas of Expertise.**
+This way replaces
+individualized and distinct skills with broad categories tied together
+as a particular role, department, branch, or otherwise grouped area of
+expertise.  This is great for genres where character roles are
+emphasized, such as the military or other department-heavy organizations
+(for example, Starfleet within Star Trek), genres with distinct
+archetypes (fantasy, heist-type campaigns, or a Firefly game), or genres
+with broad and reoccurring elements (superspies and spycraftian games).
+
+One of the additional benefits of using this grouping is that with the
+proper naming for each of the roles, departments, or areas of expertise,
+it really sets and supports the tone and mood of the game.  Top
+Secret/NWO uses an Attribute + Tradecraft system, and many of their
+names are deliciously flavourful:  Nerve, Suave, Pulse, Intellect, and
+Reflex for the attributes, and with Sigint, Huminint, Techint, and
+Combat for the tradecraft categories.
+
+**.... + Background.**
+If the mechanism of Aspects is being included in the
+game, then the addition of a Background, Core Concept, "One unique
+thing" (to borrow from 13<sup>th</sup> Age), or similar all provide
+another way of defining a character.  Often, these aspects will only
+come into play at dramatically appropriate times, adding a boost (or
+hindrance\!) in great story-defining ways; as such their impact will be
+relatively infrequent and so can be considered separate from needing to
+be balanced into the base pool of 5 dice.
+
+If, instead, these Aspects are intended to be broad and important enough
+to include in many or nearly all base pools, then consider their
+contribution while determining the contribution from the rest of the
+values that create the base pool of 5 dice.
+
+
+**Approaches + Aspects.**
+Taken from FATE Accelerated, characters are
+defined by how they solve and overcome challenges rather than on
+specific means and methods:  Forceful, Quick, Clever, Sneaky, Flashy,
+and Careful.  Apocalypse World games also use something similar, as did
+the old D20 modern with its "classes" based around one of the six
+traditional D\&D attributes: strong, fast, tough, smart, dedicated,
+charismatic (or more poetically written: slick, brawny, nimble, canny,
+etc).  These receive the bulk of the weight to create the base pool of 5
+dice, supported and supplemented by a handful of character Aspects.
+
+
+**Stunts and Feats.**
+While they usually do not impact the base pool,
+Stunts or Feats are another common way to customize characters to
+provide interesting abilities and special effects by breaking or
+tweaking the game rules in interesting ways under certain
+circumstances.  Both FATE and Cortex Prime give great examples on how
+to build these in a general (but still impactful and flavourful) way,
+and any game with Talents, Feats, and the like can be cribbed for nice
+abilities and features to add to a character to render them capable in
+uncommon ways.
+
+---
+previous: [The Twist: "Buying" Success](./part08.txt)  
+next: [Additional and Common Subsystems and Considerations](./part10.txt)
+...

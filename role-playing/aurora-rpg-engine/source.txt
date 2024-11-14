@@ -1,0 +1,3 @@
+url: https://lynxthoughts.com/the-aurora-rpg-core-engine/
+author: Kannik 
+license: CC0-1.0

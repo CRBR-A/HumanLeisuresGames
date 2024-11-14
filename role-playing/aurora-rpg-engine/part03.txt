@@ -1,0 +1,96 @@
+## The Aurora RPG Engine – Part 3
+
+## Base Underpinnings and the Dice Pool
+
+At its fundamental level, this is a d6 dice pool system, chosen for the
+numerous of advantages it brings to the table:
+
+First and foremost is the pure *visceral* aspect of a dice pool.  By
+holding a number of dice in our hand we gain instant feedback of our
+strength in that moment.  We feel it.  As characters progress in skill
+and ability, it's immediately apparent through the number of dice.  So
+too is the impact of adding or subtracting modifiers.  At each moment in
+the game we feel our character's chance of success (or not).  Altogether
+it is much more personal than a faceless target number, and as such the
+experience of rolling heightens our emotional attachment.
+
+Secondly, [to summarize this earlier blog
+post](https://lynxthoughts.com/2014/12/04/gaming-thursday-rpg-system-5-dice-pool-thoughts/),
+it allows for an elegant way of handling multiple actions by a character
+in a turn:  for each declared action above the first, subtract one die
+from every test made.  This allows for a sweet differentiation between
+experienced and inexperienced characters while also elegantly handing
+movement and incidental actions.  Within this system there are no fixed
+silos of (arbitrarily increasing) attacks per turn, no rigid number of
+actions/moves/bonus actions, or the like; instead it provides a unified
+and organic method that promotes options, interesting choices, and crazy
+excitement.
+
+Thirdly, it allows for various sub-systems and abilities (such as
+martial arts, stunts, equipment traits, or other similar things) where
+removing dice can be used to "fuel" special maneuvers or attacks.
+
+Lastly, because we're dealing solely with dice, both the number of
+calculations as well as the values involved tend to remain low.  There's
+no need to add, for example, +17 to a roll.  Starting with a base number
+of dice (likely to be less than 10), then adding or subtracting a few
+dice (likely to be less than 6 either way) for modifiers keeps things
+simple.  Even if our list of modifiers grows large, because we are
+dealing with actual dice it remains easy to calculate things by going
+through modifiers one by one and physically adding or removing dice from
+our hand until the final value is reached.<span id="more-6602"></span>
+
+
+**The Elegance of Multiple Actions.**  The primary interesting choice
+that arises from the concept of removing a die per additional action is
+just that – "How many actions do I want to take?"Here is why the idea of
+"remove a die per additional action" is so exciting and interesting to
+me:  Under this idea, a character performing a single task for which
+they have a good level of skill – and it gets even more prevalent as
+they gain more experience and thus have more dice in their pool – is not
+only likely to succeed but, when coupled with the idea of a Margin of
+Success (to be explained further below), wildly succeed.  And with
+greater success comes greater effect.  But there are times where doing
+something several times in a round (and losing a die or two to each
+roll) could still be advantageous, even with a more mundane or baseline
+level of effect.  For example, in a combat situation, do I want to fire
+a single, excellent shot, or do I want to fire several shots (perhaps at
+several enemies) with a reduced chance of effect or success?  If I'm
+playing in a game where the damage of a weapon is set such that a single
+shot may drop an average foe, then one shot across three foes could be a
+worthwhile gamble.  It's a nice setup for choice.  It also provides
+another way to highlight a gunslinger's higher skill in gunslinging
+compared to that of his teammates – they not only hit more often but can
+do these kinds of multiple attacks more effectively, taking out goons
+and mooks in droves.
+
+These choices are further expanded when considering the temptation to do
+several things at once, or, through encounter design, "needing" to split
+focus and attempt many things all at once.  Throwing complications that
+require character involvement to stop them in the midst of other chaos
+(such as combat) is a time honoured GM technique for a good reason, and
+within Aurora's framework the choice gets more interesting than the
+binary "do I do this or that" by expanding it to "can I or should I
+split my attention here and try to do both?"  All while handling the
+extra actions elegantly.
+
+
+**Handling Movement as Actions. ** One option is to incorporate movement
+into the action economy.  Each character is given a base movement rate
+of X they can move in a round without requiring an action.  For every
+extra X distance they wish to cover in a round (up to a maximum to
+prevent infinite speed), it counts as an additional action.  Just like
+that, we have an automatic penalty built into other actions that would
+be affected by movement (be it shooting, working on a tablet computer,
+or prepping a spell) without requiring a separate table of modifiers to
+account for it.  And once again, it provides for interesting tactical
+choices:  How *far* do I want to move this round, knowing the penalty? 
+Is it better to move all the way in one round, or to do so in increments
+with a lessor penalty to these actions I want or need to take?
+
+
+
+---
+previous: [Intentions, Advantages, and the Core Resolution Engine](./part02.txt)  
+next: [Fixed Target Number and Difficulty as Die Modifiers](./part04.txt)
+...

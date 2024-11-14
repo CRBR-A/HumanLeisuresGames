@@ -1,0 +1,57 @@
+##[The Aurora RPG Engine – Part 1
+
+## Introduction
+
+To begin, I'm not sure there can be a truly universal RPG system that
+can, or will, fit each and every RPG possible.  Every genre, sub-genre,
+and even playstyle within each (sub)genre is going to have its own
+flavour.  For example, for a campaign set in a post-apocalyptic
+Australia, the tone, focus, and involvement is going to be vastly
+different if playing in the way of Tank Girl (silly hijinks) versus
+playing in the way of Mad Max (amped up action/adventure) versus playing
+in the way of Twilight 2000 or Wasteland (gritty, minutia, perilous). 
+The rules of the system used for those campaigns needs to be designed to
+fit and support their unique flavour and to thereby draw out the
+specific feel of the (sub)genre.  Between each type of campaign there
+are going to be differences.
+
+That said, I do believe there's still plenty of space for a core
+framework that can form the foundation for these different campaign
+types, using customization and specific sub-systems to appropriately
+mold the system to fit the (sub)genre and feel of both the world and the
+playstyle.  Thus, creating more of a universal "toolkit" rather than a
+single universal "system."<span id="more-6573"></span>
+
+Unfortunately, what follows is not – yet – a complete toolkit.  While
+the beginnings are here, more work is needed before it completely comes
+to fruition.  However, the core resolution framework that underpins this
+toolkit is solid and ready to be released.  And so consider this
+document a concept paper that describes and details a core resolution
+framework (the *engine*) that can power and propel a variety of games,
+offering benefits and advantages that can be leveraged to full effect in
+support of the features, facets, and feel of the campaign being played
+and, most importantly, the characters and stories being told therein.
+
+I am excited for the possibilities Aurora offers to all manner of
+campaigns and I've already got several in mind to develop for my gaming
+group.  In time I will share their development, using them as examples
+of how to add to this core engine to create a complete and full-fledged
+game system.
+
+Game on\!
+
+**Designer Notes and More.**  Throughout, additional designer notes and
+discussions will appear in grey boxes, like this.  This is to give
+further background on the whys, intentions, underpinnings, and
+rationales of Aurora, as well as thoughts on how, conceptually, to best
+use the resolution system.
+
+**System Examples.**  Blue boxes like this contain more specific ideas
+for the multitude of sub-systems that hook onto the core to make a
+complete game system.
+
+
+---
+previous: [Index](./index.txt)
+next: [Intentions, Advantages, and the Core Resolution Engine](./part02.txt)
+...

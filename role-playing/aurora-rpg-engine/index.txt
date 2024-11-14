@@ -1,0 +1,36 @@
+# The Aurora RPG – Core Engine
+
+[Introduction](./part01.txt)
+[Intentions, Advantages, and the Core Resolution Engine](./part02.txt)
+[Base Underpinnings and Dice Pool](./part03.txt)
+[Fixed Target Number and Difficulty as Dice Modifiers](./part04.txt)
+[Baseline Values and an Aside on Probabilities](./part05.txt)
+[Handling Difficulty and Modifiers](./part06.txt)
+[The "Extra Die" Beauty: Creating a Margin of Success](./part07.txt)
+[The Twist: "Buying" Success](./part08.txt)
+[Creating the Base Pool](./part09.txt)
+[Additional and Common Subsystems and Considerations](./part10.txt)
+[Postscript – Breaking the Core Mechanic (In a Good Way)](./part11.txt)
+[Postscript – Further Probabilities, Hidden Rolls, Discoveries](./part12.txt)
+[Postscript – MoS Counting](./part13.txt)
+
+-----
+
+The **Aurora RPG Engine** is released under a CC0 license.
+
+Technically, the above is not strictly necessary as in many countries
+games rules are not copyrightable.  And, certainly, I am standing on the
+shoulders of giants, both building from and borrowing from many other
+games over the years.  I include it just to be clear that you are free
+to take and use this RPG core engine however you wish.  I hope it proves
+to be wonderful for you and helps you create an amazing campaign\!
+
+That said, if you would like to use the Aurora RPG Engine in your game,
+I would love it if you would let me know, and be delighted if you
+included attribution to me, Oliver "Kannik" Bollmann.  And if it will be
+published, I'd love it even more if you'd involve me in the project\! 
+Either way, if you'd like to contact me please use any of the contact
+means listed in the sidebar to the right.
+
+
+Thank you and happy gaming\!

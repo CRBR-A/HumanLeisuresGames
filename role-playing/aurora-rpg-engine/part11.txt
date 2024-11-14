@@ -1,0 +1,46 @@
+## The Aurora RPG Engine – Part 11
+
+## Postscript – Breaking the Core Mechanic (In a Good Way)
+
+Sometimes, hooking a sub-system onto the core isn't quite enough to
+model the intricacies of a particular genre.  Sometimes you just gotta
+directly hack the core.  Here's one example of how this can work well
+when carefully applied, centering around the fixed target
+number.
+
+**Friction.**
+This concept is borrowed from the Top Secret/NWO game and
+models how something as touchy and fraught as spy-type (or detective
+noir, or covert military operations, or similar) action can be, as every
+little complication during a mission adds up, compounding and
+threatening to spiral everything out of control.  This is represented by
+the addition of a Tension Track to the game.  For every failed task, and
+as an option when buying additional dice from the GM, the tension track
+is increased by one.  For every 3 ticks upward on the track, the base
+target number also clicks up by one:  16, 17, 18.  With this, not only
+does it model the characters having a tougher time to succeed due both
+to the complications as well as their mounting psychological stress, but
+the players themselves also notice the higher base value and thus begin
+to feel under pressure.  As the mission progresses, the tension mounts...
+
+But not forever.  MoS can be used to click back the Tension Track,
+offering a new choice to the gameplay:  should I succeed greatly here,
+or buy an advantage, or should I use this MoS to click back how
+pear-shaped the mission has far being going thus far?
+
+
+**Why this works.**
+After so many words describing how the fixed target
+number is a great feature of Aurora's core mechanic, the adjustment of
+the target number works in this context because it is an
+across-the-board sliding of the target number and not an individual
+test-by-test adjustment.  Therefore most of the benefits of a fixed
+target number remain, and if the uncertainty of one's chances of success
+get a little wonky because it no longer fits the standard values that's
+actually a bonus and not a bug, for it fits the genre perfectly to
+intentionally add uncertainty and tension.
+
+---
+previous: [Additional and Common Subsystems and Considerations](./part10.txt)  
+next: [Postscript - Further Probabilities & Hidden Rolls & Discoveries](./part12.txt)
+...
