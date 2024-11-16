@@ -1,3 +1,10 @@
+| Entity | HEALTH | ATTACK |
+| ------ | ------ | ------ |
+| player | 6      | 1-6    |
+| enemy1 | 6      | 1-6    |
+| enemy2 | 6      | 1-6    |
+*use a 1d6*
+
 drink: 
   if !bottle:
     Calm down, you party animal. You don't have anything to drink.
