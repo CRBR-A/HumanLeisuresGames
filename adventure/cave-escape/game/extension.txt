@@ -1,14 +1,15 @@
 id: extension
 look: >
   The end of the road. Your torch illuminates a Corpse lying against a wall, 
-  and a unused Beartrap sits patiently next to you. There's no where else to 
+  He is smelly and looks as if it has been mauled. He clutches a paper in 
+  his hand. A unused Beartrap sits patiently next to him. There's no where else to 
   go but back into the TUNNEL.
   End of the road, the corpse is still here but maybe you should head back to
   TUNNEL.
 go: 
   tunnel
 take:
-  code
-  corpse
+  paper:
+    code
   beartrap
   

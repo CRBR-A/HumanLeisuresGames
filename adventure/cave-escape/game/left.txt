@@ -5,20 +5,22 @@ look: >
   path, with more rooms. You may continue to follow the sound of water to the 
   WATERFALL, walk into the dark, scary TUNNEL, head back to the HOLE you fell 
   into, or perhaps stay and Examine the place!
+  
   The TORCH on the wall flickers. The cave is rather small, with the craggy 
   rock walls arching upwards. The dark TUNNEL holds a looming fear over you. 
   The sound of the WATERFALL keeps your peace, however. You may also head back
   to the HOLE.
-  Looking closer at your surroundings you see a Body next to the water. You 
-  may want to examine the Body, or maybe get a Drink of the odd looking water.
-  You are thirsty after all. Also, picking up that Torch may be a good idea. 
+  Looking closer at your surroundings you see a Body next to the water. The 
+  body is old, and rotting. There are no signs of a struggle. The only clue 
+  to his death is the pile of vomit near the water. You can drink of the odd
+  looking water. You are thirsty after all. Also, picking up that Torch may
+  be a good idea. 
   You can go to WATERFALL, the TUNNEL, or the HOLE.
 go: 
   hole
   tunnel
   waterfall
 take: 
-  body
   torch
   water: >
     You drink the water, and immediately feel nauseous.
