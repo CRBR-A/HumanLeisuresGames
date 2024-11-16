@@ -1,0 +1,13 @@
+id: statue
+look: >
+  You approach the priceless Aztec statue. It is the most glorious object you
+  have ever laid eyes on. It's worth could bring you countless fortune and 
+  would make this hell-ish adventure worth it's literal weight in gold.
+go:
+  lab
+take: 
+  statue: >
+    You slowly, and carefully swap the statue with your phone.
+    You're holding the most prized possession. But you still need the phone!
+    You hear a click. The walls shoot poison darts at you. 
+    Your greed was the death of you.

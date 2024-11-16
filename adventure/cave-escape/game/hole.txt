@@ -1,0 +1,24 @@
+id: hole
+look: >
+  You awake to see yourself looking at the light from a HOLE in the ceiling. 
+  You look around. It seems you've fallen into a cave. There is a Bandage on 
+  the ground, which may be useful. There are two paths, to your LEFT you hear
+  the soft sound of running water. To your right, you hear the squeaks of 
+  what seem to be a RAT. 
+  
+  You remember this room like you remember the bruise on the back of your 
+  head. To your LEFT you hear the soft sound of running water. To your right,
+  is the room with the RAT.
+  
+  You look up towards the light. It seems too simple a mistake to cost you 
+  your life, but fate thinks otherwise. If you played basketball through 
+  college, you feel you could simply leap up into the hole and leave. You'd 
+  rather die than play college ball, though. Turns out that may just be the 
+  truth. There is a free Bandage on the ground. You may head to the LEFT, or 
+  greet the RAT.
+go: 
+  left
+  rat
+take:
+  bandage
+  

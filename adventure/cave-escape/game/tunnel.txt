@@ -1,0 +1,19 @@
+id: tunnel
+look: >
+  It's too dark. You let your eyes adjust. It's still too dark. You hear the 
+  snarl of an angry canine. You can't go on further, unless you use a Torch. 
+  Where had you seen one before?
+  
+  Your torch illuminates a fearsome wolf gnawing on fresh meat.
+
+  The walls begin to narrow, signaling the end of the tunnel is near. Your 
+  shivering fear of the wolf remains after you vanquished it. This tunnel is 
+  only a continuation from the LEFT, and leads onwards into the EXTENSION.
+go: 
+  left
+  extension
+take: 
+  wolf: 
+    The wolf is taken aback by your friendly gesture.
+    You scratch him behind the ears, he loves it and decides to be your friend.
+    The wolf leaves you in peace.

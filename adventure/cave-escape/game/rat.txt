@@ -1,0 +1,14 @@
+id: rat
+look:
+  You walk towards the sound of a rat. You're shocked. It's a rat.
+  Poor guy, must have fallen in just as easily as you did. It is survival of
+  the fittest, and you yearn the rewards (a knife, in this case). You may 
+  head back to the HOLE.
+  With the rat dead, you see another Bandage on the ground. You can goto 
+  HOLE, where you started.
+go:
+  hole
+take:
+  bandage
+  knife
+  

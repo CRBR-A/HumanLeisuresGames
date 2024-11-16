@@ -1,0 +1,11 @@
+id: ending
+look: >
+  The phone is about to die. Its battery is at 3%, you have time for only one
+  call. You dial 911 and quickly explain to the dispatcher where to look for 
+  you. As you finish your story the phone cuts out and dies. There's nothing 
+  left to do but wait.
+  3 hours later, you hear some commotion. It's the rescue team here to save 
+  you from this wretched cave!
+  Congratulations you survived and beat the game!!
+  
+Game credits: Alexander DuPree, Jacob Bickle. Thanks for playing!!

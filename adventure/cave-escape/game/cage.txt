@@ -1,0 +1,13 @@
+id: cage
+look:
+  A fearsome wolf is ready to unleash its rage!
+  The metal bars of the cage are chipped. You figure the wolf was rather 
+  hungry. Or perhaps wanted to escape. 
+  You may head back to the SECRET room.
+  With the wolf dead, it looks like you can pick up that Speargun and head 
+  back to the SECRET room.
+go:
+  secret
+take: 
+  speargun
+  bandage

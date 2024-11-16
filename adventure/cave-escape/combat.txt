@@ -1,0 +1,35 @@
+| Entity | HP  | ATT WITH            |
+| ------ | --- | ------------------- |
+| rat    |  50 | small claws         |
+| wolf   |  70 | claws               |
+| player | 100 | fists, knife, spear |
+| bear   | 150 | big claws           |
+
+| WEAPON      | DMG   | CRIT | ACC | DESCRIPTION                           |
+| ----------- | ----- | ---- | --- | ------------------------------------- |
+| fists       | 15-25 |   30 |  80 | Your own fists.                       |
+| knife       | 25-35 |   45 |  85 | An old rusty combat knife.            |
+| spear       | 35-45 |   60 |  80 | Crude, but an effective spear.        |
+| small claws |  5-15 |   15 |  60 | Small, skittish claws.                |
+| claws       | 15-25 |   30 |  60 | Big, strong wolf claws.               |
+| big claws   | 25-35 |   45 |  65 | You thought the wolf claws were big ? |
+
+
+
+You quickly set the trap in front of you.
+You yell at the {}, baiting it to attack you.
+The {0} takes the bait! it jumps for your throat!"
+You dodge at the last moment forcing the {0} to land on the trap
+ takes 100 damage!!
+ 
+You pull out your speargun and take aim!
+ACCURCY : 65%
+Your aim is true! The spear is fired and lodged directly in
+the {}'s chest.
+enemy.health -= 100
+
+critical hit: only 15%
+Ran away: 85% success, 15% failure (enemy turn)
+
+Inventory:
+bandage: A regular bandage. Heals 40 health, up to 100HP (max)

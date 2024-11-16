@@ -1,0 +1,6 @@
+id: start
+look: >
+  You awake to see yourself looking at the light from a HOLE in the ceiling. 
+  You look around. It seems you've fallen into a cave. 
+go:
+  hole

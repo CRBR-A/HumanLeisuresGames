@@ -1,0 +1,10 @@
+
+
+| bandage:   A regular bandage. Heals 40 health.
+| code:      The note reads:  Door code: 6824
+| corpse | This corpse is smelly and looks as if it has been mauled. He clutches the Code in his hand.
+| body     |  The body is old, and rotting. There are no signs of a struggle. The only clue to his death is the pile of vomit near the water.
+| cellphone |  A flip phone that miraculously has signal!
+| beartrap |  A loaded bear trap, good for one use with deadly results.
+| torch    |  A torch that, miraculously, can be lit. Just like the movies.
+| speargun | It's a one-shot spear gun, just like in the movie Jaws.

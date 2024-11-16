@@ -1,0 +1,18 @@
+id: waterfall
+look: >
+  You follow the sounds to a waterfall. The water looks odd, and illuminates 
+  the cave. What's that at the base of it? You walk through the water to 
+  reveal a securely locked door with a keypad! It has four digit slots, 
+  waiting for input. What could possibly be on the other side?
+  
+  The waterfall is pretty, but its slight glow is off-putting. You step up to
+  the keypad.
+go:
+  left
+  secret
+take: none
+
+keypad:
+  Enter code:
+
+The keypad lets out a quizical beep. (Invalid input)
