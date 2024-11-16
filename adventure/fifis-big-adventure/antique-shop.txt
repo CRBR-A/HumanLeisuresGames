@@ -1,0 +1,10 @@
+id: antique-shop
+look:
+  if fifi:
+    As you meander through the shop, Fifi becomes particularly intrigued by 
+    an old gramophone. She tilts her head curiously, ears perked, as she 
+    inspects the cone-shaped horn. Perhaps she's wondering if it might spring
+    to life with a familiar voice.
+  if !fifi:
+    As you look around, you can't help but imagine how Fifi might react to 
+    some of these oddities.

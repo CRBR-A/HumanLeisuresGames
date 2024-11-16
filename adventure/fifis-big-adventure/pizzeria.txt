@@ -1,0 +1,13 @@
+id: pizzeria
+look: >
+  if fifi: >
+    Fifi's nose twitches, clearly picking up on the delicious scent. As you 
+    wait, the kid behind the counter winks at you and sneaks a small slice of
+    cheese pizza to Fifi, who gobbles it down with glee. 'Dogs love our pizza 
+    too!' the kid chuckles."
+  if !fifi: >
+    The pizzeria bustles with activity, the delicious scent of baking dough 
+    and melting cheese pervading the atmosphere. You can't help but think how
+    much Fifi would have loved the aroma. 
+    As you look around, you notice the kid behind the counter playfully 
+    interacting with customers.

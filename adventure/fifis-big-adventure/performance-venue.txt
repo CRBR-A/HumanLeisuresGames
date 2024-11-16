@@ -1,0 +1,10 @@
+id: performance-venue
+look: 
+  if fifi: >
+    Fifi seems captivated by the music emanating from the stage. Her ears 
+    perk up and her tail wags rhythmically, as if she's appreciating the 
+    melody.
+  if !fifi: >
+    The sound of a lone violin strikes a chord, making you miss Fifi even 
+    more.
+ 

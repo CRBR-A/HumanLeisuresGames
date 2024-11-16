@@ -1,0 +1,10 @@
+id: retro-arcade
+look:
+  if fifi: >
+    Fifi seems fascinated by a claw machine filled with plush toys. She
+    excitedly barks each time someone tries to grab a prize, cheering them on
+    in her own way.
+  if !fifi: >
+    You notice a 'Duck Hunt' arcade machine, with its iconic giggling dog. A
+    wave of nostalgia washes over you, and thoughts of Fifi come rushing in. 
+    How you wish she were beside you, much like the faithful hound in the game.

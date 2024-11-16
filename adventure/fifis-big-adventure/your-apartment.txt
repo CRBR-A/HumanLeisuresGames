@@ -1,0 +1,10 @@
+if: your-apartment
+look:
+  if fifi: >
+    Fifi, recognizing the place from previous visits, immediately finds a
+    comfy spot on the couch. She gives a contented sigh, clearly at ease in
+    the familiar environment.
+  if !fifi:
+    The apartment feels a bit empty without Fifi's lively presence. You spot
+    a chew toy she left behind during her last visit and hope to reunite her
+    with it soon.

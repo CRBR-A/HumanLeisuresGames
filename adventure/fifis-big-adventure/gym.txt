@@ -1,0 +1,20 @@
+id: gym
+look:
+  On the corner, there's a modern gym with large glass windows. Inside,
+  people are working out on treadmills and lifting weights.
+go:
+  inside:
+    if fifi: >
+      As soon as you step inside with Fifi, a staff member approaches with a
+      worried expression. 'Sorry, no pets allowed in the gym,' they say. Fifi
+      looks around curiously, probably intrigued by all the moving machines.
+    if !fifi and !i_money and !i_flowers:
+      While looking around, you spot a lost wallet on the floor. After handing
+      it over to the reception, the grateful owner rewards you for your
+      honesty. You feel a bit richer now!
+      i_money+
+    if !fifi and i_money:
+      The gym is bustling with activity. You observe people lifting weights,
+      some are on treadmills, and a group is attending a yoga class. You admire
+      their dedication, but then think to yourself, 'Who needs a gym when
+      you're chasing after dogs all day?'

@@ -1,0 +1,15 @@
+id: flower-shop
+look:
+  if fifi: >
+    Fifi gets excited at the sight of the flowers and tries to play with
+    them, causing a bit of a mess. The shopkeeper gives you a stern look.
+  if !fifi: The shop is filled with colorful and fragrant flowers.
+use:
+  if i_money:
+    >Remembering Fifi's owner's request for flowers, you pick out a lovely
+    bouquet. You hand over the money and take the flowers.
+    i_money-
+    i_flower+
+  if !i_money
+    You realize you can't buy the requested flowers without money anyway.
+    It's best to leave before causing any more trouble.

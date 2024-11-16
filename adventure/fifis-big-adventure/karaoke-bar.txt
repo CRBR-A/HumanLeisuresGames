@@ -1,0 +1,12 @@
+id: karaoke-bar
+look:            
+  if fifi: > 
+    As the next singer takes the stage to sing a particularly high note, Fifi
+    joins in with an enthusiastic 'aroooo!' The crowd erupts in laughter and
+    applause, clearly enjoying her impromptu duet. For a moment, Fifi seems
+    to consider a career in music, her tail wagging to the rhythm."
+  if !fifi: >
+    You can't help but get swept up in the music and the atmosphere of the 
+    Karaoke Bar. As each performer takes the stage, you imagine how much fun
+    it would be to share this experience with Fifi. Maybe she'd even have a
+    favorite song?

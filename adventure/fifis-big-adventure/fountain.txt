@@ -1,0 +1,26 @@
+id: fountain
+look: >
+  if fifi:
+    A majestic fountain stands in this plaza with water cascading down
+    beautifully. You observe people around it, making wishes and tossing 
+    coins with hope.
+  if !fifi: >
+    The fountain's beauty is captivating, with water cascading elegantly into
+    the pool below. You notice people tossing coins and making wishes. The 
+    sight makes you ponder about making a wish for Fifi's safe return.
+go:
+  fountain:
+    Taking a leap of spontaneity, you decide to climb into the fountain! The
+    cold water splashes around you, and you can't help but laugh. You notice
+    some change at the bottom.
+    if fifi: Fifi, curious as ever, dips her paws in the water too.
+take:
+  if !i_money and !flowers: >
+    The moral dilemma strikes you, but the need for money to buy Fifi's 
+    flowers overpowers your hesitation. You quickly gather a handful of 
+    coins, hoping nobody notices.
+    i_money+
+  if i_flowers: >
+    You don't need any money, so you decide it's best not to take any coins,
+    even though the temptation is there.
+    

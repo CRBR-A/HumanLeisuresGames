@@ -1,0 +1,33 @@
+id: start
+look: >
+  at Fifi's Person's Apartment.
+
+  The door to the apartment opens with a familiar creak, revealing a warmly
+  lit interior that exudes a sense of home. Plush carpeting muffles your
+  footsteps as you step inside. Immediately, the walls grab your attention :
+  they're adorned with framed photographs of various dogs, their playful
+  antics frozen in time. Among them, Fifi, the mischievous poodle, features
+  prominently, capturing moments of her chasing after a ball or cuddling up
+  on the couch.
+
+  A few dog toys - a squeaky bone, a chewed-up tennis ball, and a plushie -
+  are scattered around, hinting at Fifi's recent playtime. From the kitchen,
+  a delicious aroma wafts towards you, hinting at a recently prepared meal.
+  It's a comforting scent, one that mingles with the faint floral notes in
+  the air.
+
+  Your thoughts are interrupted by a familiar voice. "Oh, you're here!"
+  Fifi's person, dressed in casual attire, emerges from the adjoining room
+  with a bright smile. Holding onto Fifi's leash, they continue, "She's been
+  eagerly waiting for her walk. And, oh! Before I forget..." They hand you a
+  small, crumpled ticket. "Could you pick up my dry cleaning on your way
+  back? And perhaps buy some fresh flowers for the apartment? It would mean a
+  lot."
+
+  As you nod in acknowledgment, Fifi's tail starts wagging furiously, her
+  excitement palpable. She barks happily, clearly thrilled at the prospect of
+  spending time with you.
+
+  With the leash in one hand and the dry cleaning ticket in the other, you're
+  ready to embark on an adventure with Fifi by your side.
+

@@ -1,0 +1,9 @@
+id: art-gallery
+look:
+  if fifi: >
+    Fifi seems particularly interested in a painting of dogs playing poker,
+    and you wonder if she recognizes the subject.
+  if !fifi: >
+    One particular painting, depicting a lively street scene, features a 
+    small dog that bears a striking resemblance to Fifi. A pang of longing 
+    hits you, and you're reminded of your mission to find her.

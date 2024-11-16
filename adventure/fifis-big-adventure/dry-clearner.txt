@@ -1,0 +1,24 @@
+id: dry-cleaner
+look: 
+  if fifi:
+    if i_ticket:
+      You and Fifi walk into the dry cleaners. The clerk, recognizing Fifi,
+      chuckles and says, 'Well, hello there. Helping with the chores today,
+      Fifi?' You hand over the ticket and receive your freshly cleaned
+      clothes. They smell wonderful. Fifi sniffs them approvingly. 'No fur
+      this time!' the clerk jokes.
+    if !i_ticket:
+      You and Fifi enter the dry cleaners. The clerk smiles and greets Fifi
+      warmly, 'Look who's here!' However, without a ticket, there's not much
+      to do. Fifi seems to enjoy the cool air and the chime of the doorbell.
+  if !fifi:
+    if ticket: >
+      You walk into the dry cleaners and hand over your ticket. The clerk
+      quickly retrieves your clothes, freshly cleaned and neatly folded. The
+      scent of fresh laundry fills your nostrils. As you leave, you can't
+      help but think how much Fifi would've enjoyed the outing.
+    if !ticket: >
+      You step into the dry cleaners, but without a ticket, you quickly
+      realize there's not much to do here. The hum of the machines and the
+      soft chatter make it a peaceful place, though.
+      

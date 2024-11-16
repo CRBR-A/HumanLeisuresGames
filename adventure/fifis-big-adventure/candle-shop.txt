@@ -1,0 +1,10 @@
+id: candle-shop
+look:
+  if fifi: >
+   Fifi seems particularly drawn to a section of uniquely scented candles. 
+   To your amusement, she sniffs intently at a bacon-scented candle, her tail
+   wagging in approval.
+  if !fifi: >
+    While admiring a display of artisan candles, you notice one shaped like a
+    small dog. It reminds you of Fifi, and you imagine her playful curiosity
+    in this fragrant wonderland.
