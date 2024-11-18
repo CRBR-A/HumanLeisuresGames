@@ -1,0 +1,20 @@
+id: skate-park
+look:
+  Nestled amidst the city's concrete landscape, the skate park emerges as a
+  haven for thrill-seekers and skateboard enthusiasts. Vibrant graffiti art
+  splashes across the ramps, half-pipes, and rails, adding a burst of color
+  and creativity to the scene. The rhythmic clatter of wheels on concrete
+  resonates through the air, punctuated by occasional cheers for a
+  well-executed trick. Skaters of all ages weave in and out, perfecting their
+  moves, while onlookers perch on nearby benches, taking in the dynamic
+  display of skill and camaraderie.
+go:
+  inside: >
+    if fifi:
+      A skateboarder misjudges his distance and swoops dangerously close to
+      Fifi. Startled, she yelps and darts away in a panic. You sprint after
+      her, but she's too swift, disappearing from sight! The skater comes to
+      a halt, looking genuinely remorseful. 'Sorry 'bout your dog, dude,' he
+      says, scratching the back of his head.
+      fifi-
+  

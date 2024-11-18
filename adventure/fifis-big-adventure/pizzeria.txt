@@ -1,13 +1,28 @@
 id: pizzeria
 look: >
-  if fifi: >
-    Fifi's nose twitches, clearly picking up on the delicious scent. As you 
-    wait, the kid behind the counter winks at you and sneaks a small slice of
-    cheese pizza to Fifi, who gobbles it down with glee. 'Dogs love our pizza 
-    too!' the kid chuckles."
-  if !fifi: >
-    The pizzeria bustles with activity, the delicious scent of baking dough 
-    and melting cheese pervading the atmosphere. You can't help but think how
-    much Fifi would have loved the aroma. 
-    As you look around, you notice the kid behind the counter playfully 
-    interacting with customers.
+  A pizzeria stands out on the street with its vibrant neon sign. Through the
+  windows, you can see families and friends gathered at tables, enjoying
+  their meals.
+  if ticket:
+    Oh no! A sudden gust sweeps up your dry cleaning ticket, sending it
+    fluttering to the east and quickly out of sight!
+    ticket--
+go:
+  inside:
+    As you step into the pizzeria, the warm ambiance envelops you. Red and
+    white checkered tablecloths adorn the wooden tables. The walls are
+    decorated with vintage Italian posters and the soft hum of conversations
+    blends with the sizzle from the open kitchen. Chefs can be seen expertly
+    tossing dough and assembling pizzas before sliding them into the stone
+    oven.         
+    if fifi: >
+      Fifi's nose twitches, clearly picking up on the delicious scent. As you 
+      wait, the kid behind the counter winks at you and sneaks a small slice of
+      cheese pizza to Fifi, who gobbles it down with glee. 'Dogs love our pizza 
+      too!' the kid chuckles."
+    if !fifi: >
+      The pizzeria bustles with activity, the delicious scent of baking dough 
+      and melting cheese pervading the atmosphere. You can't help but think how
+      much Fifi would have loved the aroma. 
+      As you look around, you notice the kid behind the counter playfully 
+      interacting with customers.

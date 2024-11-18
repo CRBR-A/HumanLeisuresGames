@@ -1,0 +1,16 @@
+id: clock-tower
+look:
+  Standing majestically in the center of the city is the historic clock
+  tower, its aged stone facade adorned with intricate carvings of time's
+  passage. A spiral staircase visible through an arched doorway suggests that
+  one can climb to the top for a panoramic view of the surroundings.
+go: 
+  inside:
+    From the top of the ancient clock tower, you're enveloped by a slightly
+    musty aroma. The cool, stone walls seem to whisper tales of times gone by
+    as you ascend. As you reach the peak, a dizzying panorama unfolds before
+    you, granting a clear and unparalleled vantage point over the sprawling
+    city. Every corner, every alley, and every street lies beneath you, like
+    a miniature world waiting to be explored. The distant hum of the city
+    life blends with the rhythmic ticking of the tower's grand clock, a
+    testament to the passage of time.

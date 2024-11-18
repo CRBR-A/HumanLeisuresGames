@@ -1,12 +1,24 @@
 id: karaoke-bar
-look:            
-  if fifi: > 
-    As the next singer takes the stage to sing a particularly high note, Fifi
-    joins in with an enthusiastic 'aroooo!' The crowd erupts in laughter and
-    applause, clearly enjoying her impromptu duet. For a moment, Fifi seems
-    to consider a career in music, her tail wagging to the rhythm."
-  if !fifi: >
-    You can't help but get swept up in the music and the atmosphere of the 
-    Karaoke Bar. As each performer takes the stage, you imagine how much fun
-    it would be to share this experience with Fifi. Maybe she'd even have a
-    favorite song?
+look:
+  A Karaoke Bar's entrance is marked by a neon microphone sign, flickering to
+  the beat of the latest pop hit. The faint sounds of enthusiastic (if not
+  always pitch-perfect) singing can be heard from outside, combined with the
+  occasional burst of laughter and applause.
+go:
+  inside:
+    Karaoke Bar is dimly lit, with colorful stage lights casting a revolving
+    glow on the main stage. Patrons sit at tables, sipping on drinks, while
+    the brave ones take to the stage, belting out their chosen tunes. A large
+    screen displays lyrics, and the walls are adorned with posters of iconic
+    musicians and bands. The atmosphere is light-hearted and jovial, with
+    everyone cheering on the performers, regardless of their singing prowess.
+    if fifi: > 
+      As the next singer takes the stage to sing a particularly high note, Fifi
+      joins in with an enthusiastic 'aroooo!' The crowd erupts in laughter and
+      applause, clearly enjoying her impromptu duet. For a moment, Fifi seems
+      to consider a career in music, her tail wagging to the rhythm."
+    if !fifi: >
+      You can't help but get swept up in the music and the atmosphere of the 
+      Karaoke Bar. As each performer takes the stage, you imagine how much fun
+      it would be to share this experience with Fifi. Maybe she'd even have a
+      favorite song?

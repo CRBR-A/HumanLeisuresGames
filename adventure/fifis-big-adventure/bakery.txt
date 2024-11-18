@@ -1,14 +1,22 @@
 id: bakery
-look: 
-  if fifi: >
-    The bakery is filled with the delightful aroma of freshly baked goods. As
-    you're admiring the pastries on display, a customer accidentally drops a
-    cookie. Before you can react, Fifi, ever the opportunist, quickly snatches
-    it up and munches on her unexpected treat. The customer laughs, 'Guess
-    it's hers now!' You apologize, but they assure you it's alright. 'All
-    part of the fun of having a dog,' they chuckle.
-  if !fifi: >
-    The bakery buzzes with activity. The display is lined with a variety of
-    bread, pastries, and cakes, making your mouth water. As you admire the
-    baked goods, you wonder if Fifi would have liked something from here. The
-    thought makes you even more eager to find her.
+look: >
+  A delightful bakery stands here with a tempting display of freshly baked
+  bread and pastries. The irresistible scent of baking wafts around, making
+  you feel hungry.
+go:
+  inside: >
+    The inside of the bakery is warm from the ovens. Behind the counter,
+    bakers knead dough and pull out fresh batches of cookies. There's a
+    chalkboard menu detailing today's specials.
+    if fifi: >
+      The bakery is filled with the delightful aroma of freshly baked goods. As
+      you're admiring the pastries on display, a customer accidentally drops a
+      cookie. Before you can react, Fifi, ever the opportunist, quickly snatches
+      it up and munches on her unexpected treat. The customer laughs, 'Guess
+      it's hers now!' You apologize, but they assure you it's alright. 'All
+      part of the fun of having a dog,' they chuckle.
+    if !fifi: >
+      The bakery buzzes with activity. The display is lined with a variety of
+      bread, pastries, and cakes, making your mouth water. As you admire the
+      baked goods, you wonder if Fifi would have liked something from here. The
+      thought makes you even more eager to find her.

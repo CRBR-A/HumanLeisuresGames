@@ -1,10 +1,20 @@
 id: performance-venue
-look: 
-  if fifi: >
-    Fifi seems captivated by the music emanating from the stage. Her ears 
-    perk up and her tail wags rhythmically, as if she's appreciating the 
-    melody.
-  if !fifi: >
-    The sound of a lone violin strikes a chord, making you miss Fifi even 
-    more.
- 
+look: >
+  The grand facade of the Performance Venue stands out with its intricate
+  architectural details and large poster displays of upcoming shows. A red
+  carpet leads to the main entrance, and the faint sound of rehearsing
+  instruments hints at the artistic magic that happens within.
+go:
+  inside: >
+    The opulent interior is adorned with gold leaf details and plush red
+    velvet seats. Crystal chandeliers hang from the ceiling, casting a warm
+    glow over the audience area. The stage is set for the evening's
+    performance, with props and instruments in place, awaiting the artists.
+    if fifi: >
+      Fifi seems captivated by the music emanating from the stage. Her ears
+      perk up and her tail wags rhythmically, as if she's appreciating the
+      melody.
+    if !fifi: >
+      The sound of a lone violin strikes a chord, making you miss Fifi even
+      more.
+   

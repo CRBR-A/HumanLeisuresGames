@@ -1,9 +1,20 @@
 id: art-gallery
-look:
-  if fifi: >
-    Fifi seems particularly interested in a painting of dogs playing poker,
-    and you wonder if she recognizes the subject.
-  if !fifi: >
-    One particular painting, depicting a lively street scene, features a 
-    small dog that bears a striking resemblance to Fifi. A pang of longing 
-    hits you, and you're reminded of your mission to find her.
+look: >
+  The Art Gallery, an architectural marvel, stands elegantly on this street.
+  Its modern facade, juxtaposed against classic design elements, boasts large
+  windows that allow passersby a glimpse of the masterpieces within.
+go: 
+  inside: >
+    As you step into the art gallery, the hushed atmosphere envelops you.
+    Walls adorned with paintings from various eras tell a visual story of
+    artistic evolution. Paintings, sculptures, and other artworks are
+    meticulously displayed, each piece telling its own story. The soft
+    lighting and quiet murmurs of fellow art enthusiasts create a
+    contemplative atmosphere.
+    if fifi: >
+      Fifi seems particularly interested in a painting of dogs playing poker,
+      and you wonder if she recognizes the subject.
+    if !fifi: >
+      One particular painting, depicting a lively street scene, features a 
+      small dog that bears a striking resemblance to Fifi. A pang of longing 
+      hits you, and you're reminded of your mission to find her.

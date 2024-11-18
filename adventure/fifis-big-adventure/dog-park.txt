@@ -1,15 +1,22 @@
 id: dog-park
 look:
-  if fifi: >
-    You and Fifi enter the dog park, and her tail wags with excitement. She
-    immediately joins a group of playful dogs, chasing a frisbee and rolling
-    in the grass. After a while, you call her over, and she comes back,
-    looking extremely happy. A fellow dog owner comments, 'She's got a lot of
-    energy! It's great she has a place like this.'
-  if !fifi: >
-    As you approach the dog park, you spot a familiar furry face. It's Fifi!
-    She's playing joyfully with some other dogs. As you call out her name,
-    she looks up and runs towards you, wagging her tail. It seems she's made
-    some new friends while she was away. A nearby dog owner mentions, 'She's
-    been the star of the park today!' You're relieved to have found her.
-    fifi+
+  As you approach, you see a fenced dog park where dogs are joyfully playing
+  fetch and running around. Nearby, dog owners chat on the benches.
+go:
+  inside: >
+    Inside the dog park's fence, there's a sense of joy and freedom. Dogs of
+    all sizes run around, some chasing balls, others making new friends. A
+    water station is set up for them to drink.
+    if fifi: >
+      You and Fifi enter the dog park, and her tail wags with excitement. She
+      immediately joins a group of playful dogs, chasing a frisbee and rolling
+      in the grass. After a while, you call her over, and she comes back,
+      looking extremely happy. A fellow dog owner comments, 'She's got a lot of
+      energy! It's great she has a place like this.'
+    if !fifi: >
+      As you approach the dog park, you spot a familiar furry face. It's Fifi!
+      She's playing joyfully with some other dogs. As you call out her name,
+      she looks up and runs towards you, wagging her tail. It seems she's made
+      some new friends while she was away. A nearby dog owner mentions, 'She's
+      been the star of the park today!' You're relieved to have found her.
+      fifi+

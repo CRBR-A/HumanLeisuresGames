@@ -1,5 +1,16 @@
 id: retro-arcade
 look:
+  Neon lights and the sound of classic game tunes beckon you to a Retro
+  Arcade. The entrance is guarded by life-sized statues of iconic video game
+  characters.
+go:
+  inside:
+    Rows of vintage arcade machines line the walls, each game transporting
+    players to different pixelated worlds. The familiar sounds of coin
+    inserts, joystick moves, and victory jingles create an energetic
+    symphony. In one corner, a high-score board boasts the legends of the
+    arcade, and a snack bar offers refreshments and treats for players taking
+    a break.
   if fifi: >
     Fifi seems fascinated by a claw machine filled with plush toys. She
     excitedly barks each time someone tries to grab a prize, cheering them on

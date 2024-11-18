@@ -1,18 +1,29 @@
 id: sanctuary
-look:
-  if fifi: >
-    The calm and peaceful ambiance of the sanctuary envelops you as you step
-    in with Fifi. While some attendees give curious glances at the canine 
-    visitor, most offer warm smiles, silently acknowledging the sanctuary's 
-    all-inclusive welcome. Fifi, sensing the tranquility, calmly trots beside
-    you, occasionally stopping to curiously sniff at the ends of pews. A 
-    nearby attendee, observing Fifi, whispers, 'All creatures, great and 
-    small, are welcome here.' You nod in appreciation, feeling grateful for
-    such accepting spaces.
-  if !fifi: >
-    The serene environment of the sanctuary allows you a moment of stillness
-    amid the chaos of the city and your search for Fifi. You take a seat in
-    one of the pews, allowing the calmness to wash over you. Silently, you
-    say a prayer, hoping for guidance and the safe return of Fifi. The soft
-    glow from the stained glass windows and the scent of incense provide a
-    comforting backdrop to your moment of reflection.
+look: >
+  A quaint and unassuming building with a carved dove in flight signifies
+  peace and acceptance. The sign out front reads 'Non-Denominational House of
+  Worship: All are Welcome'. Soft choral music emanates from within, creating
+  a serene ambiance around.
+go:
+  inside: >
+    The interior is serene and filled with soft lighting from stained glass
+    windows. Wooden pews are neatly arranged facing a simple altar. A few
+    individuals sit quietly, lost in reflection or prayer. The air is filled
+    with a gentle scent of incense, and the overall atmosphere is one of
+    peace and contemplation.
+    if fifi: >
+      The calm and peaceful ambiance of the sanctuary envelops you as you step
+      in with Fifi. While some attendees give curious glances at the canine 
+      visitor, most offer warm smiles, silently acknowledging the sanctuary's 
+      all-inclusive welcome. Fifi, sensing the tranquility, calmly trots beside
+      you, occasionally stopping to curiously sniff at the ends of pews. A 
+      nearby attendee, observing Fifi, whispers, 'All creatures, great and 
+      small, are welcome here.' You nod in appreciation, feeling grateful for
+      such accepting spaces.
+    if !fifi: >
+      The serene environment of the sanctuary allows you a moment of stillness
+      amid the chaos of the city and your search for Fifi. You take a seat in
+      one of the pews, allowing the calmness to wash over you. Silently, you
+      say a prayer, hoping for guidance and the safe return of Fifi. The soft
+      glow from the stained glass windows and the scent of incense provide a
+      comforting backdrop to your moment of reflection.

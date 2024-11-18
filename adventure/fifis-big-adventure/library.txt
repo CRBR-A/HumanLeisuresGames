@@ -5,7 +5,9 @@ look:
   books.
 go:
   inside:
-    The grandeur of the library's interior matches its exterior. Tall bookshelves, reading nooks, and soft lighting make it a haven for book lovers. You can hear the soft rustling of pages turning.
+    The grandeur of the library's interior matches its exterior. Tall
+    bookshelves, reading nooks, and soft lighting make it a haven for book
+    lovers. You can hear the soft rustling of pages turning.
   if fifi: >
     The librarian, a kind elderly lady, spots you at the entrance with Fifi.
     'I'm sorry, pets aren't allowed inside.' She does, however, hand Fifi a

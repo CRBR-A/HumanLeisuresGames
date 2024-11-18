@@ -1,10 +1,19 @@
 id: candle-shop
 look:
-  if fifi: >
-   Fifi seems particularly drawn to a section of uniquely scented candles. 
-   To your amusement, she sniffs intently at a bacon-scented candle, her tail
-   wagging in approval.
-  if !fifi: >
-    While admiring a display of artisan candles, you notice one shaped like a
-    small dog. It reminds you of Fifi, and you imagine her playful curiosity
-    in this fragrant wonderland.
+  Nestled between two buildings is a quaint candle shop, its window adorned
+  with candles of all shapes and colors. The gentle glow from within,
+  combined with the soft fragrance wafting out, makes it an inviting location.
+go: 
+  inside:
+    Inside the candle shop is a sensory delight. Shelves upon shelves of
+    candles in every conceivable color and scent line the walls. Gentle music
+    plays in the background, and the subtle intermingling of aromas - from
+    lavender to fresh linen to sandalwood - creates a calming ambiance.
+    if fifi: >
+     Fifi seems particularly drawn to a section of uniquely scented candles. 
+     To your amusement, she sniffs intently at a bacon-scented candle, her
+     tail wagging in approval.
+    if !fifi: >
+      While admiring a display of artisan candles, you notice one shaped like
+      a small dog. It reminds you of Fifi, and you imagine her playful 
+      curiosity in this fragrant wonderland.

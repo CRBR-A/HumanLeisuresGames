@@ -1,17 +1,27 @@
 id: vet
-look: 
-  if fifi: >
-    The moment you step into the vet's office, Fifi seems to sense where she
-    is. Her tail goes between her legs, and she starts to whimper. Before you
-    can comfort her, she suddenly pulls out of her collar and darts out the
-    door. A vet assistant tries to catch her, but she's too quick. "She's
-    probably just scared," the vet says reassuringly, "Most pets aren't fans
-    of this place. You might want to look for her outside."
-    fifi-
-  if !fifi: >
-    The vet's office is filled with the soft mewls of cats and the occasional
-    bark of dogs. You approach the receptionist and show her a picture of
-    Fifi, asking if anyone has brought her in. She shakes her head, "Sorry,
-    we haven't seen your dog. But leave your contact information, and we'll
-    call if she shows up." You thank her and decide to continue your search
-    outside.'
+look: >
+  There's a vet clinic here with a welcoming sign of a cat and dog. From
+  inside, you can faintly hear the meows and barks of pets.
+  Fifi becomes notably restless on this particular street corner. Her tail
+  tucks slightly, and she pulls on the leash, eager to move away from the
+  area.
+go:
+  inside: >
+    The vet's reception is calm and welcoming. A cat lounges in its carrier,
+    and a dog wags its tail, waiting for a treat from the receptionist. The
+    walls have posters about pet care.
+    if fifi: >
+      The moment you step into the vet's office, Fifi seems to sense where she
+      is. Her tail goes between her legs, and she starts to whimper. Before you
+      can comfort her, she suddenly pulls out of her collar and darts out the
+      door. A vet assistant tries to catch her, but she's too quick. "She's
+      probably just scared," the vet says reassuringly, "Most pets aren't fans
+      of this place. You might want to look for her outside."
+      fifi-
+    if !fifi: >
+      The vet's office is filled with the soft mewls of cats and the occasional
+      bark of dogs. You approach the receptionist and show her a picture of
+      Fifi, asking if anyone has brought her in. She shakes her head, "Sorry,
+      we haven't seen your dog. But leave your contact information, and we'll
+      call if she shows up." You thank her and decide to continue your search
+      outside.'

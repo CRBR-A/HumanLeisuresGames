@@ -1,10 +1,16 @@
 id: antique-shop
-look:
-  if fifi:
-    As you meander through the shop, Fifi becomes particularly intrigued by 
-    an old gramophone. She tilts her head curiously, ears perked, as she 
-    inspects the cone-shaped horn. Perhaps she's wondering if it might spring
-    to life with a familiar voice.
-  if !fifi:
-    As you look around, you can't help but imagine how Fifi might react to 
-    some of these oddities.
+look: >
+  An antique shop looks like it's from another era with its vintage signage
+  and ornate wooden door.
+go:
+  inside: >
+    Every corner of the shop holds treasures from the past. From old clocks
+    to vintage jewelry, the collection is vast and fascinating.
+    if fifi:
+      As you meander through the shop, Fifi becomes particularly intrigued by 
+      an old gramophone. She tilts her head curiously, ears perked, as she 
+      inspects the cone-shaped horn. Perhaps she's wondering if it might
+      spring to life with a familiar voice.
+    if !fifi:
+      As you look around, you can't help but imagine how Fifi might react to
+      some of these oddities.
