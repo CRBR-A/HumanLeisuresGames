@@ -4,6 +4,12 @@ look: >
   see various clothes hanging inside, neatly pressed and waiting for their
   owners.
 go:
+  north: Art Gallery
+  northeast: Performance Venue
+  east: Library
+  southeast: Cafe
+  west: Dog Park
+  northwest: Bakery
   inside: >
     The dry cleaner's interior is organized and clean. Conveyors move with
     cleaned clothes in protective wraps. A seamstress works on minor repairs

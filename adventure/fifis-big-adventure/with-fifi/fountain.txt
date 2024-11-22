@@ -9,6 +9,12 @@ look: >
     the pool below. You notice people tossing coins and making wishes. The 
     sight makes you ponder about making a wish for Fifi's safe return.
 go:
+  north: Fifi's Person's Apartment
+  northeast: Vet
+  east: Pizzeria
+  south: Art Gallery
+  southwest: Retro Arcade
+  west: Flower Shop
   inside:
     Taking a leap of spontaneity, you decide to climb into the fountain! The
     cold water splashes around you, and you can't help but laugh. You notice

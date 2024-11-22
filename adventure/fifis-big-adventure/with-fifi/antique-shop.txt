@@ -3,6 +3,12 @@ look: >
   An antique shop looks like it's from another era with its vintage signage
   and ornate wooden door.
 go:
+  north: Sanctuary
+  east: Bakery
+  south: Dog Park
+  west: > 
+    The river to the west acts as a natural boundary, with boats occasionally
+    passing by.
   inside: >
     Every corner of the shop holds treasures from the past. From old clocks
     to vintage jewelry, the collection is vast and fascinating.

@@ -5,6 +5,12 @@ look: >
   Worship: All are Welcome'. Soft choral music emanates from within, creating
   a serene ambiance around.
 go:
+  north: Skate Park
+  northeast: Retro Arcade
+  east: Clock Tower
+  southeast: Bakery
+  south: Antique Shop
+  west: You hear the gentle sound of flowing water from the river to the west.
   inside: >
     The interior is serene and filled with soft lighting from stained glass
     windows. Wooden pews are neatly arranged facing a simple altar. A few

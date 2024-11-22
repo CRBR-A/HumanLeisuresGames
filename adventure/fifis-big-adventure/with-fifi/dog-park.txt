@@ -3,6 +3,12 @@ look:
   As you approach, you see a fenced dog park where dogs are joyfully playing
   fetch and running around. Nearby, dog owners chat on the benches.
 go:
+  north: Antique Shop
+  northeast: Dry Cleaners
+  east: Cafe
+  south: >
+    Train tracks to the south bar your way, with occasional trains rumbling
+    by.
   inside: >
     Inside the dog park's fence, there's a sense of joy and freedom. Dogs of
     all sizes run around, some chasing balls, others making new friends. A

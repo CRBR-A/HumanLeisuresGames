@@ -3,6 +3,11 @@ look:
   On the corner, there's a modern gym with large glass windows. Inside,
   people are working out on treadmills and lifting weights.
 go:
+  north: Your Apartment
+  northwest: Pizzeria
+  southwest: Karaoke Bar
+  south: Library
+  east: Steep hills rise to the east, their slopes covered in greenery.
   inside:
     if fifi: >
       As soon as you step inside with Fifi, a staff member approaches with a

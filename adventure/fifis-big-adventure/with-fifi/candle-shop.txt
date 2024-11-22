@@ -4,6 +4,13 @@ look:
   with candles of all shapes and colors. The gentle glow from within,
   combined with the soft fragrance wafting out, makes it an inviting location.
 go: 
+  north: Library
+  east: Old Man
+  west: Cafe
+  northwest: Performance Venue
+  south: >
+    You see a freight train passing by on the tracks to the south, carrying
+    goods to distant places.
   inside:
     Inside the candle shop is a sensory delight. Shelves upon shelves of
     candles in every conceivable color and scent line the walls. Gentle music

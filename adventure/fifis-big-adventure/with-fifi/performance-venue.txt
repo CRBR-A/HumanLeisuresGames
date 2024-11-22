@@ -5,6 +5,12 @@ look: >
   carpet leads to the main entrance, and the faint sound of rehearsing
   instruments hints at the artistic magic that happens within.
 go:
+  north: Vet
+  northeast: Karaoke Bar
+  southeast: Old man 
+  southwest: Dry Cleaners
+  west: Bakery
+  northwest: Clock Tower
   inside: >
     The opulent interior is adorned with gold leaf details and plush red
     velvet seats. Crystal chandeliers hang from the ceiling, casting a warm

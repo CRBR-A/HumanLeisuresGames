@@ -4,6 +4,11 @@ look:
   Arcade. The entrance is guarded by life-sized statues of iconic video game
   characters.
 go:
+  north: Flower Shop
+  east: Fountain
+  southeast: Art Gallery
+  south: Bakery
+  southwest: Sanctuary
   inside:
     Rows of vintage arcade machines line the walls, each game transporting
     players to different pixelated worlds. The familiar sounds of coin

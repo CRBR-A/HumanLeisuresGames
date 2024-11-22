@@ -9,6 +9,13 @@ look:
   moves, while onlookers perch on nearby benches, taking in the dynamic
   display of skill and camaraderie.
 go:
+  north: > 
+    The dense forest to the north blocks your way, with tall trees and 
+    thick underbrush.
+  east: Fifi's Person's Apartment
+  southeast : Flower Shop
+  south: Sanctuary
+  west: A wide river flows to the west, its waters shimmering under the sun.
   inside: >
     if fifi:
       A skateboarder misjudges his distance and swoops dangerously close to
@@ -17,4 +24,4 @@ go:
       a halt, looking genuinely remorseful. 'Sorry 'bout your dog, dude,' he
       says, scratching the back of his head.
       fifi-
-  
+

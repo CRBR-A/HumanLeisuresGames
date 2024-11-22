@@ -30,4 +30,12 @@ look: >
 
   With the leash in one hand and the dry cleaning ticket in the other, you're
   ready to embark on an adventure with Fifi by your side.
-
+go:
+  north: > 
+    You hear the distant sound of birds from the northern forest, but you 
+    can't go further in that direction.
+  east: Your Apartment
+  southeast: Vet
+  south: Clock Tower
+  west: Skate Park
+  northwest: Fountain

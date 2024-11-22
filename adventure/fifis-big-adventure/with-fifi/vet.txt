@@ -6,6 +6,12 @@ look: >
   tucks slightly, and she pulls on the leash, eager to move away from the
   area.
 go:
+  northwest: Fifi's Person's Apartment
+  northeast: Your Apartment
+  southeast: Pizzeria
+  south: Performance Venue
+  southwest: Fountain
+  west: Flower Shop
   inside: >
     The vet's reception is calm and welcoming. A cat lounges in its carrier,
     and a dog wags its tail, waiting for a treat from the receptionist. The

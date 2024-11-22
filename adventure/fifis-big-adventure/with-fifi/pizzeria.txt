@@ -8,6 +8,12 @@ look: >
     fluttering to the east and quickly out of sight!
     ticket--
 go:
+  northwest: Vet
+  northeast: Your Apartment
+  east: Gym
+  south: Karaoke Bar
+  west: Fountain
+  southwest: Clock Tower
   inside:
     As you step into the pizzeria, the warm ambiance envelops you. Red and
     white checkered tablecloths adorn the wooden tables. The walls are

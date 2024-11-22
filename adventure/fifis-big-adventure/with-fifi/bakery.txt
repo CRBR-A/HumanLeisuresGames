@@ -4,6 +4,11 @@ look: >
   bread and pastries. The irresistible scent of baking wafts around, making
   you feel hungry.
 go:
+  north: Art Gallery
+  northeast: Clock Tower
+  east: Performance Venue
+  south: Dry Cleaners
+  southwest: Dog Park
   inside: >
     The inside of the bakery is warm from the ovens. Behind the counter,
     bakers knead dough and pull out fresh batches of cookies. There's a

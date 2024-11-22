@@ -5,6 +5,12 @@ look:
   always pitch-perfect) singing can be heard from outside, combined with the
   occasional burst of laughter and applause.
 go:
+  north: Your Apartment
+  northeast: Gym
+  south: Candle Shop
+  southwest: Performance Venue
+  west: Art Gallery
+  northwest: Pizzeria
   inside:
     Karaoke Bar is dimly lit, with colorful stage lights casting a revolving
     glow on the main stage. Patrons sit at tables, sipping on drinks, while

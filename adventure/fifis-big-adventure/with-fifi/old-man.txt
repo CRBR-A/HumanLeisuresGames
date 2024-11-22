@@ -12,4 +12,13 @@ look: >
   if fifi and flowers and drycleaning: >
     He closes his eyes and whispers 'Success, you've done your best.'
   He smiles enigmatically.
-  
+go:
+  north: Library
+  west: Candle Shop
+  norhtwest: Performance Venue
+  east: > 
+    Birds of prey circle over the eastern hills, their cries echoing in the
+    distance.
+  south: >
+    Train tracks to the south bar your way, with occasional trains rumbling 
+    by.

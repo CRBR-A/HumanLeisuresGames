@@ -5,6 +5,14 @@ look:
   passage. A spiral staircase visible through an arched doorway suggests that
   one can climb to the top for a panoramic view of the surroundings.
 go: 
+  north: Fifi's Person's Apartment
+  northeast: Pizzeria
+  east: Karaoke Bar
+  southeast: Performance Venue
+  south: Cafe
+  southwest: Bakery
+  west: Sanctuary
+  northwest: Art Gallery
   inside:
     From the top of the ancient clock tower, you're enveloped by a slightly
     musty aroma. The cool, stone walls seem to whisper tales of times gone by

@@ -1,0 +1,10 @@
+url: https://github.com/savetz/FifisBigAdventure
+author: ChatGPT, Kay Savetz
+note: "Every word of the game was written by ChatGPT"
+license:
+  short: CC0-1.0
+  detail: 
+    - "Every word of the game was written by ChatGPT"
+    - the output of ChatGPT are owned by the user
+    - the user (Kay Savetz) licensed the text and code to CC0-1.0
+    - "safe" since it's only a narrative story, of a dog walking on a city.

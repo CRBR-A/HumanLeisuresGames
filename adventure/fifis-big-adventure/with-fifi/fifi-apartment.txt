@@ -3,6 +3,13 @@ look:
   You recognize the familiar entrance to Fifi's person's apartment building
   on this street.
 go:
+  north: > 
+    You hear the distant sound of birds from the northern forest, but you 
+    can't go further in that direction.
+  west: Skate Park
+  northwest: Fountain
+  southeast: Vet
+  east: Your Apartment
   inside: >
     Stepping into the apartment, you're immediately enveloped by its warmth
     and familiarity. The walls are adorned with pictures of various dogs,
@@ -38,3 +45,4 @@ go:
       disappointed owner. 'I'm just glad Fifi's safe,' they say, while
       clearly hoping for more. Fifi wags her tail and licks your face,
       grateful for the journey you shared.
+   

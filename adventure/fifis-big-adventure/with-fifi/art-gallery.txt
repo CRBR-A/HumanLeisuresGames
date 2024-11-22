@@ -4,6 +4,14 @@ look: >
   Its modern facade, juxtaposed against classic design elements, boasts large
   windows that allow passersby a glimpse of the masterpieces within.
 go: 
+  north: Fountain 
+  northeast: Pizzeria
+  east: Karaoke Bar
+  southeast: Clock Tower
+  south: Dry Cleaners
+  southwest: Bakery
+  west: Sanctuary
+  northwest: Retro Arcade
   inside: >
     As you step into the art gallery, the hushed atmosphere envelops you.
     Walls adorned with paintings from various eras tell a visual story of

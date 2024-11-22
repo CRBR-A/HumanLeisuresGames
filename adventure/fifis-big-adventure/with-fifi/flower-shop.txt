@@ -3,6 +3,9 @@ look: >
   You notice a charming flower shop displaying a colorful array of flowers on
   this block. The enchanting scent of roses and lilies fills the air.
 go: 
+  northwest: Skate Park
+  east: Fountain
+  south: Retro Arcade
   inside: >
     Entering the flower shop, you're surrounded by vibrant colors. The
     florist is arranging a bouquet, and there's a gentle hum from the cooler
@@ -13,8 +16,8 @@ go:
     if !fifi: 
       The shop is filled with colorful and fragrant flowers.
 use:
-  if i_money:
-    >Remembering Fifi's owner's request for flowers, you pick out a lovely
+  if i_money: >
+    Remembering Fifi's owner's request for flowers, you pick out a lovely
     bouquet. You hand over the money and take the flowers.
     i_money-
     i_flower+

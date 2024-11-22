@@ -4,6 +4,12 @@ look: >
   entrance has a small canopy, and potted plants flank either side of the
   door.
 go:
+  north: >
+    The forest to the north looks serene, but there's no path leading into it
+    from here.
+  south: Pizzeria
+  southwest: Vet
+  west: Fifi's Person's Apartment
   inside: >
     Your apartment feels warm and welcoming. The living room is adorned with
     personal mementos and photos. A comfortable couch faces a TV, and nearby,
