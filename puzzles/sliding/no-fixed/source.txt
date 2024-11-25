@@ -1,0 +1,10 @@
+Title: Rubik's Plane
+Description: Shape shifting puzzler
+Author: Markus Fisch
+Website: https://github.com/markusfisch/
+License: 
+  short: Unlicense
+  note: no license indicated in github but marked as Unlicense in website
+  date: April 2016
+Source: https://github.com/markusfisch/RubiksPlane
+Last update: Dec 1, 2019

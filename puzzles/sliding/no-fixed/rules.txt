@@ -1,0 +1,5 @@
+goal: move the tiles to reproduce the result
+rules:
+  rule1: a row movement affect all the tiles on the same row
+  rule2: a column movement affect all the tiles on the same column
+  rule3: there are no boundary, tiles can be moved outside the initial square
