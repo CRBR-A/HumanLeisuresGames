@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Mau Mau!</title>
+    <link rel="stylesheet" href="styles/design.css" />
+    <script src="scripts/script2.js" defer></script>
+  </head>
+
+  <body>
+    <header>
+      <h1>Mau Mau - the card game</h1>
+      <h4 id="header-version"></h4>
+    </header>
+
+    <nav>
+      <button id="button-new-game" class="menu-button">New game</button>
+      <button id="button-game-rules" class="menu-button">Modify rules</button>
+      <button id="button-best-games" class="menu-button">Top Ten</button>
+    </nav>
+
+    <main>
+      <div id="opponents">
+      </div>
+
+      <div id="piles">
+        <div id="draw-deck-div" class="deck-wrapper">
+          <div id="draw-deck" class="deck"></div>
+          <div id="draw-deck-sub" class="deck-sub">Draw pile</div>
+        </div>
+        <div id="discard-pile-div" class="deck-wrapper">
+          <div id="discard-pile" class="deck"></div>
+          <div id="discard-pile-sub">Discard pile</div>
+        </div>
+      </div>
+
+      <div id="player">
+      </div>
+
+      <div id="player-commands">
+        <button id="button-mau" class="player-button">Mau</button>
+        <button id="button-cant" class="player-button">I can't play.</button>
+        <button id="button-giveup" class="player-button">I give up.</button>
+      </div>
+      
+    </main>
+
+    <div id="extend-seven-modal" class="modal closed">
+      <div id="extend-seven-modalcontent">
+        <h3>Do you want to extend the played seven?</h3>
+        <p>Your opponent has played a seven, and you also have one in your hand.
+          Do you want to extend it, so that the next person has to draw 4 cards?
+        </p>
+        <button id="extend-seven-yes">Yes</button>
+        <button id="extend-seven-no">No</button>
+      </div>
+    </div>
+
+    <div id="modal-overlay" class="modal-overlay closed">
+    </div>
+
+  </body>
+</html> 

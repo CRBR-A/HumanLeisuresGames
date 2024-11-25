@@ -1,0 +1,12 @@
+- **Title** : Stone-Paper-Scissors-91939
+- **Description** : Stone Paper Scissors Game using JavaScript and HTML, CSS
+- **Author** : 'Subhrajit91939' (Subhrajit Guchait)
+- **Website** : https://github.com/Subhrajit91939
+- **License** : CC0-1.0
+- **Source** : https://github.com/Subhrajit91939/Stone-Paper-Scissors-91939
+- **Last update** : May 8, 2020
+- **Modifications** : 
+  - removed '.ruby-version', '_config.yml', 'Gemfile'
+  - in index.html : moved "<div class="New">[...]</div>" (at the end of the file) to line 22 (after the </div> of the class="score-container") -for better placement of the reset button-
+  - in style.css, commented the html height: 100% (conflict with body 100%).
+

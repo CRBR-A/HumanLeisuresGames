@@ -1,0 +1,36 @@
+body {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    background-color: black;
+}
+.card {
+    height: 150px;
+    width: auto;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.game-title {
+    margin-top: 0;
+    font-family: 'Baloo 2', cursive;
+    text-align: center;
+    font-size: 64px;
+    color: white;
+    background-color: black;
+}
+#card-grid {
+    width: auto;
+    height: auto;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    margin: 64px 0 0 0;
+}
+#result {
+    font-family: 'Baloo 2', cursive;
+    text-align: center;
+    font-size: 48px;
+    color: white;
+    background-color: black;
+    margin-top: 64px;
+}

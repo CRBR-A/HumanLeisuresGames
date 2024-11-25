@@ -1,0 +1,12 @@
+- **Title** : quadTRI
+- **Description** : A short and simple puzzle game about triangles for two players.
+- **Author** : Markus Fisch
+- **Website** : https://github.com/markusfisch/
+- **License** : Unlicense license
+- **Source** : https://github.com/markusfisch/quadtri
+- **Last update** : Oct 19, 2019
+- **Modifications** : 
+  - moved "htdocs/*" files to root folder
+  - removed "htdocs" folder
+  - removed ".gitignore" "makefile"
+

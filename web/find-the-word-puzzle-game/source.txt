@@ -1,0 +1,13 @@
+- **Title** : Find the word puzzle game
+- **Description** : A puzzle game of words
+- **Author** : Kunuk Nykjær
+- **Website** : https://github.com/kunukn
+- **License** : CC0
+- **Source** : https://github.com/kunukn/find-the-word-puzzle-game
+- **Last update** : Jan 26, 2016
+- **Modifications** : 
+  - Moved files from "src\web\*" to root
+    - note : a cordova version is present in the other folder
+  - Moved "screenshots\find-the-word-puzzle-game.png" to root
+  - removed screenshots and src folders
+  - removed .babelrc, gulpfile.js, package.json, readme.txt

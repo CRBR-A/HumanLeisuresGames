@@ -1,0 +1,27 @@
+﻿- **TITLE** : simple_poker
+- **DESCRIPTION** : A simple JavaScript browser-based Draw Poker game.
+- **AUTHORS** : barnaby0101 (original) and MechatronicBeing (modifications)
+- **LICENSE** : CC0-1.0 
+  > the playing card images are in public-domain
+- **WEBSITE** : https://github.com/barnaby0101
+- **SOURCES** : https://github.com/barnaby0101/simple_poker
+- **Last update** : Jan 23, 2021 (in barnaby0101), Jun 10 2023 (in MechatronicBeing)
+- **MODIFICATIONS** : by Mechatronic (CC0 licensed too)
+  - in the original, the page crash at start (due to "modules" problem).
+    - replaced "modules" by normal js files 
+      - removed "export " in the scripts/modules/*.mjs files
+      - renamed scripts/modules/cards.mjs to scripts/cards.js
+      - renamed scripts/modules/scoring.mjs to scripts/scoring.js
+      - in scripts/scripts.js :
+        - removed the first lines ("use strict" and the 2 import)
+        - removed " cards." BUT AVOID the first 2 two matchs (it's only for the console message)
+        - removed "scoring."
+    - in index.html
+      - replaced "<script type=module" by type="text/javascript"
+      - renamed the previous ".mjs" to the new path/
+      - moved "scripts" at end on the page
+    - tested index.html : working.
+  - deleted the sound (the shuffle at each "Deal") and the background image.
+    - Note : background image is 7.25 MB (!!), and shuffle.wav is 1 MB.
+    - clean the files in index.html, scripts/scripts.js and css/style.css (see setting, checkbox, background...)
+  - trying some layout changes on css/style.css and index.html

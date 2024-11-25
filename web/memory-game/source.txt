@@ -1,0 +1,26 @@
+- **Title** : Card Game
+- **Description** : Match The Cards is a game that requires player to match similar cards.
+- **Author** : 'imharris24' (Muhammad Harris)
+- **Website** : https://github.com/imharris24
+- **License** : CC0-1.0
+- **Source** : https://github.com/imharris24/Card-Game-JS
+- **Last update** : Dec 26, 2022
+- **Modifications** : 
+  - moved "src.*" files to "root" and removed "src" folder.
+  - Adding a second row of card (before : 1 long row of card...)
+    - modifications are CC0-1.0 licensed, same as original source code
+    - in index.html, replace line 18 (<div>) by these 2 lines
+          <div id="card-grid-top"></div>
+          <div id="card-grid-bottom"></div>
+    - in main.js :
+      - replaced line 55 (let gridDisplay = document.getElementById("card-grid");) by :
+        let gridDisplayTop = document.getElementById("card-grid-top");
+        let gridDisplayBottom = document.getElementById("card-grid-bottom");
+      - replaced line 78 (gridDisplay.append(card);) by
+          if (i < (cardArray.length/2)) {
+            gridDisplayTop.append(card);
+          }else{
+            gridDisplayBottom.append(card);
+          }
+  - disable the annoying alert message at the start of the Game
+    - in main.js, commented the 1st line in the file (alert...)

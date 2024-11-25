@@ -1,0 +1,12 @@
+- **Title** : Simple Mau Mau
+- **Description** : Mau Mau is a simple card game famous in Germany.
+- **Author** : 'beitist' (Sebastian Stüwe)
+- **Website** : https://github.com/beitist
+- **License** : CC0-1.0 + Unclear (card images)
+- **Source** : https://github.com/beitist/simple-mau-mau/
+- **Last update** : Apr 30, 2021
+- **MB-notes** : bugged, especially when SEVEN are played, but looks promising.
+  - also, license for card images are unclear (taken from https://acbl.mybigcommerce.com/52-playing-cards/, "can be used to enhance your marketing materials or website")... need asset replacement with a CC0-1.0 license.
+- **Modifications** : 
+  - none (atm)
+
