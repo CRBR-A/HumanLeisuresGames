@@ -4,7 +4,7 @@
 
 | lead     | Your current lead | Your progress on your lead  |
 | -------- | ----------------- | --------------------------- |
-| none     | None              | -
+| none     | None              | -                           |
 | jackie   | Jackie            | [ ] [ ] [ ] [ ] [ ]         |
 | employer | KB&S              | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |
 | cop      | Officer Dentley   | [ ] [ ] [ ] [ ] [ ] [ ] [ ] |

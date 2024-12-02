@@ -1,0 +1,3 @@
+a 4x4 sudoku can be played with :
+- playing-cards
+- chess pieces (with the 4 rooks, 4 bishops, 4 knights and 4 pawns)
